@@ -1,0 +1,59 @@
+# CLAUDE.md
+
+## 이 프로젝트
+
+한국 기업 인사팀을 위한 데일리 뉴스 브리핑 에이전트. 매일 아침 9시(KST) GitHub Actions가 뉴스를 모아 요약하고, 팀에 메일을 보내고, 결과를 저장소에 커밋한 뒤 GitHub Pages로 배포한다.
+
+사용자는 인사관리실을 총괄하며, 팀원 전체가 읽는 사내 공유용이다. 개발 전담 인력은 없다.
+
+## 원칙
+
+- **DB를 도입하지 않는다.** `content/YYYY-MM-DD.json` 커밋이 곧 아카이브이고 git 히스토리가 곧 버전 관리다. Supabase 등을 제안하지 말 것.
+- **무료 범위를 벗어나지 않는다.** 유료 서비스가 필요한 변경은 먼저 이유를 설명하고 확인받는다.
+- **기사 전문을 저장하거나 표시하지 않는다.** 제목 + 자체 요약 3~4문장 + 원문 링크까지. 저작권 문제라 타협 대상이 아니다.
+- **링크와 제목은 LLM이 만들지 않는다.** `summarize.mjs`는 LLM에게 입력 배열의 인덱스(`id`)만 돌려받고, 제목·URL·매체는 원본에서 매핑한다. 이 구조를 깨지 말 것.
+
+## 구조
+
+```
+scripts/
+  sources.mjs    키워드·RSS 피드·카테고리 설정. 운영자가 제일 자주 건드리는 파일
+  collect.mjs    RSS 수집 → HTML 제거 → 제목/매체 분리 → 토큰 겹침 65% 기준 중복 제거
+  summarize.mjs  LLM 호출(Gemini/Anthropic 전환) → JSON 파싱 → 원본 매핑 → 카테고리 그룹핑
+  email.mjs      nodemailer + Gmail SMTP. 인라인 스타일 HTML, BCC 발송
+  run.mjs        오케스트레이션. KST 날짜 계산, 호수 산정, --dry-run / --no-mail
+
+lib/content.ts   content/*.json 읽기 (빌드 타임, fs 직접 접근)
+app/             Next.js App Router, output: 'export' 정적 빌드
+components/      DateRail(발행 기록 눈금), BriefView(본문), ArchiveList(클라이언트 검색)
+```
+
+## 디자인 시스템
+
+`app/globals.css`의 CSS 변수를 따른다. 새 색이나 폰트를 임의로 추가하지 말 것.
+
+- 종이 `#e9ecef` / 카드 `#ffffff` / 잉크 `#101820` / 보조 `#5a6673` / 괘선 `#c9d0d7` / 강조 `#275b4e`
+- 디스플레이 나눔명조, 본문 Pretendard, 날짜·번호·라벨은 IBM Plex Mono
+- 시그니처는 **날짜 레일** — 최근 90일 눈금, 높이가 그날 기사 수. "차곡차곡 쌓인다"는 게 이 사이트의 요점이다.
+- 모션은 최소. `prefers-reduced-motion` 존중.
+
+## 자주 나올 요청
+
+- 키워드 추가/삭제 → `sources.mjs`의 `KEYWORDS`만 수정
+- 카테고리 변경 → `sources.mjs`의 `CATEGORIES`. `key`는 프롬프트·필터·JSON에 함께 쓰이므로 셋을 같이 확인
+- 발송 시각 변경 → `daily.yml`의 cron. UTC 기준
+- 주간 요약 추가 → 금요일 별도 잡으로 그 주 `content/*.json`을 다시 요약. 새 파이프라인을 만들지 말고 기존 요약기를 재사용
+
+## 검증
+
+변경 후에는 반드시:
+
+```bash
+node --check scripts/*.mjs
+npm run build          # 정적 빌드가 깨지지 않는지
+node --env-file=.env scripts/run.mjs --dry-run   # 파일 저장·메일 없이 파이프라인 확인
+```
+
+## 톤
+
+한국어, 존댓말, 실무자 대상. 설명보다 동작하는 코드를 먼저. 사용자는 AI 보조로 직접 코드를 다루므로 과하게 풀어 설명할 필요 없다.
