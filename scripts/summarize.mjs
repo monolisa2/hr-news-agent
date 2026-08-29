@@ -87,6 +87,12 @@ async function callAnthropic(prompt) {
   return data.content?.filter((b) => b.type === 'text').map((b) => b.text).join('') || '';
 }
 
+// 모델이 문장 끝 마침표 뒤 공백을 빠뜨리는 경우가 잦아 후처리로 고칩니다.
+// 마침표 뒤가 한글일 때만 넣으므로 소수점(4.5)이나 숫자는 건드리지 않습니다.
+function fixSpacing(s = '') {
+  return s.replace(/\.([가-힣])/g, '. $1').trim();
+}
+
 function parseJson(text) {
   const cleaned = text.replace(/```json/gi, '').replace(/```/g, '').trim();
   const start = cleaned.indexOf('{');
@@ -124,8 +130,8 @@ export async function summarize(items, dateLabel) {
         url: src.url,
         publishedAt: src.publishedAt,
         category: CATEGORIES.some((c) => c.key === r.category) ? r.category : fallbackCategory,
-        summary: r.summary || '',
-        impact: r.impact || '',
+        summary: fixSpacing(r.summary || ''),
+        impact: fixSpacing(r.impact || ''),
       };
     })
     .filter(Boolean)
@@ -139,8 +145,8 @@ export async function summarize(items, dateLabel) {
 
   console.log(`요약 완료: ${enriched.length}건 선별`);
   return {
-    headline: parsed.headline || 'HR 데일리 브리핑',
-    lede: parsed.lede || '',
+    headline: fixSpacing(parsed.headline || 'HR 데일리 브리핑'),
+    lede: fixSpacing(parsed.lede || ''),
     categories,
   };
 }
