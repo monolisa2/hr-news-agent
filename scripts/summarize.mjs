@@ -1,7 +1,7 @@
 import { CATEGORIES, MAX_ITEMS } from './sources.mjs';
 
 const PROVIDER = (process.env.LLM_PROVIDER || 'gemini').toLowerCase();
-const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-2.5-flash';
+const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-3.6-flash';
 const ANTHROPIC_MODEL = process.env.ANTHROPIC_MODEL || 'claude-sonnet-4-5';
 
 function buildPrompt(items, dateLabel) {

@@ -90,9 +90,9 @@ Variables: `SITE_URL` = `https://<아이디>.github.io/hr-news-agent/`
 
 **GitHub 크론은 5~20분 늦게 뜹니다.** 9시 정각이 중요하면 `daily.yml`의 cron을 `0 23 * * 0-4`(KST 08:00)로 당기세요.
 
-**정부 보도자료 RSS 주소는 사이트 개편 때 바뀝니다.** 첫 실행 로그에 `! 수집 실패` 줄이 뜨면 `sources.mjs`의 `FEEDS`에서 해당 항목만 지우면 됩니다. 구글뉴스 쪽은 키 없이 돌아서 안정적입니다.
+**정부 보도자료 피드는 2026-08-30 기준 둘 다 죽어서 비워뒀습니다.** 고용노동부 `enewsList.do?rssYn=Y` 는 RSS 대신 HTML 을 반환하고, `korea.kr/rss/dept_moel.xml` 은 404 입니다. 새 주소를 찾으면 `sources.mjs` 의 `FEEDS` 에 다시 넣으세요. 지금은 구글뉴스만으로 돌아가며, 키워드 14개로 하루 60건 안팎이 걷힙니다.
 
-**Gemini 모델명이 바뀔 수 있습니다.** 기본값 `gemini-2.5-flash`. 요약 단계에서 404가 나면 Variables에 `GEMINI_MODEL`을 추가해 교체하세요.
+**Gemini 모델명이 바뀝니다.** 기본값을 `gemini-3.6-flash` 로 잡아뒀습니다. `gemini-2.5-flash` 는 신규 API 키에서 이미 폐쇄되어 404 가 납니다(2026-08-30 확인). 요약 단계에서 404 가 나면 Variables 에 `GEMINI_MODEL` 을 추가해 교체하세요.
 
 **60일간 커밋이 없으면 GitHub이 크론을 멈춥니다.** 이 워크플로는 매일 커밋을 만들어서 자동 유지되지만, 실패가 오래 이어졌다면 수동 실행으로 되살려야 합니다.
 

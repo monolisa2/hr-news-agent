@@ -22,14 +22,10 @@ export const KEYWORDS = [
 // 원문 소스(보도자료 등). RSS 주소는 기관 사이트 개편 시 바뀔 수 있으니
 // 실패 로그가 계속 뜨면 해당 항목을 지우거나 새 주소로 교체하세요.
 export const FEEDS = [
-  {
-    name: '고용노동부 보도자료',
-    url: 'https://www.moel.go.kr/news/enews/report/enewsList.do?rssYn=Y',
-  },
-  {
-    name: '대한민국 정책브리핑',
-    url: 'https://www.korea.kr/rss/dept_moel.xml',
-  },
+  // 2026-08-30 확인: 아래 두 곳 모두 RSS 가 사라져 비웠습니다.
+  //   고용노동부 enewsList.do?rssYn=Y → RSS 가 아니라 HTML 페이지를 반환
+  //   korea.kr /rss/dept_moel.xml     → 404
+  // 새 주소를 찾으면 { name, url } 형태로 다시 넣으면 됩니다.
 ];
 
 // 브리핑에 실을 최대 기사 수
