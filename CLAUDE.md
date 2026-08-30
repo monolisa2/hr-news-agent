@@ -33,7 +33,9 @@ components/      DateRail(발행 기록 눈금), BriefView(본문), ArchiveList(
 `app/globals.css`의 CSS 변수를 따른다. 새 색이나 폰트를 임의로 추가하지 말 것.
 
 - 종이 `#e9ecef` / 카드 `#ffffff` / 잉크 `#101820` / 보조 `#5a6673` / 괘선 `#c9d0d7` / 강조 `#275b4e`
-- 디스플레이 나눔명조, 본문 Pretendard, 날짜·번호·라벨은 IBM Plex Mono
+- 디스플레이 나눔명조, 본문 Noto Sans KR, 날짜·번호·라벨은 IBM Plex Mono
+- **메일에는 웹폰트가 적용되지 않는다.** 메일 클라이언트가 외부 폰트를 차단하므로
+  `email.mjs`의 폰트 목록은 수신자 PC에 설치된 폰트로만 떨어진다. 여기에 시간 쓰지 말 것.
 - 시그니처는 **날짜 레일** — 최근 90일 눈금, 높이가 그날 기사 수. "차곡차곡 쌓인다"는 게 이 사이트의 요점이다.
 - 모션은 최소. `prefers-reduced-motion` 존중.
 

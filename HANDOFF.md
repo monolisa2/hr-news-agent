@@ -11,7 +11,7 @@
 사용자는 인사관리실 총괄. 개발 전담 인력 없이 AI 보조로 직접 코드를 다룹니다. 팀원 전체가 읽는 사내 공유용이고, 회사 업무용이지만 사이트 자체는 공개 뉴스 요약이라 비상업·공개로 운영합니다.
 
 ```
-GitHub Actions (평일 09:00 KST)
+GitHub Actions (평일 10:00 KST, 월요일은 주말 3일치)
   ├─ 구글뉴스 RSS + 정부 보도자료 수집 → 중복 제거
   ├─ LLM 요약·분류 (Gemini 무료 티어)
   ├─ Gmail SMTP로 팀원에게 BCC 발송
@@ -52,7 +52,7 @@ scripts/
 lib/content.ts   content/*.json 읽기 (빌드 타임 fs 직접 접근)
 app/             Next.js App Router, output: 'export' 정적 빌드
 components/      DateRail(발행 기록 눈금), BriefView(본문), ArchiveList(클라이언트 검색)
-.github/workflows/daily.yml   cron '0 0 * * 1-5' = 평일 KST 09:00
+.github/workflows/daily.yml   cron '0 1 * * 1-5' = 평일 KST 10:00
 package-lock.json             npm ci 가 이 파일을 요구합니다. 반드시 커밋되어야 합니다
 ```
 
@@ -88,7 +88,7 @@ Variables: `SITE_URL` = `https://<아이디>.github.io/hr-news-agent/`
 
 ## 5. 알려진 주의점
 
-**GitHub 크론은 5~20분 늦게 뜹니다.** 9시 정각이 중요하면 `daily.yml`의 cron을 `0 23 * * 0-4`(KST 08:00)로 당기세요.
+**GitHub 크론은 5~20분 늦게 뜹니다.** 10시 정각이 중요하면 `daily.yml`의 cron 을 `0 0 * * 1-5`(KST 09:00)로 당기세요. 월요일은 run.mjs 가 자동으로 3일치를 수집하므로 주말 뉴스가 빠지지 않습니다.
 
 **정부 보도자료 피드는 2026-08-30 기준 둘 다 죽어서 비워뒀습니다.** 고용노동부 `enewsList.do?rssYn=Y` 는 RSS 대신 HTML 을 반환하고, `korea.kr/rss/dept_moel.xml` 은 404 입니다. 새 주소를 찾으면 `sources.mjs` 의 `FEEDS` 에 다시 넣으세요. 지금은 구글뉴스만으로 돌아가며, 키워드 14개로 하루 60건 안팎이 걷힙니다.
 
@@ -107,7 +107,7 @@ Variables: `SITE_URL` = `https://<아이디>.github.io/hr-news-agent/`
 `app/globals.css`의 CSS 변수를 따릅니다. 새 색이나 폰트를 임의로 추가하지 마세요.
 
 - 종이 `#e9ecef` / 카드 `#ffffff` / 잉크 `#101820` / 보조 `#5a6673` / 괘선 `#c9d0d7` / 강조 `#275b4e`
-- 디스플레이 나눔명조, 본문 Pretendard, 날짜·번호·라벨은 IBM Plex Mono
+- 디스플레이 나눔명조, 본문 Noto Sans KR, 날짜·번호·라벨은 IBM Plex Mono
 - 시그니처는 **날짜 레일** — 최근 90일 눈금, 높이가 그날 기사 수. "차곡차곡 쌓인다"는 게 이 사이트의 요점입니다.
 - 모션 최소, `prefers-reduced-motion` 존중
 
