@@ -2,8 +2,9 @@ name: Daily HR Brief
 
 on:
   schedule:
-    # 00:00 UTC = 09:00 KST. GitHub 부하 상황에 따라 5~20분 늦게 시작될 수 있습니다.
-    - cron: '0 0 * * 1-5'
+    # 01:00 UTC = 10:00 KST, 월~금. GitHub 부하 상황에 따라 5~20분 늦게 시작될 수 있습니다.
+    # 주말은 돌지 않습니다. 월요일 브리핑이 주말치(3일)를 함께 다룹니다 — run.mjs 참고.
+    - cron: '0 1 * * 1-5'
   workflow_dispatch:
     inputs:
       send_mail:
@@ -50,7 +51,13 @@ jobs:
             npm run brief
           fi
 
+      # 아래 네 단계는 앞 단계가 실패해도 실행합니다.
+      # 메일 발송이 실패하면 run.mjs 가 exit 1 로 죽는데, 그때도 브리핑은 이미
+      # content/ 에 저장된 상태입니다. 여기서 멈추면 그날 기록이 아카이브에도
+      # 안 남고 사이트도 갱신되지 않습니다. 저장과 배포는 메일과 무관하게 끝냅니다.
+      # 실패 자체는 워크플로가 빨간 X 로 끝나므로 놓치지 않습니다.
       - name: 결과 커밋
+        if: ${{ !cancelled() }}
         run: |
           git config user.name  "hr-news-agent"
           git config user.email "actions@github.com"
@@ -63,17 +70,22 @@ jobs:
           fi
 
       - name: 사이트 빌드
+        if: ${{ !cancelled() }}
         env:
           NEXT_PUBLIC_BASE_PATH: /${{ github.event.repository.name }}
         run: npm run build
 
       - uses: actions/configure-pages@v5
+        if: ${{ !cancelled() }}
       - uses: actions/upload-pages-artifact@v3
+        if: ${{ !cancelled() }}
         with:
           path: ./out
 
   deploy:
     needs: brief
+    # brief 잡이 메일 실패로 빨간불이어도 사이트는 배포합니다.
+    if: ${{ !cancelled() }}
     runs-on: ubuntu-latest
     environment:
       name: github-pages

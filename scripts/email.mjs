@@ -24,11 +24,11 @@ function renderHtml(brief, { date, issue, siteUrl }) {
           return `
           <tr><td style="padding:0 0 26px 0;">
             <div style="font:600 11px/1 ui-monospace,Menlo,Consolas,monospace;letter-spacing:.12em;color:${C.soft};padding-bottom:6px;">${num} · ${esc(it.source)}</div>
-            <a href="${esc(it.url)}" style="font:700 17px/1.45 -apple-system,'Malgun Gothic',sans-serif;color:${C.ink};text-decoration:none;">${esc(it.title)}</a>
-            <div style="font:400 14px/1.75 -apple-system,'Malgun Gothic',sans-serif;color:${C.soft};padding-top:8px;">${esc(it.summary)}</div>
+            <a href="${esc(it.url)}" style="font:700 17px/1.45 'Noto Sans KR',-apple-system,'Malgun Gothic',sans-serif;color:${C.ink};text-decoration:none;">${esc(it.title)}</a>
+            <div style="font:400 14px/1.75 'Noto Sans KR',-apple-system,'Malgun Gothic',sans-serif;color:${C.soft};padding-top:8px;">${esc(it.summary)}</div>
             ${
               it.impact
-                ? `<div style="margin-top:10px;padding:9px 0 9px 12px;border-left:2px solid ${C.accent};font:500 13px/1.6 -apple-system,'Malgun Gothic',sans-serif;color:${C.accent};">${esc(it.impact)}</div>`
+                ? `<div style="margin-top:10px;padding:9px 0 9px 12px;border-left:2px solid ${C.accent};font:500 13px/1.6 'Noto Sans KR',-apple-system,'Malgun Gothic',sans-serif;color:${C.accent};">${esc(it.impact)}</div>`
                 : ''
             }
           </td></tr>`;
@@ -36,7 +36,7 @@ function renderHtml(brief, { date, issue, siteUrl }) {
         .join('');
       return `
       <tr><td style="padding:0 0 8px 0;">
-        <div style="font:700 11px/1 -apple-system,'Malgun Gothic',sans-serif;letter-spacing:.18em;color:${C.accent};border-bottom:1px solid ${C.rule};padding:22px 0 10px;margin-bottom:20px;">${esc(cat.name)}</div>
+        <div style="font:700 11px/1 'Noto Sans KR',-apple-system,'Malgun Gothic',sans-serif;letter-spacing:.18em;color:${C.accent};border-bottom:1px solid ${C.rule};padding:22px 0 10px;margin-bottom:20px;">${esc(cat.name)}</div>
       </td></tr>
       ${items}`;
     })
@@ -47,23 +47,25 @@ function renderHtml(brief, { date, issue, siteUrl }) {
 <tr><td style="padding:34px 34px 0;">
   <div style="font:700 10px/1 ui-monospace,Menlo,Consolas,monospace;letter-spacing:.22em;color:${C.soft};">제 ${issue}호 · ${date}</div>
   <div style="font:400 30px/1.3 'Nanum Myeongjo',Batang,serif;color:${C.ink};padding:12px 0 0;">인사 브리핑</div>
-  <div style="font:600 17px/1.55 -apple-system,'Malgun Gothic',sans-serif;color:${C.accent};padding:18px 0 0;">${esc(brief.headline)}</div>
-  <div style="font:400 14px/1.8 -apple-system,'Malgun Gothic',sans-serif;color:${C.soft};padding:10px 0 0;">${esc(brief.lede)}</div>
+  <div style="font:600 17px/1.55 'Noto Sans KR',-apple-system,'Malgun Gothic',sans-serif;color:${C.accent};padding:18px 0 0;">${esc(brief.headline)}</div>
+  <div style="font:400 14px/1.8 'Noto Sans KR',-apple-system,'Malgun Gothic',sans-serif;color:${C.soft};padding:10px 0 0;">${esc(brief.lede)}</div>
 </td></tr>
-<tr><td style="padding:6px 34px 10px;">
-  <table role="presentation" width="100%" cellpadding="0" cellspacing="0">${sections}</table>
-</td></tr>
-<tr><td style="padding:0 34px 30px;border-top:1px solid ${C.rule};">
-  <div style="font:400 12px/1.7 -apple-system,'Malgun Gothic',sans-serif;color:${C.soft};padding-top:16px;">
+<tr><td style="padding:20px 34px 0;">
+  <div style="font:400 12px/1.7 'Noto Sans KR',-apple-system,'Malgun Gothic',sans-serif;color:${C.soft};background:${C.paper};border-left:2px solid ${C.rule};padding:12px 14px;">
     지난 브리핑 전체는 <a href="${esc(siteUrl)}" style="color:${C.accent};">아카이브</a>에서 볼 수 있습니다.<br>
     본문은 공개 기사 제목과 링크를 바탕으로 자동 요약한 것입니다. 정확한 내용은 원문을 확인하세요.
   </div>
+</td></tr>
+<tr><td style="padding:6px 34px 30px;">
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0">${sections}</table>
 </td></tr>
 </table></body></html>`;
 }
 
 function renderText(brief, { date, issue, siteUrl }) {
   let out = `인사 브리핑 제 ${issue}호 · ${date}\n${brief.headline}\n\n${brief.lede}\n`;
+  out += `\n지난 브리핑 전체는 아카이브에서 볼 수 있습니다: ${siteUrl}\n`;
+  out += `본문은 공개 기사 제목과 링크를 바탕으로 자동 요약한 것입니다. 정확한 내용은 원문을 확인하세요.\n`;
   let n = 0;
   for (const cat of brief.categories) {
     out += `\n[${cat.name}]\n`;
@@ -74,7 +76,6 @@ function renderText(brief, { date, issue, siteUrl }) {
       out += `${it.url}\n`;
     }
   }
-  out += `\n아카이브: ${siteUrl}\n`;
   return out;
 }
 

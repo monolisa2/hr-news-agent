@@ -13,6 +13,15 @@ function kstToday() {
   return new Intl.DateTimeFormat('sv-SE', { timeZone: 'Asia/Seoul' }).format(new Date());
 }
 
+// KST 기준 요일 (0=일 … 1=월 … 6=토)
+function kstWeekday() {
+  const s = new Intl.DateTimeFormat('en-US', {
+    timeZone: 'Asia/Seoul',
+    weekday: 'short',
+  }).format(new Date());
+  return ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'].indexOf(s);
+}
+
 function kstLabel(iso) {
   const [y, m, d] = iso.split('-');
   const weekday = new Intl.DateTimeFormat('ko-KR', {
@@ -34,10 +43,17 @@ async function main() {
     .filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f));
   const issue = existing.filter((f) => f !== `${date}.json`).length + 1;
 
-  let items = await collect({ window: '1d' });
+  // 평일 10시 발송 기준으로, 월요일은 금요일 발송 이후 사흘(주말 포함)을 봅니다.
+  // 나머지 요일은 전날 발송 이후 하루치입니다.
+  const monday = kstWeekday() === 1;
+  const base = monday ? '3d' : '1d';
+  if (monday) console.log('월요일이라 주말을 포함해 3일치를 수집합니다.');
+
+  let items = await collect({ window: base });
   if (items.length < 8) {
-    console.log('기사가 적어 수집 범위를 2일로 넓힙니다.');
-    items = await collect({ window: '2d' });
+    const wider = monday ? '5d' : '2d';
+    console.log(`기사가 적어 수집 범위를 ${wider} 로 넓힙니다.`);
+    items = await collect({ window: wider });
   }
   if (items.length === 0) {
     console.log('수집된 기사가 없어 종료합니다.');
