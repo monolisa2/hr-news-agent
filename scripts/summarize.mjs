@@ -63,7 +63,10 @@ async function callGemini(prompt) {
         contents: [{ role: 'user', parts: [{ text: prompt }] }],
         generationConfig: {
           temperature: 0.3,
-          maxOutputTokens: 8192,
+          // Gemini 3.x 는 답하기 전 내부 사고(thoughts) 토큰이 이 한도를 같이 소모합니다.
+          // 8192 로는 후보가 많은 날(월요일 3일치) 사고에 다 쓰고 JSON 이 잘렸습니다.
+          // 2026-08-31 실행이 실제로 이렇게 죽었습니다. 줄이지 마세요.
+          maxOutputTokens: 32768,
           responseMimeType: 'application/json',
         },
       }),
@@ -110,16 +113,38 @@ function parseJson(text) {
   return JSON.parse(cleaned.slice(start, end + 1));
 }
 
+// LLM 에 보내는 후보 수 상한. 월요일 3일치는 160건이 넘게 걷히는데,
+// 후보가 많을수록 모델의 내부 사고가 길어져 응답이 잘릴 위험이 커집니다.
+// collect 가 최신순으로 정렬해 주므로 앞에서 자르면 최신 기사가 남습니다.
+const MAX_CANDIDATES = 120;
+
 export async function summarize(items, dateLabel) {
   if (items.length === 0) {
     return { headline: '수집된 기사가 없습니다', lede: '', categories: [] };
   }
 
-  const prompt = buildPrompt(items, dateLabel);
-  console.log(`요약 시작 (${PROVIDER}, 후보 ${items.length}건)`);
+  // 이 아래로는 반드시 pool 만 씁니다. LLM 이 돌려주는 id 가 pool 의
+  // 인덱스이므로, 원본 items 와 섞이면 링크가 어긋납니다.
+  const pool = items.slice(0, MAX_CANDIDATES);
+  if (items.length > pool.length) {
+    console.log(`후보가 많아 최신 ${pool.length}건만 요약 대상으로 삼습니다 (수집 ${items.length}건).`);
+  }
 
-  const raw = PROVIDER === 'anthropic' ? await callAnthropic(prompt) : await callGemini(prompt);
-  const parsed = parseJson(raw);
+  const prompt = buildPrompt(pool, dateLabel);
+  console.log(`요약 시작 (${PROVIDER}, 후보 ${pool.length}건)`);
+
+  // 응답이 잘리거나 형식이 깨지는 날이 있어 한 번은 다시 시도합니다.
+  let parsed;
+  for (let attempt = 1; ; attempt++) {
+    const raw = PROVIDER === 'anthropic' ? await callAnthropic(prompt) : await callGemini(prompt);
+    try {
+      parsed = parseJson(raw);
+      break;
+    } catch (err) {
+      if (attempt >= 2) throw err;
+      console.warn(`  ! 응답 파싱 실패(${err.message}) — 다시 시도합니다.`);
+    }
+  }
 
   // LLM이 만든 건 요약/분류뿐. 제목·링크·매체는 원본에서만 가져옵니다.
   // 분류 실패 시 마지막 카테고리로 보냅니다. 키를 하드코딩하면 CATEGORIES 변경 때 기사가 조용히 사라집니다.
@@ -128,7 +153,7 @@ export async function summarize(items, dateLabel) {
 
   const enriched = (parsed.items || [])
     .map((r) => {
-      const src = items[r.id];
+      const src = pool[r.id];
       if (!src) return null;
       // LLM이 같은 기사를 두 번 고르는 경우가 있어 한 번만 싣습니다.
       if (seenUrls.has(src.url)) return null;

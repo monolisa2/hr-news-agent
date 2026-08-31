@@ -13,13 +13,13 @@ function kstToday() {
   return new Intl.DateTimeFormat('sv-SE', { timeZone: 'Asia/Seoul' }).format(new Date());
 }
 
-// KST 기준 요일 (0=일 … 1=월 … 6=토)
-function kstWeekday() {
-  const s = new Intl.DateTimeFormat('en-US', {
-    timeZone: 'Asia/Seoul',
-    weekday: 'short',
-  }).format(new Date());
-  return ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'].indexOf(s);
+// 마지막 발행일 이후 며칠 지났는지로 수집 폭을 정합니다 (1~5일).
+// 월요일이면 금요일 발행으로부터 3일 → 주말이 자연히 포함되고,
+// 어느 날 실행이 실패해도 다음 날 자동으로 빈 기간을 메웁니다.
+// 2026-08-31 실행이 실패해 하루가 비었을 때 요일 판정 대신 이 방식으로 바꿨습니다.
+function daysSince(latestIso, todayIso) {
+  const diff = (new Date(`${todayIso}T00:00:00Z`) - new Date(`${latestIso}T00:00:00Z`)) / 86400000;
+  return Math.min(5, Math.max(1, Math.round(diff)));
 }
 
 function kstLabel(iso) {
@@ -43,17 +43,17 @@ async function main() {
     .filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f));
   const issue = existing.filter((f) => f !== `${date}.json`).length + 1;
 
-  // 평일 10시 발송 기준으로, 월요일은 금요일 발송 이후 사흘(주말 포함)을 봅니다.
-  // 나머지 요일은 전날 발송 이후 하루치입니다.
-  const monday = kstWeekday() === 1;
-  const base = monday ? '3d' : '1d';
-  if (monday) console.log('월요일이라 주말을 포함해 3일치를 수집합니다.');
+  const latest = existing.filter((f) => f !== `${date}.json`).sort().at(-1);
+  const days = latest ? daysSince(latest.replace('.json', ''), date) : 1;
+  if (days > 1) {
+    console.log(`마지막 발행(${latest ? latest.replace('.json', '') : '-'}) 이후 ${days}일이 지나 ${days}일치를 수집합니다.`);
+  }
 
-  let items = await collect({ window: base });
+  let items = await collect({ window: `${days}d` });
   if (items.length < 8) {
-    const wider = monday ? '5d' : '2d';
-    console.log(`기사가 적어 수집 범위를 ${wider} 로 넓힙니다.`);
-    items = await collect({ window: wider });
+    const wider = Math.min(days + 2, 7);
+    console.log(`기사가 적어 수집 범위를 ${wider}일로 넓힙니다.`);
+    items = await collect({ window: `${wider}d` });
   }
   if (items.length === 0) {
     console.log('수집된 기사가 없어 종료합니다.');
