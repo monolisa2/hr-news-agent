@@ -1,0 +1,166 @@
+{
+  "date": "2026-09-01",
+  "label": "2026년 9월 1일 (화)",
+  "issue": 2,
+  "generatedAt": "2026-09-01T01:13:09.041Z",
+  "headline": "AI 인재 확보전 과열 속 근로시간·노무 리스크 대비 필요",
+  "lede": "주요 기업들이 AI 및 테크 인재 확보를 위한 대규모 채용에 집중하는 한편, 해외 인력 위장 취업 및 근태 관리 등 노무 리스크도 동시에 확대되고 있습니다. 원청 사용자성 인정과 직장 내 괴롭힘 판례 등 노무 이슈를 선제적으로 점검해 인사 관리의 정당성을 확보할 필요가 있습니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "한국 포함 11개국 공동경보...북한 위장취업, IT 넘어 의료·영업까지 확산",
+          "source": "데일리시큐",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBMmJiLTZPdU0wU0NieFhyMXlZU0dfS2JSWFFyV3NZRnpWalJob0VRdG5vRVcyTjRGZDJnT3ppaDVjN3lURW9vNkdOTlVBZVdQZnVSNEFMcThZd2VGNjB5VV8xd191bVIwRzA0dQ?oc=5",
+          "publishedAt": "2026-08-31T23:04:58.000Z",
+          "category": "law",
+          "summary": "한국을 포함한 11개국 정부가 북한 신분 위장 IT 인력의 위장 취업 위험성에 대한 공동 경보를 발령했습니다. 기존 IT 기술 분야에 집중되던 북한 인력의 위장 침투 사례가 최근 의료 및 영업 직군까지 확대되는 양상을 보이고 있습니다. 다국적 기업과 IT 업계를 중심으로 채용 단계에서의 신원 검증 강화 필요성이 제기되고 있습니다.",
+          "impact": "IT 및 영업 직군 신규 채용 시 본인 인증 및 신원 검증 절차에 허점이 없는지 점검해야 합니다."
+        },
+        {
+          "title": "포스코 노조 “주 52시간 위반 정황”...특별근로감독 촉구",
+          "source": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE92bm5qVXdUR3J0b3lWcTFTUExIanBuY3Q0Qjg3OWlLOEUzMHN0Z3lKVHBiRDFzUlFwRTBtbTBENnRjbUNtdXpnLXpwYjJjZkk?oc=5",
+          "publishedAt": "2026-08-31T13:31:25.000Z",
+          "category": "law",
+          "summary": "포스코 노동조합이 사측의 주 52시간 근무제 위반 및 불법 초과근로 정황을 지적하며 고용노동부에 특별근로감독을 신청했습니다. 노조 측은 공식 근태 기록과 실제 근무 시간이 일치하지 않는 사례를 고발 조치했습니다. 사측은 근로기준법을 준수하고 있다는 입장이지만 근태 관리 체계의 투명성이 도마 위에 올랐습니다.",
+          "impact": "미기록 연장근로나 꺾기 근무 등 근태 관리 시스템상 누수가 없는지 현장 실태를 점검해야 합니다."
+        },
+        {
+          "title": "수습 급여 최저임금 감액은 첫 3개월만",
+          "source": "비건뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yR3RKTGZkSWJ6NmZUQ3hWM096NlUtaktXUndEbHBKRkYyQ2FDUFZHczN0WmdJTE5PdmJjb3NBNWJ4ODBEYV9qdW50TDhTRWhEOFFVRE5HNzUzQndpUXo2TExYano2UQ?oc=5",
+          "publishedAt": "2026-08-31T07:02:35.000Z",
+          "category": "law",
+          "summary": "수습 근로자에 대한 최저임금 감액 적용은 입사 후 첫 3개월 동안만 법적으로 허용됩니다. 1년 이상 계약을 체결한 수습 근로자라 할지라도 3개월을 초과한 기간에는 최저임금의 100% 이상을 지급해야 합니다. 단순 노무직이거나 계약 기간이 1년 미만인 경우에는 수습 기간이라도 감액 적용이 불가능합니다.",
+          "impact": "수습 기간 설정 기준과 기한별 급여 계산 로직이 최저임금법 기준에 부합하는지 재확인해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "case",
+      "name": "판례·노동위",
+      "items": [
+        {
+          "title": "중노위, 현대차 원청 사용자성 재확인…산업안전도 교섭 대상",
+          "source": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yNUFqaUh5QXN0RXNCcmVNUW9WMGpFVzE1QjNKdXY4WUJqWHVkSG5vS0E4ak9ZR2h1OTN5ZEMydG9zRVBxYUthSU9xTUZqUGFHR1BhLURmMWc1MWZUZGtjNFR1Z1JmVEoz0gFoQVVfeXFMTjI1QWppSHlBc3RFc0JyZU1Rb1YwakVXMTVCM0p1djhZQmpYdWRIbm9LQThqT1lHaHU5M3lkQzJ0b3NFUHFhS2FJT3FNRmpQYUdHUGEtRGYxZzUxZlRka2M0VHVnUmZUSjM?oc=5",
+          "publishedAt": "2026-08-31T21:21:07.000Z",
+          "category": "case",
+          "summary": "중앙노동위원회가 현대자동차에 대해 하청 노동자와의 단체교섭 의무가 있는 원청 사용자성을 재확인하는 결정을 내렸습니다. 이번 재심 결정에서는 하청 업체의 근로조건뿐만 아니라 산업안전 관련 항목까지 단체교섭 대상 의제에 새롭게 포함되었습니다. 원청 기업의 실질적 지배력에 따른 노사 교섭 책임 범위가 한층 더 확대되고 있습니다.",
+          "impact": "외주 및 협력업체 인력이 상주하는 경우 작업 환경의 산업안전 의무 범위와 노무 리스크를 사전 검토할 필요가 있습니다. (추측)"
+        },
+        {
+          "title": "‘민들레’ 계약직 피디, 지노위서 근로자성·부당해고 인정됐다",
+          "source": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jZ09MWFFNTktCZVRDMmo2NHNCTWJMNzhJQnU5UzQwNFd4VUIxalBFZ0I2bGlYTUdFbFBBMGljN2tKYjUzZmNMRG9QVDZqeURvcmFGRDlLSThwbXhWdGxHa1RPbVM?oc=5",
+          "publishedAt": "2026-08-31T08:17:00.000Z",
+          "category": "case",
+          "summary": "지방노동위원회가 언론 매체 '민들레'의 계약직 PD에 대해 근로자성을 인정하고 사측의 계약 해지를 부당해고로 판정했습니다. 용역 또는 계약직 형태라 하더라도 실질적인 업무 지시와 종속 관계가 존재한다면 근로기준법상 근로자로 보아야 한다는 취지입니다. 프리랜서나 계약직 인력 운용이 많은 업계에 법적 주의가 요구됩니다.",
+          "impact": "계약직·프리랜서 인력의 업무 지시 방식과 계약 구조를 재점검하여 위장 프리랜서 리스크를 차단해야 합니다."
+        },
+        {
+          "title": "[박선영의 판례 속 괴롭힘] 직장 내 고립과 괴롭힘 - 매일 출근하지만, 할 일이 없다",
+          "source": "여성신문",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11TUJYQ0ZCSHItLW5MYWxHeXZmUjhuMXktajg5UG9sQ3F6eTFvbzUwakJ3R082QWY2aGFZYXE4YjJoWklSNHBsLVlReXBub3BDMnRWaG1wbWc2azNvWW1zel85eE9JbmQ0aEpJRWp5dUszMU3SAXNBVV95cUxNdU1CWENGQkhyLS1uTGFsR3l2ZlI4bjF5LWo4OVBvbENxenkxb281MGpCd0dPNkFmNmhhWWFxOGIyaFpJUjRwbC1ZUXlwbm9wQzJ0VmhtcG1nNmszb1ltc3pfOXhPSW5kNGhKSUVqeXVLMzFN?oc=5",
+          "publishedAt": "2026-08-31T06:43:28.000Z",
+          "category": "case",
+          "summary": "정당한 이유 없이 직원에게 정규 업무를 부여하지 않고 의도적으로 고립시키는 행위도 직장 내 괴롭힘에 해당한다는 판례가 공유되었습니다. 출근 후 일거리를 전혀 주지 않거나 부서 내에서 외면하는 형태의 조직적 배제는 근로자의 정신적 고통을 유발하는 위법 행위로 평가됩니다. 직무 부여와 평가 과정에서의 공정성 확보가 중요해지고 있습니다.",
+          "impact": "조직 개편이나 대기 발령 시 업무 미부여 상태가 장기화되어 괴롭힘 논란으로 이어지지 않도록 관리해야 합니다."
+        },
+        {
+          "title": "[워킹맘산책] 직장 내 괴롭힘 신고 후 받은 징계, 정당하다?",
+          "source": "베이비타임즈",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45bTdpQzZYbTBWTnJfUFlUT19oVXVZWWVRcmJFV3VVNDBNLTVuU1dmMW13ekpuc0ZuN3V5ZDJ3NjVPWWJvTEw0SzZMZUhxZ3daQkdpa1dvRnJic203dTE2MkFSX1NRQko4ZlB6V3BR?oc=5",
+          "publishedAt": "2026-08-31T01:41:50.000Z",
+          "category": "case",
+          "summary": "직장 내 괴롭힘을 신고한 근로자에 대한 사후 징계 조치의 정당성 유무가 노동 법률 이슈로 다루어졌습니다. 근로기준법상 괴롭힘 피해 신고를 이유로 불리한 처우나 불이익 징계를 내리는 것은 법적으로 엄격히 금지됩니다. 신고 건과 별개의 사유로 징계할 때도 보복성 처우가 아님을 인과관계로 입증해야 합니다.",
+          "impact": "괴롭힘 신고인 및 피해자에 대한 인사 조치 시 보복성 불이익으로 오인받지 않도록 절차적 정당성을 철저히 확보해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "제논, AI 엔지니어 중심 50명 대규모 채용…전 직군 인재 확보",
+          "source": "헬로티",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mVFNXcG5wdFFvN1U3dHVBRFJDVjh1YVJMUDNPLUNqbHdNVE5WRVNON3BVVkdiOF84d2EtT3ZnWGgtWTRJb3JId0Fpc21kNE1mSEdHMXhyTjZOeWo1enlz?oc=5",
+          "publishedAt": "2026-09-01T00:15:02.000Z",
+          "category": "market",
+          "summary": "기술 기업 제논이 AI 엔지니어를 주축으로 총 17개 직무에서 50명 규모의 대규모 공개 채용을 진행합니다. 인공지능 기술 역량을 강화하고 전 직군에 걸친 전문 인재를 선제적으로 확보하기 위한 차원입니다. 테크 업계 내 AI 핵심 개발 인력 유치 경쟁이 가열되고 있음을 보여줍니다.",
+          "impact": "동종 테크 기업의 AI 엔지니어 채용 조건과 보상 수준을 처우 설계 시 모니터링할 필요가 있습니다. (추측)"
+        },
+        {
+          "title": "LG전자 류재철 CEO, 샌프란시스코서 '북미 테크 콘퍼런스' 직접 지휘",
+          "source": "ttlnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiemI1c0NHakNTS3JNWV84UG9nWi1sMnlabmkyYWxMVXgzNU5qNGxfcWNmT3gwRm1vMmNxVzNPMk9PNzZnX3Z5R2hjTGRsaTM4VnhTZDZ2Zjh3Snp6Y2ZPYUwwdTdpYjBIX3c?oc=5",
+          "publishedAt": "2026-08-31T08:02:46.000Z",
+          "category": "market",
+          "summary": "LG전자가 미국 샌프란시스코에서 해외 우수 R&D 인재 유치를 위한 '북미 테크 콘퍼런스'를 개최하고 CEO가 직접 현장을 지휘했습니다. 주요 대기업들은 글로벌 석·박사급 AI 및 테크 인재를 확보하기 위해 해외 현지 리크루팅 활동을 대폭 강화하고 있습니다. 글로벌 기술 인재 선점을 위한 최고경영진 차원의 채용 행보가 이어집니다.",
+          "impact": "고급 기술 인재 유치를 위해 해외 채용 파이프라인 구축 및 브랜드 리크루팅 강화를 검토해 볼 수 있습니다. (추측)"
+        },
+        {
+          "title": "'AI 인재 확보' 총력전 나선 국내 기업들",
+          "source": "중소기업신문",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRMGFRVnlXYUtidWdCV2VIcUtoWUZBWTk1S1owZjV0MVlmMDlNZFFGN29QWVNBbzEzZ2U0OEFTU3RPc1FuenNyR3o1VWFJNzZXZnlvelUyNWJZeXZjTUstMUdnbWdQcDhKQmF4bTV3?oc=5",
+          "publishedAt": "2026-08-31T03:15:34.000Z",
+          "category": "market",
+          "summary": "국내 주요 대기업 및 IT 기업들이 하반기 채용 시즌을 맞아 AI 전문 인재 확보에 총력전을 펼치고 있습니다. 단순 공개 채용을 넘어 AI 전공자 우대, 전용 채용 트랙 신설 등 영입 전략을 다변화하는 분위기입니다. AX(인공지능 전환) 가속화에 따라 기술 인력 수급이 기업 생존의 핵심 요소로 부각되고 있습니다.",
+          "impact": "AI 인력 이탈 방지 및 유치를 위해 경쟁사 대비 차별화된 영입 제안과 성장 환경을 준비해야 합니다. (추측)"
+        }
+      ]
+    },
+    {
+      "key": "trend",
+      "name": "HR 트렌드",
+      "items": [
+        {
+          "title": "[조현미의 AI 혁신중기] 인크루트, 채용 특화 AI '나비'로 HR 혁신",
+          "source": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDcmhHNExKT25QWFlHN2Q5Z3drZG9pZUZwNENtQVhjZ1JNMmdQbXpKTnhxek9sSFJ3Wl93T1hobExIS05TMS1Dc3dGQTkzVTA?oc=5",
+          "publishedAt": "2026-08-31T07:04:46.000Z",
+          "category": "trend",
+          "summary": "HR 플랫폼 인크루트가 채용 업무에 특화된 AI 서비스 '나비'를 도입하여 HR 프로세스 혁신에 나섰습니다. 인공지능 솔루션을 통해 구직자 서류 검토 및 맞춤형 채용 평가 효율을 대폭 높이는 기술이 적용되고 있습니다. HR 실무 현장에서 채용 AI 툴의 활용도가 구체화되는 추세입니다.",
+          "impact": "채용 서류 검토와 스크리닝 단계에서 AI HR 솔루션 도입을 통한 실무 효율화 방안을 검토할 수 있습니다. (추측)"
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "오픈AI, 챗GPT 광고, 출시 200일도 안 돼 연환산 매출 1.4조 넘었다",
+          "source": "아시아투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jNGRWZzRtRFRmTXJkd0xTdEQwV19GTXV6TjNaSzVGTk5OQ0dNVHJJY0g0cHJZRkZZU2txT2VvVkY5OFpuQkV6dlBEcms0cXIzVnotaVRTWkcxWVhiWUlTanNsbVJvdEhfdE1yaTJB?oc=5",
+          "publishedAt": "2026-08-31T23:39:30.000Z",
+          "category": "industry",
+          "summary": "오픈AI가 챗GPT 기반 광고 상품을 선보인 지 200일이 되지 않아 연환산 매출 1.4조 원을 돌파했습니다. 대화형 AI 플랫폼 기반의 새로운 광고 솔루션이 시장에서 빠르게 안착하며 막대한 수익을 창출하고 있습니다. 생성형 AI가 디지털 광고 및 마케팅 시장의 판도를 급격히 바꾸고 있습니다.",
+          "impact": "생성형 AI 플랫폼 내 광고·마케팅 생태계 확장에 맞춰 마케팅 SaaS 제품의 기능 고도화 방향성을 점검해볼 수 있습니다. (추측)"
+        },
+        {
+          "title": "[이슈리포트] 워크플로우 가진 SaaS만 생존",
+          "source": "컴퓨터월드",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3bFZhaEEwU0VmZGFONUM2MFp6Q245RDBES0pRZHVyQ2l5Q1hFWURrVkZYdndfNzZpWGxvX0RzczJ5aHNkWW1pTE4tY2lDelEwTmlwdWpfYnI2aS1md21mVk9wYlh6OFRrUDBOTw?oc=5",
+          "publishedAt": "2026-08-31T08:17:01.000Z",
+          "category": "industry",
+          "summary": "AI 기술 고도화 속에서 단순 기능을 제공하는 소프트웨어가 아닌, 고객의 핵심 업무 워크플로우를 점유한 SaaS 기업만이 생존할 수 있다는 분석 보고서가 나왔습니다. AI 연동을 넘어 고객 실무 프로세스 전체를 아우르는 서비스 경쟁력이 핵심으로 떠올랐습니다. SaaS 시장 내 진입장벽과 차별화 요소가 워크플로우 통합 여부로 재편되는 중입니다.",
+          "impact": "우리 SaaS 제품의 경쟁력 유지를 위해 도메인 전문성을 갖춘 프로덕트 및 마케팅 인재 영입 기준을 강화해야 합니다. (추측)"
+        },
+        {
+          "title": "이토추(8001 JP)·덴츠(4324 JP), ‘리테일 미디어’ 동맹…구매데이터로 AI 시대 광고시장 공략",
+          "source": "알파경제",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84S2xiWHFzYmdMQjBIYUFaOVMwTGl5UDBYZnIwczVralVNRXpFMDlJTDNQZlU4TDZQeFFydVJWMWFmeGxUbzMyTHIwWGVOX296X1dSYUEzY2xkRnhOc1dNN2Rvc2RWM2dacXhtYjl3?oc=5",
+          "publishedAt": "2026-09-01T00:35:28.000Z",
+          "category": "industry",
+          "summary": "일본 이토추 상사와 광고대행사 덴츠가 AI 시대를 맞아 구매 데이터를 활용하는 '리테일 미디어' 분야에서 제휴를 맺었습니다. 소비자의 실제 구매 데이터와 AI 타깃팅 기술을 결합해 광고 시장 내 주도권을 확보하겠다는 전략입니다. 글로벌 광고·마케팅 시장에서 데이터 연동형 애드테크 협력이 가속화되고 있습니다.",
+          "impact": "데이터 기반 마케팅 및 애드테크 시장 성장에 대응할 유관 직무 전문가 선점 노력이 시사됩니다. (추측)"
+        }
+      ]
+    }
+  ]
+}
