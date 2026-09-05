@@ -51,12 +51,40 @@ ${list}
 id 는 위 목록의 대괄호 안 번호를 그대로 사용하세요. 새 번호나 새 URL을 만들지 마세요.`;
 }
 
+// 무료 티어는 혼잡 시간대에 503(UNAVAILABLE)을 자주 던집니다. 2026-09-03 과
+// 09-04 아침 실행이 이걸로 이틀 연속 죽었습니다. 일시적 오류(아래 상태코드)는
+// 기다렸다 다시 시도하고, 다 실패하면 예비 모델로 마지막 한 번을 시도합니다.
+const RETRYABLE = new Set([0, 429, 500, 502, 503, 504]); // 0 = 네트워크 오류
+const RETRY_WAITS_SEC = [30, 60, 120, 240];
+const GEMINI_FALLBACK_MODEL = process.env.GEMINI_FALLBACK_MODEL || 'gemini-3.1-flash-lite';
+
+const sleep = (sec) => new Promise((r) => setTimeout(r, sec * 1000));
+
 async function callGemini(prompt) {
+  for (let attempt = 0; ; attempt++) {
+    try {
+      return await callGeminiOnce(prompt, GEMINI_MODEL);
+    } catch (err) {
+      if (!RETRYABLE.has(err.status)) throw err;
+      if (attempt >= RETRY_WAITS_SEC.length) {
+        console.warn(`  ! ${GEMINI_MODEL} 이 계속 응답하지 못해 예비 모델(${GEMINI_FALLBACK_MODEL})로 시도합니다.`);
+        return await callGeminiOnce(prompt, GEMINI_FALLBACK_MODEL);
+      }
+      const wait = RETRY_WAITS_SEC[attempt];
+      console.warn(`  ! Gemini ${err.status || '네트워크'} 오류 — ${wait}초 뒤 다시 시도합니다 (${attempt + 1}/${RETRY_WAITS_SEC.length}).`);
+      await sleep(wait);
+    }
+  }
+}
+
+async function callGeminiOnce(prompt, model) {
   const key = process.env.GEMINI_API_KEY;
   if (!key) throw new Error('GEMINI_API_KEY 가 설정되지 않았습니다.');
-  const res = await fetch(
-    `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${key}`,
-    {
+  let res;
+  try {
+    res = await fetch(
+      `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${key}`,
+      {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
@@ -70,9 +98,18 @@ async function callGemini(prompt) {
           responseMimeType: 'application/json',
         },
       }),
-    }
-  );
-  if (!res.ok) throw new Error(`Gemini ${res.status}: ${await res.text()}`);
+      }
+    );
+  } catch (e) {
+    const err = new Error(`Gemini 네트워크 오류: ${e.message}`);
+    err.status = 0;
+    throw err;
+  }
+  if (!res.ok) {
+    const err = new Error(`Gemini ${res.status}: ${await res.text()}`);
+    err.status = res.status;
+    throw err;
+  }
   const data = await res.json();
   return data.candidates?.[0]?.content?.parts?.map((p) => p.text || '').join('') || '';
 }

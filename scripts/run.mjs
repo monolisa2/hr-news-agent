@@ -38,6 +38,16 @@ async function main() {
 
   fs.mkdirSync(CONTENT_DIR, { recursive: true });
 
+  // 하루 두 번 도는 크론(10시 + 12시 재시도) 때문에 필요한 안전장치입니다.
+  // 오늘 치가 이미 발행돼 있으면 아무것도 하지 않습니다 — 메일이 두 번 가지 않습니다.
+  // 수동 실행(workflow_dispatch)과 --force 는 일부러 다시 만드는 것이므로 통과시킵니다.
+  const force =
+    process.argv.includes('--force') || process.env.GITHUB_EVENT_NAME === 'workflow_dispatch';
+  if (!dryRun && !force && fs.existsSync(path.join(CONTENT_DIR, `${date}.json`))) {
+    console.log(`오늘 치(${date})는 이미 발행되어 있어 건너뜁니다. 다시 만들려면 --force 를 쓰세요.`);
+    return;
+  }
+
   const existing = fs
     .readdirSync(CONTENT_DIR)
     .filter((f) => /^\d{4}-\d{2}-\d{2}\.json$/.test(f));
