@@ -56,10 +56,30 @@ function renderHtml(brief, { date, issue, siteUrl }) {
     본문은 공개 기사 제목과 링크를 바탕으로 자동 요약한 것입니다. 정확한 내용은 원문을 확인하세요.
   </div>
 </td></tr>
-<tr><td style="padding:6px 34px 30px;">
+<tr><td style="padding:6px 34px 10px;">
   <table role="presentation" width="100%" cellpadding="0" cellspacing="0">${sections}</table>
 </td></tr>
+${renderCheckpointsHtml(brief.checkpoints)}
+<tr><td style="padding:0 34px 30px;"></td></tr>
 </table></body></html>`;
+}
+
+function renderCheckpointsHtml(checkpoints) {
+  if (!checkpoints || checkpoints.length === 0) return '';
+  const rows = checkpoints
+    .map(
+      (c) => `
+      <tr>
+        <td valign="top" style="width:84px;padding:9px 0;border-bottom:1px solid ${C.rule};font:700 12px/1.6 'Noto Sans KR',-apple-system,'Malgun Gothic',sans-serif;color:${C.accent};">${esc(c.part)}</td>
+        <td valign="top" style="padding:9px 0;border-bottom:1px solid ${C.rule};font:400 13.5px/1.7 'Noto Sans KR',-apple-system,'Malgun Gothic',sans-serif;color:${C.ink};">${esc(c.note)}</td>
+      </tr>`
+    )
+    .join('');
+  return `
+<tr><td style="padding:0 34px 8px;">
+  <div style="font:700 11px/1 'Noto Sans KR',-apple-system,'Malgun Gothic',sans-serif;letter-spacing:.18em;color:${C.accent};border-bottom:1px solid ${C.rule};padding:22px 0 10px;">HR 파트별 체크포인트</div>
+  <table role="presentation" width="100%" cellpadding="0" cellspacing="0">${rows}</table>
+</td></tr>`;
 }
 
 function renderText(brief, { date, issue, siteUrl }) {
@@ -75,6 +95,10 @@ function renderText(brief, { date, issue, siteUrl }) {
       if (it.impact) out += `→ ${it.impact}\n`;
       out += `${it.url}\n`;
     }
+  }
+  if (brief.checkpoints && brief.checkpoints.length > 0) {
+    out += `\n[HR 파트별 체크포인트]\n`;
+    for (const c of brief.checkpoints) out += `- ${c.part}: ${c.note}\n`;
   }
   return out;
 }

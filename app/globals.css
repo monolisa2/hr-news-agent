@@ -270,6 +270,38 @@ main { padding-bottom: 90px; }
   font-weight: 600;
 }
 
+/* ---------- checkpoints (파트별 체크포인트) ---------- */
+
+.checkpoints {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.checkpoints li {
+  display: flex;
+  gap: 16px;
+  padding: 11px 0;
+  border-bottom: 1px solid var(--rule-soft);
+  font-size: 14.5px;
+  line-height: 1.7;
+  color: var(--ink);
+}
+
+.checkpoints li:last-child {
+  border-bottom: 0;
+}
+
+.checkpoint-part {
+  flex: 0 0 76px;
+  color: var(--accent);
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  padding-top: 3px;
+}
+
 /* ---------- archive ---------- */
 
 .section-title {

@@ -18,7 +18,7 @@ function buildPrompt(items, dateLabel) {
 
 ${list}
 
-읽는 사람은 마케팅 SaaS 를 만드는 IT 회사의 인사팀입니다. 이 점을 선별 기준에 반영하세요.
+읽는 사람은 마케팅 SaaS 를 만드는 약 350명 규모 IT 회사의 인사팀입니다. 이 점을 선별과 시사점 작성에 반영하세요.
 
 작업:
 1. 이 인사팀에 실제로 의미 있는 기사만 최대 ${MAX_ITEMS}건 고르세요. 우선순위는 이렇습니다.
@@ -36,9 +36,19 @@ ${list}
    - summary: 3~4문장, 사실 위주로. 제공된 제목/요약원문에 없는 내용은 절대 지어내지 마세요.
      기사 본문을 그대로 옮기지 말고 반드시 자기 문장으로 다시 쓰세요.
    - impact: "인사팀 관점에서 무엇을 해야 하는가"를 한 문장으로. 추측이면 추측이라고 밝히세요.
-     industry 카테고리는 할 일 대신 "우리 사업·인력 운영에 무엇을 시사하는가"를 한 문장으로 쓰세요.
+     industry 카테고리는 사업 소식을 HR 로 연결해 한 문장으로 쓰세요.
+     예: 경쟁 SaaS 의 AI 기능 확장 → 관련 엔지니어 채용 경쟁 심화 예상,
+         업계 투자 위축 → 보상 설계에서 현금성 보상과 스톡옵션 선호 변화 주시.
 4. headline: 오늘 브리핑 전체를 관통하는 한 줄(40자 이내).
 5. lede: 오늘 브리핑의 흐름을 2~3문장으로 요약.
+6. checkpoints: 오늘 고른 기사 전체를 종합해, 아래 다섯 파트 중 오늘 뉴스가
+   실제로 행동거리를 주는 파트에만 체크포인트를 한 문장씩 쓰세요.
+   - 인사기획(조직 설계·평가·KPI·인력 배치) / 급여·보상(보상 경쟁력·인상률·복리후생)
+     / 채용(구직자 동향·이직 시장·경쟁사 채용) / 교육·육성(직무 스킬·AI 툴·리더십)
+     / 노무(근로시간·유연근무·노동법 리스크)
+   - part 값은 위 다섯 이름을 정확히 그대로 쓰세요.
+   - 해당 없는 파트는 빼세요. 억지로 다섯 개를 채우지 마세요.
+   - 반드시 오늘 고른 기사에 근거해 쓰고, 기사에 없는 내용을 지어내지 마세요.
 
 반드시 아래 JSON 형식으로만 출력하세요. 마크다운 코드펜스, 설명 문장을 붙이지 마세요.
 {
@@ -46,6 +56,9 @@ ${list}
   "lede": "string",
   "items": [
     { "id": 0, "category": "law", "summary": "string", "impact": "string" }
+  ],
+  "checkpoints": [
+    { "part": "채용", "note": "string" }
   ]
 }
 id 는 위 목록의 대괄호 안 번호를 그대로 사용하세요. 새 번호나 새 URL을 만들지 마세요.`;
@@ -155,6 +168,9 @@ function parseJson(text) {
 // collect 가 최신순으로 정렬해 주므로 앞에서 자르면 최신 기사가 남습니다.
 const MAX_CANDIDATES = 120;
 
+// 파트별 체크포인트에서 인정하는 파트 이름. 프롬프트의 다섯 이름과 같아야 합니다.
+const CHECKPOINT_PARTS = ['인사기획', '급여·보상', '채용', '교육·육성', '노무'];
+
 export async function summarize(items, dateLabel) {
   if (items.length === 0) {
     return { headline: '수집된 기사가 없습니다', lede: '', categories: [] };
@@ -214,10 +230,22 @@ export async function summarize(items, dateLabel) {
     items: enriched.filter((i) => i.category === c.key),
   })).filter((c) => c.items.length > 0);
 
-  console.log(`요약 완료: ${enriched.length}건 선별`);
+  // 파트별 체크포인트. 파트 이름은 정해진 다섯 개만 인정하고("급여/보상" 같은
+  // 표기 흔들림은 정규화해서 받음), 파트당 하나씩만 남깁니다.
+  const seenParts = new Set();
+  const checkpoints = (parsed.checkpoints || [])
+    .map((c) => {
+      const norm = String(c.part || '').replace(/[\s/·.]/g, '');
+      const part = CHECKPOINT_PARTS.find((p) => p.replace(/[·]/g, '') === norm);
+      return part ? { part, note: fixSpacing(c.note || '') } : null;
+    })
+    .filter((c) => c && c.note && !seenParts.has(c.part) && seenParts.add(c.part));
+
+  console.log(`요약 완료: ${enriched.length}건 선별, 체크포인트 ${checkpoints.length}개`);
   return {
     headline: fixSpacing(parsed.headline || 'HR 데일리 브리핑'),
     lede: fixSpacing(parsed.lede || ''),
     categories,
+    checkpoints,
   };
 }

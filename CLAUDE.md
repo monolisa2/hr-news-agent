@@ -50,6 +50,7 @@ components/      DateRail(발행 기록 눈금), BriefView(본문), ArchiveList(
 - 키워드 추가/삭제 → `sources.mjs`의 `KEYWORDS`만 수정. 세 갈래(일반 인사 / IT 인사 / 산업 동향)로 주석이 나뉘어 있으니 해당 자리에 넣을 것
 - 카테고리 변경 → `sources.mjs`의 `CATEGORIES`. `key`는 프롬프트·필터·JSON에 함께 쓰이므로 셋을 같이 확인
 - 산업 동향 비중 조정 → `summarize.mjs` 프롬프트의 "최대 3건" 상한. 이 상한이 인사 기사가 밀리는 걸 막는다
+- 체크포인트 파트 변경 → `summarize.mjs`의 `CHECKPOINT_PARTS` 배열과 프롬프트 6번의 다섯 이름을 **같이** 고칠 것. 사이트·메일 렌더링은 자동으로 따라온다. 2026-09-06 이전 호에는 이 필드가 없으므로 렌더링은 옵셔널 처리 유지
 - 발송 시각 변경 → `daily.yml`의 cron. UTC 기준. 수집 폭은 `run.mjs`의 `daysSince()`가 마지막 발행일로부터 자동 계산한다(1~5일). 요일 하드코딩이 아니므로 cron 만 바꾸면 된다
 - 주간 요약 추가 → 금요일 별도 잡으로 그 주 `content/*.json`을 다시 요약. 새 파이프라인을 만들지 말고 기존 요약기를 재사용
 

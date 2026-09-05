@@ -21,6 +21,8 @@ export type Brief = {
   headline: string;
   lede: string;
   categories: BriefCategory[];
+  // 2026-09-06 부터. 그 전 호에는 없으므로 렌더링 쪽에서 옵셔널로 다룰 것.
+  checkpoints?: { part: string; note: string }[];
   sample?: boolean;
 };
 

@@ -48,6 +48,23 @@ export default function BriefView({ brief }: { brief: Brief }) {
         </section>
       ))}
 
+      {brief.checkpoints && brief.checkpoints.length > 0 && (
+        <section className="category">
+          <div className="category-head">
+            <h2 className="category-name">HR 파트별 체크포인트</h2>
+            <span className="category-count">{brief.checkpoints.length}건</span>
+          </div>
+          <ul className="checkpoints">
+            {brief.checkpoints.map((c) => (
+              <li key={c.part}>
+                <b className="checkpoint-part">{c.part}</b>
+                <span>{c.note}</span>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+
       <p className="note">
         공개된 기사 제목과 요약문을 바탕으로 자동 정리한 내용입니다. 원문 전체를 옮기지 않으며,
         정확한 사실관계는 각 기사 링크에서 확인하세요. 요약은 기계가 작성하므로 오류가 있을 수
