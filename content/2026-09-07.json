@@ -1,0 +1,166 @@
+{
+  "date": "2026-09-07",
+  "label": "2026년 9월 7일 (월)",
+  "issue": 4,
+  "generatedAt": "2026-09-07T01:13:09.792Z",
+  "headline": "AI 시대 인재상 변화와 근로시간·노무 규제 재편에 대한 HR 대응",
+  "lede": "생성형 AI 확산으로 단순 개발 역량보다 비판적 사고와 AI 활용 능력을 갖춘 융합형 인재 선호가 강화되고 있습니다. 한편 포괄임금제 폐지 논의와 주 52시간제 예외 기준, 노란봉투법 등 노무 관련 법제도 불확실성이 지속되고 있습니다. HR팀은 AI 기반 채용·교육 프로세스 재편과 함께 근로시간 체계 및 사내 노무 관리 공정성을 점검해야 합니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "[알쏭달쏭 노무상식] 이메일을 통한 연차 사용 촉진과 노무 수령 거부 방식의 적정성은?",
+          "source": "국토매일",
+          "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBDNDFraDBlZnBXQ2F5N2hubFY3RkhTbVRpRW5PdGNLdGF4WlVBVEN6VU9kYzFET01iWWNFZ1R2bkJSVnpQ?oc=5",
+          "publishedAt": "2026-09-07T00:01:00.000Z",
+          "category": "law",
+          "summary": "연차유급휴가 사용 촉진 조치를 이메일로 진행할 때 개별 도달 및 확인 가능 여부에 따른 법적 적정성을 점검한 내용이다. 단순히 단체 메일을 발송하는 것만으로는 법적 요건을 충족하기 어려우며 노무 수령 거부 의사표시의 명확성이 요구된다. 연차 촉진 절차 관리의 주의사항을 안내한다.",
+          "impact": "하반기 연차 사용 촉진 시 개별 수신 확인과 출근 시 노무 수령 거부 의사를 명확히 기록할 수 있는 가이드라인을 정비해야 합니다."
+        },
+        {
+          "title": "메가특구 ‘주52시간 예외’ 기준안, 산업부 9천 후반-노동부 1.4억",
+          "source": "hani.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MVkNSQUNYYkpOREdxUmlBNVFkSTBHZDlhcVpiUWttM0N6V0daR2NicjRFa1NodlBOdGQ3NFlyZ3UzZnEtVm1vX2xITE5zbEE1TUppZF95Qm9wbXNSRFNneFlfRGZUbFhfMHc?oc=5",
+          "publishedAt": "2026-09-06T23:17:00.000Z",
+          "category": "law",
+          "summary": "메가특구 내 고소득 전문직 대상 주 52시간제 적용 예외(화이트칼라 Exemption) 연봉 기준을 두고 정부 부처 간 의견 차이가 지속되고 있다. 산업부는 연봉 9,000만 원 후반대를 제시한 반면 노동부는 1억 4,000만 원 이상을 주장하며 협의를 이어가고 있다. 입법 추진 과정에서 구체적 적용 대상 및 보상 기준이 주요 쟁점이 될 전망이다.",
+          "impact": "고소득 핵심 R&D 및 IT 인력에 대한 유연근무제와 주 52시간 예외 입법 동향을 모니터링하여 향후 조직 운영 계획에 반영할 필요가 있습니다."
+        },
+        {
+          "title": "\"30분 거리 발령나면 파업 되나요?\" 노란봉투법 지침 혼란",
+          "source": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZmEtRmEwcGQyV0JEMXVGUnFMTFlCWi16QXpWVGNidms4cTVva3N4T3VySGh5QU1vTFlSbTZtTTNEbU5hZGczN21lOEk1Vm5MYXhxbGMyQ0JfQmkydF9tX0N3MlE5bnJUT2E5bHJvb1BXQUJ4QVYteWExNUhHRU1QOWNn?oc=5",
+          "publishedAt": "2026-09-06T15:45:00.000Z",
+          "category": "law",
+          "summary": "노란봉투법(노동조합법 2·3조 개정안) 시행을 앞두고 정당한 파업 대상 범위와 원청 사용자성에 관한 현장 지침 혼란이 가중되고 있다. 인사발령 등 경영상의 결정까지 노동쟁의 대상이 될 수 있다는 지적이 나오며 기업들의 법적 불확실성이 커지고 있다. 향후 명확한 행정해석과 판례 집적이 과제로 남겨졌다.",
+          "impact": "노란봉투법 적용에 대비해 인사이동 및 조직 개편 시 노사 간 협의 절차를 투명하게 체계화하고 법적 리스크를 정기적으로 검토해야 합니다."
+        },
+        {
+          "title": "포괄임금제 폐지 법안 9건 계류…상반기 입법 목표 넘겼다",
+          "source": "jabon.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4U0hKMHRaSHV1VEtpdVdNN1M3dlZvaVFnblJnQTFNaF9YTHE2dTFCcTNtNHp4VUY4dWR1Q3BXd09GYUpNZHh1Wkk5UTdhamFUMG1qNXhmb2pvaVhIWmI0S01zbU5JaWs?oc=5",
+          "publishedAt": "2026-09-06T06:00:00.000Z",
+          "category": "law",
+          "summary": "국회에 포괄임금제 폐지 관련 노동법 개정안 9건이 계류 중이며 상반기 처리 목표를 넘겨 논의가 이어지고 있다. 포괄임금제 오남용 방지 및 실제 근로시간에 맞춘 수당 지급 단속 기조는 유지되고 있다. IT업계 전반의 근로시간 관리 체계 전환 압박이 가중될 것으로 보인다.",
+          "impact": "포괄임금제 규제 법안 가시화에 발맞추어 객관적 근로시간 측정 시스템 도입과 연장근로 수당 체계 정비 방안을 사전 마련해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "case",
+      "name": "판례·노동위",
+      "items": [
+        {
+          "title": "세라젬 '직장 내 괴롭힘' 피해자 측 \"신고 당일 해고...노동위서도 '조사한 척' 했다\"",
+          "source": "everynews.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BRlZBdFpsMkNuNTk5OGlxZ2hFaFJnNFZkQnUwOXY0V1ZFdUFZb2F6enJaZmo3MzFPay1aaFlZUVdoVElMVFFJZjNkdXNQNHpjQ2pIeFFWeDZaOEJVaFFKdHFEa2xFNmVFZFI0WERn?oc=5",
+          "publishedAt": "2026-09-06T22:54:08.000Z",
+          "category": "case",
+          "summary": "직장 내 괴롭힘 신고자에 대해 당일 해고 처분을 내리는 등 불이익 조치를 취해 노동위원회 재심 및 논란이 발생한 사례가 보도되었다. 사내 조사 절차의 객관성 부재와 신고자 보호 의무 위반이 주요 문제로 지적되었다. 사업장 내 정당한 조사 기준 미비 시 법적·평판 리스크가 커질 수 있다.",
+          "impact": "직장 내 괴롭힘 신고 처리 시 즉시 불이익 조치 금지 원칙을 준수하고 조사 절차의 객관성과 공정성을 확보하도록 내부 규정을 점검해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "\"AI 도움 없이 스스로 생각하는 사람이 이 시대의 광고 인재상\"… 김종현 제일기획 대표",
+          "source": "brandbrief.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Mb3Z2c2MtSWN5TzNybGlxeXd0TEhWLS1VeXRYQVQ0MU90WGE1NHpBZmFnNjRXU195RGZsb0dhR1ozaDBhYVdpTVRLemo1SVZUU0xhaFROSkpUeGo5OXVFZHNzSzBobDZxWWU0ZF9NVQ?oc=5",
+          "publishedAt": "2026-09-06T23:00:00.000Z",
+          "category": "market",
+          "summary": "광고 마케팅 업계에서 생성형 AI 활용이 일반화되었으나 최종 인재 평가에서는 비판적 사고와 본질적 기획 능력이 핵심으로 평가받는다는 제언이다. AI는 도구일 뿐 문제 정의와 창의적 해결 능력은 사람에게서 나온다는 점을 강조한다. 마케팅·광고 인재의 채용 및 평가 기준 변화를 시사한다.",
+          "impact": "마케팅 및 기획 직군 채용 시 AI 툴 활용력 평가에만 치중하지 않고 문제 해결력과 비판적 사고 능력을 검증하는 면접 구조를 강화해야 합니다."
+        },
+        {
+          "title": "“기다렸다가는 못 뽑아”… AI 인재 ‘선별 채용’ 강화나섰다",
+          "source": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oRzk0bVljME1tMDFoRGY0U1E1dl9ZNDl6SHhEMzNqdmc5OWVsSmQyUE5VdTFWMV9UNjg4dkVsSjUyelQtVzRYVTI5VkFDYjh4NnhHNjQzQklwbXcxVk45S3p5bS0xWWgyTllubnRrbU9yQklo0gF0QVVfeXFMTWhHOTRtWWMwTW0wMWhEZjRTUTV2X1k0OXpIeEQzM2p2Zzk5ZWxKZDJQTlV1MVYxX1Q2ODh2RWxKNTJ6VC1XNFhVMjlWQUNiOHg2eEc2NDNCSXBtdzFWTjlLenltLTFZaDJOWW5udGttT3JCSWg?oc=5",
+          "publishedAt": "2026-09-05T01:06:19.000Z",
+          "category": "market",
+          "summary": "주요 기업들이 AI 핵심 인재 수급 난항을 극복하기 위해 기존 공채/상시채용 방식에서 벗어나 타깃 채용과 빠른 전형 프로세스를 도입하고 있다. AI 전문가 확보 경쟁이 격화되면서 선제적 타깃팅과 조건 제시가 필수가 되었다. 영입 속도를 높이기 위한 채용 절차 간소화가 확산 중이다.",
+          "impact": "핵심 AI 및 엔지니어링 인재 채용을 위해 소요 기간을 단축하는 패스트트랙 전형과 아웃바운드 수시 채용 프로세스를 구축해야 합니다."
+        },
+        {
+          "title": "‘문송합니다’는 옛말…철학과>컴공과 취업률 역전, 무슨 일",
+          "source": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1IcDVqN2ZETDBaMklPU1FZSWVJU1lEWk96cnFteUIxTktaaHdKZGtNdWVwUURQYVo5NEZPejF4LXpkdmNELVoxMlNFTENqakU?oc=5",
+          "publishedAt": "2026-09-04T22:01:00.000Z",
+          "category": "market",
+          "summary": "생성형 AI 확산으로 단순히 코딩만 하는 단순 개발자의 수요는 감소한 반면, 문맥 이해와 비판적 사고를 갖춘 인문학적 인재의 채용 선호가 늘어나는 역전 현상이 나타났다. 개발직군에서도 단순 코딩 능력보다 시스템 설계 및 비즈니스 이해력이 핵심 경쟁력으로 부상했다. 채용 시 기술 능력 외 문제해결 역량 검증이 중요해졌다.",
+          "impact": "개발자 채용 기준을 단순 코딩 테스트 위주에서 비즈니스 로직 이해도와 융합적 문제 해결 역량 평가 중심으로 개편할 필요가 있습니다."
+        }
+      ]
+    },
+    {
+      "key": "trend",
+      "name": "HR 트렌드",
+      "items": [
+        {
+          "title": "서울대 문태섭 교수팀, AI가 가로막는 개발자 성장 경로 규명",
+          "source": "미디어데일",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pVlpod2xwUnNialUtYlBZVVpYa2FoNnczNHFSZHNuZkVfSVRCR3NRbWoyeE05Rzk0UW1PRG05bGFuRnF1U01TMFhPaDQtakRMYXdwMXZlZEJ0ODFsRTM4VFNEMFpkUnNGd0hj?oc=5",
+          "publishedAt": "2026-09-07T00:48:08.000Z",
+          "category": "trend",
+          "summary": "서울대 연구진이 생성형 AI 도입이 초급 개발자의 자립적 문제 해결 능력 강화를 방해할 수 있다는 연구 결과를 발표했다. AI 코드 추천에 의존할 경우 개발자의 주도적 역량 성장 경로가 저해될 위험이 지적되었다. 주니어 개발자의 육성 프로세스 재설계 필요성이 제기된다.",
+          "impact": "주니어 개발자의 역량 저하를 막기 위해 사내 AI 툴 활용 기준을 수립하고 기초 역량 검증 중심의 온보딩 및 교육 프로그램을 검토해야 합니다."
+        },
+        {
+          "title": "[2026 양성평등지수]육휴·유연근무 공시 2년차…남성 육휴 '한 자릿수 기업' 60→33곳",
+          "source": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE53TFUwVC1Jd1ZnNjhnTE1NbVpwRnBURWRta0dOejVlcEM0QUN0Y0FQeUVuWDBPY2tybVB2cE1EUmNIdWF3ai1fVlhCVmVuaEE?oc=5",
+          "publishedAt": "2026-09-06T22:02:52.000Z",
+          "category": "trend",
+          "summary": "육아휴직 및 유연근무제 공시제도 시행 2년 차를 맞아 주요 기업의 남성 육아휴직 참여율이 개선되고 있는 것으로 조사되었다. 남성 육아휴직 비율이 한 자릿수에 불과했던 기업 수가 절반 가까이 감소하며 조직문화 변화가 가시화되고 있다. 공시제 도입이 기업의 유연한 근무 환경 조성 및 조직문화 개선을 유도하고 있다.",
+          "impact": "남성 육아휴직 사용률과 유연근무 실적 공시 부담에 대비해 육아휴직 사용을 장려하는 사내 문화 개선 조치를 선제적으로 취할 필요가 있습니다."
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "B2B SaaS GEO, 구매 직전 질문에서 브랜드가 빠지는 이유",
+          "source": "오픈애즈",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96b01wMzFDODhFNWsyb29sdVFhT3NhekFJd0E0VjZtcTd0a1MwSVcwMzdPRWdiRE9WYUZlekFxTjVPbHAwYzVMbnVQdktmQk1Ta0xfUTdnbXdWRmpKOU9iWUZPVXJFTDFEN0VKbmVB?oc=5",
+          "publishedAt": "2026-09-07T01:03:59.000Z",
+          "category": "industry",
+          "summary": "B2B SaaS 시장에서 구매 전환 직전 고객 질의 시 브랜드 노출이 제외되는 현상과 원인을 분석한 내용이다. 생성형 AI 검색 및 정보 탐색 환경 변화로 마케팅 접점의 구조적 변화가 발생하고 있음을 조명한다. 서비스 인지도 확보를 위해 기존 마케팅 방식 외에 새로운 접근이 필요한 시점이다.",
+          "impact": "마케팅 SaaS 제품의 경쟁력 유지를 위해 AI 기반 마케팅 및 SEO 전문 인력 채용과 기존 마케터 대상 AI 활용 교육 강화가 필요해 보입니다."
+        },
+        {
+          "title": "벤처투자 역대 최대에도…AI 쏠림·미국행·회수 병목은 여전",
+          "source": "플래텀(Platum)",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ORkN0VkZqUFdiZ3NkVFBhcXFnMjNuemdpakoteWNUc3lGWXFSeVVPVHY5U0x2NmcwYmVIc2kxLXlGdUtCcVBiTg?oc=5",
+          "publishedAt": "2026-09-06T23:33:29.000Z",
+          "category": "industry",
+          "summary": "국내 벤처투자 규모는 확대되었으나 AI 분야 집중과 해외 이전, 회수 시장 병목 현상이 여전히 지속되고 있다는 분석이다. 양극화된 투자 환경 속에서 일반 IT·SaaS 스타트업의 자금 조달 유연성이 제한될 가능성이 있다. 지속 가능한 내실 경영과 현금 흐름 관리가 중요해지고 있다.",
+          "impact": "투자 시장 양극화에 대비해 무리한 인원 확충보다는 유능한 인재의 이탈 방지 및 스톡옵션 등 내실 있는 보상 체계 점검이 요구됩니다."
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "급여·보상",
+      "note": "포괄임금제 규제 입법 동향과 주 52시간 예외 연봉 기준 논의에 대비해 객관적 근로시간 측정 및 수당 산정 체계를 재점검해야 합니다."
+    },
+    {
+      "part": "채용",
+      "note": "단순 코딩 테스트 위주의 채용에서 벗어나 비판적 사고 능력을 검증하고, AI 핵심 인재 확보를 위해 전형 절차를 단축해야 합니다."
+    },
+    {
+      "part": "교육·육성",
+      "note": "주니어 개발자의 AI 툴 과의존에 따른 역량 저하를 방지하도록 문제 해결 중심의 내부 교육 및 AI 활용 가이드라인을 수립해야 합니다."
+    },
+    {
+      "part": "노무",
+      "note": "연차 사용 촉진 시 개별 수신 및 노무 수령 거부 절차를 명확히 하고, 괴롭힘 신고 시 즉시 불이익 조치 금지 등 사내 조사 절차의 공정성을 확보해야 합니다."
+    }
+  ]
+}
