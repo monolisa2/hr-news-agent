@@ -1,0 +1,173 @@
+{
+  "date": "2026-09-09",
+  "label": "2026년 9월 9일 (수)",
+  "issue": 6,
+  "generatedAt": "2026-09-09T01:17:26.815Z",
+  "headline": "AI 시대 인력·임금 개편 논의 본격화와 노무 리스크 관리 과제",
+  "lede": "정부가 AI 시대에 맞춘 성과 배분 논의체를 출범하고 호봉제 탈피 필요성이 지적되는 등 직무·성과 중심 HR 전환 압박이 커지고 있습니다. 이와 함께 직장 내 괴롭힘 신고가 역대 최대를 기록함에 따라 사내 노무 관리 체계 재정비가 시급한 상황입니다. IT·SaaS 업계에서는 AI 기술 결합을 통한 시장 재편 속에 핵심 개발 인재 확보를 위한 채용 경쟁이 지속되고 있습니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "인공지능 시대, 일자리와 성과 배분 대응은…노동부, ’녹서 논의체’ 출범",
+          "source": "yonhapnewstv.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sQ0haclNiM3g2eW1zVlNfOWM3RThpTzZSUzljQ0pzbldRakx6ckpiMGFrQ2szRWV2NEZ2TTJFOVZqWmF6TFU5OEJfVXhRVi00VmdfaXA3VDVKekdmZ3hqSkd6MWFuNjg?oc=5",
+          "publishedAt": "2026-09-08T23:56:00.000Z",
+          "category": "law",
+          "summary": "고용노동부가 AI 기술 확산에 따른 노동시장 변화와 성과 배분 방안을 논의하는 녹서 논의체를 출범했습니다. 해당 논의체는 AI 도입이 일자리와 근로 조건에 미치는 영향을 분석하고 공정한 초과이윤 배분 방안을 모색합니다. 이는 정부 차원에서 AI 시대의 노동 규범과 성과 배분 기준을 정립하려는 첫 행보로 풀이됩니다.",
+          "impact": "AI 솔루션 도입 및 자체 개발에 따른 인력 구조 개편과 성과급 배분 기준 마련에 사전에 대비할 필요가 있습니다 (추측)."
+        },
+        {
+          "title": "[단독]'직장 내 괴롭힘', 지난해 1.6만건으로 최다…3년새 83%↑",
+          "source": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xWGgxMjFGb2NTV0tjakpaZWZ1N1VQWlhxd0xOWW9CcWRVV2pGLVVYMVJOdWtKci1xaGhGS0Nydkd5MVA3MHRmVlZtcFU4Y0JmNEJXOHZRcnRYZzhiRElKYdIBeEFVX3lxTE5nX1BmTmJmeWtZa2pVOXNOSlE2THM3ZTREWGl0LU9oSndkZ1RNWFpaTldyXzRCVnI2ZW55OW1CbVJmWVRFVHd0TTFvQ1FiNkZEaTl5b3B1RWRwUjh0RVgzUkVnNnE3WWFrQnh3OG1LY25CaFpnYUNHQw?oc=5",
+          "publishedAt": "2026-09-08T21:01:00.000Z",
+          "category": "law",
+          "summary": "지난해 고용노동부에 접수된 직장 내 괴롭힘 신고 건수가 1만 6천여 건으로 집계되어 역대 최대치를 기록했습니다. 이는 3년 전과 비교해 83% 급증한 수치로, 직장 내 조직문화와 괴롭힘에 대한 사회적 관심이 대폭 높아졌음을 보여줍니다. 특히 대표이사나 경영진이 가해자인 경우 사건 처리 지연 문제가 국정감사 등에서 지적되었습니다.",
+          "impact": "사내 직장 내 괴롭힘 신고·조사 절차의 객관성과 공정성을 재점검하고 모니터링 체계를 강화해야 합니다."
+        },
+        {
+          "title": "[이승윤의 노동과 삶]메가특구특별법, 상한 없는 근로시간",
+          "source": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82Y3Rwdmk0UmJsSUNqWUhSUGF2a3M4WGc4UnU0eElJYlBBZnFQUGtkR250WWtQcUozMGVGN244MzByVHhtSS1MMGpDajdDbTZiV0UxYmxUUExkQdIBX0FVX3lxTFBEZlR4WUhuZjZBekZtcUswR2lTLVU1YU5OdW5OT3JndWtPYkxoMXp5eUxJdWNaZE1SaGRad2E1SXVUMEt6X3BjV2tlcGpEVzY4QU1FRjdDU3dNSFhtLXFv?oc=5",
+          "publishedAt": "2026-09-08T11:02:00.000Z",
+          "category": "law",
+          "summary": "메가특구특별법안에 특정 지역 기업을 대상으로 주 52시간 근로시간 상한을 완화하는 유연화 조항이 포함되어 논란이 일어나고 있습니다. 노동계는 근로자의 건강권 침해와 유연근무 오남용 가능성을 이유로 법안 철회를 요구하고 있습니다. 법안 처리 결과에 따라 특구 내 근로시간 규제 개편 여부가 결정될 전망입니다.",
+          "impact": "유연근무제 확대 및 근로시간 유연화 관련 법안의 국회 통과 여부와 법적 리스크를 주시해야 합니다 (추측)."
+        },
+        {
+          "title": "‘노봉법’ 새 시행지침, 현장은 더 혼란",
+          "source": "hidomin.com",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBrZDIwdVZ4WkdOTktiREx5RDdoa3BWUF9tMUNqVVd4TDBHSFNmR01qNnU2NzNNWC1XTFN3TDBPSHhYRE1ObFlGdWFMR0FjTzhYQU1zT2N1MUZFRV9zdHY1bExkVFhQQ0dMZEE?oc=5",
+          "publishedAt": "2026-09-08T10:01:37.000Z",
+          "category": "law",
+          "summary": "노동조합 및 노동관계조정법 개정에 따른 신규 개정 지침이 발표되었으나 현장 노사 간 해석 차이로 혼란이 지속되고 있습니다. 원청 기업의 사용자성 인정 범위와 도급 계약 간 교섭 의무를 둘러싼 갈등이 수그러들지 않는 상황입니다. 노동계와 경영계 모두 새 지침에 대한 추가 보완 및 수정을 요구하고 있습니다.",
+          "impact": "외주 개발사 및 협력사 관리 시 사용자성 인정 및 노사 이슈 리스크를 정기적으로 점검할 필요가 있습니다 (추측)."
+        },
+        {
+          "title": "\"2030세대만 실질소득 뒷걸음 … 정년연장도 청년과 상생해야\"",
+          "source": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xdjRCNDhYdnhDTUgxb0FKWFA3cHotNndteFo5ejJmcUpVTkE3TkQzUHc0Ry1qUTNrWW5MbTJyaEVfNGM5YXoyU1hnWHZyUEU?oc=5",
+          "publishedAt": "2026-09-08T09:12:15.000Z",
+          "category": "law",
+          "summary": "국가 원로들과 노동 전문가들이 정년연장 추진 과정에서 청년층 고용이 위축되지 않도록 상생 방안을 마련해야 한다고 촉구했습니다. 2030 세대의 실질소득이 줄어드는 상황에서 연공서열형 임금체계를 유지한 채 정년만 연장하는 것은 세대 간 갈등을 야기할 수 있다고 지적했습니다. 이에 따라 직무급제 전환 등 임금체계 개편과의 연계 필요성이 부각됩니다.",
+          "impact": "정년연장 입법 논의에 발맞추어 연공서열 위주 임금체계를 직무·성과 중심 체계로 개편하는 검토가 요구됩니다 (추측)."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "LG유플러스, 미래 기술 인재와 ‘유플텍플’ 개최…AI·SW·네트워크·보안 분야 전문가와 혁신사례 소통",
+          "source": "뉴스스페이스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kckZQWHNUOTZVOVh3bHI1U0ZTSkZXQ3M1aFdMTFFZR0p4Z1o1TFl6b19QWUlvWWZJR1BaMGtySHo0OFVTdFJvMFlyR3Q4M1dfczhaYmk5M2RYSExkMnVGUA?oc=5",
+          "publishedAt": "2026-09-09T00:52:30.000Z",
+          "category": "market",
+          "summary": "LG유플러스가 석·박사급 미래 기술 인재 500여 명을 초청하여 테크 컨퍼런스 '유플텍플'을 개최했습니다. 회사는 AI, SW, 네트워크, 보안 분야의 최신 기술 혁신 사례를 공유하며 인재들과 소통했습니다. 이번 행사는 테크 기업으로서의 브랜딩을 강화하고 핵심 개발 인력을 조기에 확보하기 위해 추진되었습니다.",
+          "impact": "테크 인재 선점을 위해 당사만의 기술력과 조직문화를 어필할 수 있는 인재 채용 브랜딩 이벤트를 구상할 필요가 있습니다 (추측)."
+        },
+        {
+          "title": "은행, 신입 공채는 줄이고 AI 인재는 모셔간다",
+          "source": "마켓인",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ibklheW9PMFp0QS1BUG9PN3FHWllwUmJ6TkFaMklTWHlNR2lzSDdYYlpLdDVod01yMzZWbnZoU2dzNU50QS1zeFhRTDRCeXg3MXBjZVdkUFBoaHVNY2RIT292X0NUSjFWeUNoRjFGU0lwNjQ?oc=5",
+          "publishedAt": "2026-09-08T10:36:20.000Z",
+          "category": "market",
+          "summary": "금융권이 정기 신입 공채 규모를 줄이는 대신 AI 및 디지털 전문 인력 채용을 지속적으로 늘리고 있습니다. 은행들은 신규 영업점 축소 등 전통적 채용을 줄이고 디지털 전환을 이끌 핵심 IT 기술자 확보에 집중하는 모습을 보입니다. 이에 따라 전 산업군에 걸쳐 AI 전문 인력 영입 경쟁이 가열되고 있습니다.",
+          "impact": "타 산업군의 AI 개발자 영입 경쟁 가화에 대응해 경쟁력 있는 보상 체계와 영입 전략을 점검해야 합니다 (추측)."
+        }
+      ]
+    },
+    {
+      "key": "trend",
+      "name": "HR 트렌드",
+      "items": [
+        {
+          "title": "대기업 83% 호봉제 여전…미래산업 대응 '인력 재배치' 어려워",
+          "source": "Nate News",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9INkwyQXNPd0JqeFh3bVpRUDZJa2pUcmhkeFhrR3I4QjBYNGk5RHI0RTJ4eFltZTJRZHNmY3dYNHd5LU9pM1BBWHRJWkM1aWNRRDVB?oc=5",
+          "publishedAt": "2026-09-08T08:57:00.000Z",
+          "category": "trend",
+          "summary": "국내 대기업의 83%가 여전히 호봉제 중심의 연공서열 임금체계를 유지하고 있는 것으로 조사됐습니다. 이러한 고정적 임금 구조가 AI 등 신산업 전환 과정에서 필요로 하는 유연한 인력 재배치와 신기술 인재 유치에 걸림돌이 되고 있다는 지적이 나옵니다. 전문가들은 신산업 적응을 위해 유연한 보상 및 평가 체계 구축이 시급하다고 제안합니다.",
+          "impact": "IT 직군 특성에 맞춰 직무와 성과에 연동된 평가·보상 체계를 다듬고 유연한 인력 배치 기반을 다져야 합니다."
+        },
+        {
+          "title": "잡코리아, HR 컨퍼런스 '흐레카 26' 마무리…AI 시대 채용 전략 공유",
+          "source": "Nate News",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16aEg5SXNyeVN1WmxieGsyY2JuVjRsWk1jOEtkSkcwV0tYNkNEWDNPNURST1kxNEtGWTlQcDBYem1mVE5ZUm5FTlhIWEo4MDBPWllR?oc=5",
+          "publishedAt": "2026-09-09T00:37:07.000Z",
+          "category": "trend",
+          "summary": "잡코리아가 AI 시대의 채용 전략을 다룬 HR 컨퍼런스 '흐레카 26'을 성황리에 마무리했습니다. 이번 행사에서는 AI 채용 솔루션 활용법과 급변하는 노동시장에서의 우수 인재 검증 기법이 집중 다뤄졌습니다. 참석자들은 HR 테크 도입이 인재 선발의 정확도와 채용 속도를 대폭 향상시킨다고 평가했습니다.",
+          "impact": "AI 기반 채용 선발 도구 도입을 검토하여 채용 실무의 생산성과 인재 검증력을 높일 필요가 있습니다 (추측)."
+        },
+        {
+          "title": "요기요, AI 해커톤 본선 개최…실무형 서비스 아이디어 겨뤄",
+          "source": "뉴스후플러스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9GYlByS0l0VVdpOXJYVVpIcE1jTXRpVFREWjBHNGVXdUczTll4QWJMM1V6SXR3NG9QNGhPQWFsNEdyVmF0UzNLRk1VNzZtSHUxbEdDY1d5ZjhQMnNaMUcwbkxqSkd6RUZsSHk4RGlR?oc=5",
+          "publishedAt": "2026-09-08T07:47:12.000Z",
+          "category": "trend",
+          "summary": "요기요가 사내·외 인재들이 참여해 실무형 서비스 아이디어를 겨루는 AI 해커톤 본선을 개최했습니다. 참가자들은 실제 서비스에 적용 가능한 AI 기술 기반의 혁신적 아이디어를 제안하고 시제품을 구현했습니다. 조직 내 AI 기술 활용 문화를 확산하고 실무 역량을 높이기 위한 취지로 진행되었습니다.",
+          "impact": "개발 직군의 역량 개발과 AI 사내 적용 확산을 위해 사내 해커톤이나 아이디어 경진대회 도입을 고려할 수 있습니다 (추측)."
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "AI 시대 SaaS 종말론, 왜 틀렸나",
+          "source": "itworld.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUkJ0MVQ2c0dZU2VRM2lBLThYTHJ1VXlIcFQ0dzdKVXpVWVNsUzd1blFnNVBtRUR2V242cGNFMzJwSDdvS0VuYlhQV1BkZ0RqeGRLY2JoUGs0eWgwRUtEYjdhRVgwMndLdFVSZHR1ZURKMUZCb2J5LTlNNFhFNDk3SThRS2hXWXdrd19RRHg1MGdMMlpGWFEtOUhvQkJYdjdVZ096MUw2aldVcXlVc0podzQwTkJQXzd1bXlIdWF2S21BU3htX2hxZGVuTWFlYUIzdTcwNFpn?oc=5",
+          "publishedAt": "2026-09-09T00:47:57.000Z",
+          "category": "industry",
+          "summary": "AI 발전이 기존 SaaS 업계를 대체할 것이라는 'SaaS 종말론'과 달리 AI와 SaaS의 결합을 통한 가치 증대가 입증되고 있다는 분석이 제기됐습니다. AI 기능을 내재화한 SaaS 솔루션들이 고객 유지율과 매출 성장을 동시에 끌어올리고 있습니다. 이에 따라 SaaS 기업들의 AI 관련 기술 투자가 더욱 지속될 것으로 보입니다.",
+          "impact": "당사 SaaS 제품의 AI 기능 강화 기조에 맞춰 관련 AI 기획자 및 엔지니어 채용 경쟁이 더 치열해질 것으로 전망됩니다 (추측)."
+        },
+        {
+          "title": "[인더스트리 마케팅 레이더] 스레드·네이버·빅테크 동시 행보…9월 AI 광고시장 재편",
+          "source": "산업종합저널",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IdVFaNXRUYVlScXZYbWpCQVIzSEJDX0Q2WVZLdG5kaExmSnBORW83bFZRUFJvdVJSbjFONTRmU05jekE3MG1QVG1Yd1NSdjdHSHl3?oc=5",
+          "publishedAt": "2026-09-09T00:40:40.000Z",
+          "category": "industry",
+          "summary": "스레드, 네이버 등 주요 빅테크 기업들이 9월 들어 AI 기반 광고 솔루션을 일제히 공개하며 시장 재편에 나섰습니다. 타겟팅 정교화와 광고 집행 자동화 등 AI 기술을 활용한 마케팅 효율화가 주도권 다툼의 핵심으로 부상했습니다. 디지털 광고 및 마케팅 SaaS 시장 내 경쟁이 한층 격화될 전망입니다.",
+          "impact": "마케팅 SaaS 경쟁 심화에 대응하기 위해 전문 마케팅 기획자 및 AI 특화 인재 유치 요구가 늘어날 것으로 예상됩니다 (추측)."
+        },
+        {
+          "title": "사스포칼립스 공포, 실적으로 반전 맞나",
+          "source": "바이라인네트워크",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9oNGxYOEdFNnA3TTZaV2hMSWhjX1BfSm1naF8zYzhQTFNsVFVkM1pkLU0yYjNwMXQ0eXB5Y0R1MHdFLXMwNzhURWRGc2E0UQ?oc=5",
+          "publishedAt": "2026-09-08T09:37:59.000Z",
+          "category": "industry",
+          "summary": "경기 둔화와 투자 위축으로 제기되었던 SaaS 업계의 위기 우려를 뒤엎고 주요 기업들이 기대 이상의 실적을 올리고 있습니다. AI 기술 연동을 통한 부가가치 창출과 기존 고객 retention 향상이 실적 반등을 이끌었습니다. 시장에서는 SaaS 산업의 기술 경쟁력이 지속적인 성장을 담보하고 있다고 평가합니다.",
+          "impact": "업계 실적 회복 움직임에 따라 핵심 인재 유출을 막기 위한 보상 및 스톡옵션 등 인센티브 설계를 점검할 필요가 있습니다 (추측)."
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "인사기획",
+      "note": "호봉제 탈피와 AI 시대 인력 재배치 요구에 맞춰 직무와 성과 중심의 평가 체계 및 조직 설계를 재점검해야 합니다."
+    },
+    {
+      "part": "급여·보상",
+      "note": "SaaS 업계 실적 회복세와 AI 성과 배분 논의에 대응하여 경쟁력 있는 보상안 및 성과급 산정 기준을 정립할 필요가 있습니다."
+    },
+    {
+      "part": "채용",
+      "note": "전 산업군의 AI 개발자 확보 경쟁에 대비해 채용 브랜딩을 강화하고 AI 기반 채용 선발 도구 도입을 검토해야 합니다."
+    },
+    {
+      "part": "교육·육성",
+      "note": "사내 AI 기술 활용 문화 확산과 개발 직군 역량 제고를 위해 사내 AI 해커톤이나 실무형 역량 강화 프로그램을 기획해볼 수 있습니다."
+    },
+    {
+      "part": "노무",
+      "note": "직장 내 괴롭힘 신고 급증과 근로시간 유연화 법안 동향에 발맞추어 사내 괴롭힘 예방·조사 절차 및 법적 리스크를 점검해야 합니다."
+    }
+  ]
+}
