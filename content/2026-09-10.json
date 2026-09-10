@@ -1,0 +1,164 @@
+{
+  "date": "2026-09-10",
+  "label": "2026년 9월 10일 (목)",
+  "issue": 7,
+  "generatedAt": "2026-09-10T01:13:09.534Z",
+  "headline": "주52시간 예외 논란과 AI 인재 영입전…HR 대응 과제",
+  "lede": "주 52시간 예외 적용 기준 및 지자체 노동감독권 등 근로시간·노무 관련 규제 변화가 본격화되고 있습니다. 이와 함께 IT 업계의 AI 인재 확보 경쟁과 AI 툴 기반의 채용·조직문화 개편이 가속화되고 있어 HR 측면의 유연한 제도 보완이 요구됩니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "메가특구 주 52시간 '상위 3%'만 제외?…삼성전자 56%가 대상",
+          "source": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9WZEZ4WTFmZU9uY2s2Z0N5NnNXWFV4eGoxQm5hY0VMek5VSlpxN19IUGQyTDhTcEh1aEhzRURXMkh5QTRBLTNacXVLY3RNTUE?oc=5",
+          "publishedAt": "2026-09-10T00:06:00.000Z",
+          "category": "law",
+          "summary": "주 52시간제 적용 예외를 추진하는 메가특구 정책에서 '상위 3%' 고소득자 기준이 논란이 되고 있습니다. 연봉 1억 3천만 원 수준을 기준으로 적용할 경우 삼성전자의 56%가 포함되어 특구 취지와 어긋난다는 지적이 나옵니다. 제도의 실효성과 대상 범위에 대한 재검토 목소리가 커지고 있습니다.",
+          "impact": "고연봉 R&D 인력에 대한 근로시간 규제 완화 입법 동향을 주시하며 유연근무제 개편 가능성을 검토해야 합니다."
+        },
+        {
+          "title": "73년 만에 지자체도 노동감독…고난도 수사는 노동청에 넘긴다",
+          "source": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zRzl5a1dYRGFDa2NaTVZyQUNQMTRyNENFSlVtUW5WanloazlMMFJIR0tTV0I5akJzTVhuTUFhaHQ5bDZCa3lhVGt0WHB1clluYzZCaE5Od0M1RVV4ejJTYw?oc=5",
+          "publishedAt": "2026-09-10T01:00:00.000Z",
+          "category": "law",
+          "summary": "노동 근로감독권이 73년 만에 지방자치단체로 확대 부여됩니다. 이에 따라 단순 사업장 지도 및 감독은 지자체가 담당하고, 고난도 특별수사 등은 노동청이 맡게 됩니다. 기층 사업장에 대한 근로감독 주기와 접점이 한층 확대될 전망입니다.",
+          "impact": "지자체 차원의 노동감독에 대비해 사내 기본 근로조건 준수 여부 및 노무 관리 현황을 점검해 둘 필요가 있습니다."
+        },
+        {
+          "title": "직장 내 괴롭힘 3년새 83% 증가... 가해자가 사용자인 경우 처리기간도 더 늦어",
+          "source": "newsdaily.kr",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50WXlDYWVNc3pJWHQ5LTFkWXBhb3FnNjZyRXJEd1Q0SHdfVXJ3UkdtNkQ4a3RuTG5tZGo0dzJOUWhEM2Y2OGEwRmdNdXJ2Mm1OeFp3ckFQQmd0aDlic3NMYWdDY1NoeTZqU1hZ?oc=5",
+          "publishedAt": "2026-09-10T00:20:02.000Z",
+          "category": "law",
+          "summary": "최근 3년간 직장 내 괴롭힘 신고 건수가 83%나 증가한 것으로 나타났습니다. 특히 가해자가 사업주나 대표 등 사용자층인 경우 조사 및 처리 기간이 더 지연되는 경향을 보였습니다. 직장 내 사내 조직문화 개선과 객관적인 조사 절차 마련이 시급한 과제로 떠올랐습니다.",
+          "impact": "경영진 대상 리더십 교육을 강화하고 괴롭힘 신고 발생 시 중립적인 조사 및 즉각 대응 체계를 정비해야 합니다."
+        },
+        {
+          "title": "내년 서울 생활임금 1만2,757원으로 5.2％↑…8년만에 최고상승",
+          "source": "TBS 서울",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdm44MGRXM3dLc1lxMDltcjRndUp2Z0dvUHhrLXRFdG5mbFEyc3JpdXVyYUNmVWlpenVoa2FaZ1FiTW1iQVZyaVBVTmVUaVNfckJIbHRGVUJWNC1SdUZSWVFQbUJCSk5fbFJ6MG4wZ0trcjd0anh3dldnWGtCeGVXQ1Y5VlpndndJ?oc=5",
+          "publishedAt": "2026-09-10T00:47:00.000Z",
+          "category": "law",
+          "summary": "내년 서울시 생활임금이 시급 1만 2,757원으로 최종 결정되었습니다. 이는 올해 대비 5.2% 인상된 금액으로 최근 8년 만에 가장 높은 상승률입니다. 공공 및 민간 위탁 부문 인건비 산정 및 하한선 설정에 영향이 예상됩니다.",
+          "impact": "내년도 최저임금 및 최저 보상선 기준을 재확인하고 당사 저임금 직군이나 외주·도급 계약 금액을 점검할 필요가 있습니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "[기획] 개발자 채용 넘어 ‘AI 쓰는 신입’ 가린다…대기업 채용 공식 바뀐다",
+          "source": "뉴스인사이드",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iZHlsSGJpel81WXc2OGtkV09EdjZneVNwNGp3V05EQlR4YmVNd3RDaW5FcVNhTTBkNTdEeEcydF93N0JoaDFGbG9IMm5scF94T21SVFZTdFhQSGQ1dmVPUjRqaUE2aUtBQ2U2ZXRB?oc=5",
+          "publishedAt": "2026-09-09T07:33:44.000Z",
+          "category": "market",
+          "summary": "대기업 신입 채용 시장에서 단순히 코딩 능력을 보는 개발자 채용을 넘어 실무에 AI 툴을 잘 활용하는 인재를 가려내는 방식이 도입되고 있습니다. 생성형 AI를 활용한 문제 해결 역량이 신입사원의 핵심 평가 항목으로 부상하고 있습니다. AI 응용 능력이 기본 직무 역량으로 자리 잡으면서 채용 전형에도 변화가 커지고 있습니다.",
+          "impact": "신입 및 경력 채용 시 AI 툴 실무 활용 능력을 평가할 수 있는 실기 시험 및 면접 질문 구성을 검토할 필요가 있습니다."
+        },
+        {
+          "title": "LG CNS, AI·로보틱스 등 9개 직무 채용…미래 사업 인재 확보 나서",
+          "source": "zdnet.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DaXJmOFk4c29PU2ZRelVUTXJsM0ZuOVljOG5iQzluYV9CVjVpNE1SX0tBVnpPdldELTdnR0xqOXZmT0ZHOUdNNGliS2Nvb043OE5wcXBn?oc=5",
+          "publishedAt": "2026-09-10T01:01:02.000Z",
+          "category": "market",
+          "summary": "LG CNS가 AI와 로보틱스를 포함한 9개 주요 미래 사업 직무에서 신입 및 경력 채용을 진행합니다. 하반기 세 자릿수 규모의 대규모 인재 확보를 통해 AI 시장 주도권을 다질 계획입니다. IT 테크 업계 전반에서 AI 전문 인력 흡수 경쟁이 가속화되고 있습니다.",
+          "impact": "대기업의 AI 인력 대량 채용에 대응해 당사 AI 개발진의 이탈 방지책 및 맞춤형 채용 브랜딩을 강화해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "trend",
+      "name": "HR 트렌드",
+      "items": [
+        {
+          "title": "“재택근무 큰 도움 안된다”…육아시간 확보엔 ‘이 제도’가 더 유리",
+          "source": "농민신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5LRzNoRWIydXF2TUl0SGN6ZnlraGVwaTB0ZXBuMjBUZEVhMUVSbzdJOG4xblNQYXVCd0VNcHQ1WHkwbzNLcFFUYnA5cHFhbkpLMWFmeHVFTEtFUQ?oc=5",
+          "publishedAt": "2026-09-09T08:34:00.000Z",
+          "category": "trend",
+          "summary": "일·가정 양립 및 육아시간 확보 관점에서 단순 재택근무보다 근로시간 단축 제도가 더 실질적인 도움이 된다는 분석이 나왔습니다. 재택근무는 업무와 가사의 경계가 모호해져 육아 집중도를 높이는 데 한계가 있다는 지적입니다. 이에 따라 단축 근무나 유연 시공간 제도의 효율적 운용이 대안으로 부각되고 있습니다.",
+          "impact": "일·육아 양립 지원 체계를 재택근무 단일 옵션에서 육아기 근로시간 단축 등 다변화된 제도로 재편하는 것을 고려해야 합니다."
+        },
+        {
+          "title": "성과급도 채용도 ‘엔지니어 퍼스트’⋯韓기업 인재 공식 바뀐다 [AI시대 新기술귀족 ③]",
+          "source": "이투데이",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XaXlpTnhYcXkxVFF3dmY5M3lZR0otczQ3d0thOWZSMldnOUwwZWNCNXRkT3pXSDd3MFpoNUw2QWhmMG9lc0FjWGNhd3pyY0NTM1Jodw?oc=5",
+          "publishedAt": "2026-09-09T20:00:00.000Z",
+          "category": "trend",
+          "summary": "국내 IT 및 주요 기업에서 AI 및 핵심 엔지니어 확보를 위해 '엔지니어 퍼스트' 보상체계를 도입하고 있습니다. 이들에게 특화된 성과급 지급과 파격적인 채용 조건 등 핵심 기술 인력 유치를 위한 경쟁이 치열해지는 양상입니다. 이에 따라 기존의 일률적인 직군별 임금·평가 체계에 변화가 일어나고 있습니다.",
+          "impact": "마케팅 SaaS 개발 경쟁력 강화를 위해 핵심 AI·SW 엔지니어 대상 차별화된 보상 및 처우 패키지 설계를 검토해야 합니다."
+        },
+        {
+          "title": "“선배 대신 OO님”…기업처럼 바뀌는 연구실 문화",
+          "source": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBtdXBNN2xsQVpZUmpMSFd3WXY3d2k4b3JKcEhBYTlfZ0JBbHFzZzk2TmZyQU1mVlBfdG5GNWk0OWpuMFpKN0RfUGozR253dw?oc=5",
+          "publishedAt": "2026-09-09T08:47:17.000Z",
+          "category": "trend",
+          "summary": "대학 및 연구소 등 보수적이었던 조직에서도 '선배'나 '교수님' 대신 'OO님' 같은 기업형 수평 호칭을 도입하고 있습니다. 권위주의적인 문화를 개선하고 수평적이고 자율적인 연구·일하는 환경을 조성하려는 취지입니다. 수평적 조직문화 확산이 다양한 조직 영역으로 퍼져나가고 있습니다.",
+          "impact": "사내 수평적 커뮤니케이션 문화가 실질적인 업무 효율과 몰입으로 연결되는지 리더십 방식을 지속적으로 점검할 필요가 있습니다."
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "AI가 초안을 빨리 만들어도 캠페인이 늦어지는 이유-승인과 수정, 디자인, 부서 간 조율 같은 후속 업무는 바뀌지 않았다",
+          "source": "aimkt.biz",
+          "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOUUVMWEdZbWVmbWpWVS1hdnFzT3ZlYlFWS1dINkh0ZHZ2NEJ2LUJGY1BDZmpVLTIzXzlSWkVFdFpHbEllUl93R1M3NDl4WHV1SjBoTUNscG0tclNtWDJUaGk1Q01aWXRkMnRwdnJCaEVDcFlfWS1oT1NWTVlPbkRjNkNvcHFvUHc5SFVZR2hmdkJ5ZG9JQTRlNmJhTDVjdngtV25lMXB6QzFhb0xOV0pMNkRKNVkwLTFhX2szVTdrU3BWeFdBZU9xdzJ6dGdTVWpNeXdBNGt1SkVleEp5eEw4V3M5U1gyMDlkd0RjcW1GUzBNdFpTdTVsU3FfOWlycDlOMGIzc1ctNEx4bUNRQWJOZ1Z3bDdGQmtOd1hmR1lySzJlX1pQbUZ0cms3MWxYRUYxRHJralp5dS1KY2Z4RWc?oc=5",
+          "publishedAt": "2026-09-09T23:37:01.000Z",
+          "category": "industry",
+          "summary": "AI 도구를 도입해 마케팅 콘텐츠 초안을 빠르게 작성하더라도 실제 캠페인 집행이 지연되는 사례가 발생하고 있습니다. 디자인, 부서 간 의견 조율, 승인 및 수정 등 후속 프로세스가 여전히 과거 방식에 머물러 있기 때문입니다. 단순 AI 도구 도입을 넘어 전체 업무 프로세스의 리엔지니어링 필요성이 제기됩니다.",
+          "impact": "고객수인 마케팅 조직의 후속 승인 병목을 해소하는 SaaS 기능 개발 및 사내 업무 프로세스 효율화에 인사·조직 차원의 연계 지원이 요구됩니다."
+        },
+        {
+          "title": "B2B 영업·마케팅 AI 클레이, 1억1500달러 투자 유치...1년새 몸값도 두배",
+          "source": "디지털투데이",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5RX0NjY1VOR0dNb2ZMNGdwYzlmMkZMZUdtOHJUUExhY1JXMFBxd2p2aTRNbU1pX0pYQW10Sk9Ka1ZJZzFXem9sSVB3QXRaTVg4Tnd4aTctaWQxcjZ4WmlYZVpNVzRLdGxIbTNXS0VxWUR2bjQ?oc=5",
+          "publishedAt": "2026-09-09T21:16:28.000Z",
+          "category": "industry",
+          "summary": "B2B 영업 및 마케팅 AI 솔루션 기업인 '클레이'가 1억 1,500만 달러 규모의 시리즈 D 투자를 유치했습니다. 1년 사이에 기업 가치가 두 배 이상 상승하며 71억 달러에 달하는 평가를 받았습니다. AI 기반 B2B 마케팅 자동화 SaaS 시장의 급성장세가 확인되고 있습니다.",
+          "impact": "글로벌 B2B 마케팅 AI SaaS 시장 투자 확대에 따라 관련 분야 기술 인재 확보 및 보상 경쟁력을 주시할 필요가 있습니다."
+        },
+        {
+          "title": "에이블런, 기업 AX 실행 표준 ‘AX 파트너’ 패키지 출시",
+          "source": "zdnet.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBESnEwQk82YjRfMWY1SEg0cGY3SDN3TmNzQXMzUVlXUVFkZVBzeU1LT2pVZkxpR1AtZlRMYUZNd2hMYlA5Z2ZCN1JBUUdQb21lbFVKMnF3?oc=5",
+          "publishedAt": "2026-09-09T23:59:49.000Z",
+          "category": "industry",
+          "summary": "에이블런이 기업들의 AI 전환 실행을 표준화하는 'AX 파트너' 패키지 서비스를 출시했습니다. 기업 내 AI 도구 도입과 실무 적용을 체계적으로 돕는 맞춤형 표준 절차를 제공하는 것이 골자입니다. 기업 현장의 AI 실무 적용 수요가 확대되고 있습니다.",
+          "impact": "임직원의 AI 역량 강화를 위해 사내 AX 교육 프로그램 도입 및 AI 툴 내재화 방안을 마련할 필요가 있습니다."
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "인사기획",
+      "note": "AI 도입에 따른 업무 프로세스 병목을 해소할 수 있도록 부서 간 협업 구조 및 일하는 방식을 재설계해야 합니다."
+    },
+    {
+      "part": "급여·보상",
+      "note": "핵심 AI 및 개발 인력 확보를 위한 엔지니어 특화 보상 체계 및 성과급 구조를 검토할 필요가 있습니다."
+    },
+    {
+      "part": "채용",
+      "note": "대기업의 AI 인력 대량 채용에 대비해 채용 전형에 AI 실무 활용 역량 평가 요소를 반영하고 인재 이탈 방지책을 마련해야 합니다."
+    },
+    {
+      "part": "교육·육성",
+      "note": "전사 차원의 AI 활용도 제고를 위해 실무 중심의 AX 교육 및 AI 툴 내재화 프로그램을 도입해야 합니다."
+    },
+    {
+      "part": "노무",
+      "note": "지자체 노동감독 확대 및 직장 내 괴롭힘 조사 지연 리스크에 대비해 사내 노무 점검과 예방 체계를 정비해야 합니다."
+    }
+  ]
+}
