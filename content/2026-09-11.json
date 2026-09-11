@@ -1,0 +1,193 @@
+{
+  "date": "2026-09-11",
+  "label": "2026년 9월 11일 (금)",
+  "issue": 8,
+  "generatedAt": "2026-09-11T01:14:05.393Z",
+  "headline": "노란봉투법 타결 및 직장 괴롭힘 엄벌 속 AI 인재 확보와 유연근무 트렌드 확산",
+  "lede": "개정 노조법 첫 타결과 직장 내 괴롭힘 엄벌 판결 등 노무 리스크 관리가 시급해진 가운데 지자체 생활임금 인상과 정년연장 논의가 가열되고 있습니다. 한편 대기업의 AI 인재 채용 경쟁과 Z세대 맞춤 채용 브랜딩, 경기도형 유연근무 호평 등 HR 환경 변화도 지속되고 있습니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "노봉법 시행 6개월 만에 첫 원·하청 교섭 타결...현장 혼란은 여전",
+          "source": "미주중앙일보",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGbjlwOTNJM094aldhQmZlNy1sU2Ytc2ZiS1loaWhHd0pmdEc5d0trTHR1d19WbnpyZDl6ZGprdjl4Tk0zekNkR0RTMmR0eHgzTUVuNlJUejJNZWR5c3pnX2Vn?oc=5",
+          "publishedAt": "2026-09-10T07:50:00.000Z",
+          "category": "law",
+          "summary": "개정 노조법(노란봉투법) 시행 6개월 만에 첫 원·하청 교섭 협약이 타결되었으나 현장의 혼란은 계속되고 있습니다. 원청의 교섭 의무 범위와 성과급 요구 등을 둘러싸고 노사 간 해석 차이로 갈등이 이어지는 상황입니다.",
+          "impact": "외주 및 협력업체 계약 구조를 점검하고 개정 노조법 관련 노무 리스크에 선제적으로 대비할 필요가 있습니다."
+        },
+        {
+          "title": "서울시 내년 생활임금 1만2천757원 ‘5.2%↑’",
+          "source": "labortoday.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QUUVXVkhTLW1rQ0hnUDRvLTNGV2RnZlNGNVdxb3hfYzQ3T0hiblNxVzJ1WjJONFR1Q1Z5dWlLajgyRzJwLUwzWE9WUHpyYXhxQUViNlNtMUJ1SVpmUDN2cHY2aGRpTm9lNnc5ZGhOdUQ?oc=5",
+          "publishedAt": "2026-09-10T21:30:03.000Z",
+          "category": "law",
+          "summary": "서울시가 내년도 적용 생활임금을 시급 1만2천757원으로 확정하며 올해 대비 5.2% 인상했습니다. 이는 법정 최저임금을 상회하는 수준으로 지자체 및 위탁기관 근로자 등에게 적용됩니다.",
+          "impact": "최저임금 상향 기조에 맞춰 사내 최저 보상 테이블과 외약 인력 계약 금액의 적정성을 재검토해야 합니다."
+        },
+        {
+          "title": "'정년연장' 강조한 한국노총, 모호한 민주당에 '화들짝'",
+          "source": "news.nate.com",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52MHdEOVg0TVNuNGlQalEtMnhlQXZtamVZZHZlODRMdDNCYUxMYlQ3VHRDbnVwQlNubjJrVFdTRVhBa015MWZqc2ZBV2NMS2M2RlFXV0VueEZvMl91NTlhOGVTMnk0eE10cHV3S3lTZ2Q5N1ctQmdFcQ?oc=5",
+          "publishedAt": "2026-09-10T21:33:00.000Z",
+          "category": "law",
+          "summary": "한국노총이 정년연장 입법을 강력히 요구하는 가운데 정치권과 노사 간의 의견 대립이 심화되고 있습니다. 퇴직 연령과 연금 수급 개시 연령 간 격차로 인한 소득 절벽 문제가 핵심쟁점으로 떠올랐습니다.",
+          "impact": "정부의 정년연장 법제화 추진 동향을 모니터링하며 장기적 인력 구조 및 임금체계 개편안을 검토해야 할 것으로 추측됩니다."
+        },
+        {
+          "title": "\"물량 몰려도 더 못 만들어\"…충남 中企, 주 52시간제 유연화 요구 |",
+          "source": "daejonilbo.com",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xNTVJamdRcXdrdGgwMkRVWVkyd296cnhrc2l3MnBac19pRi1mUmVCMlo4R2loLUFPVndzQ0VQTTZzcTVNY1lJRWluVHhKdUlHSXRrZTBfV2ZGczRCcXRnZ2gxeDBVZjM3SVg3Znd5Q0trcGc?oc=5",
+          "publishedAt": "2026-09-10T07:56:56.000Z",
+          "category": "law",
+          "summary": "충남 지역 중소기업들이 주문 폭주 시 생산 차질을 이유로 주 52시간 근무제의 유연화를 촉구하고 나섰습니다. 현행 근로시간 규제가 기업의 유연한 대응을 제약한다는 지적이 이어지고 있습니다.",
+          "impact": "개발 및 프로젝트 집중 기간에 대비해 탄력적 근로시간제 등 합법적인 유연근무 제도를 미리 정비해야 합니다."
+        },
+        {
+          "title": "박해철 의원, 갈수록 느려지고 팍팍해지는 산재 판정… 처리기간 244일 훌쩍, 대기 중 사망만 189명",
+          "source": "뉴스데일리",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZY0tqX1lNZl9BY0xhWi1JU3M3QjdQeWxNblNYcTBidGU4Y19VNW8wdW91clN3bUJNRVdJajVTRng0QnVXQlBONG9UTVFyQlpYcjdfd2tOSUNIQjlqeVAxMXR5ZHJVOFNtZHNn?oc=5",
+          "publishedAt": "2026-09-11T00:26:37.000Z",
+          "category": "law",
+          "summary": "근로복지공단의 산재 판정 소요 기간이 평균 244일로 지연되어 대기 중 사망자가 발생하는 등 폐해가 지속되고 있습니다. 이에 따라 국회에서는 산재 선보상제도 도입 등 법제 개정 필요성을 제기하고 있습니다.",
+          "impact": "사내 산재 발생 시 신속한 행정 지원 절차를 마련하고 임직원 건강 관리 프로그램을 강화해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "case",
+      "name": "판례·노동위",
+      "items": [
+        {
+          "title": "직장 내 괴롭힘 신고 후 숨진 20대…가해 팀장에 징역 3년 구형",
+          "source": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYU3RqelNfR1lrZ0ptNkVRRXRpZ3U5dHJkbHZtNTM2Tl9kWkFrMDkyV1JKeXRKVVJSZnRCLWdHQVl5LXFKOGFtdmhoRXluazAyRzFnUXFn0gFbQVVfeXFMTmRoRy1Tak1IRkUzd2RKWVowTldNdm9QVG05Z0VCbkp6YkVfQU5HZ1VGUGpKbll6MHdiaXgwQWhnYW1qTHRBVWtlRUZEZnpvanlWWUpTUzFwV1BiUQ?oc=5",
+          "publishedAt": "2026-09-10T22:24:07.000Z",
+          "category": "case",
+          "summary": "직장 내 괴롭힘을 신고한 후 숨진 20대 직원 사건에서 검찰이 가해 팀장에게 징역 3년을 구형했습니다. 조직 내 인격 모독과 폭언에 대한 법적 처벌 수위가 크게 높아지고 있음을 보여줍니다.",
+          "impact": "사내 괴롭힘 예방 교육을 강화하고 신고 발생 시 신속한 피해자 보호 및 분리 조치 매뉴얼을 정비해야 합니다."
+        },
+        {
+          "title": "중앙노동위도 대전을지대병원 하청 노조 교섭 의무 인정",
+          "source": "daejonilbo.com",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE83ekpnYnhMeXd0RDNGNWE3blJNd2hMc0M2NTBzUUtFenZveHBXMVZ0THFQMHdxWm9NY0RKcklld1NhdFBnX2RIQjNpejg2cjdtYlIwVXZxYmFyNy1QZ25NM2dKUjJiUk40N1hnN1JNY9IBc0FVX3lxTFBmd21odFJmLUpSbTI0bGc4UlhuN2ZhemFJdm5LLVY0U3QydENiMFgzaUI1cUZiTF93V2k4X1JrVXNWbGhRWTRtSURrQ0ZDTGt2UlVLZDdoRlhmWW13dE1xTHM3LTllYXp0MUYzWkNIYU96OFk?oc=5",
+          "publishedAt": "2026-09-10T11:36:00.000Z",
+          "category": "case",
+          "summary": "중앙노동위원회가 대전을지대병원에 하청 노조의 교섭 요구 사실을 공고하라고 결정하며 원청의 교섭 응무를 재확인했습니다. 하청 근로자에 대한 원청의 사용자성을 인정하는 경향이 강화되는 추세입니다.",
+          "impact": "간접 고용 인력 활용 시 사용자성 인정 리스크를 사전에 검토하고 외주 관리 체계를 재점검해야 합니다."
+        },
+        {
+          "title": "인천 남항 E1터미널서 하차 작업 노동자 사망 사고... 중대재해법 조사 착수",
+          "source": "tournews21.com",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FeTVwR1Y1b2lrdG93UGxldFFvaGc4YmYxdmpXNk9vYmc5Uzg5T2YxYk9LRlFremc3Q0JSdzdscHc4dlh5aGN2RVNSX2U0UVpqN2lhSzYzM1VVODNKZ19VRlBaYlF5bzJBMDlLcFF3?oc=5",
+          "publishedAt": "2026-09-10T23:59:22.000Z",
+          "category": "case",
+          "summary": "인천 남항 E1터미널 야적장에서 하차 작업을 하던 근로자가 사망하는 사고가 발생해 노동당국이 중대재해처벌법 적용 여부 조사에 나섰습니다. 모기업 관계자 및 현장 책임자에 대한 조사가 진행 중입니다.",
+          "impact": "사업장 내 안전 수칙 준수 여부를 재점검하고 외주 현장 작업에 대한 안전보건 관리 체계를 강화해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "LG CNS, 9개 직무 세 자릿수 신입사원 채용…AI·로보틱스 등 미래 사업 이끌 인재 확보",
+          "source": "AI포스트",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SZlhic1FuN3B5Qm42WlBaWVh1bWlCdTVLN1V0VkdMZlBINlBVYjdhWXJ5bU9XaG4tSHhwdnBxQ3FtTFU0V1Y0U1V6dFIwM3JFZ3VmY1E2THlZQnpCUlA1Vl9IMkxnV2R0MUloY05pX3BOZ9IBckFVX3lxTE5SZlhic1FuN3B5Qm42WlBaWVh1bWlCdTVLN1V0VkdMZlBINlBVYjdhWXJ5bU9XaG4tSHhwdnBxQ3FtTFU0V1Y0U1V6dFIwM3JFZ3VmY1E2THlZQnpCUlA1Vl9IMkxnV2R0MUloY05pX3BOZw?oc=5",
+          "publishedAt": "2026-09-10T07:42:30.000Z",
+          "category": "market",
+          "summary": "LG CNS가 AI와 로보틱스 등 핵심 미래 사업을 이끌어갈 9개 직무에서 세 자릿수 규모의 신입사원 채용을 진행합니다. 대기업을 중심으로 미래 기술 인재 선점 경쟁이 심화되고 있습니다.",
+          "impact": "대기업의 AI 인재 대규모 채용에 대응해 자사 개발 및 기술 직군 채용 브랜딩을 강화할 필요가 있습니다."
+        },
+        {
+          "title": "[현장톡톡] 딱딱한 분위기는 옛말…기아, Z세대 트렌드 반영한 채용설명회",
+          "source": "news.mtn.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BbFg1cTBRU0VnRnRUTkJ2cGhCZkpQM25mLUViZjJnNVkwQ3lzcWQ5dlVSTW1qRFRnbVRBQkhnRFJJSVh1Y1pVQnM2NU5CdmRIREtRQjZuckYzSi1FOUgtS2VkUDU?oc=5",
+          "publishedAt": "2026-09-10T08:37:05.000Z",
+          "category": "market",
+          "summary": "기아가 Z세대 구직자들의 성향을 반영해 기존의 수직적 방식에서 벗어난 양방향 채용설명회를 개최했습니다. 구직자 맞춤형 소통 방식을 도입하여 채용 만족도를 높이고 있습니다.",
+          "impact": "타겟 구직층인 Z세대의 특성에 맞춰 채용 설명회 및 온보딩 프로그램을 개선할 필요가 있습니다."
+        }
+      ]
+    },
+    {
+      "key": "trend",
+      "name": "HR 트렌드",
+      "items": [
+        {
+          "title": "경기도형 유연근무제 ‘0.5&0.75잡’, 기업·근로자 높은 만족도",
+          "source": "자치행정신문",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ0RLVEdnUVpJZUNUcGF3MUVTRHdaaDlxOHV2NExhNU51SXBzYXVVZ3RvMjBCN2loOVUxell1YngtdkVSTVE0aWtka1R5U1BuWkxjcEw1M25fSU9nY3ZHc080Z1pVbktEUTNSNy1ObVB5Y3JpUlFxZWtySXhjSmNWMDU5RlZnekpVems4QWdreG5vYlhpNTJxcHNXRGh5dEtwc3pFQ3lrZmYwWjI3TTlF?oc=5",
+          "publishedAt": "2026-09-11T00:57:00.000Z",
+          "category": "trend",
+          "summary": "경기도가 추진한 '0.5&0.75잡' 단축 유연근무제에 대해 기업과 근로자 양측 모두 높은 만족도를 보였습니다. 참여자의 80% 이상이 제도 계속 활용을 희망하며 근로시간 단축의 효과성이 입증되었습니다.",
+          "impact": "IT 인재 확보 및 리텐션을 위해 단축근무 등 다양한 유연근무 제도 도입을 검토할 필요가 있습니다."
+        },
+        {
+          "title": "육아휴직 도중 승진… \"인사 불이익 걱정 없이 일•가정 지켰죠\"",
+          "source": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN000SG1BdHByM3hfMGlRc2ZSZXZ1RU9NRWpDam44dlJ4ZkJMSnBUTGlrWXB1Rjk3bXhQQmQ5SVQ4cVphYVZTcDc2a0JVNmFkTEl5OUZYcDUxU0dFTzZCTGpjU3RjSDdGNDYxUWRrZlA2cVoyNEZkdWlyZUJuSHQtSlRaYVB6aldKUGdoSTh5QQ?oc=5",
+          "publishedAt": "2026-09-10T15:36:00.000Z",
+          "category": "trend",
+          "summary": "육아휴직 중인 근로자가 휴직 기간에도 불이익 없이 정기 승진 대상에 포함되어 승진한 우수 사례가 공유되었습니다. 일·가정 양립 지원을 위한 인사제도 운영이 기업 경쟁력으로 평가받고 있습니다.",
+          "impact": "육아휴직자에 대한 평가 및 승진 불이익 방지 장치를 정비하여 핵심 인재의 이탈을 막아야 합니다."
+        },
+        {
+          "title": "[지금 대한민국]-채용 트렌드 변화 AI시대 뜨는 스펙…잘 듣고 정확히 이해하고 똑바로 표현하는 ‘소통 능력’",
+          "source": "ledesk.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBsRkYyaS1RMzVndEcyRlZ3TGl2MUQyeUxfQ21PVTlQT09GY2R3Zkt6TkdudlVwTS1Nd3VtUTQ4YVFNczlKdDFRRFBuR3hlU0Z1eXRhNTZB?oc=5",
+          "publishedAt": "2026-09-10T08:13:00.000Z",
+          "category": "trend",
+          "summary": "AI 기술 보급이 확대됨에 따라 채용 시장에서 경청과 정확한 표현 등 소통 능력이 핵심 스펙으로 주목받고 있습니다. AI로 대체하기 어려운 인적 역량과 협업 능력의 가치가 커지는 흐름입니다.",
+          "impact": "채용 면접 및 역량 평가 기준에서 커뮤니케이션과 협업 역량 측정 항목을 강화해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "[9월 11일 마케팅 뉴스클리핑] 네이버, 플레이스광고 자동화 ADVoost 플레이스 베타 도입 외",
+          "source": "아이보스",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1DMW5vWUcxakxNSEliejkxU09pRjBFLVJyRGhKRHVnOF9vLWNJQXFtYUtHb1VRNnJ5N2lFZGJ6MHlUNUQxZEl4Y3dxUTQydmM?oc=5",
+          "publishedAt": "2026-09-10T23:00:00.000Z",
+          "category": "industry",
+          "summary": "네이버가 플레이스광고 자동화 솔루션인 'ADVoost 플레이스' 베타 서비스를 선보였습니다. 마케팅 및 광고 집행 분야에서 AI 자동화 기술의 상용화가 점차 확대되는 추세입니다.",
+          "impact": "자사 마케팅 SaaS의 AI 자동화 기능 개발 가속화를 위해 관련 엔지니어 채용 경쟁 심화에 대비할 필요가 있습니다."
+        },
+        {
+          "title": "팟캐스트, 듣는 미디어에서 ‘보는 미디어’로… 광고 기회도 넓어진다",
+          "source": "매드타임스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE01OGE4dFltXzd0dFJWVHpzUFlCLVpvNkY1MkJIRzcyZ1NsRXd4cHhkOVBkT3lnOHczcEczQzlqUUpjMUhFNi05TUxYQXZHRVg0VWJTX2Ywd05WYzBRUVlIYXNBMU1kR252SkZJUg?oc=5",
+          "publishedAt": "2026-09-10T15:00:00.000Z",
+          "category": "industry",
+          "summary": "팟캐스트 시장이 단순 음성 플랫폼에서 비디오 오디오 결합 미디어로 진화하면서 광고 기회가 확장되고 있습니다. 미디어 콘텐츠 변화에 따른 광고 매체 다변화 흐름이 나타나고 있습니다.",
+          "impact": "마케팅 SaaS 솔루션의 매체 연동 확장성을 고려하여 신규 미디어 관련 기술 인재 확보 전략을 수립해야 합니다."
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "인사기획",
+      "note": "육아휴직자 승진 사례와 같이 육아·돌봄 휴직에 따른 인사평가 불이익을 방지하는 제도적 장치를 정비해야 합니다."
+    },
+    {
+      "part": "급여·보상",
+      "note": "지자체 생활임금 인상 기조에 발맞추어 하위 보상 구간 근로자 및 외주 계약 금액의 적정성을 재검토해야 합니다."
+    },
+    {
+      "part": "채용",
+      "note": "대기업의 AI 인재 대규모 채용에 맞서 Z세대 타겟 채용 브랜딩을 정비하고 면접 시 소통 역량 평가를 강화해야 합니다."
+    },
+    {
+      "part": "노무",
+      "note": "개정 노조법 시행과 중대재해 조사 강화 추세에 따라 외주·협력사 노무 관리 체계 및 현장 안전 수칙을 재점검해야 합니다."
+    }
+  ]
+}
