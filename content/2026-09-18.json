@@ -1,0 +1,197 @@
+{
+  "date": "2026-09-18",
+  "label": "2026년 9월 18일 (금)",
+  "issue": 13,
+  "generatedAt": "2026-09-18T05:38:18.098Z",
+  "headline": "AI 인재 확보전 심화 속 노동 법안 변화 및 전사 AI 교육 체계 구축 과제",
+  "lede": "오늘 브리핑에서는 메가특구 근로시간 유연화 논의 및 하반기 주요 노동법안 개정 동향과 함께, AI 핵심 인재를 둘러싼 글로벌 및 대기업 간 확보 경쟁 현황을 다룹니다. 아울러 전 직원 대상 AI 교육을 전격 도입한 기업들의 HR 트렌드와 마케팅 SaaS 생태계의 AI 전환 흐름에 따른 인사팀의 대응 전략을 제시합니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "민주노총, 메가특구 사회적 대화 참여…6년 만에 ‘원포인트’ 노사정 대화",
+          "source": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kWHExVXljOEZjd3k5ME1EenhJeWU1TzQ4cHNfS1dKWkxvdmdWbXFzWkJvejNOVnFTZFg2X0FSZzVKVjhGaUR5eWFteFJqaEZ0U3NNeXVHQlYzVFZXTzBJaWRIOTI?oc=5",
+          "publishedAt": "2026-09-17T15:51:00.000Z",
+          "category": "law",
+          "summary": "민주노총이 정부의 메가특구 내 주52시간제 유연화 추진에 대응해 6년 만에 원포인트 노사정 대화에 참여하기로 결정했습니다. 노동계는 규제 완화 대신 주4.5일제 도입과 근로시간 단축을 주요 안건으로 내세울 방침입니다. 이에 따라 메가특구를 둘러싼 근로시간제 개편 논의가 노사 간 핵심 쟁점으로 떠오르고 있습니다.",
+          "impact": "근로시간 규제 및 유연근무 관련 법개정 향방을 모니터링하여 자사 근무제도 유연성 확보 전략에 반영해야 합니다 (추측)."
+        },
+        {
+          "title": "[분석] 하반기 상정 노동법안 100건이 다시 묻는다…“현장에서 누가 지시하고 책임지는가",
+          "source": "아웃소싱타임스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9XZDV0aVh2R2VEMlpYQzFtZFg4a3Q5Zkt2MXp5c0Jjd0M4bFNNdzhxcXNPZUt3WEI2OHlqQXVKSjlZUXh3NXA0SjRlWktpTE5xRFktY25JNVZRTWRRTWVuUFBRSlZ5dTZidlVkSHI1aTR5QQ?oc=5",
+          "publishedAt": "2026-09-17T21:00:00.000Z",
+          "category": "law",
+          "summary": "올해 하반기 국회에 상정된 100여 건의 노동 관련 법안들은 사업장 내 실질적 지시자와 책임 소재를 명확히 다루고 있습니다. 외주 및 위수탁 계약 구조에서의 사용자성 확대와 원청의 책임을 강화하는 법안들이 대거 포함되었습니다. 노무 관리 시 단순 계약 형태를 넘어 실제 업무 지휘·감독 관계에 대한 법적 리스크 점검이 시급해지고 있습니다.",
+          "impact": "외주 마케팅 계약 및 외주 인력 업무 지휘 관계 등 계약 형태 전반의 노무 리스크를 선제적으로 재점검해야 합니다."
+        },
+        {
+          "title": "육아휴직 대상 자녀 연령 확대…무엇이 바뀌고 누가 대상인가",
+          "source": "NANOOM ENERGY",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9vZWZ1ODNqd0p2LUhZMVZ3Y0p2RnJDWjNRLUFtN0VMY3FzVWhDQ2Z3NDBKTERlZmhUemlZN2xFVjdzZGNLQWZlWHhRZGFaejBlSm85LVgzbkJ0UXFFenhxVGU2UElXQXNXci1Z?oc=5",
+          "publishedAt": "2026-09-17T13:31:04.000Z",
+          "category": "law",
+          "summary": "정부 및 지자체 제도의 변화로 육아휴직을 사용할 수 있는 대상 자녀의 연령 기준이 확장되고 있습니다. 일·가정 양립 지원을 위한 모성보호 제도가 한층 강화되면서 육아휴직 신청 자격과 기간 등 세부 기준이 다변화되는 추세입니다. 기업은 변경된 육아휴직 대상 조건에 맞춰 취업규칙 및 복리후생 규정을 최신화할 필요가 있습니다.",
+          "impact": "자녀 연령 확대 등 모성보호 법제도 변경 사항에 맞춰 취업규칙 개정 및 대체인력 인프라를 정비해야 합니다."
+        },
+        {
+          "title": "[워킹맘산책] 명절 상여금 지급, 추석 앞두고 점검해야 할 것들",
+          "source": "베이비타임즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1scVg0bFJFbkhGLXNPVFJUcWNXc3ZaX18yYkdHVTdlajJJNVBwNW52d0x1OTZtX2hxekhpRXZTV2daWThCSExwU2xzYkNJNmFLV1QtRlFGUmg5bU5BZW90SUthbE45QWpnX1NLdw?oc=5",
+          "publishedAt": "2026-09-18T00:54:54.000Z",
+          "category": "law",
+          "summary": "추석 명절을 앞두고 기업들이 지급하는 명절 상여금의 통상임금 포함 여부와 지급 기준에 대한 사전 점검이 강조되고 있습니다. 취업규칙이나 취업약정상 명시된 조건에 따라 상여금의 법적 성격과 평균임금 산정 포함 범위가 달라집니다. 재직 조건이나 정기성 여부를 명확히 정리해야 향후 임금 관련 분쟁을 예방할 수 있습니다.",
+          "impact": "취업규칙상 명절 상여금 산정 기준과 통상임금 반영 여부를 사전에 재검토하여 노무 리스크를 예방해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "case",
+      "name": "판례·노동위",
+      "items": [
+        {
+          "title": "‘가족친화기업’ LG유플러스, 임신한 아내·자녀 있어도 원거리서 ‘혼자 살아라?’…노동위 “부당해고”",
+          "source": "뉴스필드",
+          "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNSGh4dDZ3ckhfamcwWHNMY2piWFZfUDZNc0NxbmpHMWVzMjU0UjBPc282NVdTQmJ5VlZWWHhyWTYyeFM3Y3hUQ1Q0ak4wQVVOVlpLSmJrREdxRFRiSHhPUk0wRlVyUENERUV6MWxEcWwwMVgyTVZPa3VKdDRPOE1FdlVpT0tyNFQtaU10UDFIZk42ckxVWUFSQmdMYVozcG9PdGVFME1HUTVKdTBVbWNOZEdqQkhFc3dTYzZUSlhRRk1obVFOZzFVLVR2Umh5Rk1IVkFBdjhJVlh4TkxFdWo1WGRpWkpfdFlHYXk5cHRzSk1zUHlSaVV1SFZuZ3g0NkNBWWREOGVkUmZaRnBEVFdfNjY2SW11dTFDWjRKMGpUQUJIa0U?oc=5",
+          "publishedAt": "2026-09-18T02:17:21.000Z",
+          "category": "case",
+          "summary": "노동위원회가 임신 중인 아내와 자녀가 있는 직원에게 생활상 불이익이 과도한 원거리 배치를 단행하고 해고한 조치에 대해 부당해고로 판정했습니다. 기업의 인사권 행사가 근로자의 불이익에 비해 업무상 필요성이 부족하다고 판단한 사례입니다. 원거리 전보나 인사발령 시 근로자의 가정을 고려한 서면 협의 및 타당성 확보가 강조됩니다.",
+          "impact": "원격 근무 전환이나 부서 배치전환 시 근로자의 생활상 불이익과 업무상 필요성을 서면으로 면밀히 비교·검토해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "독파모 경쟁 뒤편 ‘인재 확보전’…LG·업스테이지도 핵심 연구인력 영입 경쟁",
+          "source": "edaily.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcjJ3SkpTdi12VXg3aVNDQnpfRmZJNzRseHVHbFdTZUxCZWpPbFU5cHEtb3JKVmFJVVJPVjhyX1Y1UXdyMGN4MFcxMFVxVTBnM0Zoa2lKNWJqRGE4TDdSVlpjclJ1WmEyR3F4NElsb056T3NYWUxnNUxfRmx5bWNGbA?oc=5",
+          "publishedAt": "2026-09-18T01:59:00.000Z",
+          "category": "market",
+          "summary": "독자적 AI 모델 개발을 추진하는 기업 간에 핵심 AI 연구인력을 확보하기 위한 영입전이 격화되고 있습니다. LG를 비롯해 업스테이지 등 주요 AI 기업들이 뛰어들며 핵심 인재의 처우와 인프라 지원 경쟁이 치열해졌습니다. AI 우수 인재 유치를 위해 경쟁력 있는 보상 체계와 연구 환경 제공이 필수 요소로 작용하고 있습니다.",
+          "impact": "AI 엔지니어 및 핵심 연구 인력 이탈을 막기 위해 직무 스톡옵션과 성과 보상안을 파격적으로 정비해야 합니다 (추측)."
+        },
+        {
+          "title": "\"단순 자동차 회사 아냐\"...현대차, 실리콘밸리 AI 인재 '싹쓸이'",
+          "source": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aRHBlUmszUEdaVUVKcElXMkk1SUx6VGh4RTVkbmt5X2F0WmdQYm5jNGM1TS14dkRwVjFSOUNINXg0bUlEOHlRSDdkQnpfeDR2U01uRldINjR4MjlhRVg0QlpFR25pTExtM0h5bDI3cnhnMmpSWmc?oc=5",
+          "publishedAt": "2026-09-18T01:09:00.000Z",
+          "category": "market",
+          "summary": "현대자동차가 미국 실리콘밸리 현지에서 해외 기술인재 모집 행사를 열고 글로벌 AI 인재 확보에 나섰습니다. 전통 제조업에서 글로벌 AI 및 소프트웨어 기업으로 체질을 개선하기 위해 전방위 리크루팅을 전개하고 있습니다. 대기업들의 글로벌 소프트웨어 인재 확보 움직임이 커지면서 IT 업계 전체의 인재 채용 경쟁이 가열되고 있습니다.",
+          "impact": "대기업의 IT·AI 인재 영입 확대에 대응해 자사만의 독창적인 조직문화와 유연한 근무 환경을 강조하는 리크루팅 브랜딩을 강화해야 합니다."
+        },
+        {
+          "title": "구직자들 연봉 궁금해도 '침묵'...\"돈만 밝힌다 볼까봐\"",
+          "source": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9WLUZ3bnpGMnpxUHEydXJHVkhROF9PdEdDcms2TE80cnRnYm51bmJRSWhnQTdaNFFUTno2UlhoYzJFQmp6VGo3X1g1QU9PMm9sRUlROF93?oc=5",
+          "publishedAt": "2026-09-18T00:08:07.000Z",
+          "category": "market",
+          "summary": "구직자 절반 이상이 면접이나 채용 과정에서 연봉 정보를 정확히 파악하고 싶어 하지만 부정적인 평가를 우려해 묻지 못하는 것으로 조사됐습니다. 채용 공고에 연봉 구간이나 보상 기준이 명확히 제시되지 않는 경우가 많아 채용 정보 불균형이 지속되고 있습니다. 보상 투명성을 높인 공고가 우수 구직자의 지원율과 만족도를 끌어올리는 요소로 부각됩니다.",
+          "impact": "채용 공고에 구체적인 연봉 범위와 성과 보상 체계를 투명하게 공개하여 지원자의 신뢰도를 확보해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "trend",
+      "name": "HR 트렌드",
+      "items": [
+        {
+          "title": "이엠넷, 임직원 대상 바이브코딩 교육 실시...'AI 실전역량 강화'",
+          "source": "데일리한국",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CRjNLdWdyUzk4LV9wZUw4bEY5dnl0NDh3NXFYZUcxemcyNHp0RWRHaGlWS2pRMnE1cDhWWlR1WElkVUlDSUtsam94ek5yRDRuQ05HM1FITnV1TmFnTWJhQ242LWIxXzRDSUs5RVg1MNIBc0FVX3lxTE1JTXptU0xVeEZZOFlTbl9QSXZ0b2l1a3JDc3JLZllRR2hQcFBGelV0NTk1TTdLYXBfSDdsQjE3ZWlDRXRzVUZvWkRzWG9rSXcwbHZaTHExZ2VqbjNRMFFPOUNsREQ2ZGFwbU81UlY2QnpCdlk?oc=5",
+          "publishedAt": "2026-09-18T04:09:56.000Z",
+          "category": "trend",
+          "summary": "마케팅 및 데이터 분석 기업 이엠넷이 전체 임직원의 AI 실전 역량 강화를 위해 바이브코딩 교육을 전격 실시했습니다. 업무 현장에서 AI 툴을 직접 활용해 생산성을 높이고 실무 중심의 코딩 역량을 갖추도록 돕는 취지입니다. 전사적인 AI 교육 배치가 디지털 전환과 인재 경쟁력 유지의 핵심 과제로 떠오르고 있습니다.",
+          "impact": "마케팅 및 개발 실무에 바로 적용할 수 있는 사내 AI 생성형 툴 교육 과정을 단계별로 도입할 필요가 있습니다."
+        },
+        {
+          "title": "SK브로드밴드, 국가 공인 ‘베스트 HRD’ 획득…AI 인재 육성 성과",
+          "source": "데이터뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nNkJJTnhUdW9UZDJ3M1RHczZ4SFZPeDF1dHg3V2p3RDBKbmxmSFZxam5nQ01sbTZPbW1YYk5UY1dadVRBRkhMSGxiQVVNQXhSWFRPUVlRT0MwdkJtUUUw?oc=5",
+          "publishedAt": "2026-09-18T01:26:52.000Z",
+          "category": "trend",
+          "summary": "SK브로드밴드가 전 직원을 대상으로 추진한 AI 교육 체계와 인재 육성 성과를 인정받아 정부 공인 베스트 HRD 인증을 획득했습니다. 직무별 맞춤형 AI 학습 커리큘럼을 구축하고 사내 인재의 디지털 역량을 실질적으로 상향시킨 결과입니다. 기업 내 HRD 정책이 단순 교육을 넘어 AI 실무 연계 중심으로 재편되는 양상입니다.",
+          "impact": "전사 직무별 AI 역량 모델을 정립하고 교육 수료와 성과 평가를 연계하는 사내 교육 체계를 설계해야 합니다."
+        },
+        {
+          "title": "\"면접 때 이 질문 하나면 끝\"…스타트업 대표들 메모한 '빌런' 거르는 비결[VC는 지금]",
+          "source": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9kQ1c2VTJyN2tGRVJGVDB5QURGVWxnSThOaHItU1A5Nmp4T1FFcjBobFpsUkEwR2xCR1diNGYtdG1Kem1ndkRlUVJvZWtFZm9SVXFhLTNRb29selV3ZU1TMzVn?oc=5",
+          "publishedAt": "2026-09-17T22:50:12.000Z",
+          "category": "trend",
+          "summary": "스타트업 대표들과 HR 담당자들 사이에서 조직문화를 저해하는 비협조적 구성원을 채용 단계에서 걸러내는 면접 질문법이 주목받고 있습니다. 과거 성공담보다는 과오 복기, 갈등 해결 방식 등 구체적 행동지표를 검증하는 구조화된 질문이 효과적인 것으로 제시됐습니다. 정밀한 조직 적응도 평가가 채용 실패 비용을 줄이는 핵심 기법으로 강조됩니다.",
+          "impact": "역량 검증뿐만 아니라 조직문화 적합성(Culture Fit)을 엄밀히 측정할 수 있는 구조화 면접 질문 가이드를 개발해야 합니다."
+        },
+        {
+          "title": "[현장너머] 구조조정, '실패'가 아니라 '전환'이다",
+          "source": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05V0NuT19vNXJaVllMeU5UaDVzdjN2MUk4QWJaZUpmNG51SG11cHRkbDZVSzdybG9HSzd3a2VHWDlINzE5N1NVZXJtOGE3Qk0?oc=5",
+          "publishedAt": "2026-09-18T02:01:27.000Z",
+          "category": "trend",
+          "summary": "인력 구조조정을 단순한 조직 축소나 실패로 보지 않고 인재의 직무 전환과 재배치 관점으로 재정의해야 한다는 지적입니다. 조직 변화 속에서 구성원의 직무 재교육과 사내 이동 기회를 적극 제공하는 것이 조직 안정성과 인재 유지에 유효합니다. 방어적 감원보다는 역량 전환을 돕는 진보적 HR 관점이 기업의 장기 경쟁력을 좌우합니다.",
+          "impact": "사업 구조 변화에 맞춰 감원 대신 사내 직무 전환(Internal Mobility) 기회를 확대하는 프로그램 도입을 검토해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "Meta, Google만 계속 돌려도 될까? 요즘 마케터가 새 매체를 찾는 이유",
+          "source": "오픈애즈",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9US2NzMjBIbVM1WU5lcE5fb1FMZV9zY1MwOXRDeWxzdHFwU056NnFkMWJvc0J5c2J4VEdNQkZKR1V1TUloakJqbXRVekNvNzFQSWl4UDhpQm1KNHFjSzVpYmFGWXNHNEplcld4dml3?oc=5",
+          "publishedAt": "2026-09-18T04:15:00.000Z",
+          "category": "industry",
+          "summary": "메타와 구글 중심의 디지털 광고 매체 집행 방식에서 벗어나 새로운 마케팅 채널을 발굴하려는 마케터들의 시도가 늘고 있습니다. 광고 단가 상승과 타깃 정확도 변화로 인해 미디어 믹스 다변화와 차별화된 매체 전략이 필수 과제로 떠올랐습니다. 마케팅 솔루션 산업 전반에서 매체 연동 및 데이터 분석 스펙트럼 확장이 핵심 경쟁력으로 작용하고 있습니다.",
+          "impact": "마케팅 매체 다변화 흐름에 발맞추어 자사 SaaS 제품의 신규 매체 연동 기능 개발자 채용을 강화해야 합니다 (추측)."
+        },
+        {
+          "title": "플레이디 허익서 CD, 2026 칸 라이언즈 서울서 “AI 시대 대행사의 생존 전략 제시”",
+          "source": "madtimes.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZelM4MkwtUDZwT3NLby1Nb25nUG5GRWpteno5SFNyYlRWT2cxV1RGX1I3QmtwTEo5S0YxNUZLNFE2cnpKaDJWUzZEaENVdEk3eEpLdEtYMjZldk9LMUFvYjFNdEZ6ZlJXWVdsVw?oc=5",
+          "publishedAt": "2026-09-18T00:02:31.000Z",
+          "category": "industry",
+          "summary": "AI 기술 발전으로 광고 제작 영역을 넘어 소비자 구매 여정을 통합 설계하는 마케팅 에이전시의 역할 변화가 요구되고 있습니다. 단순 콘텐츠 제작자동화에 그치지 않고 데이터 기반의 컨설팅 및 역량 확장이 마케팅 생존 전략으로 제시됐습니다. 마케팅 서비스 생태계가 AI 자동화와 결합한 고도화 전략으로 전환하고 있습니다.",
+          "impact": "AI 시대에 대응하여 자사 마케팅 SaaS 제품의 AI 자동화 기획 직무 역량 요구사항을 재정의하고 관련 채용 기준을 고도화해야 합니다."
+        },
+        {
+          "title": "한컴, AI 워크포스 플랫폼 '노마디안' TV 광고 시작...미국시장 겨냥",
+          "source": "디지털투데이",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aUmxXTlZodGNaYXBSWVdaajNiaE14NVBQOExnZVQ4ZnZlNTdRdlU4Si0xaUFWSm5NM0g1ZjB0MGM5WG43a0lHUUdRY01UcDBtc2tkSjQ3enFHdmktXzljdEdDdjk5cUtOU3E5UVdHbzNMMTQ?oc=5",
+          "publishedAt": "2026-09-18T00:58:09.000Z",
+          "category": "industry",
+          "summary": "한글과컴퓨터가 AI 에이전틱 기반 워크포스 플랫폼 '노마디안'의 광고를 시작하며 본격적인 미국 글로벌 시장 공략에 나섰습니다. 단순 업무 보조를 넘어 업무 자동화 에이전트 소프트웨어 시장의 경쟁이 격화되는 양상입니다. 국내 IT 소프트웨어 기업들의 AI 에이전트 제품 출시와 글로벌 진출이 가속화되고 있습니다.",
+          "impact": "경쟁 AI 에이전트 플랫폼과의 기능 경쟁 격화에 따라 자사 개발 조직의 AI 스펙트럼 확장 및 인재 유치 필요성이 증대됩니다 (추측)."
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "인사기획",
+      "note": "조직 변화 및 전보 배치 시 근로자의 생활상 불이익을 면밀히 검토하고 감원보다는 사내 직무 전환(Internal Mobility) 기회를 적극 설계해야 합니다."
+    },
+    {
+      "part": "급여·보상",
+      "note": "명절 상여금의 통상임금 반영 조건을 사전 점검하고, 지원자 신뢰 확보를 위해 채용 공고 내 연봉 및 보상 투명성을 제고해야 합니다."
+    },
+    {
+      "part": "채용",
+      "note": "대기업의 AI 인재 싹쓸이 속에서 채용 브랜딩을 강화하고 컬처핏을 정밀 측정할 수 있는 구조화 면접 방식을 도입해야 합니다."
+    },
+    {
+      "part": "교육·육성",
+      "note": "마케팅 및 개발 실무 생산성 향상을 위해 전사 직무별 AI 역량 모델을 구축하고 실전 AI 코딩 및 툴 활용 교육을 체계화해야 합니다."
+    },
+    {
+      "part": "노무",
+      "note": "하반기 노동법안의 사용자 책임을 점검하고 메가특구 근로시간 유연화 논의 및 육아휴직 대상 연령 확대 등 모성보호 법제도를 지속 모니터링해야 합니다."
+    }
+  ]
+}
