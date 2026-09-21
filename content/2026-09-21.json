@@ -1,0 +1,123 @@
+{
+  "date": "2026-09-21",
+  "label": "2026년 9월 21일 (월)",
+  "issue": 14,
+  "generatedAt": "2026-09-21T06:08:11.257Z",
+  "headline": "명절 직후 이직 수요 급증과 AI 인재 확보 경쟁 심화",
+  "lede": "추석 연휴 직후 이직을 준비하는 구직자가 크게 늘어나는 가운데, IT 업계의 AI 인재 확보를 위한 채용 전략이 더욱 치열해지고 있습니다. 노동법 관련 이슈와 함께 유연근무제 도입 등 조직문화 변화의 흐름을 파악하여 대응이 필요합니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "고용노동부 「경영성과급 등 노동쟁의 대상 시행지침」의 주요 내용과 기업 대응방안",
+          "source": "lawtimes.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fVm5zSDh2MGNCeXVKT2JtRkRxWE5HNWVxSloxMXJpS0JaRDExMW0tYVdUTUs3UzNwSXNOZGgzakFHWkUtVVlOZVRPdElJb3drNURlYVR2bFg2eGpSUUpBTklmdURPYXkzQXVELTFn0gFyQVVfeXFMTWczTTRjSVRmUzFtX3ZlTFJRYzVXRmZGOVJJY0pjdTlyLTZfd293OG1WQ3JDYzlyUWtyR1BaTTVwSEJvSmpRZjF6aEpSZUU1OUktNVliLXJjQThtQ045ZGZnRFZ4dU9qam9NRkhBSmZzN2pB?oc=5",
+          "publishedAt": "2026-09-21T05:48:19.000Z",
+          "category": "law",
+          "summary": "고용노동부가 경영성과급 등을 노동쟁의 대상으로 포함하는 시행지침을 발표했습니다. 이에 따라 기업들은 향후 임금 및 성과급 관련 노사 협의 과정에서 발생할 수 있는 법적 리스크를 검토해야 합니다. 노사 간 갈등 예방을 위한 대응 방안 마련이 시급합니다.",
+          "impact": "경영성과급 관련 노사 분쟁 가능성에 대비해 임금 체계 및 협상 가이드라인을 재점검해야 합니다."
+        },
+        {
+          "title": "천안시, 공무원 '주 4.5일 근무제' 시범 도입…28일부터 적용",
+          "source": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rSHVKU0hKVm5XV2RQWkFLN0VkMDJaNDRSanRGbTVDcVZLVHE3ZE9YVzRwYkgzS2EtRWNNSHdXUWNqcXlzMFZ5Z0FKTXcwZU52YkJueWsyZnJpcmhzQzZudGhzcUFNQdIBZkFVX3lxTE5rSHVKU0hKVm5XV2RQWkFLN0VkMDJaNDRSanRGbTVDcVZLVHE3ZE9YVzRwYkgzS2EtRWNNSHdXUWNqcXlzMFZ5Z0FKTXcwZU52YkJueWsyZnJpcmhzQzZudGhzcUFNQQ?oc=5",
+          "publishedAt": "2026-09-21T02:45:23.000Z",
+          "category": "law",
+          "summary": "천안시가 공무원을 대상으로 주 4.5일 근무제를 시범 도입하며 유연근무제 확산에 나섰습니다. 공직사회의 유연한 근무 환경 조성이 민간 기업에도 영향을 미칠 것으로 보입니다. 업무 효율성을 높이기 위한 다양한 근무 형태에 대한 관심이 높아지고 있습니다.",
+          "impact": "유연근무제에 대한 사회적 요구가 커짐에 따라 우리 회사의 근무 형태가 인재 유치에 미칠 영향을 분석해야 합니다."
+        },
+        {
+          "title": "[기고] 직장 내 괴롭힘 금지법 6년, ‘유령 조사’ 끝낼 3대 입법 과제",
+          "source": "미디어펜",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE10WVIyU2pLVmpJWDJJLXJQQVhEYmJBS1QyUTh3dUhaS015UV9xZ0t1UmdCNHRLdFVGQUd5b1k4Nk1iZVA4Wkd3UGV3ZkpHXzAtTGYxMXBWVlPSAVhBVV95cUxNdFlSMlNqS1ZqSVgySS1yUEFYRGJiQUtUMlE4d3VIWktNeVFfcWdLdVJnQjR0S3RVRkFHeW9ZODZNYmVQOFpHd1Bld2ZKR18wLUxmMTFwVlZT?oc=5",
+          "publishedAt": "2026-09-21T00:32:29.000Z",
+          "category": "law",
+          "summary": "직장 내 괴롭힘 금지법 시행 6년이 지났으나 여전히 실효성 논란이 지속되고 있습니다. 조사 과정의 공정성을 확보하고 실질적인 보호 체계를 구축하기 위한 3대 입법 과제가 제시되었습니다. 기업은 내부 조사 절차의 투명성을 강화해야 합니다.",
+          "impact": "직장 내 괴롭힘 조사 절차를 재점검하여 법적 리스크를 최소화하고 조직 내 신뢰를 구축해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "연휴 직후 첫 월요일 이력서 등록 평균 49% 증가...잡코리아 조사",
+          "source": "디지털투데이",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5BZ3VUN0pNMnlyVkYzSXExaUd6bnpNaEVVT0ZRTHJSU0E3ZE9XRWhNQVZISTFOS3hQR1pPSjdELUN0Y1gzVERKdUhfbVcyRGFXZXBBTi1xa2lmYkVpNDE3RGRxeUpZQWZDU1UtbnU5MXpSNDA?oc=5",
+          "publishedAt": "2026-09-21T00:51:49.000Z",
+          "category": "market",
+          "summary": "잡코리아 조사 결과, 명절 연휴 직후 첫 월요일의 이력서 등록 건수가 평일 평균 대비 약 49% 증가했습니다. 명절 기간 동안 직장인들이 이직을 진지하게 고민하는 경향이 뚜렷하게 나타나고 있습니다. 기업들은 연휴 직후 인재 유출 가능성에 대비해야 합니다.",
+          "impact": "연휴 직후 핵심 인력의 이직 움직임이 활발해질 수 있으므로 조직 내 리텐션 관리와 면담을 강화해야 합니다."
+        },
+        {
+          "title": "'AI 인재전쟁'에 14년 빗장 풀었다···삼성·LG 병역특례 부활",
+          "source": "seoulfn.com",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE90alBCUGFRanMweXJYYjcxX0VObm1zQ2JxSWVrM25Kam9VNUcwSHlveUJ2S2xOU0t1bzFidEdJemRkQ2c1Tko2eGttYy10QXpTWi1MM044VW53NFZwU3RwVVEyZDlaTXZ3Rnc?oc=5",
+          "publishedAt": "2026-09-21T03:00:00.000Z",
+          "category": "market",
+          "summary": "삼성과 LG 등 주요 대기업이 AI 인재 확보를 위해 14년 만에 병역특례 제도를 부활시켰습니다. AI 기술 주도권 확보를 위한 인재 전쟁이 심화되면서 우수 인력 유치를 위한 파격적인 채용 조건이 제시되고 있습니다. IT 업계 전반의 인재 확보 경쟁이 더욱 가열될 전망입니다.",
+          "impact": "대기업의 공격적인 AI 인재 채용으로 인해 중견 IT 기업의 인재 확보 경쟁력이 약화될 수 있으므로 차별화된 보상 전략이 필요합니다."
+        },
+        {
+          "title": "CJ제일제당, 신입 채용도 'AI·직무 체험' 중심 전환…'CJ 언바운드' 개최",
+          "source": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE12U3NscEdEeVF6QkhwSW1PVzRWbGtnWkxPeW5xb2Y5M1Fkck50X1J3MjJ5Z3Y2cWNiSS0tcEF1UkR6dnh3S0RIdjRIdk9Fdw?oc=5",
+          "publishedAt": "2026-09-21T02:41:46.000Z",
+          "category": "market",
+          "summary": "CJ제일제당이 신입 채용 방식을 AI 역량과 직무 체험 중심으로 전면 전환했습니다. 기존의 스펙 위주 채용에서 벗어나 실무 역량을 직접 확인하는 방식으로 인재를 선발합니다. 기업들의 채용 프로세스가 실무 적합성을 중시하는 방향으로 변화하고 있습니다.",
+          "impact": "우리 회사도 AI 및 실무 체험 중심의 채용 프로세스를 도입하여 직무 적합도가 높은 인재를 선별할 필요가 있습니다."
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "[비즈톡톡] AI 시대에 대규모 공채한다… IT서비스 기업들이 인재 확보 나선 이유는 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTmJOYkhzN1Q0WUYyc19faHlRX1g5RDFFaHUzTVhPaEpyaW9NRURMdlQ0RWVKZkhPUl9NV1JyTEp3aVhzUkhkLWswV2RfRlV1LXR5V1FXeGN2X1pZRGxFaURKVzI3aTNjWDB4Z25NUGpaSk54dlJPS1BVejZkd19QZjhB0gGWAUFVX3lxTE9IeWJOdUpBY0NFU05pWmg3NTVhSlBpY3VhLXVRN2JIWkhLdFVTRWpFZXBWNWRvbVk0RlVraWx2b0VYa0hJeHdxc3RDZmtrY1BFUW1DM2g4WHEyQjB3Q0RyTXlCbkFPM3pCc0IwY1pYTk02RUdrc3A5eGNpcXlBMDVrUTFiUy1FTk9mcFRSU1d2WThFcERKdw?oc=5",
+          "publishedAt": "2026-09-20T21:02:30.000Z",
+          "category": "industry",
+          "summary": "IT 서비스 기업들이 AI 시대에 발맞춰 대규모 공채를 진행하며 인재 확보에 열을 올리고 있습니다. AI 기술 역량이 기업의 생존과 직결되면서 관련 전문 인력에 대한 수요가 급증했습니다. 기술 중심의 조직문화와 보상 체계가 중요해지고 있습니다.",
+          "impact": "IT 서비스 업계의 AI 인재 채용 경쟁 심화에 따라 우리 회사의 AI 관련 직무 보상 경쟁력을 재평가해야 합니다."
+        },
+        {
+          "title": "드림인사이트, 자체 AI 플랫폼 'DMAX AI' 실무 적용",
+          "source": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BN3ZZejczZUxxZjVvY01NNlhCbzVjeE45TjBwRUFWcXhaUy04UlBhNVpUbXRjVFhXZ1FWZmV1cXlKS083dEllWG00RFdaYVhCTUs3Z3BMUVVaSEJO?oc=5",
+          "publishedAt": "2026-09-21T04:46:00.000Z",
+          "category": "industry",
+          "summary": "드림인사이트가 자체 AI 플랫폼인 'DMAX AI'를 실무에 적용하며 광고 효율화에 나섰습니다. 마케팅 업계 전반에서 AI를 활용한 업무 자동화와 효율성 증대가 가속화되고 있습니다. 기술 도입이 마케팅 성과를 좌우하는 핵심 요소가 되었습니다.",
+          "impact": "마케팅 SaaS 기업으로서 AI 기술 도입이 실무 효율에 미치는 영향을 파악하여 제품 고도화에 반영해야 합니다."
+        },
+        {
+          "title": "“AI로 광고 이미지·영상 만든다”…KODA, 디지털광고 실무교육 무료 운영",
+          "source": "잡포스트",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54Yll3TndyTVFWQlBabmpaajctZUxHRVFob2pyVm1yYXpRRGpOY3lYRnQxUC1TY0RnbDh2Q1FjUjNHV0NGYk9vTkJJZkJOWmVxVWtvRGFsbWE3UGkyNkhqOHJPRE9jeERRVjRpTTBn0gFyQVVfeXFMUE56NjhnYUl2TE1uUnVieVh6ekZNeXRyTE1VQVJseGs5dFJod0ZYajJzMTg4ZG80Z0JONHpneWtZRmJQNXpNTHpTR1Mzck9UdEFiRVp0SXBDUWczUDI3dTlsZFNlT3ZHeGxyMlhLX2o3NW1B?oc=5",
+          "publishedAt": "2026-09-21T04:00:40.000Z",
+          "category": "industry",
+          "summary": "문화체육관광부와 한국디지털광고협회가 AI를 활용한 광고 제작 실무교육을 무료로 운영합니다. 디지털 광고 시장에서 AI 활용 능력은 실무자의 필수 역량으로 자리 잡고 있습니다. 업계 전반의 디지털 전환 교육 수요가 증가하고 있습니다.",
+          "impact": "마케팅 SaaS 실무자들의 AI 활용 역량 강화를 위한 사내 교육 프로그램 도입을 검토해야 합니다."
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "채용",
+      "note": "연휴 직후 이직 수요가 급증하므로 핵심 인력의 이탈 방지 대책을 세우고, 대기업의 AI 인재 채용 경쟁에 대응할 차별화된 채용 브랜딩이 필요합니다."
+    },
+    {
+      "part": "교육·육성",
+      "note": "마케팅 및 IT 실무자들의 AI 활용 역량이 중요해짐에 따라 사내 AI 툴 교육 및 실무 적용 워크숍을 확대해야 합니다."
+    },
+    {
+      "part": "노무",
+      "note": "경영성과급 관련 노동쟁의 지침 변화와 직장 내 괴롭힘 조사 절차의 투명성 확보를 통해 법적 리스크를 선제적으로 관리해야 합니다."
+    }
+  ]
+}
