@@ -1,0 +1,156 @@
+{
+  "date": "2026-09-22",
+  "label": "2026년 9월 22일 (화)",
+  "issue": 15,
+  "generatedAt": "2026-09-22T05:57:52.232Z",
+  "headline": "AI 채용 검증·보안 리스크 부상 및 근로시간·중대재해 노무 관리 강화",
+  "lede": "최근 채용 시장에서는 AI 작성 지원서와 위장 취업 등 지원자 검증 및 보안 리스크 대응이 인사팀의 핵심 과제로 부상했습니다. 이와 함께 주 52시간 초과 시 과로사 산재 인정률 급증과 중대재해처벌법 양형기준 확정으로 노무 관리의 법적 책임이 더욱 엄격해졌습니다. HR팀은 채용 검증 프로세스를 개편하고 연장근로 모니터링 체계를 사전 점검해야 합니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "주 52시간 넘자 과로사 산재 인정률 ‘껑충’…35.3%서 77.7%로",
+          "source": "기호일보",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5UcTZiaVZrQmVmenhGUGhYRjNZc2p3bzBZYUNTRHNLS1lqUEtRSzRnU2xFQU02R2RHRkZUQUpwZU43ck1nLTdCVE45THFrT3JfcFNGWFhwNDdJeWtGWFczOUM3czEzOFpDNmJua3RpTQ?oc=5",
+          "publishedAt": "2026-09-22T05:32:49.000Z",
+          "category": "law",
+          "summary": "근로시간이 주 52시간을 초과할 경우 과로사로 인한 산재 인정률이 35.3%에서 77.7%로 급증하는 것으로 조사됐습니다. 연장근로가 많은 근무 환경일수록 산재 승인 및 기업의 노무 리스크가 대폭 증가함을 보여줍니다. 이에 따라 유연근무제 도입과 철저한 근로시간 관리가 중요해졌습니다.",
+          "impact": "개발 및 제품 출시 집중 기간 연장근로 발생 시 산재 리스크 예방을 위한 근로시간 한도 모니터링과 휴게시간 확보 조치가 필요하다고 추측됩니다."
+        },
+        {
+          "title": "‘산업재해로 사망하면 최대 징역 15년’…중대재해처벌법 첫 양형기준",
+          "source": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0RXN6c3FWM3J3ME9NZThUZWh0dl9yaHptUkV6Y2NwUlF5aEhaLXFkeGlSWWNOVXlheTEtVTluczlZOG1KMmdrU3IxY0pnZU9mN28yeEpRVUxsZ19jMGo2RWVha3pwUEhzSWxOY3FZWDMtUQ?oc=5",
+          "publishedAt": "2026-09-22T02:41:00.000Z",
+          "category": "law",
+          "summary": "대법원 양형위원회가 중대산업재해 사망사고에 대한 첫 양형기준을 신설하고 사업주 및 경영책임자에게 최대 징역 15년을 권고하기로 했습니다. 안전보건 의무 위반으로 사망사고 발생 시 처벌 수위가 대폭 강화되었습니다. 경영책임자의 법적 위험이 더욱 구체화되었습니다.",
+          "impact": "사내 안전보건 관리 규정을 재점검하고 경영진을 대상으로 중대재해 예방 및 리스크 대응 브리핑을 실시해야 합니다."
+        },
+        {
+          "title": "거짓 구인광고 게재 전 차단한다…정부, 모니터링·삭제 체계 강화 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hdElTVkN0VUVxVGJjZzBNVW5XZXNZbEdGb1dnWGxSVzFFeHk1dzlqOE1zbEJ1azNmWkd4MjU4amJneFN4bzFzcExZcUhXUjZSc2VtakJOa0Y2SlNSZ1NCcy0tY3pPTG5XNlB4VnRPM3rSAXBBVV95cUxPYXRJU1ZDdFVFcVRiY2cwTVVuV2VzWWxHRm9XZ1hsUlcxRXh5NXc5ajhNc2xCdWszZlpHeDI1OGpiZ3hTeG8xc3BMWXFIV1I2UnNlbWpCTmtGNkpTUmdTQnMtLWN6T0xuVzZQeFZ0TzN6?oc=5",
+          "publishedAt": "2026-09-22T01:05:16.000Z",
+          "category": "law",
+          "summary": "정부가 구직자 피해를 예방하기 위해 거짓 구인광고의 유통을 사전에 차단하는 모니터링 및 삭제 체계를 강화합니다. 주요 채용 플랫폼 내 모니터링 범위를 늘리고 위반 기업에 대한 관리를 엄격히 추진합니다. 공고 내용과 실제 근로조건의 일치 여부가 주요 점검 대상입니다.",
+          "impact": "채용 공고 작성 시 임금 및 근로조건 항목에 허위 또는 오인 여지가 없는지 사전 검수 절차를 마련해야 합니다."
+        },
+        {
+          "title": "최저임금 위반 신고 93%가 50인 미만 사업장…5인 미만 68%",
+          "source": "shinailbo.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxa1RDWFlibWwxOVVkekF1bGpLX1VtVFM3V1pnN214ajViQmE5aWx5UzB6ckNBMVlQTG04aUh3V2xsQlpOMVZRalZVNUNWNmxtWE0tcHdpaVBESWtwU0hWSnNVYU42STZvT3lXMGdzQmg?oc=5",
+          "publishedAt": "2026-09-21T23:21:29.000Z",
+          "category": "law",
+          "summary": "최저임금 위반 신고 건수의 93%가 50인 미만 사업장에 집중되어 있으며 5인 미만 사업장이 68%를 차지한 것으로 나타났습니다. 영세·소규모 사업장일수록 법정 임금 준수 체계가 취약하다는 점을 보여줍니다. 노무 관리 미비로 인한 분쟁 위험이 높아지고 있습니다.",
+          "impact": "외주 협력사 및 도급 인력 활용 시 최저임금 준수 여부를 확인하여 연쇄 노무 리스크를 예방해야 합니다."
+        },
+        {
+          "title": "한경협 “화이트칼라 이그젬션, 전 지역·업종에”",
+          "source": "매일노동뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxU0xub3NqNHIzR3RXeUFqZ3B5Y3FRbU9EMTBvUENaYUVqWmVwM1l0QTJ5dVFhclBGbzRFVW5nYmtNc0ZRN2Fob3ZNajZPQ0N1ZnlFNUt2cHpDQm51c291dXhHSjluQ05saWVJdHg1WHA?oc=5",
+          "publishedAt": "2026-09-21T21:30:05.000Z",
+          "category": "law",
+          "summary": "한국경제인협회가 연구개발 및 고위 전문직에 대해 주 52시간 규제를 제외하는 '화이트칼라 이그젬션'을 전체 지역과 업종으로 확대할 것을 건의했습니다. 첨단 IT·R&D 산업의 유연한 근로환경 조성을 요구하는 목소리가 이어지고 있습니다. 향후 노동법 개정 논의 추이가 주목됩니다.",
+          "impact": "향후 제도 법제화 추이를 모니터링하며 R&D 및 개발직군의 유연근무제 개편안을 미리 검토해둘 필요가 있습니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "[기획] AI 잘 쓰는 인재, 어떻게 가려낼까…헤드헌팅·파견업계의 새 과제",
+          "source": "아웃소싱타임스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vRlh4emtpY1FCU2hEMi11Ty1HN25qbUdSVVJSV1NVMU5jcDdyUnpwVWYwN0ZCRHBGbHpMU1RRemtBOG14MURhdTFwNHZtNnZ2YWx3dDZkTDBIVklvSVBHOEY4b3c4QThfU2hCeHZGdHMtZw?oc=5",
+          "publishedAt": "2026-09-22T01:40:39.000Z",
+          "category": "market",
+          "summary": "생성형 AI 보급이 확산되면서 HR 및 헤드헌팅 업계에서 AI를 실질적으로 잘 쓰는 인재를 가려내는 검증 기준 마련이 주요 과제로 떠올랐습니다. 단순한 툴 사용 경험을 넘어 실제 업무 생산성 향상으로 연결하는 능력을 평가하는 전형이 필요해졌습니다. 이에 맞춰 채용 평가 문항과 실무 과제가 개편되는 추세입니다.",
+          "impact": "개발 및 마케팅 직군 채용 전형 시 AI 도구 활용 능력과 문제 해결력을 평가할 전형 요소를 신설할 필요가 있다고 추측됩니다."
+        },
+        {
+          "title": "북한발 위장취업 해킹, 30000대 감염시켜 147억원 탈취",
+          "source": "디지털포커스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nOW9EYzFWcFYwQlVqMzVaVGZVdE9ockpPdk1McmhtbW0zSm5YVVd6azAyOHlKQ2Z6dTJkVUJacTl1NnUweklPSkR0TTdwd215Y0ItY2tfU1NSMTctN3Rsc3NqU2tNWkpncndNTXF2VXc?oc=5",
+          "publishedAt": "2026-09-22T00:33:30.000Z",
+          "category": "market",
+          "summary": "북한발 해킹 세력이 원격 근무자로 위장 취업하여 기업 내부망에 침투하고 수만 대의 PC를 감염시켜 자금을 탈취한 사건이 적발됐습니다. IT 및 원격 근무 중심 기업에서 신원 검증과 보안 관리의 허점이 노출되었습니다. HR과 보안팀 간의 원격 채용 검증 공조가 시급해졌습니다.",
+          "impact": "원격/재택 근무자 채용 시 신분 확인 절차와 화상 면접 신원 검증 및 보안 서약 프로세스를 강화해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "trend",
+      "name": "HR 트렌드",
+      "items": [
+        {
+          "title": "AI 이력서·딥페이크 인터뷰 확산...지원자 진위와 직무 적합도 함께 검증",
+          "source": "지티티코리아",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KQWhGOHFRc25QclZtZXU2bG5wYU9uZ2RuUV9pZ1VreHhqQkdVRWI4d1pHR3FRbHlxSi1JYWFtY0pwQVc2bE8wRWRFQ29UMXVUb0J2MXVteEQ4YVNteVVacWtmbFRGUUlfSlE?oc=5",
+          "publishedAt": "2026-09-21T23:00:00.000Z",
+          "category": "trend",
+          "summary": "AI 이력서 작성과 딥페이크 인터뷰 등 채용 부정 및 자동화 기술이 확산되면서 지원자의 진위 여부와 실제 직무 적합도를 검증하려는 노력이 확대되고 있습니다. 채용 플랫폼과 기업들은 지원서 검증 고도화 및 실무 테스트 강화를 도입하고 있습니다. 서류 전형만으로는 인재를 판별하기 어려운 환경이 형성되었습니다.",
+          "impact": "서류 전형의 변별력 약화에 대비해 실무 과제 검증 및 라이브 코딩/실무 면접 기준을 정교화해야 합니다."
+        },
+        {
+          "title": "[Tomorrow is decacorn] [그레이비랩] 코칭 플랫폼 개발, AI 기반 ‘컬처핏 진단’으로 차세대 HR 혁신",
+          "source": "비즈니스리포트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1RanU0WnpDZ1dGZktOZVZ3anVTRVJsUnplemZQZGdIOXdNeFdMc003S2FYVE9EY05HUGc3aWFicVBKWG01dkp4VUpJNEh6S2FwanllRUc3Y1JHN3lfVTFob1lCMVNMVTdlakxZRGFxaw?oc=5",
+          "publishedAt": "2026-09-21T21:05:00.000Z",
+          "category": "trend",
+          "summary": "AI 기술 기반으로 조직의 컬처핏을 진단하고 HR 코칭을 제공하는 솔루션 개발이 활성화되고 있습니다. 데이터 분석을 통해 신규 입사자의 조직 적응도와 직무 적합성을 정밀하게 파악할 수 있게 되었습니다. 이는 조기 이탈 방지 및 조직문화 개선 도구로 활용되고 있습니다.",
+          "impact": "AI 기반 컬처핏 진단 툴 도입을 검토하여 신규 입사자의 온보딩 성공률과 조직 적응 모니터링을 강화할 수 있습니다."
+        },
+        {
+          "title": "배민, 내달 28일 '우아콘 2026' 개최…AI·로봇·조직문화 등 40개 세션",
+          "source": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9VcDZORDZxRnlvYWU5UG0wbFhQX3lNSkQ0bEdLR3NEYTYwWnZPN2VIblZlWFRyMzBYOVlnTFVzZTR0WUNJSFdIQU9mbzJuZw?oc=5",
+          "publishedAt": "2026-09-22T00:09:30.000Z",
+          "category": "trend",
+          "summary": "우아한형제들이 기술 콘퍼런스 '우아콘 2026'을 열고 AI·로봇 기술과 함께 일하는 방식 및 조직문화를 다루는 세션을 진행합니다. IT 테크 기업들의 조직 운영 방식과 일하는 문화의 공유가 활발해지고 있습니다. 최신 HR 및 조직 운영 사례를 학습하는 기회가 될 수 있습니다.",
+          "impact": "선도 IT 기업의 최신 조직문화 및 업무 프로세스 사례를 벤치마킹하여 자사 일하는 방식 개선에 참고할 수 있습니다."
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "이랜서, AI 에이전트 개발자 5000명 확보...기업 업무 자동화 시장 공략",
+          "source": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzN3FMRW8takZjLW93VEtWeUNDT0FvMDZwMkFTajI3ZEl5a21BM0RfUU9rMDNZVmtyd0p3bGRpbHpjRW16NGx5bm52Y3U1X0JBV1NycHB3?oc=5",
+          "publishedAt": "2026-09-22T05:15:19.000Z",
+          "category": "industry",
+          "summary": "이랜서가 AI 에이전트 개발자 5,000명을 확보하며 기업 업무 자동화 시장 공략을 강화하고 있습니다. 기업들의 AI 에이전트 도입 요구가 늘면서 전문 개발 인력의 가치가 더욱 높아지고 있습니다. 관련 시장 확대로 IT 인력 확보 경쟁이 촉진될 것으로 예상됩니다.",
+          "impact": "AI 업무 자동화 및 에이전트 개발 인력의 채용 경쟁 심화에 대비해 핵심 엔지니어 보상 체계를 점검할 필요가 있다고 추측됩니다."
+        },
+        {
+          "title": "[모닝 리포트] \"애드포러스, AI·해외 광고 사업 확대\"",
+          "source": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kRGZJVmtKdkpsRGFLbVV6Vi1neUJYTWFuV3h6UHFHT1RNbTZJTlhQSmtFdkl5MmxwWWltVmZqaldMa0VLd181V2Z6cEhrenpqWFdpUklSUmJGVmhD?oc=5",
+          "publishedAt": "2026-09-21T23:35:00.000Z",
+          "category": "industry",
+          "summary": "애드포러스가 AI 활용 기술 고도화와 해외 광고사 사업 확대를 본격 추진하고 있습니다. 마케팅 솔루션 및 광고 플랫폼 기업 간의 AI 기반 서비스 개발 경쟁이 격화되는 양상입니다. 관련 마케팅 테크 인재 유치전도 함께 치열해지고 있습니다.",
+          "impact": "동종 마케팅 SaaS/테크 시장 내 기획 및 AI 마케팅 인재의 이직 동향과 채용 조건 변화를 모니터링해야 합니다."
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "채용",
+      "note": "AI 생성 이력서 및 위장 취업 보안 리스크에 대응해 지원자 신원 확인과 실무 역량 검증 전형을 강화해야 합니다."
+    },
+    {
+      "part": "노무",
+      "note": "주 52시간 초과 시 과로사 산재 인정률 급증과 중대재해처벌법 양형기준 강화를 고려해 근로시간 모니터링 및 안전 규정을 재점검해야 합니다."
+    },
+    {
+      "part": "인사기획",
+      "note": "AI 기반 컬처핏 진단과 선도 IT 기업의 조직문화 사례를 참조해 신규 입사자 온보딩 및 이탈 예방 체계를 고도화할 필요가 있습니다."
+    }
+  ]
+}
