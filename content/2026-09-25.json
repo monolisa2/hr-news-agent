@@ -1,0 +1,173 @@
+{
+  "date": "2026-09-25",
+  "label": "2026년 9월 25일 (금)",
+  "issue": 18,
+  "generatedAt": "2026-09-25T05:58:25.029Z",
+  "headline": "하반기 노동법 개정 대응과 AI 시대 IT HR 재설계",
+  "lede": "하반기 개정 노동법령과 포괄임금제 단속 강화로 사내 노무 규정과 근로시간 관리 점검이 요구됩니다. IT 업계의 신규 입사자 조기 이탈 및 AI 도입에 따른 경력 개발 변화는 HR의 온보딩과 직무 재설계 역할을 부각시키고 있습니다. 아울러 모바일 광고 및 마케팅 자동화 수요 급증에 발맞춘 인재 확보와 역량 강화가 시급합니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "[전문가 칼럼] 2026년 하반기 달라지는 노동관계법령 점검",
+          "source": "조세금융신문",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xT3ZJemQwYUlpbWJSWmdXTFZyRmkwV28wdU02bm9NQzk4LXpuaGF1QnQweGZDNTJDOHFtWC1ycGlRZ0o2V1JmdWF5azlGTjVmUV84bGtRNFNCaXlGVW96cA?oc=5",
+          "publishedAt": "2026-09-24T23:31:06.000Z",
+          "category": "law",
+          "summary": "2026년 하반기 시행되는 노동관계법령의 주요 변화와 점검 사항이 안내되었습니다. 개정 법령에 따라 기업이 현장에서 준비해야 할 주요 인사노무 관련 제도 및 규정 변경 내용이 다뤄졌습니다. 노무 리스크 예방을 위해 사업장별 관련 취업규칙과 노무 관리 체계의 정비가 강조됩니다.",
+          "impact": "하반기 개정 노동법령에 맞춰 사내 취업규칙과 노무 관리 프로세스를 선제적으로 재점검하고 개정해야 합니다. (추측)"
+        },
+        {
+          "title": "포괄임금이라고 야근·휴일수당 안줘? 정부 ‘공짜노동’ 잡는다",
+          "source": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9mMHBta2I4TVJoYmlKNGtvYVBMeTVkaVh1M3hGaXN2aHdxOVhwby00Y3ZXRmREaWpQbnpCNU5yb2VhcExCdkE?oc=5",
+          "publishedAt": "2026-09-24T21:02:43.000Z",
+          "category": "law",
+          "summary": "정부가 포괄임금제를 이유로 야근 및 휴일 수당을 지급하지 않는 공짜 노동 단속 강화에 나섭니다. 실제 근로시간에 대한 정확한 관리 없이 포괄임금을 오남용하는 관행을 근절하겠다는 취지입니다. 수당 미지급 사례 적발 시 법적 제재 조치가 엄격해질 것으로 보입니다.",
+          "impact": "근로시간 기록 시스템을 재점검하고 포괄임금제 오남용에 따른 수당 미지급 노무 리스크를 사전 차단해야 합니다. (추측)"
+        },
+        {
+          "title": "\"추석 과일 세트가 뭐라고\"…못받은 대기업 기간제들 '분통' [곽용희의 인사노무노트]",
+          "source": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XUXdfa3dTTFYzYTYyT3FrcHpCekZ6bTdwd254RTNEeGl0cktRR2pGTWFMX3JOaFdRQnFUNjJlNUVJRlNEMEFEaGhQRnFhWFlsdkcwLS05OVJiQQ?oc=5",
+          "publishedAt": "2026-09-24T22:00:04.000Z",
+          "category": "law",
+          "summary": "대기업에서 추석 명절 과일 세트를 지급하면서 기간제 근로자를 제외해 차별 논란이 발생했습니다. 정규직과 기간제 근로자 간 비합리적인 차별적 처우에 관한 분통의 목소리가 이어지고 있습니다. 명절 상여 및 복리후생 항목에서 기간제법상 차별적 처우 금지 위반 여부가 이슈로 떠올랐습니다.",
+          "impact": "명절 선물 및 복리후생 지급 대상에서 기간제 근로자가 합리적 이유 없이 차별받지 않도록 복지 규정을 점검해야 합니다. (추측)"
+        },
+        {
+          "title": "기업에 세금 혜택 주면 출산율 오를까—캐나다 유연근무 인센티브가 한국에 던지는 질문",
+          "source": "대한청년일보",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE80dGUtWUdKeXUzR1ozYWpjTENFOXV6SE1ESERYeGwxU0JEZFhBVmNYam9oTFAtNGw0YzI2MHJZd0RuVEczUklMMA?oc=5",
+          "publishedAt": "2026-09-24T16:22:07.000Z",
+          "category": "law",
+          "summary": "캐나다의 유연근무 인센티브 사례를 바탕으로 기업에 세금 혜택을 주는 방식이 출산율 제고에 미치는 영향이 조명되었습니다. 유연근무제를 적극적으로 도입하는 기업에 정부 차원의 세제 혜택 등 정책적 지원을 연계하는 방안이 논의되고 있습니다. 한국의 육아 지원 및 유연근무 정책 수립에도 시사점을 던져줍니다.",
+          "impact": "향후 정부의 유연근무 관련 지원금 및 세제 혜택 제도를 모니터링하여 사내 유연근무제 확대에 활용해야 합니다. (추측)"
+        },
+        {
+          "title": "미국도 ‘주 4일ㆍ32시간 근무제’ 가나…연방의회에 법안 상정 > 시애틀 뉴스/핫이슈",
+          "source": "SeattleN",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBxM1N6ejdDcU5yclpadjhBTG5CRDNUYkxIX3JyVW1oZHlISEM2UWZTS3puc2c5VDY4X1I0dGxYZHc0NnZaTmt3dGFn?oc=5",
+          "publishedAt": "2026-09-24T13:39:48.000Z",
+          "category": "law",
+          "summary": "미국 연방의회에 주 4일 및 주 32시간 근무제를 도입하는 법안이 상정되었습니다. 근무시간 단축을 통해 노동자의 삶의 질 향상과 생산성 유지를 도모하려는 논의가 글로벌 시장에서 확대되고 있습니다. 미국 내 법안 상정에 따라 향후 글로벌 노동시간 기준 변화 움직임이 주목받고 있습니다.",
+          "impact": "글로벌 근로시간 단축 논의 흐름을 파악하고 향후 사내 유연근무 및 근무시간 단축 제도 검토 시 참고자료로 활용할 수 있습니다. (추측)"
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "\"신규 입사자 10명 중 7명 잘린다\"…IT 공룡들의 공포스러운 '회전문'",
+          "source": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5PckFhXzhXMmU2YTVhVXdzMVM5SldiOXd4cUlGZnI5ZlAwMzJkWDYxT1hWVTNLYWJ0aGZxVzkydXBsV0oxakZnclVULVdpYnp6OFJzeXMwSmRBaTlxMWI3SmtvUHFaRjBLOGxNNGFhN3o2QzBsWUprcdIBeEFVX3lxTE5PckFhXzhXMmU2YTVhVXdzMVM5SldiOXd4cUlGZnI5ZlAwMzJkWDYxT1hWVTNLYWJ0aGZxVzkydXBsV0oxakZnclVULVdpYnp6OFJzeXMwSmRBaTlxMWI3SmtvUHFaRjBLOGxNNGFhN3o2QzBsWUprcQ?oc=5",
+          "publishedAt": "2026-09-24T15:00:00.000Z",
+          "category": "market",
+          "summary": "주요 IT 기업에서 신규 입사자 10명 중 7명이 수습 기간을 통과하지 못하거나 조기 이탈하는 현상이 나타나고 있습니다. IT 공룡 기업들을 중심으로 입사와 퇴사가 빈번하게 반복되는 회전문 현상이 심화되고 있습니다. 신규 인재의 조직 적응 및 온보딩 체계의 한계가 주요 원인으로 지적됩니다.",
+          "impact": "입사 초기 조기 이탈을 막기 위해 350명 규모에 최적화된 온보딩 프로그램과 수습 평가 기준을 구체화해야 합니다. (추측)"
+        },
+        {
+          "title": "“AI 인재 다 뺏긴다”…美 테크 업계, ‘H-1B 10만달러 수수료’ 철회 요구",
+          "source": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZZVptNFNaVkVGM2Y3MzFXMW14TWs4VkppVUZISmk2czhubTlqZEVaNm1zRmdTYkhJd19vLVB5NG1GRzd6dlEyWndYby1GTlhjb2dXUV9R?oc=5",
+          "publishedAt": "2026-09-24T11:06:41.000Z",
+          "category": "market",
+          "summary": "미국 테크 업계가 전문직 비자인 H-1B 관련 10만 달러 수수료 부과 정책의 철회를 요구하고 나섰습니다. 높은 수수료 부담으로 인해 핵심 AI 인재 확보에 차질을 빚고 타국으로 인재가 유출될 수 있다는 우려가 제기됩니다. 글로벌 AI 인재 확보 경쟁이 가열되는 상황에서 비자 규제 완화 요구가 거세지고 있습니다.",
+          "impact": "글로벌 AI 엔지니어 확보를 위해 비자 지원 정책과 해외 우수 인재 리크루팅 전략을 다변화해야 합니다. (추측)"
+        }
+      ]
+    },
+    {
+      "key": "trend",
+      "name": "HR 트렌드",
+      "items": [
+        {
+          "title": "AI 인사혁신, 어디까지 맡길 수 있을까? IBM·슈나이더·유니레버 사례로 본 적용 분야와 구축 방법",
+          "source": "코리아비즈니스리뷰",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV29ZYWFkczdxempQcTdMb3FPNDdxME1Td0hiN3BPU0sweFV1ZjlwR0laM3pPbHRBQVN0cTJodEI2ejRMd0tRLVpMdWh6azJuVEhialRreUYxVFFiV2tuM3hkbzJTQXRYRXl0RHBlVUl4WUMzMWdKcV94bTl2RmliRDFPVVhGcE5PM280?oc=5",
+          "publishedAt": "2026-09-24T12:02:36.000Z",
+          "category": "trend",
+          "summary": "IBM, 슈나이더, 유니레버 등 글로벌 기업들이 인사 관리 전반에 AI 시스템을 도입해 혁신을 추진하고 있습니다. 채용, 평가, 교육, 인력 배치 등 다양한 HR 영역에서 AI 구축 방식과 활용 범위가 구체화되고 있습니다. 단순 자동화를 넘어 전략적 HR 의사결정 도구로서 AI 역할이 확장되는 추세입니다.",
+          "impact": "사내 HR 운영 프로세스 중 AI 자동화 도입이 가능한 솔루션을 단계적으로 검토하여 업무 효율성을 강화할 필요가 있습니다. (추측)"
+        },
+        {
+          "title": "브랜드 전문가와 디자이너의 자리는 사라질 것인가?",
+          "source": "브런치",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5aTFRMWnJFZW8xdkFGamtmdWdTVi14Wl93LVM4dFhXMFFHNGFUM2xxWFc4VlZHb3YtZzRxZ1MxY1l6Mmpmc3Rj?oc=5",
+          "publishedAt": "2026-09-24T21:02:59.000Z",
+          "category": "trend",
+          "summary": "AI 기술 발전에 따라 브랜드 전문가와 디자이너 등 직무의 존립 여부와 역할 변화가 도래하고 있습니다. 생성형 AI 도구 활용이 일상화되면서 디자인 및 마케팅 실무자들의 전문성과 직무 정체성이 재정의되고 있습니다. 단순 제작 업무 감소에 따라 기획력과 창의성 중심의 역할 전환이 요구됩니다.",
+          "impact": "마케팅·디자인 직무의 AI 툴 활용 역량 교육을 강화하고 변경되는 직무 R&R에 맞춰 평가 체계를 재정비해야 합니다. (추측)"
+        },
+        {
+          "title": "[창간기획] 10년 뒤에도 한국경제는 성장할까…AI가 흔드는 ‘경력 사다리’",
+          "source": "ezyeconomy.com",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzajdiTnJLUTJMdFJ3S3YxNUJycUlpOXRnTkpoWkxicmhQVk1WU0oxSVEtQkllTEdnYUJRVkU0LUQwdG53TTVpMmdlOVpIamZKUlU4Y05RSzl0TDN3QW5EeDVGYWozQ1Nvd3dQb2Z3?oc=5",
+          "publishedAt": "2026-09-25T01:00:00.000Z",
+          "category": "trend",
+          "summary": "인공지능 기술 급성장이 기존의 경력 개발 사다리 구조를 흔들며 한국 경제 성장 전망에 영향을 미치고 있습니다. 주니어급 직원의 역할 축소 및 미드레벨 이상 중심의 직무 구조 재편 현상이 가속화되고 있습니다. 전통적인 승진 및 경력 상승 경로가 변화하면서 새로운 인재 육성 방식이 필요한 시점입니다.",
+          "impact": "주니어급 인재의 AI 기반 직무 성장 트랙을 새로 설계하고 계층별 경력개발 경로를 재정립해야 합니다. (추측)"
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "‘인플루언서 마케팅’ 확대에 자동화 찾는 기업…“정산 난이도 급상승”",
+          "source": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmYWRocGdQdzM2emlJVXhvcC1LVU1pQ3pMUjFJZV9BWTNqWkE4Y0c0U3djMlk2N3FCVDNtM2dPdC1VNWU3UndQclBXdFBZUFI4OW5Z0gFTQVVfeXFMUGZhZGhwZ1B3MzZ6aUlVeG9wLUtVTWlDekxSMUllX0FZM2paQThjRzRTd2MyWTY3cUJUM20zZ090LVU1ZTdSd1ByUFd0UFlQUjg5blk?oc=5",
+          "publishedAt": "2026-09-25T04:00:00.000Z",
+          "category": "industry",
+          "summary": "기업들의 인플루언서 마케팅 활용이 확대되면서 관련 업무 자동화 솔루션을 찾는 수요가 늘고 있습니다. 마케팅 집행 건수가 많아짐에 따라 정산 및 대금 지급 난이도가 급격히 상승한 점이 원인입니다. 자동 정산 및 통합 관리 기능을 갖춘 마케팅 테크 솔루션 시장이 가속화되고 있습니다.",
+          "impact": "자사 마케팅 SaaS 솔루션 내 정산 자동화 기능 강화에 필요한 인재 수혈을 사전 준비해야 합니다. (추측)"
+        },
+        {
+          "title": "비싼 기업용 AI 대금 나눠 낸다… 커지는 ‘구독금융’",
+          "source": "it.chosun.com",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1OcU1FeTg4QXM2VFZwNHZxRUotaUhUeE94MFcyempjMTRibzEzU1lJbG0yOHBmdkR0TENiTk9RQTcyY1RldnRvSmxLVGJxcVpoclhQRGp2YnR0RXJaQlh5S2VfdnVsWFFvTVFZeEloaXTSAXRBVV95cUxQUGxzWmxFWVUxU2JPY2h4VkZLekFzbEx0a0lWTFVmMXlVSkdGS2ExWWplNk9jR1NNbEJxZ1U3LURBTWVVYU9TamNwbWdMc21RcnpiblRIaURST0hFMkJ6M2lpd2hqcjdxUW11R1RUREVmQ3FIag?oc=5",
+          "publishedAt": "2026-09-25T00:30:00.000Z",
+          "category": "industry",
+          "summary": "기업용 AI 도구의 가격 부담이 가중되면서 비용을 분납해 부담을 줄이는 구독금융 시장이 커지고 있습니다. 고가의 B2B AI 솔루션을 도입할 때 구독형 금융 모델을 연계하는 기업들이 증가하고 있습니다. SaaS 및 AI 솔루션 시장에서 결제 및 비용 부담을 낮추는 연계 서비스가 주요 경쟁력으로 떠오릅니다.",
+          "impact": "자사 SaaS 결제 모델 다변화 전략에 대비해 관련 기획 및 영업 인력의 직무 교육을 검토해야 합니다. (추측)"
+        },
+        {
+          "title": "[소셜미디어 2026⑤] 한국 광고비 64% 온라인으로…모바일 8조9662억원, 방송은 2조5583억원 전망",
+          "source": "케이트렌디뉴스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE93emMzZF8xYWhzMGJsUWNFRmV5aGhQSGhEd09zRFphS2dwMklPUS1HdXJSNFFpN1kxcHkyVEhwZFZuYWViWmtTWnRxVnUzaWRPNG5IbnFXY1NlLWhZajNnSjZmYUc4dERMVE5OWXJVQQ?oc=5",
+          "publishedAt": "2026-09-24T16:30:00.000Z",
+          "category": "industry",
+          "summary": "한국 전체 광고비 중 온라인 광고 비중이 64%까지 확대될 것으로 전망되었습니다. 모바일 광고 시장은 8조 9,662억 원 규모로 성장이 예상되는 반면 방송 광고 시장은 2조 5,583억 원 수준에 머물 전망입니다. 모바일 중심의 디지털 마케팅 및 광고 시장 전환이 보다 더욱 공고해지고 있습니다.",
+          "impact": "모바일 광고 및 디지털 마케팅 SaaS 시장 확대에 맞춰 개발 및 세일즈 인력 수급 계획을 점검해야 합니다. (추측)"
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "인사기획",
+      "note": "AI 기술 확산에 따른 경력 사다리 변화에 발맞춰 주니어 직원의 직무 성장 트랙과 R&R을 재설계해야 합니다."
+    },
+    {
+      "part": "급여·보상",
+      "note": "명절 선물 및 복리후생 제공 시 기간제 근로자에 대한 차별적 처우가 발생하지 않도록 지급 기준을 점검해야 합니다."
+    },
+    {
+      "part": "채용",
+      "note": "IT 입사자의 높은 초기 이탈률을 예방하기 위해 350명 규모에 맞춘 온보딩과 수습 평가 체계를 강화해야 합니다."
+    },
+    {
+      "part": "교육·육성",
+      "note": "마케터와 디자이너 등 직무 변화에 선제 대응할 수 있도록 AI 툴 활용 역량 강화 교육을 지원해야 합니다."
+    },
+    {
+      "part": "노무",
+      "note": "하반기 개정 법령과 연계해 포괄임금제 오남용 차단을 위한 근로시간 기록 관리 체계를 종합 점검해야 합니다."
+    }
+  ]
+}
