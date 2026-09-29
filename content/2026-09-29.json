@@ -1,0 +1,118 @@
+{
+  "date": "2026-09-29",
+  "label": "2026년 9월 29일 (화)",
+  "issue": 20,
+  "generatedAt": "2026-09-29T09:30:26.011Z",
+  "headline": "AI 인재 확보 경쟁 심화와 유연근무 확산, IT 기업의 HR 대응 전략",
+  "lede": "최근 IT 업계는 AI 기술 도입과 인재 확보에 사활을 걸고 있으며, 동시에 주 4.5일제 등 유연한 근무 형태가 공공 및 민간 영역으로 확산하고 있습니다. 인사팀은 급변하는 노동 환경 속에서 채용 경쟁력을 확보하고, 법적 리스크를 선제적으로 관리해야 하는 시점입니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "KMA·법무법인 율촌, 저성과자 관리(PIP) 통합 솔루션 사업 협력",
+          "source": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBHaHNxaFRaOHhsOUxxSnZkc2hsNXlTZTN6MjFlZ1FJSzdDb05aNVQ3OEhlQW82SWgwM01kZXVLb2R0NW1tal9fNTkzTWRlaTE5dW5TTDZR?oc=5",
+          "publishedAt": "2026-09-29T08:34:26.000Z",
+          "category": "law",
+          "summary": "KMA와 법무법인 율촌이 저성과자 관리(PIP)를 위한 통합 솔루션 사업 협력을 체결했습니다. 이는 기업들이 저성과자 관리 과정에서 발생할 수 있는 법적 리스크를 줄이고 체계적인 인사 관리를 도모하려는 움직임으로 풀이됩니다. 전문적인 법률 자문과 인사 컨설팅을 결합한 형태의 서비스입니다.",
+          "impact": "저성과자 관리 프로세스의 객관성과 법적 정당성을 확보하기 위해 사내 PIP 제도를 재점검하고 외부 전문가 자문을 활용할 필요가 있습니다."
+        },
+        {
+          "title": "서대문구, 10월부터 전 부서·동 참여 '주 4.5일 근무' 시범 운영",
+          "source": "한강타임즈",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVNkxBLXhyejh6UkNJcGNWaTVKSzJjLUt6elVxaFg2Vl93MzR0Z1dJMTZzeHVib1MtcFFtLUt0dndrb2NkRFZSdHFhX093cHZKRnNxcE1rUjJnZnBNVVBqTG95ekxEVTA5LVQ4?oc=5",
+          "publishedAt": "2026-09-29T04:09:25.000Z",
+          "category": "law",
+          "summary": "서대문구가 10월부터 전 부서와 동을 대상으로 '주 4.5일 근무'를 시범 운영합니다. 이는 공공 부문에서 유연근무제에 대한 실험이 파격적으로 진행되고 있음을 시사합니다. 근무 시간 단축과 유연한 조직문화에 대한 사회적 요구가 커지고 있습니다.",
+          "impact": "IT 업계의 인재 유치 경쟁력을 고려하여 주 4.5일제 등 유연근무제 도입 가능성을 검토하고, 조직 생산성 유지 방안을 마련해야 합니다."
+        },
+        {
+          "title": "건국대병원, 직장 내 괴롭힘 근절 나선다... '존중문화' 선포",
+          "source": "헬스이슈앤뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10N0wyUlFIV0hKT3FxS2lvZlJjOGt2VUtUaktvVXotNk1jbjZYWGQ1WVpMdy04LUhiOUtYNkhUblNkQU1pc3hLY2FTT2NSMFlSdzlfYWFISFRwZjh0TkNBVmpQYWRucWc2?oc=5",
+          "publishedAt": "2026-09-29T07:47:23.000Z",
+          "category": "law",
+          "summary": "건국대병원이 직장 내 괴롭힘 근절을 위한 '존중문화'를 선포했습니다. 최근 직장 내 괴롭힘이 사회적 이슈로 부각됨에 따라, 기업 차원의 예방 교육과 조직문화 개선 노력이 강조되고 있습니다. 신고 단계부터 보호 체계를 강화하는 것이 핵심입니다.",
+          "impact": "직장 내 괴롭힘 예방을 위한 사내 규정을 재정비하고, 구성원들이 안심하고 신고할 수 있는 익명 채널과 보호 프로세스를 점검해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "웍스피어, AI로 채용 전 과정 잇는다…HR테크 그룹 전환 속도",
+          "source": "edaily.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWGtldGpHVzR1eElENnU3ZkZKanllZGhVWlF3N1c4V2lTUF9HMFBLOHUtN2lfaHB6TEtmSjY5cHJRLW90RWJwa1JWYWZJMEF0THdGRkM0ejRCMDBLV0JoVDl1T3VzR1ZqTWVKNEFKVDQ2a0pqR25hdDE3bE5GYTRMdA?oc=5",
+          "publishedAt": "2026-09-29T02:06:13.000Z",
+          "category": "market",
+          "summary": "HR테크 기업 웍스피어가 AI를 활용해 채용 전 과정을 연결하는 플랫폼으로 전환을 가속화하고 있습니다. 이는 채용 시장에서 AI 기술을 통한 효율화가 단순한 트렌드를 넘어 기업의 핵심 전략으로 자리 잡고 있음을 보여줍니다. 채용 데이터의 통합 관리와 프로세스 자동화가 강조되는 추세입니다.",
+          "impact": "AI 기반 채용 솔루션 도입을 검토하여 채용 프로세스의 효율성을 높이고, 데이터 기반의 인재 선발 체계를 구축해야 합니다."
+        },
+        {
+          "title": "\"더 이상 코딩만 잘해선 안 된다\" … 게임사 채용도 'AI 네이티브' 시대",
+          "source": "뉴데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYjY1RE9vaVBibjM0V2xSbXhmM1ByTW9ucVNFMzdEeWh5WXRrWFpicUE3OGRRdDdYSmVwdUpFeTd6VVE1UjRCQVhwUGtiUDlCcmNsU1I5blJwRkpXZW1SNk9qRUN6RDl5V2NFZVBGZmdkczN2U3BIM05kQTgxQTRidNIBgAFBVV95cUxNYjY1RE9vaVBibjM0V2xSbXhmM1ByTW9ucVNFMzdEeWh5WXRrWFpicUE3OGRRdDdYSmVwdUpFeTd6VVE1UjRCQVhwUGtiUDlCcmNsU1I5blJwRkpXZW1SNk9qRUN6RDl5V2NFZVBGZmdkczN2U3BIM05kQTgxQTRidA?oc=5",
+          "publishedAt": "2026-09-29T02:08:01.000Z",
+          "category": "market",
+          "summary": "게임 업계를 중심으로 코딩 능력뿐만 아니라 AI 도구를 능숙하게 활용하는 'AI 네이티브' 인재 채용이 확산하고 있습니다. 단순 개발 역량을 넘어 AI 기술을 실무에 적용해 생산성을 극대화할 수 있는 인재에 대한 수요가 급증하고 있습니다. IT 기업 전반으로 이러한 채용 기준 변화가 확산될 전망입니다.",
+          "impact": "개발직군 채용 시 AI 활용 역량을 평가 항목에 포함하고, 기존 인력의 AI 도구 활용 능력을 높이는 교육 프로그램을 설계해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "[KCSF 2026 개막] 성큼 다가온 AI 에이전트…글로벌 비즈니스 재편",
+          "source": "v.daum.net",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNZExNbnFMa0E0TGh3c1NzX18tOGJxaHEyNGRqQ3NZU19VdEZXdF8zU1hzeVNrdnNSNmVBNWVlRy11ejVURUdNNE9Obw?oc=5",
+          "publishedAt": "2026-09-29T01:45:00.000Z",
+          "category": "industry",
+          "summary": "대한민국 클라우드/SaaS 포럼 2026이 개막하며 AI 에이전트 기술이 글로벌 비즈니스를 재편하고 있습니다. SaaS 기업들은 AI 에이전트를 통해 서비스 고도화와 업무 자동화를 추진하고 있습니다. 기술 변화 속도가 빨라짐에 따라 관련 인재 확보가 더욱 중요해졌습니다.",
+          "impact": "SaaS 시장의 AI 에이전트 기술 확산에 따라, 관련 기술을 보유한 엔지니어 및 기획자 채용 경쟁이 심화될 것으로 예상됩니다."
+        },
+        {
+          "title": "인플루언서 섭외부터 계약까지 AI가, 피처링 마케터용 AI 에이전트 첫 공개",
+          "source": "플래텀(Platum)",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnU1huMkJZTU45aWpGZXdFU0ZHQ3hOa3BaMFEyak11MU9QT242NldTMXBpTVhIY0JJb0k2bEVKSm5WcmRmdGFUbw?oc=5",
+          "publishedAt": "2026-09-29T03:35:28.000Z",
+          "category": "industry",
+          "summary": "피처링이 마케터용 AI 에이전트를 공개하며 인플루언서 섭외부터 계약까지 AI가 수행하는 기술을 선보였습니다. 마케팅 업무의 자동화 범위가 넓어지면서 마케팅 직무의 역할 변화가 예상됩니다. 데이터 분석과 AI 활용 능력이 마케터의 핵심 역량으로 부상하고 있습니다.",
+          "impact": "마케팅 자동화 도구 도입에 따라 마케팅팀의 직무 재설계가 필요하며, AI와 협업 가능한 마케팅 인재 육성이 시급합니다."
+        },
+        {
+          "title": "유비스, 테크 위크 싱가포르에서 'UBIS AI AGENT' 선보여",
+          "source": "supple.kr",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0ya001cFM3bXRXdlBsX3dSVm1fTDNGc0lJbHlSSkVUVFNLMGxfUlA3andlelNicUw2OHJOUFI4T09SX0RhS1dfWW9WbGZ0WmJNR19VcDd5cjRHOHhn?oc=5",
+          "publishedAt": "2026-09-29T08:47:34.000Z",
+          "category": "industry",
+          "summary": "유비스가 테크 위크 싱가포르에서 'UBIS AI AGENT'를 선보였습니다. 글로벌 시장에서 AI 에이전트 기반의 SaaS 솔루션 경쟁이 치열해지고 있습니다. 기업들은 AI를 통한 서비스 차별화에 집중하고 있습니다.",
+          "impact": "경쟁 SaaS 기업들의 AI 기능 확장으로 인해 관련 기술 인력에 대한 채용 경쟁이 더욱 심화될 것으로 보입니다."
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "인사기획",
+      "note": "AI 기술 도입에 따른 직무 재설계와 유연근무제 확산에 대응하는 조직 운영 전략을 수립해야 합니다."
+    },
+    {
+      "part": "채용",
+      "note": "AI 네이티브 인재에 대한 수요가 급증함에 따라 채용 평가 기준을 고도화하고 AI 기반 채용 솔루션 도입을 검토해야 합니다."
+    },
+    {
+      "part": "교육·육성",
+      "note": "기존 인력의 AI 도구 활용 역량을 강화하기 위한 실무 중심의 교육 프로그램을 마련해야 합니다."
+    },
+    {
+      "part": "노무",
+      "note": "직장 내 괴롭힘 예방 체계를 강화하고, 저성과자 관리 등 인사 관리 과정의 법적 리스크를 선제적으로 관리해야 합니다."
+    }
+  ]
+}
