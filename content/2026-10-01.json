@@ -1,0 +1,175 @@
+{
+  "date": "2026-10-01",
+  "label": "2026년 10월 1일 (목)",
+  "issue": 22,
+  "generatedAt": "2026-10-01T07:00:09.887Z",
+  "headline": "IT업계 노사 전선 확산과 노무·보상 준법 감독 강화에 대한 대비 필요",
+  "lede": "IT 업계 내 노조 설립 및 통합교섭 요구가 확대되는 가운데, ICT 분야의 경력직 중심 채용 기조와 비개발자 AI 교육 등 인적 역량 강화 트렌드가 이어지고 있습니다. 한편 노동당국의 DB형 퇴직연금 적립금 정기 감독과 최저임금·권고사직·성희롱 관련 엄격한 노무 관리 요구가 강화되고 있으므로 사내 프로세스 재점검이 필요합니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "조승래 의원 , 첨단산업 인재 확보 · 취약계층 고용 확대 위한 조세특례제한법 개정안 2 건 대표발의",
+          "source": "코리아플러스",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCaXozX1V2RFF5U3VPbmJ4MTJKWUlPcVRpRUZwbU5zSFYxZGxBVjFxb2FTR2V0eW5uU1g4QUotWENRdm9HYnRaOXFsOXpMNVRiVEtid1RFVDA4SHUyaXNFb09zOHBVQQ?oc=5",
+          "publishedAt": "2026-10-01T02:55:34.000Z",
+          "category": "law",
+          "summary": "첨단산업 인재 확보와 취약계층 고용 확대를 지원하기 위한 조세특례제한법 개정안 2건이 대표 발의됐습니다. 개정안은 핵심 기술 인력 채용 및 유지에 대한 세제 혜택과 취약계층 고용 기업에 대한 지원 내용을 담고 있습니다. 법안 통과 시 첨단 기술 기업들의 인력 운용 관련 세제 지원이 확대될 전망입니다.",
+          "impact": "법안 입법 동향을 모니터링하여 첨단 인재 채용 및 유지 시 세액공제 활용 가능성을 사전 검토해야 합니다."
+        },
+        {
+          "title": "[상여금과 최저임금] 연봉은 최저임금 넘는데…왜 최저임금 위반일까?",
+          "source": "webzine.kacta.or.kr",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHc1huRWF0SkxxNE9INmZBM3VqY0NOc0V5ckZuUTBDekZkMHVDRGFWREREWmRFckJyOHBqU3UyalktdkU2Q3Y2aW5WM0xVSzlITXppZWEzbmdDeW1UVDE1TkhHNURSbXJNTUNCeg?oc=5",
+          "publishedAt": "2026-10-01T02:45:29.000Z",
+          "category": "law",
+          "summary": "총 연봉 수준이 법정 최저임금 기준을 상회하더라도 상여금이나 복리후생비의 산입 방식에 따라 최저임금 위반이 발생할 수 있습니다. 매월 지급 여부 및 지급 조건 등 임금 항목별 특성을 정확히 반영하지 않을 경우 법적 리스크가 발생합니다. 임금 산정 방식과 항목별 최저임금 산입률에 대한 면밀한 노무 점검이 요구됩니다.",
+          "impact": "자사 임금 체계 내 상여금 및 수당 항목의 최저임금 산입 기준 준수 여부를 재점검하여 위반 리스크를 사전에 예방해야 합니다."
+        },
+        {
+          "title": "[해고와 권고사직] “아”다르고, “어”다르다!!!",
+          "source": "webzine.kacta.or.kr",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84WWVBOEJBVEd4el9tWEtac2RmQXFGN3ZSWUJvbkhhV1VvQnI3cEttRWRyTXh2bzY1Q3BmdjlUMkM4NW85UUp5cWpDajF1bDl1UVRiQVAzdWdGZlJqWURGVGNNOHBTM3JFZmxCbw?oc=5",
+          "publishedAt": "2026-10-01T02:44:58.000Z",
+          "category": "law",
+          "summary": "근로계약 종료 과정에서 해고와 권고사직은 법적 절차 및 서면 통지 의무 등에서 명확한 차이가 존재합니다. 권고사직 처리 과정에서 사직의 합의가 불분명할 경우 부당해고 논란 및 노무 분쟁으로 이어질 수 있습니다. 퇴직 면담과 관련 서류 작성 시 법적 요건을 철저히 준수해야 합니다.",
+          "impact": "권고사직 및 계약 종료 절차 진행 시 서면 합의서 작성 등 표준 노무 가이드라인을 엄격히 준수하여 분쟁 위험을 최소화해야 합니다."
+        },
+        {
+          "title": "[단독]DB형 퇴직연금 사업장 58%는 법정 적립금 미달, 3분의 1은 절반도 못 채워...노동부, 올해 첫 정기 감독 착수",
+          "source": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRXl4bzQxcEU1WUEycEFrM1BJdHpmajZUaG5hdTl2VUNGSWdOQ1NnSWpUVjNfZ3lQbGlOMGZibVNwUnNXQkttcXJoLWFfQWVnazVKLTFhblNtVUtXNk1icW1WcFE3QmJrSzk3ejJmeVlDMG1WeG1OZVNpUE5zYmZWQTkwWjU0VUJjZnVDTW5R?oc=5",
+          "publishedAt": "2026-10-01T02:12:00.000Z",
+          "category": "law",
+          "summary": "확정급여형(DB) 퇴직연금을 도입한 사업장의 58%가 법정 적립금 기준에 미달하는 것으로 확인됐습니다. 이에 고용노동부는 적립 부족 사업장을 대상으로 올해 첫 정기 감독에 착수하기로 했습니다. 적립 비율 미달 기업에 대한 감독 강화에 따라 사업장의 퇴직연금 적립금 관리가 시급해졌습니다.",
+          "impact": "자사 DB형 퇴직연금의 법정 적립금 비율을 즉시 확인하고 노동부 감독 대비 적립금 충원 계획을 수립해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "case",
+      "name": "판례·노동위",
+      "items": [
+        {
+          "title": "[단독]직장 내 성희롱 신고 처리 73일 소요…4년새 32.2% 늘어",
+          "source": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IMllNUTJMand3c24yWXZMMlkzYVUwTFJhcExVZmRKam5GeEljZ1haN1B0OGJpVzVLeDBQXzBxUzlrNkdRZ2E4Q2g1Y04tU1hWdnhMdDZZZFI0Ym5yUnRxatIBeEFVX3lxTFBmNHkyeUUtXzVlbFI3ZXBhUGxsUUdaM29FYkpRZjJNcTQ2dXYxcUVUOGU1MVpDbXRtejFJRTlZeDZQNVU4SV82TEQ1RzRvM0pLRjZfVVF1bjlzcHZpTE5GYnFCVGFMWWkxUFFDTzg5RnFQUlpSNlhFVg?oc=5",
+          "publishedAt": "2026-09-30T22:01:00.000Z",
+          "category": "case",
+          "summary": "직장 내 성희롱 신고 후 사건 처리에 걸리는 기간이 평균 73일로 4년 전에 비해 32.2% 늘어난 것으로 집계됐습니다. 신고 건수 증가와 내실 있는 조사를 위한 절차 복잡화가 처리 지연의 주요 원인으로 분석됩니다. 처리 지연에 따른 2차 피해 방지 및 신속한 조사 체계 구축이 요구됩니다.",
+          "impact": "사내 성희롱·괴롭힘 신고 처리 절차 및 조사 체계를 점검하여 2차 피해 방지와 신속한 대응 프로세스를 마련해야 합니다."
+        },
+        {
+          "title": "\"왜 목젖 있냐\" 신입 女 사원 괴롭힌 40대 팀장, 징역 1년⋯피해자는 사망",
+          "source": "아이뉴스24",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9keTNENTR3MHFkZENkUDZxUGNlMGgwWWN1aElLajlNQUljTWJnYUVqaWRaeVdZajU0bGVHdXJXdVdnWUlLVV80cW55VQ?oc=5",
+          "publishedAt": "2026-10-01T05:37:41.000Z",
+          "category": "case",
+          "summary": "신입 여직원에게 폭언과 강제추행, 직장 내 괴롭힘을 가한 혐의로 재판에 넘겨진 상사에게 1심에서 징역 1년의 실형이 선고됐습니다. 피해자는 괴롭힘 피해를 호소한 뒤 숨진 것으로 알려져 사회적 경각심을 일으켰습니다. 법원은 직장 내 지위를 이용한 괴롭힘과 추행 행위에 대해 엄중한 처벌을 내렸습니다.",
+          "impact": "관리자급 대상 직장 내 괴롭힘 예방 교육을 강화하고 고충 신고 접수 시 신속한 분리 및 조사 조치를 철저히 이행해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "ICT 신입채용 왜 반토막 났나…작년 경력직 채용, 신입보다 653명 많아",
+          "source": "창업일보",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfcUhuMVBVOHpZellQbUdHNHBsdzg4Y0NxSzQwWkhZZlJKRlBYUTZJRXU0eExVU0U2TXZTekNMWmR5c2lySW5vN3JKVEtrVFY3TmNZaUY4bEtURDlacVlYUU9DRk5MZEJW?oc=5",
+          "publishedAt": "2026-10-01T04:07:32.000Z",
+          "category": "market",
+          "summary": "ICT 분야에서 신입사원 채용 규모가 전년 대비 급감하며 경력직 중심의 채용 기조가 더욱 뚜렷해졌습니다. 지난해 경력직 채용 인원이 신입 채용을 크게 앞지르며 기업들의 즉시 전력감 선호 경향을 반영했습니다. 신입 채용 축소에 따라 청년층의 IT 업계 진입 장벽도 높아지고 있습니다.",
+          "impact": "경력직 채용 경쟁 심화에 대응해 주요 핵심 인력의 이탈 방지(Retention) 전략과 내부 육성 강화를 검토해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "trend",
+      "name": "HR 트렌드",
+      "items": [
+        {
+          "title": "네이버 이어 카카오도…IT업계 '통합교섭' 전선 넓어진다",
+          "source": "edaily.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONWk1azN5cUlwalNPcXpQWU5hcVV1YWRZbnhkTnJNbExuR1BkU2ZpS3BOUndHd195VjNlRGhkRGhsdUV4S3FCTXE3T3NjSXB1UGdFb2kyTFlTWmdBaV9YLVpqWWdvRVNBUnVqVFVULXpBRURxVVV2Tmt5bW1xejFYZQ?oc=5",
+          "publishedAt": "2026-10-01T06:21:34.000Z",
+          "category": "trend",
+          "summary": "네이버에 이어 카카오 노조도 계열사를 아우르는 통합교섭을 요구하며 IT 업계 내 교섭 전선이 넓어지고 있습니다. 산별노조를 중심으로 IT 기업 자회사 및 계열사 간 근로조건 격차 해소를 위한 공동 대응이 강화되는 추세입니다. 이에 따라 주요 IT 기업들의 노사 관계 지형에 변화가 예상됩니다.",
+          "impact": "IT 업계 전반의 노조 조직화 및 통합 교섭 요구 흐름을 주시하며 사내 근로조건 및 노사 소통 채널을 재정비해야 합니다."
+        },
+        {
+          "title": "대주주 변경 앞둔 위메이드, 노조 설립... \"고용 안정 지킬 것\"",
+          "source": "OhmyNews",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uUE9Cd19vUDN4Um16UXpJUEdYZzFLSXhrLWVRTFBfN1FZeGpJak1Vd0Q4amp1TjhWalR5bVNWZUk1ZnVSYk92aE8ya252aW1hWk0xNHRfT2Q0MWlYdHVXYW9QWE5ycHU1dUxMVHVfWXZpOVBo?oc=5",
+          "publishedAt": "2026-10-01T04:26:00.000Z",
+          "category": "trend",
+          "summary": "실적 부진과 대주주 변경 등 구조조정 위기감이 높아진 게임사 위메이드에서 노동조합이 공식 출범했습니다. 노조는 고용 안정 확보와 근로조건 개선을 최우선 과제로 내세우며 활동에 나섰습니다. IT 및 게임 업계 내 경영 불안정 상황에 대응한 노조 설립 움직임이 지속되고 있습니다.",
+          "impact": "조직 재편이나 경영 환경 변화 시 임직원의 불안감을 완화하고 노사 간 소통 채널을 선제적으로 구축할 필요가 있습니다."
+        },
+        {
+          "title": "한국 P&G, 기업 복지 다시 쓴다…동거인도 8주 유급",
+          "source": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE03SExSaEhWVFdvWUx5NFk0cWJBNktINEFGazNfRXVsUU03WTZVS0ZhUktUZnlkR0NpQ1puekpGTWRzRDRVNXZXaHctOWE3M2VVWkpn0gFTQVVfeXFMTTdITFJoSFZUV29ZTHk0WTRxYkE2S0g0QUZrM19FdWxRTTdZNlVLRmFSS1RmeWRHQ2lDWm56SkZNZHNENFU1dldody05YTczZVVaSmc?oc=5",
+          "publishedAt": "2026-10-01T01:00:00.000Z",
+          "category": "trend",
+          "summary": "한국 P&G가 동거인을 포함한 다양한 가족 형태에 8주의 유급 휴가를 지원하는 등 복지 제도를 전면 개편했습니다. 법적 가족 형태에 국한되지 않는 포용적 복지 혜택 확대를 목표로 제도를 도입했습니다. 기업들의 복리후생 제도가 다양성과 포용성을 반영하는 방향으로 변화하고 있습니다.",
+          "impact": "IT 업계의 인재 유치 경쟁력 유지를 위해 다양성을 고려한 파격적 복리후생 트렌드를 지속 모니터링할 필요가 있습니다."
+        },
+        {
+          "title": "SK AX, 비개발자용 AI 교육 신설",
+          "source": "스마트비즈",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE16akFocEZnRlFoRGxMSDlib1pEcmVacW8xOHp1bmRVZVo4QUNIazNwbGV2Tm8zdlFodlFYUzRRS1FDTktqS2piWTNGcnlKZ19SdEZEX1NnNlF3SGNrd1QyNjdMSXVLeUVwMnRrYQ?oc=5",
+          "publishedAt": "2026-10-01T00:41:16.000Z",
+          "category": "trend",
+          "summary": "SK AX가 비개발 직군 임직원들의 AI 활용 능력 향상을 위한 전용 교육 프로그램을 신설했습니다. 개발자가 아니더라도 업무에 AI 툴을 실질적으로 적용할 수 있도록 교육 내용을 구성했습니다. 전사적인 AI 역량 강화를 통한 업무 생산성 제고 시도가 늘고 있습니다.",
+          "impact": "비개발 직군(마케팅, HR, 영업 등) 대상 AI 툴 활용 교육 과정을 기획하여 전사적 업무 생산성을 제고할 필요가 있습니다."
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "GS ITM, SaaS 자회사 GS비즈플 인적분할…\"공공SW·투자유치 본격화\"",
+          "source": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oa19Bbks4YjJoMjhITzFncE4tcF9za0V2MWJCMTBlN3lZUzJUOGUzdERoTnZ3MTY2b2dteVRsd080TWtWUDBDazg5N1FMSU93UEdrX0pR?oc=5",
+          "publishedAt": "2026-10-01T06:25:40.000Z",
+          "category": "industry",
+          "summary": "GS ITM이 SaaS 전문 자회사 GS비즈플을 인적분할하여 독립 경영 체제로 전환합니다. 이를 통해 공공 소프트웨어 사업 확대와 외부 투자 유치에 본격적으로 나설 계획입니다. 국내 SaaS 시장 내 기업들의 구조 재편과 독자적 사업 강화 움직임이 지속되고 있습니다.",
+          "impact": "SaaS 시장 내 주요 기업들의 인적분할 및 투자 유치 동향에 따라 관련 영역 HR 및 개발 인력의 이직 흐름을 주시할 필요가 있습니다."
+        },
+        {
+          "title": "CJ메조미디어, 2026 패션·금융 업종 분석 리포트 발행",
+          "source": "CJ ENM 엔터테인먼트부문",
+          "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPRTVUeFZWcDJaZ19JVVhOQ0hqSkZCM2FaaTAyc3JVRlc2eGphTEdpamsxMXp6WFhubjJnVnpWMVQ2cEhoMHcwYkJHX1V6NXlNRk82a0NvODhMcnRkZTYxbmw2aGIwcWJIVEI3bWFNOHExYmhNWnA5ZC12R1dpZVRVdmt5bk1GeWdiZFRRdHJEN2h0V3RZLWNYai1rdnZzUGRJTkU2cHJoRXdTenUyVkZUTE90RG5FS0lCc0VndnBtMkVfVS1wZi1vQV9sUzdaTWM5NGw0YThrYmFLVy13ZXU1YWtrVWIzQlBjNUtqQWpYSFRxTmEtZ0llRklfcTRTcUJfd05MVERLZ3R0TUU1TUxURklGT05TczJSc0NHUDViRVpIWHMwXzU5Q3JuUzFJdw?oc=5",
+          "publishedAt": "2026-10-01T02:17:21.000Z",
+          "category": "industry",
+          "summary": "CJ메조미디어가 패션 및 금융 업종의 광고·마케팅 트렌드를 담은 2026년 업종 분석 리포트를 발행했습니다. 주요 산업군별 디지털 마케팅 전략과 매체 집행 동향에 관한 상세 정보가 포함되었습니다. 마케팅 솔루션 및 광고 매체 시장의 최신 동향을 파악할 수 있습니다.",
+          "impact": "주요 타깃 산업군(패션·금융)의 마케팅 집행 트렌드 변화에 맞춰 자사 마케팅 SaaS 영업 및 고객 관리 인력의 업무 이해도를 높여야 합니다."
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "급여·보상",
+      "note": "상여금 및 수당의 최저임금 산입 산정 기준과 DB형 퇴직연금의 법정 적립금 충원 비율을 즉시 재점검해야 합니다."
+    },
+    {
+      "part": "채용",
+      "note": "ICT 업계의 경력직 선호 현상 심화에 대응하여 핵심 인력 리텐션 방안과 기술 인력 확보를 위한 세제 혜택 법안 동향을 챙겨야 합니다."
+    },
+    {
+      "part": "교육·육성",
+      "note": "비개발 직군의 실무 생산성 향상을 위해 마케팅 및 스태프 부서 대상 AI 툴 활용 교육 프로그램 도입을 검토해야 합니다."
+    },
+    {
+      "part": "노무",
+      "note": "IT 업계 노조 결성 흐름에 맞춰 노사 소통 체계를 정비하고, 권고사직 서면 절차 준수 및 성희롱·괴롭힘 신고 처리 지연 방지 프로세스를 확립해야 합니다."
+    }
+  ]
+}
