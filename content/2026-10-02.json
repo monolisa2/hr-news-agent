@@ -1,0 +1,148 @@
+{
+  "date": "2026-10-02",
+  "label": "2026년 10월 2일 (금)",
+  "issue": 23,
+  "generatedAt": "2026-10-02T06:52:35.474Z",
+  "headline": "노동감독관 독자수사권과 저성과자·임원 노무 리스크 점검",
+  "lede": "근로감독관의 독자 수사권 강화와 정년 65세 연장 논의 등 노동 법제도의 변화가 본격화되고 있습니다. 이와 함께 스타트업 임원의 근로자성 쟁점 및 저성과자 관리 프로그램의 정당성 확보 등 현장 노무 리스크 관리가 시급한 과제로 떠올랐습니다. 아울러 AI 에이전트 기술 확산에 따른 전문 인력 확보와 하이브리드 근무제 재정비 등 조직 운용 전략 수립이 요구됩니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "검사 지휘 사라진 특사경…노동감독관 독자 수사 시작",
+          "source": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CaDRnZ2RkUDMwOGRfc1dCdnIwazFMZUk4aEVQckxQRkVRODRuZ3lLSzRPVnV4b0V6dXlnd1Z6NVM5WnlWQlYwS1N0SmJqMHp5TXBIQ3cwcVBVQdIBX0FVX3lxTE1uMFBVcTFKU3FWRTBSc3VYYmdsX2c4NUNsajQ3V0pHek9EeGRvc09xNVB6U1hFTkh4N1VWRGlPX1RoZXpPeTZaci1wV0FjelJoMmZXWDdJTWZaaF9aY2pv?oc=5",
+          "publishedAt": "2026-10-02T05:58:00.000Z",
+          "category": "law",
+          "summary": "검찰의 특별사법경찰 지휘권 개편으로 노동감독관의 독자적인 수사 권한이 대폭 강화됩니다. 이에 따라 근로감독관이 노동관계법 위반 사항에 대해 자체 판단으로 수사 및 처리를 진행하게 됩니다. 기업 현장에서는 노동 분야 수사의 속도와 감독 강도가 크게 높아질 것으로 보고 대응책을 모색하고 있습니다.",
+          "impact": "근로감독관의 독자 수사권 강화에 맞춰 사업장 내 임금, 근로시간, 안전보건 준수 상태에 대한 상시 자체 점검이 필요할 것으로 예상됩니다."
+        },
+        {
+          "title": "'60세 벽' 허무는 데 10년…정년 65세, '속도'와 '방식'만 남았다",
+          "source": "eroun.net",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4wV2p3eHBHN3NGWkpRSExOeGVYbGFKbXFCTVZMTDMyaDlxbHB0dmZUeUhscVpBUDd4SnREZUpVQWVFMUpHSVk4M1ROYld6QThOX3NQOGk1d1VHNGdHRU5RZzdFQjg1Zw?oc=5",
+          "publishedAt": "2026-10-02T00:10:00.000Z",
+          "category": "law",
+          "summary": "법적 정년을 65세로 연장하는 논의가 추진 속도와 임금체계 개편 방식 등의 세부 과제 단계에 진입했습니다. 고령화사회 진입에 따라 숙련 인력 재고용 및 정년 연장에 대한 사회적 합의 필요성이 지속적으로 제기되어 왔습니다. 기업 현장에서는 정년 연장 추진과 함께 임금피크제 및 직무급제 전환 논의가 불가피할 전망입니다.",
+          "impact": "향후 정년 연장 법제화에 대비하여 연봉제 및 직무 가치 기반의 보상 체계 개편 논의를 선제적으로 준비할 필요가 있습니다."
+        }
+      ]
+    },
+    {
+      "key": "case",
+      "name": "판례·노동위",
+      "items": [
+        {
+          "title": "[칼럼] 법원이 바라보는 저성과자 관리 프로그램과 해고",
+          "source": "wolyo.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCSkJadndZRGNaOUdscDBNM3RiZlNUTnFxREFBUVRaSHdwLTh3VlVJVzhMMzREbEFEWDlqN2YtTU5FY09raTNuVUtSdk1wdWpHSVdtWEY1Q29tRWtFMmZIUlEwY29KazJCR1E?oc=5",
+          "publishedAt": "2026-10-02T05:30:58.000Z",
+          "category": "case",
+          "summary": "최근 법원은 저성과자 대상 관리 프로그램(PIP)과 해고 처분에 대한 정당성을 엄격하게 판단하는 경향을 보이고 있습니다. 저성과자 선정 기준의 객관성과 공정성뿐만 아니라 개선 기회 부여 절차의 실질성이 주요 쟁점으로 다뤄집니다. 단지 실적이 부진하다는 이유만으로 행해진 해고나 불이익 조치는 법적 리스크가 매우 큽니다.",
+          "impact": "저성과자 관리 프로그램 운영 시 객관적인 평가 지표와 실질적인 교육·개선 기회를 문서화하여 정당성을 확보해야 합니다."
+        },
+        {
+          "title": "법원, 한화오션 집행정지 신청 기각… 한화오션 “법원 결정 따라 교섭할 것” - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORFp1Wk9xS2FwaVQ1OFBRRXB1QlNndVZLS3V5WEdlOFZ4MUpDeFg5VmFZN1pQQkhUQmFIQ3NmS2FqZFl3QWY0WWxUdFZueU11em92dmNLMnU5Z2kyX0pvQUE4TFVzYWJTcV9IX2wtQ09rZTY3cWVvUDJpNTI5ZnY1TXBPNGnSAZgBQVVfeXFMT0FWenZBQzhmVTZMZ05kOXJZeVMwWXZDZV9rcktCN1FOdFhSNF9VNzZOMnY0bG91Q09ndU1nc1U0eXAzc3ZfWTQ5UXh6Z1AwTEFEU2hzZVFIeUtRZ2IwWVg3N2txcUFPRkdhVXBqQ1RjRnhTS0hQYXpKMTZjZGRyMUxuc3hEZ1BOaEJUVEQzQmlROHdsQkFJeHU?oc=5",
+          "publishedAt": "2026-10-02T05:08:00.000Z",
+          "category": "case",
+          "summary": "법원이 원청 기업인 한화오션이 신청한 하청 노조 교섭 요구 관련 집행정지를 기각했습니다. 이에 따라 원청 사용자가 협력업체 노동조합과의 직접 단체교섭에 나서야 하는 판결이 현실화되고 있습니다. 한화오션 측은 법원의 결정을 수용하여 향후 교섭 절차를 진행하겠다는 입장을 밝혔습니다.",
+          "impact": "간접고용이나 외주 협력사를 활용하는 업무 체계에서 원청의 사용자성 인정 범위 확대에 대한 노무 법률 리스크를 점검할 필요가 있습니다."
+        },
+        {
+          "title": "[당신의 생각은] 스타트업 임원은 근로자? 경영자? 해임 둘러싼 ‘근로자성’ 쟁점 - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjJ5VFRfeDY5SFhYRm12eVJ2M0ZFS1NBTXBnY2RKZkFsWXczdjlDRXZ3X204SnVjY2xaZmhUa0twb05Lc0VBQWJsY3ZISTE2aXRDTENtM2FlTFVWcWZYdHlfM2wxVEhqbWtBaGV1T0JFOGdoclVtRks1TmJCaVMySFpZZEd0RFNYOGNEWUM4TGRZSDBSQ2ZIQUFWQWpSYzM0YmtoZ9IBpAFBVV95cUxPTjJ5VFRfeDY5SFhYRm12eVJ2M0ZFS1NBTXBnY2RKZkFsWXczdjlDRXZ3X204SnVjY2xaZmhUa0twb05Lc0VBQWJsY3ZISTE2aXRDTENtM2FlTFVWcWZYdHlfM2wxVEhqbWtBaGV1T0JFOGdoclVtRks1TmJCaVMySFpZZEd0RFNYOGNEWUM4TGRZSDBSQ2ZIQUFWQWpSYzM0YmtoZw?oc=5",
+          "publishedAt": "2026-10-01T22:08:00.000Z",
+          "category": "case",
+          "summary": "스타트업 임원의 해임을 둘러싸고 이들의 근로자성 인정 여부가 법적 분쟁의 주요 쟁점으로 떠오르고 있습니다. 등기 여부와 상관없이 실제 업무 수행 시 지휘·감독을 받았는지에 따라 노동법상 근로자로 인정될 여지가 존재합니다. 임원계약 체결 및 해임 과정에서 확실한 역할 구분과 계약서 작성이 미비할 경우 법적 리스크로 이어질 수 있습니다.",
+          "impact": "C-Level 및 C-1급 임원의 계약 구조와 업무 독립성을 점검하여 임원 해임 또는 계약 종료 시 발생할 근로자성 분쟁 리스크를 예방해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "美 'AI 안전' 직군 채용 1년새 91% 급증",
+          "source": "공감신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YOXREN3Z4NFJELUhfSDN1QW9qZmpwM1NsU2xKRWNIV2taanlCeXU5UnlmTnNxQ0NWa3ZNV1Zzb1RIUW9CQjN3akVIR2dKeGhheHNkYmZhSHF1LURIa3llOGJJdWt3eG1B?oc=5",
+          "publishedAt": "2026-10-02T01:58:27.000Z",
+          "category": "market",
+          "summary": "미국 노동 시장에서 AI 안전 및 윤리 관련 전문 직군의 채용 공고가 최근 1년간 91% 급증했습니다. AI 기술의 도입 확대에 따라 모델의 안전성 검증과 윤리적 가이드라인을 관리할 인력 수요가 급격히 늘어난 결과입니다. 국내 IT 및 기술 기업들 역시 AI 기술 개발과 서비스 적용 시 윤리·안전 전문 역량 확보의 필요성이 커지고 있습니다.",
+          "impact": "AI 관련 기능 개발 시 AI 안전성 및 윤리 규제 대응을 위한 전담 인력 채용 또는 내부 인재 육성을 검토해야 할 것으로 예상됩니다."
+        }
+      ]
+    },
+    {
+      "key": "trend",
+      "name": "HR 트렌드",
+      "items": [
+        {
+          "title": "칼럼 | 감원하는 빅테크와 다른 길…중소기업이 만드는 새로운 美 기업 문화",
+          "source": "cio.com",
+          "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPWnU5MHlmZjA2aHFGSzJWUnVtbzNnaE15cFZFai00a3JQbTl0Q2h4WDZNRzVCWWRyX1YzOGNMSlBLVzNCQWxQY3VXc1UwX0VIZEZiWTRkLTZvVkg3V0JSNENiQWU3S2Z5NGpDQnpCWlVPTGZfSjZNYVh4ZmMyWEk2eUxaLW9pdjZqc2hCdlltMjR4cFRIZHBBQ3IwMkpGWEY4NlhXUnFnN3BtRnl6bGZkZjFPUFloNXRFQ043RTBCa3ZkdTMzaE1EcXFuU3lWSlJxbTZVczNMSVl1eVMydVdMWVV4Uk9FYTNDd0pJYXhVOGVQajFFRDhmZ3N5TkVnZGJiaGVxcjdJeTc0YVJXdmZQV0ZZeUZacnBtbDlFYk4yWHd1azZLekF3RElia21LOFUwaFVDTFgwVFNLUjFkTlFydU5SVDExVkIyT2FDWVlqZXhnNExMbUdF?oc=5",
+          "publishedAt": "2026-10-02T02:01:42.000Z",
+          "category": "trend",
+          "summary": "미국 빅테크 기업들이 대규모 인원 감축을 이어가는 반면 중소·중견기업들은 다른 조직문화 전략을 취하고 있습니다. 무조건적인 인원 감축 대신 내부 인재의 재교육 및 조직 몰입도를 높이는 유연한 운용을 택하는 사례가 늘고 있습니다. 이는 기술 기업 환경에서 인재 유출을 막고 장기적 생산성을 유지하기 위한 차별화된 시도로 평가받습니다.",
+          "impact": "단기적 인력 감축보다 내부 인재 리스킬링과 유효 인력 배치를 통한 인재 유지 전략 수립이 필요할 것으로 추측됩니다."
+        },
+        {
+          "title": "KT 박윤영, 조직기강 잡는다···'직내괴' 등 5대 근무기강 집중점검",
+          "source": "시사저널e",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VeEdjV2ptaWZvcHpmc1o1dW9sczNNOW1ldzFMU0JMblVHVVp2VXFTQVAtLTFiZUpfeXFvLTFOTmlnaEtHdWVnN3pSbDI2MGdoaG5XaWRPeHdoanBaakdYdnFFUXJ1ZjJiWEJVZjhoVFR3QdIBdkFVX3lxTE1LNXhjQ1NnWkUyNlRwM0F6cnJvTEkxdUNnWEJicUYwdkxrLWl6QnJXUGpGOEJqZHdWc1RsTlQ2MWJhQTk1U0tjeG1SR0I2bERwSlV1UmZkdjFxN3Z4MGRSbHByd0l1QW8tRTIwTm5aNlNuWUVVdVE?oc=5",
+          "publishedAt": "2026-10-02T01:08:17.000Z",
+          "category": "trend",
+          "summary": "KT가 직장 내 괴롭힘을 포함한 5대 근무기강 항목에 대해 고강도 집중 점검에 나섰습니다. 조직 내 불합리한 관행을 근절하고 건전한 조직 문화를 확립하기 위한 경영진의 의지가 반영된 조치입니다. 대기업을 중심으로 근무 태도 및 윤리 준수에 대한 관리가 점차 엄격해지는 추세를 보여줍니다.",
+          "impact": "조직 내 괴롭힘 예방 가이드라인을 재정비하고 경영진 차원의 사내 윤리 캠페인 및 신고 채널을 점검해야 합니다."
+        },
+        {
+          "title": "재택근무와 협업, 공동 출근 설계",
+          "source": "코리아비즈니스리뷰",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWlVscHdEdDdkbkoyc3p6SF9adF93MUtLX29fOWFSeVZMMHM3ajBjZFY2NXktcHJmbHM0N042TWJaS1RJTlAwc3dFZ1hTNXFTdkZoNmhNNnJDeHpBZXZsY1NFNEhiZzVNNjdhQVBrckpsazBIcGxvTWw0WjFGQ0N2Qjd0eUpFcHF1ZUQ5Mw?oc=5",
+          "publishedAt": "2026-10-01T22:25:13.000Z",
+          "category": "trend",
+          "summary": "재택근무와 원격근무를 운영하는 기업들이 협업 효율성을 높이기 위해 '공동 출근일' 등 하이브리드 근무 설계를 강화하고 있습니다. 단순한 완전 재택이나 상시 사무실 출근이 아닌, 팀별 공동 출근일을 지정하여 대면 협업과 몰입을 동시에 도모합니다. 이를 위해 사무실 공간 재배치 및 유연한 근무 스케줄 관리 도입이 활성화되고 있습니다.",
+          "impact": "하이브리드 근무제 운영 시 협업 시너지 유지를 위한 부서별 공동 출근 제도 및 근무 가이드라인 보완이 필요합니다."
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "폴라리스오피스, 'AI가 일하는 SaaS' 전략 구체화…공공·기업 시장 공략",
+          "source": "아시아경제",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OYlBFYUZjX3JMSWVmdXdSYnVQMmVabFdlY2RncVFHbUlEMHFydmhCNHpubkVqT2ZqZExDN1lraUNsbU9WZmdEVEkxdHFyZUFZMWRzbUhzZTVGMmMwRlpVcg?oc=5",
+          "publishedAt": "2026-10-02T00:55:11.000Z",
+          "category": "industry",
+          "summary": "폴라리스오피스가 AI 에이전트 기술을 접목한 SaaS 전략을 구체화하며 공공 및 기업 시장 공략을 본격화합니다. 단순 소프트웨어 제공을 넘어 AI가 업무를 자동 처리하는 에이전트 친화형 기능으로 차별화를 도모하고 있습니다. SaaS 시장 내 AI 에이전트 기술 도입 경향이 빠르게 확산하는 양상입니다.",
+          "impact": "SaaS 경쟁사의 AI 에이전트 도입 가속화에 대응하여 관련 AI 에이전트 개발 및 머신러닝 엔지니어 인재 확보 경쟁이 심화될 것으로 예상됩니다."
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "인사기획",
+      "note": "하이브리드 근무 환경에서 팀별 공동 출근일 지정 등 협업 효율화를 위한 근무 가이드라인을 재정비해야 합니다."
+    },
+    {
+      "part": "급여·보상",
+      "note": "65세 정년 연장 논의 본격화에 발맞추어 직무 가치 기반의 임금체계 개편 방안을 장기적으로 검토할 필요가 있습니다."
+    },
+    {
+      "part": "채용",
+      "note": "SaaS 업계의 AI 에이전트 전환 추세에 맞추어 기술 경쟁력을 확보할 핵심 AI 엔지니어 채용 전략을 강화해야 합니다."
+    },
+    {
+      "part": "노무",
+      "note": "임원의 근로자성 유무 및 저성과자 관리 프로그램(PIP)의 정당성을 사전 점검하여 해고·계약해지 관련 법적 리스크를 최소화해야 합니다."
+    }
+  ]
+}
