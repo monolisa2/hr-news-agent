@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-06",
+  "label": "2026년 10월 6일 (화)",
+  "issue": 24,
+  "generatedAt": "2026-10-06T07:27:19.872Z",
+  "headline": "노동 법제 변화와 AI 인재 확보 경쟁, IT 기업의 대응 전략",
+  "lede": "최근 노동계의 교섭 요구와 근로 시간 제도에 대한 논의가 활발해지며 인사팀의 법적 리스크 관리가 중요해졌습니다. 또한 금융권을 중심으로 한 AI 보안 인재 확보 경쟁이 치열해짐에 따라 IT 기업으로서의 채용 및 보상 전략 재점검이 요구됩니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "내년 4월부터 은행 점포 9시 30분 개점…금융노사 산별교섭 타결",
+          "source": "더팩트",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xMnkyOHpvZTVwSGRxVWhjYnhWdHpCWXRRQnlHNWpzV1ZhdXNVcDllNi1XUDh1VTRxeHZNTG1SZThSdS04czFfbzJnZ01VY1g0MFhqRWVtM0xhd9IBVEFVX3lxTE9xdVZNMmNIRnFJeHpMcGdjR0Q4N1hEVEpNdlY0eXQ0eDRrd1lTeVo0ZDhac3plQVhTQXdDNlZTaXpvTHhodmdxZjVremRYUzhNVmFHdg?oc=5",
+          "publishedAt": "2026-10-06T06:48:23.000Z",
+          "category": "law",
+          "summary": "금융권 노사가 내년 4월부터 은행 영업점 개점 시간을 오전 9시 30분으로 변경하기로 합의했습니다. 이는 산별교섭을 통해 도출된 결과로, 향후 근로 시간 유연화 논의에 영향을 미칠 것으로 보입니다. 금융권의 이러한 변화는 타 업종의 근로 시간 운영 방식에도 시사점을 줍니다.",
+          "impact": "유연근무제 도입 시 업계 표준과 근로자 요구사항을 반영한 근로 시간 설계 전략을 수립해야 합니다."
+        },
+        {
+          "title": "서울대 간 이창용 전 총재…첫 연구서 경직된 근로 시간 ‘쓴소리’",
+          "source": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUnk2dG9Dc0J1Yk1QcDRrU3hwalliVEg2bmtvUzZ2d0lVRTZPRDdlTE1id3dSaXdYLWV0MUF2X0hLMmZVaENZMkZyZ2FaVThQOVcweE9IVFcyekJIV0ROeTRSMmROX19OT3FMXzRJT1ZVdlRoX3hOUlQ4OFRobVcyY00yWGFTUjRLNVdiRU1n?oc=5",
+          "publishedAt": "2026-10-06T06:05:00.000Z",
+          "category": "law",
+          "summary": "이창용 전 총재가 경직된 근로 시간 제도에 대해 비판적인 견해를 밝혔습니다. 특히 화이트칼라 직군에 대한 근로 시간 규제 완화 필요성을 강조하며 제도 개선을 촉구했습니다. 이는 향후 노동 정책 변화의 방향성을 가늠할 수 있는 중요한 지표입니다.",
+          "impact": "화이트칼라 직군에 대한 근로 시간 유연성 확대 가능성을 염두에 두고 인사 규정을 검토해야 합니다."
+        },
+        {
+          "title": "체불임금 대지급금 부정수급 신고포상 '최대 2억 원'으로 상향",
+          "source": "정책브리핑",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT1huM0laSmNDMkZ0VVNsRDNTV0h2bW94cVNUM2ZtRXhwWkY4aTY4M2hVU2Q5cGR4TmRaUEoxQWQxSTh3cTNxbzBDX2VPZmhrRllpZEVUcktxNmFTd1dTRlRBdFdxcjV3MDJfeTN0YlV1RjF1ODV2UjVTaWNCN0ZCSnE2X1gyQTlzaEE?oc=5",
+          "publishedAt": "2026-10-06T05:40:28.000Z",
+          "category": "law",
+          "summary": "체불임금 대지급금 부정수급에 대한 신고포상금이 최대 2억 원으로 상향되었습니다. 임금채권법 시행령 개정을 통해 부정수급을 엄단하겠다는 정부의 의지가 반영되었습니다. 기업은 임금 지급 관리의 투명성을 더욱 강화해야 합니다.",
+          "impact": "임금 지급 프로세스의 적법성을 재점검하고 부정수급 리스크가 발생하지 않도록 내부 통제를 강화해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "case",
+      "name": "판례·노동위",
+      "items": [
+        {
+          "title": "삼성바이오 노조 \"삼성전자와 협상하겠다\"...노란봉투법 '사용자성' 쟁점으로",
+          "source": "오피니언뉴스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MUkZPZWV5WWJvX3BLYTVld3hab1RxcE82dm5BQ1RmQ2ZHUWJUNkFScEFFdDI4ZEFjTTFLOF9GTTdLbVZyT3BrY0czMXVJUlpzNzhxMmpQaDFPSS1WbkxHYVpDMnNNeFFhS09nTU5wT3lKUQ?oc=5",
+          "publishedAt": "2026-10-06T05:06:13.000Z",
+          "category": "case",
+          "summary": "삼성바이오 노조가 삼성전자를 상대로 단체교섭을 요구하며 노란봉투법의 핵심인 '사용자성' 문제가 쟁점으로 떠올랐습니다. 실질적인 인사와 보상 결정권을 가진 원청을 상대로 교섭을 요구하는 사례가 증가하고 있습니다. 이는 향후 노사 관계의 새로운 갈등 요소가 될 전망입니다.",
+          "impact": "원청과 하청 간의 인사권 및 보상 결정권에 대한 법적 리스크를 사전에 파악하고 대응 논리를 마련해야 합니다."
+        },
+        {
+          "title": "[노동뉴스] 노동위 부당해고 인정 9.5% 그쳐…각하 절반 이상은 ‘5인 미만 사업장’",
+          "source": "outsourcing.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RMTBONUo2aWxERkJVUkhVbGlvQnFoWVRVMkE2bVUtb0dOeEJHVDZZcDlXMUFyRHE3dzdoaE9CWjFhVTZBVmlRU21PbnVRRk16LTVlODlKbTdJdmpyQkxwdGEycVRiM1NkOEVpOVY4bmtCZw?oc=5",
+          "publishedAt": "2026-10-06T01:11:30.000Z",
+          "category": "case",
+          "summary": "노동위원회의 부당해고 인정률이 9.5%에 그친 가운데, 5인 미만 사업장에서 제기된 사건들이 각하되는 사례가 절반 이상을 차지했습니다. 이는 근로기준법 적용 범위에 대한 법적 판단 기준이 중요함을 시사합니다. 기업은 규모에 따른 법적 의무 사항을 명확히 인지해야 합니다.",
+          "impact": "사업장 규모에 따른 근로기준법 적용 범위를 재확인하고 부당해고 관련 분쟁 예방 교육을 실시해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "금융권 보안인력 확충 가속…‘AI 보안’ 전문인재 확보전",
+          "source": "브릿지경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DVmRHeEtfWGRVdzZMSHQwMnZsYjFyWnBmRHN0dHVYRTdpX0dERHREYUhHemtmR0JmMFVscVdfOXN6Q2VNMy13SG1BYjFIVVZfSWo1blV5Q3dUQQ?oc=5",
+          "publishedAt": "2026-10-06T04:06:00.000Z",
+          "category": "market",
+          "summary": "금융권을 중심으로 AI 보안 전문 인재 확보를 위한 경쟁이 가속화되고 있습니다. 잇따른 해킹 사건으로 인해 보안이 기업 신뢰의 핵심 요소로 부상했기 때문입니다. IT 기업들 역시 AI 기술 도입과 동시에 보안 인력 확보에 사활을 걸고 있습니다.",
+          "impact": "AI 보안 인재 채용 시 보상 경쟁력을 재검토하고, 내부 인력의 직무 전환 교육을 고려해야 합니다."
+        },
+        {
+          "title": "“정년 연장보다 지역 양질 일자리”…시민 74% 꼽은 저출산 해법",
+          "source": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBiQk1rMXpUTGpHNWNtZ3RQdEhudE1iLV82SjhtaVhXaFVFaEh5UzRiQldFV2JvNnhJX3MzN1dDRDROMjFDNHNTamJ6dHN2SU5XTmVwWEFn?oc=5",
+          "publishedAt": "2026-10-06T02:44:09.000Z",
+          "category": "market",
+          "summary": "시민 74%가 저출산 해법으로 정년 연장보다 지역의 양질 일자리 창출을 꼽았습니다. 이는 구직자들이 안정적인 고용 환경과 지역적 요소를 중요하게 생각함을 보여줍니다. 기업은 인재 유치를 위해 지역 기반의 채용 전략을 고민할 필요가 있습니다.",
+          "impact": "우수 인재 확보를 위해 유연한 근무 형태와 지역 거점 오피스 등 고용 환경 개선책을 검토해야 합니다."
+        },
+        {
+          "title": "사람 줄이면 비용도 줄까…제약·바이오 구조조정의 ‘두 번째 계산서’",
+          "source": "팜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlN1BtOGE0X3NEMHBETHowVmJIY0NoUkFPMzFXZlpSM2NEaEpOR2ZUNkJIYlJJOHlwMkVMeXdVVXRyRmNWRHNidnhRX1k5SGFaOEJKZkxHbDhZZTBHeUN4MDZBMmdPUk1yeEJJVA?oc=5",
+          "publishedAt": "2026-10-05T21:00:00.000Z",
+          "category": "market",
+          "summary": "제약·바이오 업계가 구조조정을 진행하며 비용 절감과 인력 효율화 사이에서 고민하고 있습니다. 인력 감축이 반드시 비용 절감으로 이어지지 않는다는 분석이 나오고 있습니다. 기업은 인력 운영 전략 수립 시 장기적인 생산성 변화를 고려해야 합니다.",
+          "impact": "조직 효율화 추진 시 인력 감축보다는 직무 재배치와 역량 강화 중심의 전략을 우선 고려해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "trend",
+      "name": "HR 트렌드",
+      "items": [
+        {
+          "title": "숭실대 대학일자리플러스센터, ‘AX 역량 강화 Level up 교육’ 프로그램 성료",
+          "source": "한국대학신문",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBPb2tka1lZQ1o3bE9JcWN0U2E5SVNJTzVDMW4zR1JOakxuRzJhMk9HWlEzMGN6LVRuc2JTczRXWFJ3WGwyaXFRQUhrMHNRemctZEdwUk1jN2NZRWpIVmEwVVhLbFBWdw?oc=5",
+          "publishedAt": "2026-10-06T05:06:28.000Z",
+          "category": "trend",
+          "summary": "숭실대 대학일자리플러스센터가 AX(AI 전환) 역량 강화 교육 프로그램을 성공적으로 마쳤습니다. 취업 준비생들에게 실질적인 AI 활용 능력을 배양하는 교육이 확산되고 있습니다. 이는 기업이 요구하는 인재상에 AI 역량이 필수적으로 포함되고 있음을 보여줍니다.",
+          "impact": "신입 채용 시 AI 툴 활용 능력을 평가 지표에 반영하고, 기존 직원을 위한 AI 역량 교육 프로그램을 기획해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "블럭스, 선제 제안 기능 탑재한 CRM 에이전트 '반자동 모드' 공개",
+          "source": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBoQkVONzFUMHJqZGIxWHpfWmM1MURBcnVkWUR4aEVKeE5EOWl4bDhKWFptRU5wczh5SE5JeHdPbFJRRTFIT3BOeXp3S1lULUlxUTNSQVJCN3hiaEFV?oc=5",
+          "publishedAt": "2026-10-06T06:49:00.000Z",
+          "category": "industry",
+          "summary": "블럭스가 선제 제안 기능을 탑재한 CRM 에이전트 '반자동 모드'를 공개했습니다. 마케터가 요청하기 전에 AI가 먼저 캠페인을 제안하는 방식입니다. 마케팅 SaaS 시장에서 AI 자동화 기술 도입이 더욱 고도화되고 있습니다.",
+          "impact": "경쟁사의 AI 기능 확장으로 인해 관련 엔지니어 및 데이터 분석가 채용 경쟁이 심화될 것으로 예상됩니다."
+        },
+        {
+          "title": "틱톡·컬리·넥슨, DMTS서 '에이전틱 마케팅' 실전 해법 공유한다",
+          "source": "블로터",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SMzlqbjBRaDltb0VtRFlENW16WVI4YXU5YTJxaTBQdXVyd0FGYnZZdHMxSzJxMlJ1cS1JYlo5WnNfRV96QTc4aXR1cHQ2ZGpIWF8xa0k1elhKQnVhVXhrVms1UjhGZE1B0gFsQVVfeXFMTktDelhEWkFjaG1iQ1pXZnF5U1ZJdG5McW8xQ3BOVzdKc3Q4WHM4eDdOSURXbTUzSHJ0RU9FQjdiZXlyNDNpSklENWxYS1V0dlhmdEp2MFpmQnhULWx0cnVQaVQtTUhoVDFiWWR4?oc=5",
+          "publishedAt": "2026-10-06T06:05:29.000Z",
+          "category": "industry",
+          "summary": "틱톡, 컬리, 넥슨 등 주요 기업들이 DMTS에서 '에이전틱 마케팅' 실전 해법을 공유합니다. AI 에이전트를 활용한 마케팅 전략이 산업 전반의 화두로 떠오르고 있습니다. 기업들은 AI를 마케팅 효율화의 핵심 도구로 활용하고 있습니다.",
+          "impact": "마케팅 조직의 AI 활용 역량 강화가 사업 성과와 직결되므로 관련 직무 교육을 강화해야 합니다."
+        },
+        {
+          "title": "LGU+, 해외 AI·콘텐츠 서비스 확장…뱅고와 ‘맞손’",
+          "source": "itbiznews.com",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5CRHR1SVh5LUc5ZmtRQ1NCQnR1WHJHcmhvZWh4VVUyU2ozMzE2aUdnMXFBMFYzU3hRNXVldVViTXpsNGxmRzU4NndHT2pxTGd0ZWVacnRYbUlXWUhFcGdxQV9weGFCS2NPQ1pOTg?oc=5",
+          "publishedAt": "2026-10-05T23:00:00.000Z",
+          "category": "industry",
+          "summary": "LG유플러스가 해외 AI 및 콘텐츠 서비스 확장을 위해 뱅고와 협력합니다. 글로벌 시장 진출을 위한 AI 기술 도입과 파트너십이 활발합니다. IT 기업들의 해외 진출 전략에 AI가 필수적인 요소로 자리 잡고 있습니다.",
+          "impact": "글로벌 시장 대응을 위한 AI 기술 인력 확보 및 해외 근무 환경 조성이 필요합니다."
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "채용",
+      "note": "금융권의 AI 보안 인재 확보 경쟁이 치열해짐에 따라, 당사 역시 AI 관련 직무의 보상 경쟁력을 재검토하고 채용 전략을 다각화해야 합니다."
+    },
+    {
+      "part": "교육·육성",
+      "note": "마케팅 및 IT 산업 전반의 AI 전환 가속화에 맞춰, 전 직원의 AI 툴 활용 역량을 높이기 위한 사내 교육 프로그램을 신설해야 합니다."
+    },
+    {
+      "part": "노무",
+      "note": "근로 시간 유연화에 대한 사회적 논의와 원청의 사용자성 이슈가 부각되고 있으므로, 법적 리스크를 선제적으로 점검하고 유연근무제 규정을 정비해야 합니다."
+    }
+  ]
+}
