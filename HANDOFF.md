@@ -16,7 +16,7 @@
 사이트 자체는 공개 뉴스 요약이라 비상업·공개로 운영합니다.
 
 ```
-GitHub Actions (평일 10:00 KST, 실패한 날은 12:00 에 자동 재시도)
+cron-job.org → GitHub Actions 호출 (평일 10:00 KST 정각, GitHub 자체 크론은 백업)
   ├─ 구글뉴스 RSS 25개 키워드 수집 → 중복 제거
   ├─ LLM 요약·분류 (Gemini 무료 티어)
   ├─ Gmail SMTP 로 팀원에게 BCC 발송
@@ -62,7 +62,7 @@ GitHub Actions (평일 10:00 KST, 실패한 날은 12:00 에 자동 재시도)
 |---|---|
 | 저장소 | github.com/monolisa2/hr-news-agent (Public) |
 | 사이트 | https://monolisa2.github.io/hr-news-agent/ |
-| 발송 | 평일 10:00 KST, Gmail BCC 7명 |
+| 발송 | 평일 10:00 KST (cron-job.org 트리거), Gmail BCC 7명 |
 | 모델 | `gemini-3.6-flash` |
 | 첫 호 | 2026-08-30 제1호 |
 
@@ -102,9 +102,19 @@ CSS 는 직접 작성한 것뿐이라 실질 위험이 없습니다. 해결하�
 
 ## 5. 알려진 주의점
 
-**GitHub 크론은 5~20분 늦게 뜹니다.** 10시 정각이 중요하면 `daily.yml`의 cron 을
-`0 0 * * 1-5`(KST 09:00)로 당기세요. 수집 폭은 `run.mjs`가 마지막 발행일 기준으로
-자동 계산합니다(1~5일). 월요일의 주말치도, 실행이 실패한 다음 날의 빈 기간도 자동으로 메워집니다.
+**GitHub 무료 크론은 정시용이 아닙니다.** 2026년 9~10월 실측으로 예약보다 5~6시간
+늦게 돌았고(10시 예약 → 15~16시 실행), 점점 심해졌습니다. 그래서 정시 발송은
+**cron-job.org 가 평일 10:00 KST 에 workflow_dispatch API 를 호출**하는 방식입니다.
+GitHub 크론 두 개는 cron-job.org 가 멈춘 날의 늦은 백업으로만 남겨 두었습니다.
+
+- cron-job.org 계정: 사용자 소유. 잡 하나(월~금 10:00 Asia/Seoul, GitHub API POST)
+- 호출에 쓰는 GitHub 토큰(fine-grained PAT, 이 저장소 Actions 권한만)은 cron-job.org
+  잡의 Authorization 헤더에 저장돼 있습니다. **만료 1년.** 만료되면 고장이 아니라
+  **레터가 다시 오후 3~7시로 밀리는 증상**으로 나타납니다 — 그때 PAT 를 재발급해서
+  cron-job.org 잡 헤더만 갈아끼우면 됩니다.
+
+수집 폭은 `run.mjs`가 마지막 발행일 기준으로 자동 계산합니다(1~5일). 월요일의
+주말치도, 실행이 실패한 다음 날의 빈 기간도 자동으로 메워집니다.
 
 **정부 보도자료 피드는 2026-08-30 기준 둘 다 죽었습니다.** 고용노동부
 `enewsList.do?rssYn=Y` 는 RSS 대신 HTML 을 반환하고, `korea.kr/rss/dept_moel.xml` 은

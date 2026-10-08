@@ -64,29 +64,37 @@ ${list}
 id 는 위 목록의 대괄호 안 번호를 그대로 사용하세요. 새 번호나 새 URL을 만들지 마세요.`;
 }
 
-// 무료 티어는 혼잡 시간대에 503(UNAVAILABLE)을 자주 던집니다. 2026-09-03 과
-// 09-04 아침 실행이 이걸로 이틀 연속 죽었습니다. 일시적 오류(아래 상태코드)는
-// 기다렸다 다시 시도하고, 다 실패하면 예비 모델로 마지막 한 번을 시도합니다.
+// 무료 티어는 혼잡 시간대에 503(UNAVAILABLE)을 자주 던집니다. 2026-09-03·04 와
+// 10-05·07 실행이 실제로 이렇게 죽었습니다. 10-05 는 재시도 4회 + 예비 모델
+// 1회까지 전부 503 이어서, 대기를 늘리고 예비 모델에도 재시도를 주었습니다.
+// 전체 최악 대기 약 30분 — Actions 제한(6시간)에 여유가 큽니다.
 const RETRYABLE = new Set([0, 429, 500, 502, 503, 504]); // 0 = 네트워크 오류
-const RETRY_WAITS_SEC = [30, 60, 120, 240];
+const RETRY_WAITS_SEC = [60, 120, 300, 600];       // 주 모델: 총 ~18분
+const FALLBACK_WAITS_SEC = [60, 180, 420];          // 예비 모델: 총 ~11분
 const GEMINI_FALLBACK_MODEL = process.env.GEMINI_FALLBACK_MODEL || 'gemini-3.1-flash-lite';
 
 const sleep = (sec) => new Promise((r) => setTimeout(r, sec * 1000));
 
-async function callGemini(prompt) {
+async function callWithRetries(prompt, model, waits) {
   for (let attempt = 0; ; attempt++) {
     try {
-      return await callGeminiOnce(prompt, GEMINI_MODEL);
+      return await callGeminiOnce(prompt, model);
     } catch (err) {
-      if (!RETRYABLE.has(err.status)) throw err;
-      if (attempt >= RETRY_WAITS_SEC.length) {
-        console.warn(`  ! ${GEMINI_MODEL} 이 계속 응답하지 못해 예비 모델(${GEMINI_FALLBACK_MODEL})로 시도합니다.`);
-        return await callGeminiOnce(prompt, GEMINI_FALLBACK_MODEL);
-      }
-      const wait = RETRY_WAITS_SEC[attempt];
-      console.warn(`  ! Gemini ${err.status || '네트워크'} 오류 — ${wait}초 뒤 다시 시도합니다 (${attempt + 1}/${RETRY_WAITS_SEC.length}).`);
+      if (!RETRYABLE.has(err.status) || attempt >= waits.length) throw err;
+      const wait = waits[attempt];
+      console.warn(`  ! ${model} ${err.status || '네트워크'} 오류 — ${wait}초 뒤 다시 시도합니다 (${attempt + 1}/${waits.length}).`);
       await sleep(wait);
     }
+  }
+}
+
+async function callGemini(prompt) {
+  try {
+    return await callWithRetries(prompt, GEMINI_MODEL, RETRY_WAITS_SEC);
+  } catch (err) {
+    if (!RETRYABLE.has(err.status)) throw err;
+    console.warn(`  ! ${GEMINI_MODEL} 이 계속 응답하지 못해 예비 모델(${GEMINI_FALLBACK_MODEL})로 전환합니다.`);
+    return await callWithRetries(prompt, GEMINI_FALLBACK_MODEL, FALLBACK_WAITS_SEC);
   }
 }
 
