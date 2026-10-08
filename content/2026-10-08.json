@@ -1,0 +1,153 @@
+{
+  "date": "2026-10-08",
+  "label": "2026년 10월 8일 (목)",
+  "issue": 26,
+  "generatedAt": "2026-10-08T07:14:12.788Z",
+  "headline": "노동법 리스크 확대와 AI 인재 확보 경쟁 심화, HR의 전략적 대응 필요",
+  "lede": "최근 학습지 교사의 근로자성 인정 등 노동법 판례 변화와 임금체불 처벌 강화가 이어지고 있습니다. 동시에 IT 업계 내 AI 및 반도체 인재 확보 경쟁이 가속화됨에 따라, 우리 회사의 채용 전략과 조직 관리 체계를 재점검해야 합니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "“월급 미루다 적발되면 징역 5년”…10월 8일부터 임금체불 처벌 세진다",
+          "source": "경제시그널",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9yTDJ1LUc0QnJIMUpUMS0zWEF2MXlmS2pGZTA5VHhKeXpReFh6bzJtdnd0TzdkZ3ZVXzhYTDIyYXRySUJxdEVyN1lMcFhrVkNVb2wwRktxdDlyeVZ4YzJ1eW54NU1CaXRndkdONHNPNHpyUXM?oc=5",
+          "publishedAt": "2026-10-08T05:35:50.000Z",
+          "category": "law",
+          "summary": "10월 8일부터 임금체불에 대한 처벌이 대폭 강화되어 상습 체불 시 징역형까지 처해질 수 있습니다. 고용노동부는 임금체불 근절을 위해 엄정한 법 집행을 예고했습니다. 기업은 임금 지급 기일 준수와 관련 행정 절차를 더욱 철저히 관리해야 합니다.",
+          "impact": "급여 지급 시스템의 오류 가능성을 점검하고, 임금체불 관련 법적 리스크가 발생하지 않도록 급여 관리 프로세스를 재확인해야 합니다."
+        },
+        {
+          "title": "5인 미만 근로기준법 확대 적용… 음식점주 “감원할 것”",
+          "source": "식품외식경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE00Ml9wSGN1X0QzbDRlRUpLb0tQMWgxMjV6NHhCMldabFBCRTZuQXBRc1ZqZHhaMlVCZzZEUHhxdVVDcFJrWnh1QWtYUTVReXdjb0ZJQkN3UEdZeUFFN3FUbU1LUkZDb09SUlo5eA?oc=5",
+          "publishedAt": "2026-10-08T06:00:01.000Z",
+          "category": "law",
+          "summary": "5인 미만 사업장에 대한 근로기준법 확대 적용 논의가 지속되면서 영세 사업주들의 우려가 커지고 있습니다. 법 적용 시 인건비 부담 증가로 인한 감원 가능성까지 거론되는 상황입니다. 향후 노동법 개정 방향에 따라 중소 규모 기업들의 인사 운영 전략 수정이 불가피합니다.",
+          "impact": "법 개정 추이를 모니터링하여 향후 근로기준법 확대 적용 시 발생할 수 있는 비용 및 운영 변화를 시뮬레이션해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "case",
+      "name": "판례·노동위",
+      "items": [
+        {
+          "title": "중노위 \"위탁계약 학습지 교사도 근로자\"…일방 해지는 부당해고",
+          "source": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GN3V1ZllENFdmaVRTVFBRSkxPZW5MM2dkenN3VXhlYVFxVHB2c0h6MldRM0tCQWhMaXI3QmhqTWNpTl9idWtHNGN6Uks3cFhuaHctd1pPanNvcVhURERtamc5RQ?oc=5",
+          "publishedAt": "2026-10-08T01:21:19.000Z",
+          "category": "case",
+          "summary": "중앙노동위원회가 위탁계약을 맺은 학습지 상담교사를 근로기준법상 근로자로 처음 인정했습니다. 일방적인 계약 종료가 부당해고에 해당한다는 판정으로, 특수고용직의 근로자성 판단 기준이 강화될 전망입니다. 향후 유사한 위탁 계약 형태를 가진 기업들의 노무 리스크가 커질 것으로 보입니다.",
+          "impact": "사내 프리랜서나 위탁 계약직의 업무 지휘·감독 체계를 점검하여 근로자성 분쟁 가능성을 사전에 차단해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "[더테크 픽] 반도체 대기업 채용공고 102% 급증…AI 인력 확보 경쟁에 경력직 157% 늘었다",
+          "source": "더테크",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GQzUzX1d6dXpUY0REeW1HNXlrb0c4aW5ZUER3b3B4VU9HUTRqRzBYSmd3Yk5jWWVUdW9UN3ctTFJjTDU1RnUxQnk4cXBLVUFLaFhWcnhUTEpiZkFGd1dUQWl2RQ?oc=5",
+          "publishedAt": "2026-10-08T05:43:56.000Z",
+          "category": "market",
+          "summary": "반도체 및 AI 분야의 대기업 채용공고가 전 분기 대비 102% 급증했으며, 특히 경력직 채용은 157% 증가했습니다. 반면 웹·앱 개발 직무의 채용 수요는 상대적으로 감소하는 등 직무별 온도차가 뚜렷합니다. AI 기술 도입이 가속화되면서 핵심 인재 확보를 위한 기업 간 경쟁이 치열해지고 있습니다.",
+          "impact": "AI 관련 직무 인재의 이직 시장이 과열되고 있으므로, 우리 회사의 보상 경쟁력과 채용 브랜딩을 재점검해야 합니다."
+        },
+        {
+          "title": "올해 신입사원 적정 나이는?…\"男 30.2세·女 28세\"",
+          "source": "디지털데일리",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5KTUNFMEYtX0I1ZnZkc0d3WE1YYnc1RWNrRTVxUk9lMGZ1cFNYTDVxMEFsOXJleUNDd29TemxLZzFDbGgyOVRDTUNHYjVRLUktaWpiZWxRRWUybXVCTXl5SlZUR1I?oc=5",
+          "publishedAt": "2026-10-08T01:15:30.000Z",
+          "category": "market",
+          "summary": "신입사원의 적정 나이에 대해 남성 30.2세, 여성 28세라는 인식이 여전히 존재합니다. 그러나 구직자 10명 중 7명은 채용 시 나이 제한이 불필요하다고 응답했습니다. 기업들은 나이보다는 직무 역량 중심의 채용 문화로 전환하는 추세입니다.",
+          "impact": "채용 공고 및 면접 과정에서 나이 관련 편견을 배제하고 직무 역량 중심의 평가 체계를 더욱 강화해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "trend",
+      "name": "HR 트렌드",
+      "items": [
+        {
+          "title": "이제 주니어 개발자는 없어지나요? AI 시대 개발자 생존법",
+          "source": "요즘IT",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4yVnljTW5UZElKS2dhWUxQVFRMYkRsdWktWjRsN1hrLUlBSzVRM2NERlBiR1BiQjJnR1lPb2Y2NVlUT25EaU1UX2dQcXB5eXRVTldnTHc3T3otdw?oc=5",
+          "publishedAt": "2026-10-08T00:00:17.000Z",
+          "category": "trend",
+          "summary": "AI 시대가 도래하면서 주니어 개발자의 역할과 생존법에 대한 논의가 활발합니다. 단순 코딩 업무의 자동화로 인해 주니어 개발자에게 요구되는 역량이 변화하고 있습니다. 기업은 AI 툴을 활용한 생산성 향상과 주니어 인재의 성장 경로를 재설계해야 합니다.",
+          "impact": "주니어 개발자 채용 시 AI 활용 능력과 문제 해결 역량을 평가 지표에 반영하고, 내부 교육 커리큘럼을 개편해야 합니다."
+        },
+        {
+          "title": "[단독] 직장 내 괴롭힘으로 퇴사 내몰리는 청년들…괴롭힘 피해 인정된 구직급여 수급자 78%가 '2030세대'",
+          "source": "JTBC",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE54Y3hJTGFONW9SOFUxdmluNDFyUW5TWlQzQnVCbzNVV181REhXZzAzcmdKeEk1VFE3bHBZOWp0NDhUOWNGRVRkZDJQek51eFdJMWF1Ng?oc=5",
+          "publishedAt": "2026-10-08T05:32:00.000Z",
+          "category": "trend",
+          "summary": "직장 내 괴롭힘으로 인해 퇴사하는 청년층이 증가하고 있으며, 구직급여 수급자의 78%가 2030세대로 나타났습니다. 괴롭힘 피해 인정 사례가 늘어남에 따라 조직문화 개선이 시급한 과제로 떠올랐습니다. 젊은 인재 유지를 위해 심리적 안전감이 보장되는 근무 환경 조성이 필수적입니다.",
+          "impact": "조직 내 괴롭힘 예방 교육을 강화하고, 익명 고충 처리 채널의 실효성을 높여야 합니다."
+        },
+        {
+          "title": "[글로벌 HR 트렌드] 글로벌 기업들은 HR에 어떻게 AI를 적용할까요? | 유니레버, IBM, AT&T, 세일즈포스, 넷플릭스, 한국 기업 HR",
+          "source": "오픈애즈",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBybzBSRGJsNkMwbkd2T01oUjBvRUhUQWtpWU1zR1VtWGI1aWFGM1NUdU1GRk1Mc2dteHB1VDZvbXB2WmhYVTFYbzI1NnEyVGdYRnBRMVNXZUNJZHRxX0VCTHlIRlV3dld5OTlhUG9n?oc=5",
+          "publishedAt": "2026-10-08T02:10:00.000Z",
+          "category": "trend",
+          "summary": "글로벌 기업들이 HR 영역에 AI를 적극적으로 도입하고 있습니다. 유니레버, IBM 등은 채용, 평가, 교육 등 HR 전반에 AI를 활용하여 효율성을 극대화하고 있습니다. 한국 기업들도 글로벌 트렌드에 발맞춰 AI 기반의 HR 데이터 분석과 인재 관리를 시도하고 있습니다.",
+          "impact": "우리 회사의 HR 업무 중 AI로 자동화할 수 있는 영역을 발굴하여 인사 운영의 효율성을 제고해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "인크로스, 조회수 넘어 ‘전환’ 본다…크리에이터 마케팅 세미나 개최",
+          "source": "매일일보",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1vLTFHSkRFS3AwRzNjV3NwRnFwRXZtRlZwaVdNS1BUZkJMc1dCcUdOdXZBSVFzSEM5QVFBbXFVb29uSVVMTXZVMmtPQkt3eldsU01Ndl9sUGhBYUFEX2pkQzVINmk?oc=5",
+          "publishedAt": "2026-10-08T06:20:17.000Z",
+          "category": "industry",
+          "summary": "인크로스가 크리에이터 마케팅 세미나를 통해 조회수 중심의 성과 측정에서 전환 중심의 마케팅으로의 변화를 강조합니다. 마케팅 SaaS 시장에서 데이터 기반의 실질적 성과 창출이 중요해지고 있습니다. 기업들은 마케팅 효율을 높이기 위한 AI 솔루션 도입에 집중하고 있습니다.",
+          "impact": "마케팅 SaaS 시장의 성과 중심 트렌드에 맞춰, 관련 직무 인재들의 데이터 분석 역량 강화 교육이 필요합니다."
+        },
+        {
+          "title": "KOSA-한국벤처투자, AI·SW 기업 투자 지원 맞손…모태펀드 연계 확대",
+          "source": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuMlE1akxrMjRMV0pOSWlhN1ZzTi1lbU14MzVFRTNSSTdJWmV6ZElCSzFpUDFZdUVKZXh0c3NvZkhuQ0dObms5ZHBQSmd3WnhIS3JMUHBn?oc=5",
+          "publishedAt": "2026-10-08T04:08:05.000Z",
+          "category": "industry",
+          "summary": "한국벤처투자와 KOSA가 AI 및 SW 기업에 대한 투자 지원을 확대하기로 했습니다. 모태펀드 연계를 통해 유망한 AI 스타트업들의 실증 사업을 지원합니다. IT 업계 전반의 투자 활성화는 관련 인재 채용 수요 증가로 이어질 가능성이 높습니다.",
+          "impact": "업계 투자 활성화에 따른 인재 유출 가능성을 주시하고, 핵심 인재에 대한 리텐션 전략을 수립해야 합니다."
+        },
+        {
+          "title": "파이온코퍼레이션, 삼쩜삼캠퍼스에 '브이캣 GEO 에이전트' 적용해 검색 노출 10배 확대",
+          "source": "브랜드브리프",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UdHFXRUtBeXY2STF6T1BBSkUteGRLaFR3Ukh6S3JaUHBHSVpaa0xxcUpYWGhPMnFlZ05odG1RU2ZzUE9wMWhQTzQ2X1l4Z2x5NjFpT0tlbWplSGJTUklhNklna1BMMU9qSFZfckF3?oc=5",
+          "publishedAt": "2026-10-08T01:40:18.000Z",
+          "category": "industry",
+          "summary": "파이온코퍼레이션이 AI 에이전트를 적용하여 검색 노출 효율을 10배 이상 확대하는 성과를 냈습니다. SaaS 기업들이 AI 기술을 활용해 고객사의 마케팅 성과를 직접적으로 개선하는 사례가 늘고 있습니다. 기술 중심의 서비스 차별화가 시장 경쟁력의 핵심이 되고 있습니다.",
+          "impact": "AI 기술 도입을 통한 서비스 고도화가 가속화됨에 따라, 관련 엔지니어 및 기획자 확보 경쟁이 심화될 것으로 추측됩니다."
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "채용",
+      "note": "AI 및 반도체 분야의 경력직 채용 경쟁이 급증함에 따라, 핵심 인재 확보를 위한 보상 경쟁력 점검과 직무 역량 중심의 채용 프로세스 고도화가 필요합니다."
+    },
+    {
+      "part": "교육·육성",
+      "note": "AI 툴의 업무 적용이 보편화됨에 따라 주니어 인재들의 AI 활용 역량을 강화하고, 이를 반영한 내부 직무 교육 커리큘럼을 재설계해야 합니다."
+    },
+    {
+      "part": "노무",
+      "note": "학습지 교사 근로자성 인정 판례와 임금체불 처벌 강화에 대응하여, 사내 위탁 계약 형태의 적법성을 검토하고 급여 지급 프로세스의 리스크를 관리해야 합니다."
+    }
+  ]
+}
