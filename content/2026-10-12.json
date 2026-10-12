@@ -1,0 +1,123 @@
+{
+  "date": "2026-10-12",
+  "label": "2026년 10월 12일 (월)",
+  "issue": 28,
+  "generatedAt": "2026-10-12T07:33:14.972Z",
+  "headline": "채용 시장의 AI 역량 검증 본격화와 노동법 리스크 관리 강화",
+  "lede": "최근 채용 시장에서 AI 활용 능력이 핵심 스펙으로 부상하며 평가 방식이 변화하고 있습니다. 동시에 노동법 준수와 직장 내 괴롭힘 등 조직 관리 리스크에 대한 사법적·행정적 대응이 강화되는 추세입니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "경총, “일본처럼 65세 단계적 재고용 도입..일률적 정년연장만이 답 아냐”",
+          "source": "브레이크뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1ibTVjaFdaZlZvRkpGU1NCajNvZ285UHFhUDNPU2FNM3BtR0hCUTkySDRiYjBhSkdjX0loVUNJWVhhZThRNDBZ?oc=5",
+          "publishedAt": "2026-10-12T06:22:00.000Z",
+          "category": "law",
+          "summary": "경총이 일률적인 정년 연장 대신 일본의 사례를 참고한 65세 단계적 재고용 도입을 제안했습니다. 고령 인력 활용의 효율성을 높이면서도 기업의 부담을 완화하려는 취지입니다. 정년 연장 논의가 단순한 숫자 확대를 넘어 고용 형태의 유연성 확보로 이동하고 있습니다.",
+          "impact": "정년 연장 논의가 고용 연장 모델로 구체화됨에 따라, 향후 인사 기획 시 고령 인력 활용 방안과 임금 체계 개편을 선제적으로 검토해야 합니다."
+        },
+        {
+          "title": "[2026 국감] '직장 내 괴롭힘'에 구직급여 받는 80%는 2030 청년층",
+          "source": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1fRXJLcHRpTWxRckdadmZhSmN3WTY3QWZObUZOd0lxR0dPSnFkcUh3dXJoQ1hMcms3SENVMWRSVm9GWFBGOVdfdG1IekZ0TTZaWGpZVExRdFNEZHJX?oc=5",
+          "publishedAt": "2026-10-12T04:59:00.000Z",
+          "category": "law",
+          "summary": "2026년 국정감사 결과, 직장 내 괴롭힘으로 인해 구직급여를 수급하는 인원의 80%가 2030 청년층인 것으로 나타났습니다. 이는 조직 내 세대 갈등과 괴롭힘 문제가 청년층의 이직 및 고용 불안에 직접적인 영향을 미치고 있음을 시사합니다. 괴롭힘 대응 패러다임의 구조적 개선이 요구되는 상황입니다.",
+          "impact": "청년층 이탈 방지를 위해 조직 내 괴롭힘 예방 교육을 강화하고, 신고 시스템의 실효성을 재점검해야 합니다."
+        },
+        {
+          "title": "임금 떼먹으면 징역 5년…체불처벌 대폭 강화 시행",
+          "source": "뉴스법률",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5MQWVWcHNOakpYZFlVWFNYZUF5TkJOa0hZNkVMcWdCa2E4YzE4ckhJbmI3ZmVrWFlzbXJxLVVzRFNKQUY2OGl4Zm1XV3hZRmpwNko4Ulg5MFc?oc=5",
+          "publishedAt": "2026-10-12T01:40:00.000Z",
+          "category": "law",
+          "summary": "임금 체불에 대한 처벌이 대폭 강화되어 최대 징역 5년까지 처벌이 가능해졌습니다. 노동 당국은 임금 체불 및 부당 해고 등 노동법 위반 사례에 대해 엄중한 수사를 진행하고 있습니다. 기업은 법적 리스크를 최소화하기 위해 급여 관리 및 해고 절차의 적법성을 철저히 준수해야 합니다.",
+          "impact": "임금 체불 및 해고 관련 법적 리스크가 커짐에 따라, 급여 지급 프로세스와 징계·해고 절차의 법적 검토를 강화해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "잡코리아 분석 발표…3분기 채용공고서 'AI 툴’ 요구 170% 늘어",
+          "source": "데일리포스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5SeEFKWllJeEF2NjYwLV9xRmFMZXJ6SmZHYXRlM29ER3ZnMHQwWkxfR0taOWs0VWdEU2poWTE4RzczbU1IWDhWQmpXUnFCREFyMk0yOTdXYXl2X0o3cmw3REZwblN0Nll2REpVY2ViWdIBc0FVX3lxTFBTRVRfRGZSbjJ3TXVFc1RaS1JiVUpPNjZFZElBbmNGdGg3MUNEeFpBMHdReVRpNUpqbERhVmw0czdtS1JIU2V4Y0ktcFZ4WFVXdF9ib0dScEZkSUF1SlBRY29fUU5RRVRZUmI1VmJneVFPYTA?oc=5",
+          "publishedAt": "2026-10-12T01:59:59.000Z",
+          "category": "market",
+          "summary": "올해 3분기 채용 공고에서 AI 툴 활용 능력을 요구하는 비중이 전년 대비 170% 급증했습니다. 특히 클로드(Claude)와 챗GPT 등 구체적인 생성형 AI 도구의 숙련도를 명시하는 기업이 늘고 있습니다. 단순 사무 능력보다 AI를 활용한 생산성 향상이 채용의 핵심 지표로 자리 잡고 있습니다.",
+          "impact": "채용 시 직무 기술서에 AI 툴 활용 역량을 필수 요건으로 명시하고, 기존 구성원 대상의 AI 활용 교육 프로그램을 설계해야 합니다."
+        },
+        {
+          "title": "국립공원공단, 신규 채용에 '공직적격성평가' 도입…공공기관 최초",
+          "source": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00MkJfWW9YNzJITW1Sdk4wRVF1d2lFTllkSjRYR2ZRRklDWk1IVEJLN2MxVXpsb3JFYjY1ZDRjYXdDY3oxN2Y5VUhNSlI2bnlEWDZrYXE4OWZhZ0pWQURwSkRwbDI4ZldZdjBOUUplNFRYY204RUhhOdIBeEFVX3lxTE00MkJfWW9YNzJITW1Sdk4wRVF1d2lFTllkSjRYR2ZRRklDWk1IVEJLN2MxVXpsb3JFYjY1ZDRjYXdDY3oxN2Y5VUhNSlI2bnlEWDZrYXE4OWZhZ0pWQURwSkRwbDI4ZldZdjBOUUplNFRYY204RUhhOQ?oc=5",
+          "publishedAt": "2026-10-12T01:04:48.000Z",
+          "category": "market",
+          "summary": "국립공원공단이 공공기관 최초로 신규 채용에 '공직적격성평가'를 도입했습니다. 이는 직무 역량 외에도 조직 적합성과 공직 가치를 검증하려는 시도입니다. 공공 부문의 이러한 변화는 민간 기업의 인재 선발 기준에도 영향을 미칠 가능성이 있습니다.",
+          "impact": "조직 문화와 가치관이 맞는 인재를 선발하기 위해 우리 회사만의 인재상 검증 도구 및 평가 체계를 고도화해야 합니다."
+        },
+        {
+          "title": "그렙 AI 역량평가, 시중은행 PT 면접 대체…도입 6개월 만에 16곳 채택",
+          "source": "스타트업엔(StartupN)",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBMVWh4dFhwZHZYcnAxODR1NXRGSmMzYzBPQ1RBc3d6MnlxaWx2Yk1FSTVkbXR0ZXVrdFBucFNWcHhraWoweXNUbC00NFpxSm5sTnRlUV9VOFFFSHRQdXl2TF8wY0xLczDSAWxBVV95cUxOUzFUT0pJNVlPcVEtZVRwaks0cDlIblRHYXh2OGl4NVhBRkdDZHM4Sy1rYVNKRFh4Sm1vVlBRR01TRjRfOGVVeHZESUFmQVF6dXV5bXZWQ3FpMy05eHdNcnFFV3dhUGQ2MHoxazI?oc=5",
+          "publishedAt": "2026-10-12T02:02:21.000Z",
+          "category": "market",
+          "summary": "그렙의 AI 역량평가가 시중은행 등 16개 기업에 도입되며 채용 면접을 대체하고 있습니다. 기존의 PT 면접을 AI 기반의 실무 역량 평가가 대신하면서 채용 효율성이 높아지고 있습니다. IT 업계를 중심으로 AI 기반의 객관적 채용 평가 시스템 도입이 가속화되는 모습입니다.",
+          "impact": "채용 프로세스 효율화를 위해 AI 역량 평가 도입을 검토하고, 면접관의 주관을 보완할 수 있는 데이터 기반 평가 체계를 구축해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "데이터 분석 넘어 에이전트까지…뉴엔AI, 기업용 AI 판 넓힌다",
+          "source": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RWHJSdDRncWJnRk9qSl9tQU0yWjNoMFo2eFhRMlBvbDZrbFIwMmxyTlpLUGJhLUdGdWhoaEYzeEFvWEJRWnRET3hBY1NsVlUwcUpyQVd3?oc=5",
+          "publishedAt": "2026-10-12T06:13:07.000Z",
+          "category": "industry",
+          "summary": "뉴엔AI가 데이터 분석을 넘어 기업용 AI 에이전트 시장으로 사업을 확장하고 있습니다. 기업들이 단순한 AI 도입을 넘어 업무 자동화를 수행하는 에이전트 기술에 주목하고 있습니다. 산업별 맞춤형 AI 솔루션 경쟁이 심화될 전망입니다.",
+          "impact": "AI 에이전트 도입으로 인한 업무 방식 변화에 맞춰, 구성원들의 직무 재설계 및 AI 협업 역량 강화가 필요합니다."
+        },
+        {
+          "title": "스쿼드엑스, '딥테크 팁스' 선정…마케팅 자동화 AI 에이전트 개발 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9id2tGTGFlYkRjMHM3Qm1NWjFNaVpUQ3dLUFp0T2lQaGZBSVBJUDR3Z1NPTTJ3U282bjV1aDBiNlc5d2h6cXF0bEVqVEFoLWdIeGxDT0gwVHB4dXYybXU2OUNpYWtJYkkxcDlHQXhrZ9IBb0FVX3lxTE9id2tGTGFlYkRjMHM3Qm1NWjFNaVpUQ3dLUFp0T2lQaGZBSVBJUDR3Z1NPTTJ3U282bjV1aDBiNlc5d2h6cXF0bEVqVEFoLWdIeGxDT0gwVHB4dXYybXU2OUNpYWtJYkkxcDlHQXhrZw?oc=5",
+          "publishedAt": "2026-10-12T03:00:00.000Z",
+          "category": "industry",
+          "summary": "스쿼드엑스가 마케팅 자동화 AI 에이전트 개발로 딥테크 팁스에 선정되었습니다. 마케팅 분야에서도 AI를 활용한 자동화 기술이 핵심 경쟁력으로 부상하고 있습니다. 기술 기반의 마케팅 솔루션 기업들의 성장이 가속화되고 있습니다.",
+          "impact": "마케팅 자동화 기술 도입에 따른 마케팅 조직의 역할 변화와 전문성 확보 전략을 수립해야 합니다."
+        },
+        {
+          "title": "[마케팅 브리프 | 2026년 10월 12일자] AI 답변 속 브랜드 노출 확대…B2B 마케팅은 성과 측정·구매자 신뢰 과제",
+          "source": "산업종합저널",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1zX3RiODhIX1VMam9kVUpiei1VNGtFLThKUlBBRFRFX3JzamI0S1o1a1NrdmFoQlBTTktsU29HVkhuMEJ5R3FSTUZjeldXbDdlaTNF?oc=5",
+          "publishedAt": "2026-10-12T00:46:00.000Z",
+          "category": "industry",
+          "summary": "AI 답변 내 브랜드 노출이 확대되면서 B2B 마케팅의 성과 측정과 신뢰 확보가 중요해졌습니다. AI 시대의 마케팅은 단순 노출보다 고객의 신뢰를 얻는 콘텐츠 전략이 핵심입니다. 마케팅 조직의 AX(AI 전환) 전략이 사업 성패를 좌우하고 있습니다.",
+          "impact": "마케팅 조직의 AI 전환을 지원하기 위해 구성원들에게 AI 기반 성과 분석 및 콘텐츠 신뢰도 관리 역량 교육을 제공해야 합니다."
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "채용",
+      "note": "채용 공고에 AI 툴 활용 능력을 명시하고, AI 역량 평가 도입을 통해 면접 프로세스의 효율성과 객관성을 높여야 합니다."
+    },
+    {
+      "part": "교육·육성",
+      "note": "AI 에이전트와 자동화 도구 확산에 대비해 구성원들의 AI 활용 역량 강화 교육을 우선적으로 실시해야 합니다."
+    },
+    {
+      "part": "노무",
+      "note": "임금 체불 처벌 강화 및 직장 내 괴롭힘 이슈에 대응하여 급여 관리 프로세스와 사내 고충 처리 시스템을 재점검해야 합니다."
+    }
+  ]
+}
