@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-13",
+  "label": "2026년 10월 13일 (화)",
+  "issue": 29,
+  "generatedAt": "2026-10-13T07:54:50.112Z",
+  "headline": "정년연장 및 포괄임금제 개편 논의 본격화와 IT 업계의 AI 인재 확보 경쟁 심화",
+  "lede": "고용노동부 장관이 정년연장과 포괄임금제 금지 법안의 연내 처리를 촉구하며 노동 환경의 변화를 예고했습니다. 한편, IT 업계는 AI 역량을 중심으로 채용 체질을 대개조하며 인재 확보에 사활을 걸고 있습니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "노동장관 \"포괄임금 금지·정년연장 연내 법안 처리…주 52시간 예외 신중해야\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxbnhXVEZSWGZuRWZsNllCanNNY05qVUlLOE15QUxGS19NM2taT3doZWNmNUFUcFkyY1djMmgyVS0xVktEVW5aanA5WGQwaUtHeVp1Q0hMZ2w0NHY3ci04WHYyLTBWSU1JVVc00gFwQVVfeXFMT21hMjJPbGg1c29DYUJoaDdKQ0RQODM3NDdxTTJhMzU3TDhNWFNETXQwRWVqOWlDemRZelhXMmZCODBpdnNEeC1ZeUZBWG9tTlV0c1ItRkRTaTNuM2RLQnJBSTY2ZllFUWZoQXY0ekRJcA?oc=5",
+          "publishedAt": "2026-10-13T06:31:04.000Z",
+          "category": "law",
+          "summary": "김영훈 고용노동부 장관이 정년연장과 포괄임금제 금지 법안의 연내 입법 처리를 강력히 촉구했습니다. 또한 주 52시간 근무제의 예외 적용에 대해서는 신중한 입장을 견지하며 사회적 대화를 강조했습니다.",
+          "impact": "포괄임금제 폐지 가능성에 대비하여 현재의 임금 체계를 점검하고, 초과 근로 시간 관리 시스템을 재정비해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "크래프톤, 역대 최대 100명 규모 'AI Native' 신입 공채… \"조직 체질 대개조\"",
+          "source": "비즈트리뷴",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LNmZOV3JyN04xNkszMjlrd1ZzTjNpT0JobkFoUEE4UFlwNEdNQ1Fsa3dHQ2JhcnNfaHhZSGlrYzdBRlhtdVhMY0pmYXVBakZLVklrZUo0eVNQQ09sWXYwOWc1S1Z4NVd5SXc0d2ktS2M?oc=5",
+          "publishedAt": "2026-10-13T07:15:50.000Z",
+          "category": "market",
+          "summary": "크래프톤이 역대 최대 규모인 100명 이상의 신입 공채를 진행하며, 조직 체질 개선을 위해 'AI Native' 인재 확보에 집중하고 있습니다. 단순 채용을 넘어 AI 역량을 중심으로 한 채용 프로세스로의 전환을 선언했습니다.",
+          "impact": "IT 업계 내 AI 전문 인력에 대한 채용 경쟁이 더욱 치열해질 것으로 보이며, 우리 회사의 AI 관련 직무 보상 경쟁력을 재검토할 필요가 있습니다."
+        },
+        {
+          "title": "그렙 'AI 역량평가', 은행·카드사 도입…\"연내 4만명 응시 전망\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1NbmViUFNhUGNFMmtyZkVWd3NmYUplT3l2aU0xbWU4NnpNczNGUVZTVDB2SlF1NGhFWVZjYnE1aEVJY2tuVFU3R3VEcUI4eEoyeE44NTZJd0loRGh3Zkp0UmQtMkZTZHdncFHSAW9BVV95cUxPSmFyYzdHajE2SFJWbTNha0luTFVpUnFzZXh5RHNMandLaFlFV0tYS08zX3VQODFpcHF1ekJJM2V2UzZyVUs4UTNWQTNFRVlGdUNnWTBZT3R2dzhSX09LYzJOTGpOS2EzVWNHN295MU0?oc=5",
+          "publishedAt": "2026-10-13T01:26:01.000Z",
+          "category": "market",
+          "summary": "그렙의 AI 역량평가 솔루션이 은행 및 카드사 등 주요 기업에 도입되며 연내 4만 명 이상의 응시가 예상됩니다. 기업들이 실무 중심의 AI 활용 능력을 검증하는 채용 방식을 선호하고 있습니다.",
+          "impact": "기술직 채용 시 단순 코딩 테스트를 넘어 실무 AI 툴 활용 능력을 검증할 수 있는 평가 도구 도입을 검토해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "trend",
+      "name": "HR 트렌드",
+      "items": [
+        {
+          "title": "현대해상, 인사체계 개편 추진···직급 줄이고 임금 구간 늘린다",
+          "source": "뉴스웨이",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91eUxkQ1BBRTI3WG9MLTdUTWtkMk5ONHBDVXhyOE40MEtILUFNOVRSRDE3Nl8xRzlLOUVtZ3ROU20xdDEtZ201ckU3T0pvREtpZUxwYlVEa2F6UFRmQ3J2RzVPblpxXzBr?oc=5",
+          "publishedAt": "2026-10-13T01:47:13.000Z",
+          "category": "trend",
+          "summary": "현대해상이 직급 체계를 단순화하고 임금 구간을 확대하는 인사체계 개편을 추진합니다. 유연한 조직 운영과 성과 중심의 보상 체계를 강화하려는 움직임입니다.",
+          "impact": "직급 중심의 보상에서 성과와 역량 중심의 유연한 보상 체계로 전환하는 업계 트렌드를 참고하여 우리 회사의 인사 제도 개선안을 마련해야 합니다."
+        },
+        {
+          "title": "AI가 노동상담·인사관리 바꾸는 시대…공인노무사 역할 어떻게 달라질까",
+          "source": "피앤피뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zM29nNzVQRGkyMXBpOUtaQ1VGeFlucVFOME1VTHlHOGZPZWRjaUZrZXhhSTluS2xRRzFEWURtM0lyNjJ3VHQ4SGdxMEczdmh1S3ZvLUln0gFWQVVfeXFMT3Mzb2c3NVBEaTIxcGk5S1pDVUZ4WW5xUU4wTVVMeUc4Zk9lZGNpRmtleGFJOW5LbFFHMURZRG0zSXI2MndUdDhIZ3EwRzN2aHVLdm8tSWc?oc=5",
+          "publishedAt": "2026-10-13T02:11:22.000Z",
+          "category": "trend",
+          "summary": "AI 기술이 노동 상담과 인사 관리 전반에 도입되면서 공인노무사와 인사 담당자의 역할 변화가 요구되고 있습니다. 데이터 기반의 인사 의사결정이 중요해지는 추세입니다.",
+          "impact": "인사팀 내 반복적인 행정 업무를 AI로 자동화하고, 데이터 분석을 통해 전략적 인사 기획 역량을 강화해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "스토어링크, AI 마케팅 플랫폼 전환 선언…전 과정 AX 도입 나서",
+          "source": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DVTZHa0dIWnQzeGZ6RHN4V1hGTGkydWxTanAwY0JXN3lHX0l3d2txVkVnQzl1MzRtNzZiNEZQRHhzZWZnS1Q2U1FMVi1mQQ?oc=5",
+          "publishedAt": "2026-10-13T07:25:23.000Z",
+          "category": "industry",
+          "summary": "스토어링크가 AI 마케팅 플랫폼으로의 전면 전환을 선언하며 전 과정에 AX(AI 전환)를 도입합니다. 글로벌 시장 진출을 위한 SaaS 사업 확장에 박차를 가하고 있습니다.",
+          "impact": "마케팅 SaaS 업계의 AI 전환 가속화에 따라, 관련 기술을 보유한 엔지니어 및 기획자 채용 수요가 증가할 것으로 예상됩니다."
+        },
+        {
+          "title": "2026년 하반기 통신 산업 6대 트렌드와 AI 경쟁우위 확보 방안",
+          "source": "Deloitte",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcDgyUVNRZVFrRVA2VHhrSk9PWGRCV0tGTjNPcWVpWWg5Wk5fYlI2YTJlY1oybmN0NVpxcml6cVUwbjFRZDhDUUdhUHdrbHlnS0Zmb2VnbXZiM1p4MFdJNlhnc3UxTU5RamZBR044bWVGb0xjdlBaNmNZclFGQXhkQzJQMW9RdzNOLURUMVp3eDc3SDV6bGZLN3JFdmJSeUFrOGlUWjVYQnFjRTN5d2l0dU03MTktSXhuNDJkSWpPT05WTjZTN3ZSZXRKYUllb3IzWG5IbTFUOF9XbE1icUJB?oc=5",
+          "publishedAt": "2026-10-13T03:06:46.000Z",
+          "category": "industry",
+          "summary": "델로이트가 2026년 하반기 통신 산업의 6대 트렌드로 AI 경쟁우위 확보를 꼽았습니다. 기술적 우위를 점하기 위한 기업들의 AI 전략이 채용 공고를 통해 구체화되고 있습니다.",
+          "impact": "경쟁사들의 AI 기술 도입 전략을 채용 공고를 통해 모니터링하여 우리 회사의 기술 로드맵과 비교 분석해야 합니다."
+        },
+        {
+          "title": "로지스올시스템즈, SaaS·AI 기반 SCM 통합 플랫폼 구축",
+          "source": "물류신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5TTkNTVk0xX0hkdEZRMmVIYllwTVJjeWN0aVNHNVM2NEdsSElVcnRsUmFhNVNlbkJSMjNEcmhpRXhuZl9WTFJqd016WHI1SnRlYXQxYW9waW54MDhtUURaNnFKWFdrbUNnQTFn?oc=5",
+          "publishedAt": "2026-10-13T00:03:55.000Z",
+          "category": "industry",
+          "summary": "로지스올시스템즈가 SaaS와 AI를 결합한 SCM 통합 플랫폼을 구축하며 업무 효율화에 나섰습니다. 산업 전반에서 AI 기반의 SaaS 솔루션 도입이 필수가 되고 있습니다.",
+          "impact": "SaaS 기업으로서 AI 기술 내재화가 제품 경쟁력의 핵심이 됨에 따라, 개발 조직의 AI 역량 강화 교육을 우선순위에 두어야 합니다."
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "인사기획",
+      "note": "직급 단순화 및 성과 중심 보상 체계로의 전환 트렌드를 반영하여 조직 설계의 유연성을 확보해야 합니다."
+    },
+    {
+      "part": "채용",
+      "note": "AI 역량 중심의 채용 프로세스 도입과 실무 AI 활용 능력 검증을 위한 평가 도구 마련이 시급합니다."
+    },
+    {
+      "part": "교육·육성",
+      "note": "개발 조직의 AI 기술 내재화를 위한 직무 교육을 강화하여 기술 경쟁력을 유지해야 합니다."
+    },
+    {
+      "part": "노무",
+      "note": "포괄임금제 폐지 논의에 대비하여 근로 시간 관리 시스템을 정비하고 법적 리스크를 선제적으로 점검해야 합니다."
+    }
+  ]
+}
