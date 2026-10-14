@@ -1,0 +1,135 @@
+{
+  "date": "2026-10-14",
+  "label": "2026년 10월 14일 (수)",
+  "issue": 30,
+  "generatedAt": "2026-10-14T06:18:42.897Z",
+  "headline": "주 52시간제 개편 논의와 AI 인재 확보 경쟁 심화",
+  "lede": "KDI의 주 52시간제 관련 연구 결과가 발표되며 제조업을 중심으로 제도 개선 요구가 거세지고 있습니다. 한편, IT 업계는 AI 기술 도입과 인재 확보를 위한 조직 재편에 속도를 내고 있습니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "주 52시간제에 멍드는 제조업·중기…KDI “양극화 심화·개편 시급”(종합)",
+          "source": "이투데이",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kVkdJNUJtVEdpak15WXg2RGVubWpMd2hyTmZGTmgyWXB0ZjAtdHRmR01OaXNKQUVlbDFTTXdnclZIRVdJWC1YYjduVGtQS3JVT0UxSlZPaGRHdWQzTVA2SzNtc3drX0RiUlBMUVdyaHhfbC1r?oc=5",
+          "publishedAt": "2026-10-14T04:25:00.000Z",
+          "category": "law",
+          "summary": "KDI의 미공개 연구 결과, 주 52시간제가 제조업과 중소기업의 매출 및 생산성에 부정적인 영향을 미치는 것으로 확인되었습니다. 이에 따라 현행 근로시간 제도의 개편이 시급하다는 목소리가 커지고 있습니다. 제조업과 중소기업의 양극화 심화 우려도 함께 제기되었습니다.",
+          "impact": "근로시간 유연화 논의가 가속화될 것으로 예상되므로, 우리 회사의 유연근무제 및 근로시간 관리 체계에 미칠 영향을 선제적으로 검토해야 합니다."
+        },
+        {
+          "title": "김영훈 \"정년연장, 연내 꼭 입법해야… 정부안 조속히 발표\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1PQ21KUGFSSmVSX0RESjNicmpBOUo2azU3MHFuMTh6QmVfd2dZYnlfR0R5RXNaSUV1eG9TcWE0dlRibUVRTmZTdnhyZ3RRRnI5SkJ5cTBzWFlXQU1qUnZzcWlXM1FNaGtWeHN5WdIBckFVX3lxTE9LZUdRamNRYk9TUFBGaC05MFJEQjAzYXdCZGhSbnUzdG1zMGNKVjQ5aDRyWUZXVHNEOWstdEVBV3dpRXRDQ082SVpkSnV4OXItRFVNc0xjQ290S29nVXRJbnJLbWNkZ0o3dFdLX1BTMDYxQQ?oc=5",
+          "publishedAt": "2026-10-13T18:50:00.000Z",
+          "category": "law",
+          "summary": "김영훈 노동부 장관이 정년 연장 문제의 연내 입법 필요성을 강조했습니다. 정부는 조속히 정년 연장에 관한 구체적인 안을 제시할 계획입니다. 고령화 사회 진입에 따른 노동시장 변화에 대응하기 위한 조치입니다.",
+          "impact": "정년 연장 입법화에 대비하여 사내 임금체계 개편 및 인력 운영 전략을 장기적인 관점에서 수립해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "case",
+      "name": "판례·노동위",
+      "items": [
+        {
+          "title": "경총 \"노동위 원청 사용자성 판정, 법·지침에 맞다는 기업 27%\"",
+          "source": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVWdoUUhSYUpIM0Ftc3ZfNmRWUktPY3dXYlQxVFVXcTFpNzhjdmFmRDFzdkhOTFZQdEdZcDJSSzZIM2NzeFZCZEhOY0p3WXJaVFNjSzVWZVo3OC1MWEhpelc2NlhVa3hZSldoNExkSHhjMl9GRFlPOGhmLTVVcHJ2M2hackY0a0xyTXRMYlBzcw?oc=5",
+          "publishedAt": "2026-10-14T03:05:03.000Z",
+          "category": "case",
+          "summary": "노동위원회의 원청 사용자성 판정에 대해 기업의 27%만이 법률 및 정부 지침에 부합한다고 응답했습니다. 다수의 기업이 노동위의 판정이 현장 상황과 괴리가 있다고 느끼고 있습니다. 노란봉투법 등 관련 법적 리스크에 대한 기업들의 불안감이 높은 상황입니다.",
+          "impact": "원하청 관계에서의 사용자성 이슈가 법적 분쟁으로 이어질 가능성이 높으므로, 사내 도급 및 협력사 운영 시 법적 리스크를 재점검해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "게임 개발 넘어 채용·로봇까지···에픽·크래프톤, AI 중심 재편",
+          "source": "시사저널e",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE05SWstV0VFQmZGbGdpS3pSQkQ3Uy1NZjJjZlVPWHQ0RHV3cC12UHpTb0VBc1BmSHlGZ01XTUxJVHdpSzVPcHFGZGxqNkp6RzdBaHJpSXJvNU5ZVjZtbzU2alc1RS02dU1RZzRUdjFjOUFMUdIBdkFVX3lxTE1NYS1hNnJnNHJwekhRSGVWdVlGM2xEa0hqUUx1TDlyYnVWMGUxX25FU0R4Z3VIR01wNlNUZ1VIX0RvRzBkQ090UFlLWWxKekIzWmpqZ0U4T0FkR19RX0g4LTBiQXc5a1pvQjJOSUZoM3ZQbW9MWHc?oc=5",
+          "publishedAt": "2026-10-14T02:28:31.000Z",
+          "category": "market",
+          "summary": "에픽게임즈와 크래프톤 등 주요 게임사들이 AI 기술을 중심으로 조직을 재편하고 있습니다. 단순 개발을 넘어 채용과 로봇 분야까지 AI 활용 범위를 넓히고 있습니다. AI 인재 확보를 위한 기업 간 경쟁이 치열해지고 있습니다.",
+          "impact": "AI 기술 역량을 갖춘 인재에 대한 시장 수요가 급증하고 있으므로, 우리 회사의 AI 관련 직무 보상 경쟁력을 재평가해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "trend",
+      "name": "HR 트렌드",
+      "items": [
+        {
+          "title": "[권상집의 인사이트] AI 시대, 역설적으로 인재를 찾는 기업들",
+          "source": "오피니언뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kak4tYzdjUm5PQ1M5VDFtX1JTcHI0bkkzY2hhSjUyNEo2RUhYTldPSElKNEhyb1ZnOXh0ZFZNRWNCQmJmal9LRmdTcUdQN1pfU1N5aDNjX2FPOXFfdVdPNXFNNVVVM2FlVnl4c1ZiQ2U?oc=5",
+          "publishedAt": "2026-10-14T02:00:00.000Z",
+          "category": "trend",
+          "summary": "AI 시대가 도래하면서 역설적으로 인간 고유의 역량을 갖춘 인재를 찾는 기업들이 늘고 있습니다. 기술적 숙련도보다 새로운 가치를 창출하는 능력이 중요해지고 있습니다. 자격증은 이제 기초적인 요소로만 간주되는 추세입니다.",
+          "impact": "채용 시 단순 스펙보다는 문제 해결 능력과 창의적 가치 창출 역량을 평가할 수 있는 면접 프로세스를 강화해야 합니다."
+        },
+        {
+          "title": "주니어 직원 소통나선 조현범 회장 “바텀업 문화 자리잡아야 조직 발전”",
+          "source": "중앙일보",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1SR0UwUHBwV1k2V3ptQ1F0WHFEbzVWSXh1dnV2cmlxQ1RjOXdndEZCeV9qV1VZQ2tHbXFaaEE3aXBkeTU2ZDdhaW1lQmxKVmdJUzJ6WFZn?oc=5",
+          "publishedAt": "2026-10-14T05:12:11.000Z",
+          "category": "trend",
+          "summary": "한국앤컴퍼니그룹 조현범 회장이 주니어 직원들과 소통하며 바텀업(Bottom-up) 문화의 중요성을 강조했습니다. 조직 발전을 위해서는 구성원 주도의 의사결정과 실행이 뒷받침되어야 한다는 취지입니다. 기업문화가 실행을 통해 자연스럽게 스며들어야 한다고 언급했습니다.",
+          "impact": "수평적 소통 문화와 주니어 직원의 참여를 유도하는 조직문화 프로그램을 기획하여 구성원 몰입도를 높여야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "스토어링크, 마케팅 전 과정 AI 자동화",
+          "source": "공감신문",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3c0Z6Y21xS3RoZDBSWWg0NTRtQ29fRUxISlA2UXRFb0tVZkJRb0dWOXlkY3JMTk5vNDRMdklvMkZ3bERNM3BjRjZoMU5kSjVJdmhUNm1rblUyOTVvNmNlUV92cVlUbEQ0?oc=5",
+          "publishedAt": "2026-10-14T00:49:00.000Z",
+          "category": "industry",
+          "summary": "스토어링크가 마케팅 전 과정을 AI로 자동화하는 플랫폼으로 전환을 선언했습니다. AI를 활용해 마케팅 효율을 극대화하고 글로벌 시장 진출을 노리고 있습니다. 데이터 기반의 의사결정을 자동화하는 기술이 핵심입니다.",
+          "impact": "마케팅 SaaS 업계의 AI 자동화 기술 고도화에 따라, 우리 회사의 서비스 경쟁력 확보를 위한 R&D 인력 채용과 기술 투자가 필요합니다."
+        },
+        {
+          "title": "AI 검색서 브랜드 노출 높인다…도슨티, GEO 사업 확대",
+          "source": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YVnAxWnlNcEl0RlVTTEhwdVZBZUNOM1dWcUhqQVViM2tfYVpPcjRkZ05YTEZOcGhQZ2c2S3p2bFdwNTFqOHhWSFg4SFItTlowOF90YWw4dlRKYU9ia3B0YmtEY2RsY1RCTDFiQ2xnS2LSAXRBVV95cUxPNk51UURQalFHZU5wLUwwcnViRVItQlhzUkFGTUdMWWFPNVFIcEh3ZHo1UXJiSW9Kck83N3AwaWN1TVZ4VFJRRDBiejM0YllER3EwckxVeXowcG1XbGc4eWNfNjZDWnlta0R5SGNqeW5na1ZOdg?oc=5",
+          "publishedAt": "2026-10-14T02:31:51.000Z",
+          "category": "industry",
+          "summary": "도슨티가 AI 검색 환경에서 브랜드 노출을 높이는 GEO(Generative Engine Optimization) 사업을 확대하고 있습니다. AI 검색 엔진의 특성에 맞춰 브랜드 마케팅 전략을 최적화하는 것이 목표입니다. AI 검색 시장의 성장에 따른 새로운 마케팅 트렌드입니다.",
+          "impact": "AI 검색 최적화 기술이 마케팅 SaaS의 핵심 기능으로 요구될 수 있으므로 관련 기술 로드맵을 검토해야 합니다."
+        },
+        {
+          "title": "[2026푸드테크앤트렌드] AI가 소비자 반응 예측하고 맞춤 식단 짠다… “K푸드테크 세계 공략 시동”(종합) - 조선비즈",
+          "source": "Chosunbiz",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRzc4dnVuczVVaXdiN05WZ2tDVVl2SHNyNWNUQVZmMVplSVlNN0pHSHNzMGxDUTlVOWxMWHVYQ3dMN211MGZETGpiYm5obWFwcFpJS1RvbGtsU0d2YUpRWGRSeXp4b1NyakFlYzgzdkt3U2tLVjZvdGVlN2lmWmNLTW5Fd1k4QdIBmgFBVV95cUxPYzVUVXduYnppMXZEcV8yUklJZ2QtRUdnZ1UwZU9uc2NQU0ZGUkFtUFZpRzJrWkd6N1FDYmtjU2dkeGl3YlF6d19hdXRjeVd2Smc4T01GTHlWT1pxbVdfekg0dEVmNGQ5VEpabE8tSlNIYTBvYzcxSUtULWpiNTBwWFpuV3ZQUlVmNmp4b0tSUlYtTmVQQk1ZWnVB?oc=5",
+          "publishedAt": "2026-10-14T04:37:00.000Z",
+          "category": "industry",
+          "summary": "푸드테크 분야에서 AI가 소비자 반응을 예측하고 맞춤형 식단을 제공하는 기술이 주목받고 있습니다. K푸드테크의 세계 시장 공략이 본격화되고 있습니다. AI 기술이 산업 전반의 비즈니스 모델을 혁신하고 있습니다.",
+          "impact": "산업 전반의 AI 도입 가속화는 SaaS 기업에게 더 많은 B2B 솔루션 기회를 제공하므로, 타겟 산업별 맞춤형 AI 기능 개발을 고려해야 합니다."
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "인사기획",
+      "note": "주니어 주도의 바텀업 문화 확산과 정년 연장 등 변화하는 노동 환경에 대응하는 조직 설계가 필요합니다."
+    },
+    {
+      "part": "채용",
+      "note": "AI 기술 중심의 조직 재편이 활발하므로, AI 관련 직무의 보상 경쟁력을 점검하고 창의적 인재 선발 프로세스를 강화해야 합니다."
+    },
+    {
+      "part": "노무",
+      "note": "주 52시간제 개편 논의와 원하청 사용자성 판정 이슈를 모니터링하여 사내 근로시간 및 도급 운영 리스크를 관리해야 합니다."
+    }
+  ]
+}
