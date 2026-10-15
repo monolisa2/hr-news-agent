@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-15",
+  "label": "2026년 10월 15일 (목)",
+  "issue": 31,
+  "generatedAt": "2026-10-15T06:05:24.692Z",
+  "headline": "중대재해 공표 및 노동법 이슈 확산과 IT 인재 확보를 위한 AI 역량 강화",
+  "lede": "오늘 브리핑은 중대재해처벌법 위반 사업장 공표와 노동조합법 관련 이슈 등 강화되는 노무 리스크를 다룹니다. 또한 IT 업계의 AI 인재 채용 경쟁과 마케팅 산업의 AI 도입 트렌드를 통해 우리 회사의 대응 방향을 점검합니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "고용노동부, 형이 확정된 중대산업재해 발생 사업장 37개소 공표",
+          "source": "누리일보",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5haGRfTWtqV3AtQ1hUWG1uWTBkLUpRcURrSFN3Z0IxWHdRSnRjbk5JZjNZcWRzRGVNVFktWng5QUZuYU11aFduWnJVUVN4d09MOGZ1U2JYOTYwUDlB?oc=5",
+          "publishedAt": "2026-10-15T04:30:18.000Z",
+          "category": "law",
+          "summary": "고용노동부가 중대산업재해가 발생하여 형이 확정된 사업장 37개소를 공표했습니다. 이번 공표에는 경영책임자에게 징역 3년의 실형이 선고된 사례가 포함되어 있습니다. 기업의 안전보건 관리체계 구축 및 이행 여부가 더욱 엄격하게 평가되고 있습니다.",
+          "impact": "당사도 중대재해처벌법 대응 체계를 재점검하고, 안전보건 관리 실무가 현장에서 제대로 작동하는지 정기적인 내부 감사가 필요합니다."
+        },
+        {
+          "title": "청년 프리랜서 고용보험 가입률 17.5%…노동부 \"일하는 사람 기본법 연내 제정\"",
+          "source": "뉴스투데이",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2Y2dVRy1mV2toREc4b2NHajBheXJVd0RST3k0M3dxaXNKbFkwYzZ1aTNHaVNIVmZjQjVmekFETTA3S1RwMmdqLXdOWWNjWHVsRDRYeF8zOHBIcmxSMXc?oc=5",
+          "publishedAt": "2026-10-15T02:47:00.000Z",
+          "category": "law",
+          "summary": "고용노동부가 청년 프리랜서의 낮은 고용보험 가입률 문제를 지적하며 '일하는 사람 기본법'을 연내 제정하겠다고 밝혔습니다. 플랫폼 노동자와 특수고용직 등 비전형 노동자의 권익 보호를 위한 법적 근거를 마련하려는 움직임입니다.",
+          "impact": "향후 프리랜서 및 계약직 활용 시 강화될 법적 보호 기준을 고려하여, 외부 인력 계약 및 관리 프로세스를 법적 리스크가 없도록 재검토해야 합니다."
+        },
+        {
+          "title": "[국감 워치] ‘주 52시간 미만’에도 과로사 위험…배달·택배 등 운수업 두드러져",
+          "source": "투데이신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXb0s3V0NKS0xQT0wtOHhXbkEtZFAtOXFtemV3MGlOSE1YM2x6Zk1MY1lMb1BySVJSRU9yMm9qcm9FTEt4TjJYaGZxVGpYcEJYNDU1eXFfa0hxMVZFRURSbGw4TE5MQ2FHaU9z?oc=5",
+          "publishedAt": "2026-10-15T02:14:12.000Z",
+          "category": "law",
+          "summary": "주 52시간 미만 근무자라도 과로사 위험이 있다는 국정감사 지적이 제기되었습니다. 특히 운수, 택배, 통신업 등 특정 업종에서 산재 승인율이 높게 나타나며 근로시간 외의 업무 강도 관리 필요성이 대두되었습니다.",
+          "impact": "근로시간 준수뿐만 아니라 업무 강도와 직무 스트레스 관리 등 실질적인 건강 보호 조치를 HR 정책에 반영해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "case",
+      "name": "판례·노동위",
+      "items": [
+        {
+          "title": "“우린 2등 국민이 아닙니다”…직장갑질119 첫 ‘5인 미만 노조’ 출범",
+          "source": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FWUVQOTR3UUp3V3JrNmRBV003OGVjV2JmeW5tRzFmWEF4bmFZcG5WODRFbXBIbVJvdWg0Yk9Gck1XaklmNUJudGFfV0FkV3BfQl9Ic3hfWWozMHE2Z0pwVlIzMFM?oc=5",
+          "publishedAt": "2026-10-15T03:06:00.000Z",
+          "category": "case",
+          "summary": "직장갑질119가 5인 미만 사업장 노동자들로 구성된 첫 노동조합을 출범시켰습니다. 그동안 근로기준법 사각지대에 있던 소규모 사업장 노동자들이 권리 찾기에 나선 것으로, 향후 노동 환경 개선 요구가 거세질 전망입니다.",
+          "impact": "소규모 사업장 노조 출범은 향후 노동법 적용 범위 확대의 신호탄이 될 수 있으므로, 당사의 노사 관계 및 근로 조건 관리 기준을 선제적으로 정비해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "케이뱅크, 채용연계형 인턴 모집…'AI 활용 역량' 중점 평가 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xUzBLc0swWi1QQWQ4QWRWTHRjcGpuaExYQnNuOGFRUlRjdld0V1RabmtCMm9LZm43aXVNY0VyTjF1NlRPZlFlamdIVW5reHl3V3RZbFRpVFJZbGNNUmVRTzRZYkRpNldGUW13OWpjXzLSAXBBVV95cUxPMVMwS3NLMFotUEFkOEFkVkx0Y3BqbmhMWEJzbjhhUVJUY3ZXdFdUWm5rQjJvS2ZuN2l1TWNFck4xdTZUT2ZRZWpnSFVua3h5d1d0WWxUaVRSWWxjTVJlUU80WWJEaTZXRlFtdzlqY18y?oc=5",
+          "publishedAt": "2026-10-15T01:17:42.000Z",
+          "category": "market",
+          "summary": "케이뱅크가 2027년 상반기 채용연계형 인턴을 모집하며 AI 활용 역량을 중점적으로 평가한다고 밝혔습니다. 지원자 전원이 AI 실무 과제를 수행하게 하여 실질적인 AI 기술 활용 능력을 검증할 계획입니다.",
+          "impact": "IT 인재 채용 시 단순 코딩 능력보다 AI 툴을 실무에 적용해 생산성을 높일 수 있는 역량 평가 비중을 높여야 합니다."
+        },
+        {
+          "title": "日 메가뱅크 '환골탈태'…은행 사무직 수천명, AI개발직 전환",
+          "source": "매일경제 마켓",
+          "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFODhPdkRMWXpXZjFPNG1wdno5ek5sYnhqeDNadkwxQXktQWF5dVF5RHIzNUZIemFiRmotZ0hxa2Zjcm50NFhRaXQxY3VxeHJ2VlE?oc=5",
+          "publishedAt": "2026-10-15T04:25:03.000Z",
+          "category": "market",
+          "summary": "일본의 메가뱅크들이 사무직 인력을 AI 개발직으로 전환하는 대규모 인력 재배치를 단행하고 있습니다. AI 기술 도입으로 인한 인력 대체 현실화에 대응하여 기존 인력의 직무 전환 교육을 강화하는 추세입니다.",
+          "impact": "AI 도입으로 인한 직무 변화에 대비해 사내 인력의 AI 리스킬링(Reskilling) 교육 프로그램을 선제적으로 설계해야 합니다."
+        },
+        {
+          "title": "넥스트증권, 신논현 거점 오피스 개소…유연근무제 운영",
+          "source": "파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MRUgzeU5FZkdQeDRJXzZsd1FlUGJBYm4zOVFTd1YtSU0ydTdPSEVBeU8wMG5SWGJKa3c1dzJray00dzFWdURtcGRIWjVMUEhkajhkaXVPTnlndw?oc=5",
+          "publishedAt": "2026-10-15T05:03:34.000Z",
+          "category": "market",
+          "summary": "넥스트증권이 신논현 거점 오피스를 개소하며 유연근무제를 본격적으로 운영합니다. 거점 오피스 도입은 인재 확보와 업무 효율성을 높이기 위한 유연한 근무 환경 조성의 일환입니다.",
+          "impact": "우수 IT 인재 유치를 위해 거점 오피스나 재택근무 등 유연한 근무 형태를 유지하거나 확대하는 방안을 검토해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "틱톡, AI로 광고 제작·운영 자동화…한국발 해외 판매 전략 제시",
+          "source": "아이티데일리",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9MeUlPY0R6cGxqU2VEeUZSYkpmeDBtWERWcXBaVHdsTHF1ZWlEemVrakxwV19BRFFmVHAtQmtsYmFDbC1mX3R1c1Y4UmltUWZ3NjRnMXhzTjA2Rk5ZZ3NGeFg2dkxUbWRm?oc=5",
+          "publishedAt": "2026-10-15T02:48:55.000Z",
+          "category": "industry",
+          "summary": "틱톡이 AI를 활용한 광고 제작 및 운영 자동화 전략을 공개했습니다. 한국 기업들이 해외 시장에서 AI 광고 툴을 활용해 효율적으로 마케팅을 전개할 수 있도록 지원을 강화하고 있습니다.",
+          "impact": "마케팅 SaaS 기업으로서 고객사가 AI 기반 광고 자동화 기능을 요구할 가능성이 높으므로, 제품 로드맵에 AI 기능 고도화를 반영해야 합니다."
+        },
+        {
+          "title": "테이크어냅, 디자인 피드백과 회의 맥락을 조직 자산으로 전환하는 AI 에이전트 D:bo 공개",
+          "source": "에이빙",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MeGJNZTc2WkV4YnZKR1JZV0xNRTVJZ01oT2FGTXNaUFdWc3pSOThhVVhWTi1GN2lKSU1xSUVsYmt4Q2ZyQlF5UmhvNEo2UG1VNW80clVjd0J0TVpxQ3d2YXI4WHhtZzlUS2Qw0gFrQVVfeXFMTkx4Yk1lNzZaRXhidkpHUllXTE1FNUlnTWhPYUZNc1pQV1ZzelI5OGFVWFZOLUY3aUpJTXFJRWxia3hDZnJCUXlSaG80SjZQbVU1bzRyVWN3QnRNWnFDd3ZhcjhYeG1nOVRLZDA?oc=5",
+          "publishedAt": "2026-10-15T02:38:54.000Z",
+          "category": "industry",
+          "summary": "테이크어냅이 디자인 피드백과 회의 맥락을 조직 자산으로 전환하는 AI 에이전트 'D:bo'를 공개했습니다. 기업 내부의 비정형 데이터를 AI가 학습하여 업무 효율을 높이는 솔루션입니다.",
+          "impact": "협업 툴 시장에서 AI 에이전트 도입이 가속화됨에 따라, 당사 SaaS 제품의 차별화된 AI 기능 경쟁력을 확보해야 합니다."
+        },
+        {
+          "title": "2028년 글로벌 광고비 70% 이상이 AI 영향권…광고 자동화 시대에 다시 중요해진 ‘인간의 판단’",
+          "source": "https://aimkt.biz/",
+          "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNRllVMWFYbG9JcS1uMk1rX2RBdlV1MmU4WWJaSzktVlloSjFBcnh4V3BuNWNQTExITGlxakticGlwMGtBTERtLVZWYW9BRjU5ZkZKT2hKTk9laHdNa1dnS0R5Y3p0WUJWVm1fVDQ3OTRNRFJlRmVmZXFUZDNtWU5PbzFHYTYtcmZmME8tZ1BhaDJSSEMzUFBYakVwQ3FMMk91NENSdmFIX29TMW8telBEajBCT0UzVXZobmxTb2x2U1JJX0hpaGdpaTdKRkJDTDdKRFZzYldTeVFkb25mTDFRcUxhbTlXVXQ0eTR4LW9XZHBlbWRmUTAyeC1uRWFldEpuWGlSYmlQRmhZaGJ6cENxMW40blZweFphQ1ZUV2V6UXJnUllHa0hjNHJDcU5BbHM?oc=5",
+          "publishedAt": "2026-10-14T23:36:12.000Z",
+          "category": "industry",
+          "summary": "2028년 글로벌 광고비의 70% 이상이 AI의 영향권에 들어갈 것으로 전망됩니다. 광고 자동화가 보편화됨에 따라 오히려 전략적 판단을 내리는 인간의 역량이 더욱 중요해지고 있습니다.",
+          "impact": "광고 자동화 시장 확대에 맞춰, 당사 제품 사용자들에게 AI 툴을 활용한 전략적 의사결정 지원 기능을 강화하는 방향으로 제품을 개선해야 합니다."
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "채용",
+      "note": "AI 실무 역량을 검증할 수 있는 채용 프로세스를 도입하고, 인재 유치를 위한 유연근무제 환경을 지속적으로 점검해야 합니다."
+    },
+    {
+      "part": "교육·육성",
+      "note": "AI 기술 도입에 따른 기존 인력의 직무 전환 및 리스킬링 교육 프로그램을 선제적으로 마련해야 합니다."
+    },
+    {
+      "part": "노무",
+      "note": "중대재해처벌법 준수 체계를 재점검하고, 향후 확대될 비전형 노동자 및 소규모 사업장 관련 노동법 리스크를 선제적으로 관리해야 합니다."
+    }
+  ]
+}
