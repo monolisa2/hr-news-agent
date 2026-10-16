@@ -1,0 +1,179 @@
+{
+  "date": "2026-10-16",
+  "label": "2026년 10월 16일 (금)",
+  "issue": 32,
+  "generatedAt": "2026-10-16T05:44:36.414Z",
+  "headline": "AI 기반 인사평가 전환과 노동 법률 리스크 관리",
+  "lede": "채용을 넘어 인사평가와 승진까지 AI 역량을 반영하는 기업이 늘고 있으며, 부당해고 심판 지연에 따른 기업의 재정적·법적 리스크 관리가 중요해졌습니다. 동시에 마케팅 SaaS 및 IT 업계의 AI 고도화에 대응한 핵심 인재 확보와 법정 근로시간 준수 등 노무 관리 점검이 요구됩니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "중대재해처벌법 위반 사업장 37곳 공개…경영책임자 39명 형 확정",
+          "source": "포커스경제",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3ajZnMTJKRC1zcUFPZDJoZkttd1NDajdBbHRBZzl5akFiYVdVMmVxcDdtZXpybjd0VmVxVmtiOXZNR3JKZ3Q1NFhQZ0xfSGNCQXRyY2poWjRlVHNQenp5REpzWm4ySXdqdGM2bA?oc=5",
+          "publishedAt": "2026-10-16T03:28:44.000Z",
+          "category": "law",
+          "summary": "고용노동부가 중대재해처벌법을 위반해 경영책임자의 형이 확정된 사업장 37곳의 명단을 공개했습니다. 영풍 석포제련소를 비롯해 39명의 경영책임자에 대한 형이 확정되었으며, 정부는 중대산업재해 예방과 엄정한 법 집행 의지를 강조했습니다. 이번 공개 조치는 안전보건 의무 이행에 대한 기업들의 경각심을 끌어올리기 위한 차원입니다.",
+          "impact": "사업장 내 안전보건 관리체계 이행 상태를 재점검하고 외주 협력업체 관리 등 안전관리 리스크를 사전 차단해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "case",
+      "name": "판례·노동위",
+      "items": [
+        {
+          "title": "“1분도 일 안 했는데 1년치 임금”…길어지는 부당해고 판정 : 사회",
+          "source": "재경일보",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1EWnlkN2dpZHVOdlM2OVlzcmR5UHpUODQtRnF6WjNhbVpsVHRPMWpLalR2bEtzNkdRRXBSVjVXQTNHV2dVOEtYUGNvcw?oc=5",
+          "publishedAt": "2026-10-16T01:01:00.000Z",
+          "category": "case",
+          "summary": "노동위원회 심판사건 급증으로 부당해고 구제 신청의 최종 판정 및 불복 절차가 대폭 길어지는 현상이 발생하고 있습니다. 사건 처리가 지연됨에 따라 부당해고 인정 시 기업이 부담해야 하는 임금 상당액 지불 규모가 지속적으로 커지고 있습니다. 이에 따라 절차 지연에 따른 기업과 노동자 모두의 부담을 줄이기 위한 제도 개선 목소리가 높습니다.",
+          "impact": "징계 및 해고 절차 진행 시 사전 법적 검토를 강화해 부당해고 판정에 따른 장기 연체 임금 지급 리스크를 최소화해야 합니다."
+        },
+        {
+          "title": "\"마감하고 인증할게요\"... 신개념 러닝 괴롭힘 시달리는 직원들 [자막뉴스]",
+          "source": "YTN",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtZVMwQTdKOUpMdlZUZmJOdHNYRUpZZ21yOUhHNVpLS21xM2gxR081RmFacFE0Rk9nZjJrdDdLRWZBRmNrRV8wTUtiNWI3WkFqLUdKYjV3LV9zbjJxZmc?oc=5",
+          "publishedAt": "2026-10-15T23:23:00.000Z",
+          "category": "case",
+          "summary": "근무 시간 외에 러닝 인증이나 운동 과제 제출을 강요하는 식의 신종 직장 내 괴롭힘 사례가 보고되고 있습니다. 퇴근 후 사생활 영역에서의 활동을 강제하고 이를 인사 평가나 조직 적응도와 연계하는 행위가 문제로 지적됩니다. 직장 내 괴롭힘의 유형이 부당한 사적 과제 부여 등으로 다양화되고 있습니다.",
+          "impact": "직장 내 괴롭힘 예방 교육 과정에 사생활 침해 및 강요형 괴롭힘 사례를 추가하고 내부 신고 채널을 점검해야 합니다."
+        },
+        {
+          "title": "한화시스템 ‘장시간 노동 은폐’ 의혹",
+          "source": "매일노동뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBS2lDTkw3MllqNUJpRU1NeHVwZUhid0x5VFVQNE9OYVVSZWpqSDRpTzUxS2xEeUF4R0tHTzRpNHVFOExHbHdYTlZrTEdyMlB3Z3ZrZ0pKekNvTUFiOFRxblhoZnJlSVZUeXozeGtqckE?oc=5",
+          "publishedAt": "2026-10-15T21:30:03.000Z",
+          "category": "case",
+          "summary": "한화시스템이 프로젝트 현장에서 법정 근로시간 초과를 감추기 위해 장시간 노동을 은폐했다는 의혹이 국정감사에서 제기되었습니다. 포괄임금제나 편법적인 출퇴근 기록을 활용해 실제 근무 시간을 제대로 반영하지 않았다는 비판이 나왔습니다. IT 관련 업계의 불법적인 근로시간 관리 실태에 대한 감독이 강화될 것으로 보입니다.",
+          "impact": "IT 개발 프로젝트 부서의 PC-OFF제 및 연장근로 기록 관리 상태를 사전 점검하여 근로기준법 위반 리스크를 예방해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "[AI發 노동시장 쇼크] 구조조정 분위기에도 AI 인재에게는 채용문 활짝",
+          "source": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LMmZqTGFwRms2SmZVeUpudEdneEJYbnNIWWxsN2xLWm1fYVc1bjYwWFlaeVlzTHlUNGMxZFpKQ3UyMWZJc2VoMHR3bUF0TlpsRkhrOTV3bnHSAVhBVV95cUxNSzJmakxhcEZrNkpmVXlKbnRHZ3hCWG5zSFlsbDdsS1ptX2FXNW42MFhZWnlZc0x5VDRjMWRaSkN1MjFmSXNlaDB0d21BdE5abEZIazk1d25x?oc=5",
+          "publishedAt": "2026-10-15T23:55:36.000Z",
+          "category": "market",
+          "summary": "IT 업계 전반에 구조조정 분위기가 지속되는 가운데서도 AI 관련 전문 인재에 대한 채용 문은 열려 있습니다. 기업들은 일반 인력을 효율화하는 대신 AI 기술 개발과 서비스 적용이 가능한 핵심 인력 확보에는 파격적인 처우를 제시하고 있습니다. AI 인재 확보 여부가 향후 기업 생존과 경쟁력을 가르는 핵심 요소가 되고 있습니다.",
+          "impact": "AI 전문 개발 인력의 유치를 위해 맞춤형 보상 체계와 유연한 채용 프로세스를 구축해야 합니다."
+        },
+        {
+          "title": "KT 임단협 '조합원 94.5% 찬성' 타결⋯\"기본급 3%, 일시금 300만원\"",
+          "source": "아이뉴스24",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBHeE1xVDM3dVM1TjBzNzFob0JOZnE1aUZlOXNhdWpLMUVHSkxtRzJ6RThCdThKZEdFbmNJZ1RFR1paY204T21WbW5fdw?oc=5",
+          "publishedAt": "2026-10-15T23:34:41.000Z",
+          "category": "market",
+          "summary": "KT 노사가 2026년 임금 및 단체협약 교섭에서 높은 찬성률로 최종 타결을 이뤄냈습니다. 이번 합의안에는 기본급 3% 인상과 격려성 일시금 300만 원 지급 내용이 포함되었습니다. 노동조합원 94.5%의 찬성을 받아 노사 갈등 없이 상생 기조를 유지하게 되었습니다.",
+          "impact": "동종 IT 및 통신 업계의 임금 인상률 타결 수준을 참고하여 자사의 차기 연봉 조정 가이드라인 수립에 활용할 필요가 있습니다."
+        },
+        {
+          "title": "\"성과급 잭팟 SK하이닉스 가자\"… 삼성전자 제치고 구직자 관심 1위 등극",
+          "source": "디지털데일리",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9YM2s3QUVCUVh1cm5NaHV3bHMxMkdRdm93VGhKNVIyVDdPNGVPZzQyQ25xWEkxOHNFTlRyd2d0OEZLTmFlZmFfRjBMN2d4cl9RY01rWVdqdWJxRXdHbjNZOGgxRm8?oc=5",
+          "publishedAt": "2026-10-16T00:55:05.000Z",
+          "category": "market",
+          "summary": "구직자가 가장 선호하는 관심 기업 조사에서 SK하이닉스가 삼성전자를 제치고 1위에 올랐습니다. 파격적인 성과급 보상 체계와 최근의 호실적이 구직자들의 선택에 큰 영향을 미친 것으로 분석됩니다. 보상 수준과 실적 상승세가 구직자들의 기업 선호도를 결정짓는 주요 요인으로 작용하고 있습니다.",
+          "impact": "우수 구직자 유인을 위해 당사의 보상 체계 투명성과 성과 기반 보상 메시지를 채용 브랜딩에 적극 반영해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "trend",
+      "name": "HR 트렌드",
+      "items": [
+        {
+          "title": "AI 잘 쓰는 직원이 승진한다…채용 넘어 인사평가로 번진 AI : 사회",
+          "source": "재경일보",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9LYjdtLWJ5OWlmc1NlVmpIc1RTUmQxMUl5eVVBcVlqbWptZ2Z0c0Jkb0NORVFFMmtqMGxscm1GcXdRZ3JGRVJfZjdYUQ?oc=5",
+          "publishedAt": "2026-10-16T01:54:00.000Z",
+          "category": "trend",
+          "summary": "최근 기업 현장에서는 단순 채용 단계를 넘어 성과 측정과 인사평가 과정에 AI 활용 역량을 직접 반영하는 흐름이 확대되고 있습니다. AI 툴을 효율적으로 활용해 업무 생산성을 높인 직원이 승진과 보상에서 우대를 받는 사례가 늘어나는 추세입니다. 이에 따라 AI 활용 능력이 직원의 필수 직무 역량으로 자리 잡고 있습니다.",
+          "impact": "직무별 AI 활용 능력을 인사평가 요소 및 역량 모델링에 단계적으로 반영하는 방안을 검토해야 합니다."
+        },
+        {
+          "title": "일본 HR기업 75%가 생성형 AI 사용…한중일, ‘사람 대체’보다 업무 재설계",
+          "source": "동아일보",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5UTWxxRTFkU3kydjdWWkExSENzYnRCQWtvRjl4VnBkbmtUOUFWbTB2a2dBOElfOFNtZ2w3ZTRnVXEwNG1hMlBBVjBSaGhWUVFNVl9xVHRuN19SbUdpc21pT1JrMkVSbTM2RE1BQndERDRtYThjb2fSAWZBVV95cUxNaFJCeDB1UFlDRl9BSHd4WnUyVTI3MWlQempvM3U1dC0wLTk2RkRlOGxBUEFkZG1oS3R4NGpEV1RacWVtNkQ0SkQ5TEljZWZ4ckliRWJkLTJfNXE1QWluZFEwT0lVN2c?oc=5",
+          "publishedAt": "2026-10-16T01:55:09.000Z",
+          "category": "trend",
+          "summary": "일본 HR 기업의 75%가 생성형 AI를 업무에 도입해 활용 중이라는 조사 결과가 나왔습니다. 한중일 주요 기업들은 AI를 인력 대체 수단이 아닌 업무 프로세스 재설계와 생산성 향상 도구로 적극 활용하고 있습니다. 이를 통해 반복적인 행정 업무를 줄이고 전략적 HR 역할에 역량을 집중하는 변화가 일어나고 있습니다.",
+          "impact": "인사팀 내부 업무 프로세스에 AI 툴을 적용해 실무 행정 부담을 줄이고 전략적 HR 업무 비중을 확대할 필요가 있습니다."
+        },
+        {
+          "title": "직원 지방 이사에… 재택근무 허용하고 현지 사무실 마련했죠",
+          "source": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUWZBNDdERV9CWnBkaXFiMGxGSDBZT1JOeDE2ZW9mNDkxaXYwdTg3VFFkbHZFYU1xeEdtR3QweGZtMVhVNWNLV21NbW0xVWhTOUdQWlZOOVVOdjY3VGVOMUt6SjJhRW41eFZPSGh2a090S1lvdGd4SDMycWIxRlB2WkpXbGFVU09nb0xDUmNVOVhnaWxn?oc=5",
+          "publishedAt": "2026-10-15T15:36:00.000Z",
+          "category": "trend",
+          "summary": "지방으로 이사한 직원을 위해 상시 재택근무를 허용하고 현지 거점 사무실을 제공하는 기업 사례가 늘고 있습니다. 우수한 인재의 이탈을 막고 유연한 근무 환경을 조성하기 위한 유인책으로 적극 활용되고 있습니다. 이러한 원격근무 체계 구축은 지방 인재 활용과 직원 만족도를 높이는 결과를 보여줍니다.",
+          "impact": "핵심 인재의 이탈 방지 및 유연한 근무 형태 지원을 위해 거점 오피스나 원격 근무 제도의 확대를 검토할 수 있습니다."
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "AI가 바꾼 디지털 마케팅 공식… 장윤석 네이버 실장 \"운영보다 전략, 클릭보다 맥락\"",
+          "source": "브랜드브리프",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PSnJIZVlqcTJhS0QxMmM3c0xLaWNHSmhwdXRnOTd3THBFVU1BdEI4VW5YclZ0MHhaaEwzcHlMTjdraFVCUDg2b1lQN011QmtXT2gtcG9RVl9zcmU4NjNSa3F1NG54RlExb1ZfeTRR?oc=5",
+          "publishedAt": "2026-10-16T04:36:00.000Z",
+          "category": "industry",
+          "summary": "네이버 등 주요 플랫폼이 AI 기술을 마케팅 생태계에 본격 도입함에 따라 디지털 마케팅의 중심축이 변하고 있습니다. 단순 운영 관리 업무에서 벗어나 데이터 기반의 전략과 고객 맥락 분석이 마케팅의 핵심으로 부상했습니다. 이에 따라 마케팅 솔루션 및 광고 테크 분야의 기술 고도화 요구가 한층 거세지고 있습니다.",
+          "impact": "마케팅 SaaS 제품 고도화에 맞춰 내부 인력의 AI 기술 이해도와 마케팅 도메인 지식을 결합하는 육성 프로그램을 마련해야 할 것으로 추측됩니다."
+        },
+        {
+          "title": "[DMI 2027 현장] “대시보드 시대는 끝났다”… 박민성 데이터라이즈 CSO가 말하는 AI 마케팅의 미래",
+          "source": "테크42",
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQTjBxU09XOUFOVHRabkZqcW9PaUhxNjR0aWhTUlFhTTlQY1NZU051NHBWYXlGRkF0ZVA3alpOVTNoMHNqMlVQSzVJVTBzNkotajh4SXNFV1pfRDRza21HUVU1ZWFVZ0RYeFhtZmtVazFNdThubnl0U2kxTUFfTHg4akNBUHNmT3VvX2RSUWhJNlpBaXdLeWRvOGRtVmdFb0NWWUFqLV9NcW92d29URnkwS0NsTVlTM0o4WUpKVzlKZ3FpbUpsSDUzY2E4RXNRWTV5R2hpMTBUYnJiNTlNTlpyS21icXlRLWFPSmRZTWdiN1RoWlJSQzdqR25LTTVLZjE2YUNQX18zV193b3d1Nk9qQjV2QXI1bEpDUy1zX3FB?oc=5",
+          "publishedAt": "2026-10-15T22:42:43.000Z",
+          "category": "industry",
+          "summary": "마케팅 데이터 분석이 단순 대시보드 제공을 넘어 AI가 직접 인사이트를 도출하고 실행을 자동화하는 형태로 진화하고 있습니다. 데이터라이즈 등 마케팅 SaaS 기업들은 AI 기반의 고객 행동 분석 및 자동화 기능을 앞다퉈 도입하고 있습니다. 마케팅 솔루션 시장 내 AI 기술 적용 경쟁이 가속화되는 양상입니다.",
+          "impact": "SaaS 시장 내 AI 기능 경쟁 심화에 따라 관련 기술을 보유한 개발 및 데이터 인력의 채용 경쟁률이 높아질 것으로 예상됩니다."
+        },
+        {
+          "title": "유비소프트, 독일 스튜디오서 100명 희망퇴직… 전사 구조조정 가속",
+          "source": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92TS1jSkMwYnZndUc5THY2MGREWUw5cXJGS2ZDUlZSeGM0bHVXWmRFN05DbnpCWE5oREJ0dkltTDVubXVRU2lweDJQM1ZHeVRfb1BhT2pEU1dLSTZ1TUZvdUFGYmc4d3NtZ0p4cDN3UVPSAXRBVV95cUxNQWhUaHpfdGZLbDkxak96OWIwb1VOQmlSbEY5NFQ2YUhCTm1DUHFrVVljMXBMT01haXZzVW01TXF2Rzl1Z0JtZUxWX3V3XzNRYTZHZEt4M2RjXzhPeHd5Tkc3WUkwcWd3QzNYQklwTi1CLVdteA?oc=5",
+          "publishedAt": "2026-10-16T01:27:05.000Z",
+          "category": "industry",
+          "summary": "글로벌 게임사 유비소프트가 비용 절감과 경영 효율화를 위해 독일 스튜디오 인력 100명 대상 희망퇴직을 실시했습니다. 프로젝트 재편과 수익성 개선을 위해 전사 차원의 구조조정이 가속화되고 있습니다. 글로벌 IT 및 콘텐츠 업계 전반에서 수익성 확보를 위한 인력 재편 흐름이 지속되고 있습니다.",
+          "impact": "글로벌 IT 기업의 구조조정으로 시장에 나온 우수 개발 및 글로벌 사업 역량 보유 인력의 영입 기회를 주시할 필요가 있습니다."
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "인사기획",
+      "note": "AI 활용 능력이 실무 생산성에 영향을 미침에 따라 이를 인사평가 및 승진 항목에 반영하는 체계 개편을 검토해야 합니다."
+    },
+    {
+      "part": "급여·보상",
+      "note": "주요 대기업 및 IT 업계의 임단협 결과와 성과급 선호 경향을 모니터링하여 자사의 보상 경쟁력을 재점검해야 합니다."
+    },
+    {
+      "part": "채용",
+      "note": "마케팅 SaaS AI 고도화에 필요한 전문 인재 확보를 위해 경쟁력 있는 채용 브랜딩과 유연한 처우 제도가 요구됩니다."
+    },
+    {
+      "part": "교육·육성",
+      "note": "생성형 AI 도입 트렌드와 마케팅 패러다임 변화에 맞춰 전사적인 AI 툴 활용 실무 교육을 기획할 필요가 있습니다."
+    },
+    {
+      "part": "노무",
+      "note": "IT 프로젝트 근로시간 관리실태 및 신종 직장 내 괴롭힘 유의사항을 점검하여 법적 노무 리스크를 예방해야 합니다."
+    }
+  ]
+}
