@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-22",
+  "label": "2026년 10월 22일 (목)",
+  "issue": 36,
+  "generatedAt": "2026-10-22T06:06:42.051Z",
+  "headline": "IT 인재의 AI 역량·보안 인력난과 사내 노무 리스크 점검",
+  "lede": "주52시간 특례 입법 논의와 IT 업계의 교섭 구조 재편 등 외각 노무 환경의 변화가 가속화되고 있습니다. 동시에 IT 직군의 AI 활용 역량 보유 여부와 보안 인력 부족 현상이 채용 및 보상 체계 정비의 핵심 과제로 떠올랐습니다. 사내 사생활 침해 및 육아휴직 불이익 처우 등 노무 리스크를 점검하고 리더십 대상 AI 교육을 선제적으로 기획할 때입니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "산업장관 \"메가특구법, '주52시간 예외' 반드시 포함돼야…입법에 속도\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BSXY4U2MyeW9BYmRZWHh2aDZJZGlWS0xBdWwybjFqcEVBMzdFRHdSXzJDeHZkN0F3TVBGQ1M0eUctNnlxYzdMNnhPVkN3eDF5aVpwdmM1ODlEeE4tanR3NEl5UmZzWEhwZTRz0gFwQVVfeXFMTWYyUW5RM2tZa0FUZHF2azI4cElTSUZYaUl0d1prdDQ3SmdoRzdUWVU4ZXEwZ3gtMmlRckVZWEt5Tk9iYVplcENLNDVKY0FjZGZQMGZ0WUY3cGFaUmRvNkpvd1JJM2tIWGJsZm1LUjdtdg?oc=5",
+          "publishedAt": "2026-10-22T03:54:30.000Z",
+          "category": "law",
+          "summary": "정부와 여당이 메가특구법 추진 과정에서 R&D 및 첨단산업 분야의 주 52시간제 예외 노동특례 포함을 적극 추진하고 있습니다. 국회 국정감사 등에서 관련 입법 속도가 강조되며 노사 간 논의가 활발해지고 있습니다. 향후 법안 통과 여부에 따라 첨단 IT 및 연구개발 직무의 근로시간 유연화 범위가 확대될 가능성이 있습니다.",
+          "impact": "IT R&D 인력의 근로시간 유연화 가능성에 대응하여 사내 유연근무제 규정을 사전 검토할 필요가 있습니다. (추측)"
+        },
+        {
+          "title": "육아휴직 냈더니 보복 해고·갑질… 위반 폭증에도 기소율 고작 2%",
+          "source": "경기일보",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YdjU5dVB6UkdxcXY0SENxUTczWDFIS3FqVWJuaUp4bjRCekxMMFV3Z282bG5RTFNhNWx3OWw4WDhodnBTRXZXelpFcXZLZWZDN0pDaW1CWEE4ekU?oc=5",
+          "publishedAt": "2026-10-22T02:21:09.000Z",
+          "category": "law",
+          "summary": "육아휴직 사용자에 대한 불이익 처우 및 보복성 해고 등 노동법 위반 신고가 증가하고 있으나 실제 기소율은 2% 수준에 머무는 것으로 조사되었습니다. 법적 처벌 비율은 낮지만 국회 국정감사 등에서 사업주 처벌 강화와 감독 실효성에 대한 지적에 힘이 실리고 있습니다. 육아휴직자에 대한 불이익 처우 조항 이행 여부에 대한 당국의 근로감독이 강화될 가능성이 큽니다.",
+          "impact": "육아휴직 복직자가 인사평가나 승진에서 불이익을 받지 않도록 관련 인사제도 가이드라인을 사전 정비해야 합니다."
+        },
+        {
+          "title": "\"투자·인력 배치는 노사 교섭서 빼야\"…한경협, 정책 의견 119건 건의",
+          "source": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMDRjX3FIUlVzTDBPTDZyMk5JbTctblJlcDRPSHRkRVh4djBxTUVuWWR3S3hrUS1FQ2ZyRDFDMTl2SEozOE1veS0xLXZRTjN3MXgxVEY3WU5ZQkJUbzkxbkVObjVyTXJIMms1UThXYXpTWW1vdHFlaTBwdDJndkZQdzFvaWFwdXI5N3A4RjRYNA?oc=5",
+          "publishedAt": "2026-10-22T02:07:00.000Z",
+          "category": "law",
+          "summary": "한국경제인협회가 경영권 자율성 확보를 위해 투자 결정 및 인력 배치 등을 노사 교섭 대상에서 제외할 것을 정부에 건의했습니다. 현행 노사관계 제도하에서 기업의 주요 경영상 결정이 교섭 쟁점화되는 부담을 경감해야 한다는 입장입니다. 노사 관련 법제도 개정 논의 과정에서 경영권 침해 여부가 주요 쟁점으로 떠오르고 있습니다.",
+          "impact": "인력 배치 및 조직 개편 등 경영권에 속하는 사항이 사내 규율이나 단체협약에 불명확하게 포함되어 있는지 점검할 필요가 있습니다."
+        }
+      ]
+    },
+    {
+      "key": "case",
+      "name": "판례·노동위",
+      "items": [
+        {
+          "title": "동료 카톡방 몰래 찍어 유포…\"괴롭힘 증거 수집\" 변명 결과는",
+          "source": "연합뉴스TV",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rUGF6bE1pM0hTQnlkVTBIaVlMa2stUWpNRjVCWXAyYXc5V3o4OXJJTm1xaGFXNVFXTWRPWDgzNzdYa0hwQW5BOHF5cE1BaE1oNDBRT2JLdUJtRi10bEpVZDNGTmR3ZEU?oc=5",
+          "publishedAt": "2026-10-22T04:42:00.000Z",
+          "category": "case",
+          "summary": "직장 동료의 메신저 대화 내용을 동의 없이 촬영하고 유포한 근로자에 대해 법원이 벌금형을 선고했습니다. 피고인은 괴롭힘 증거 수집 목적이라고 주장했으나 법원은 타인의 비밀 침해 및 정보통신망법 위반으로 판단했습니다. 불법적인 방법으로 수집한 타인의 사생활 대화는 법적 정당성을 인정받지 못함이 재확인되었습니다.",
+          "impact": "전 사원 대상으로 메신저 등 개인 정보 불법 수집·유포 예방 교육을 강화하고 징계 기준을 재고지해야 합니다."
+        },
+        {
+          "title": "한국사회보장정보원 부장, 부하직원에 결혼 30주년 연애편지 작성 지시…직장 내 괴롭힘 인정",
+          "source": "월드장애인사랑뉴스",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10b0ItV25ac2VJeFcwbjZDWWctdGl0MFQtUWt2c0ZYai16bDRtYU5jaU1OWFdNSnRwc3lYam80c1VZVTZkcjIxZXhNcVp3VlFhODJxUm1YeFRMUWEtTlNqcERKUlhmU2dXRjRsUmVvMA?oc=5",
+          "publishedAt": "2026-10-22T00:33:33.000Z",
+          "category": "case",
+          "summary": "공공기관 간부가 부하 직원에게 개인적 사생활 영역인 결혼기념일 연애편지 작성을 지시한 행위에 대해 직장 내 괴롭힘이 최종 인정되었습니다. 업무 관련성이 없는 사적 요구와 심부름 지시는 직장 내 지위를 이용한 부당행위로 판단되었습니다. 업무 범위를 넘어서는 부당한 사적 지시 역시 엄격한 괴롭힘 대상임이 명확해졌습니다.",
+          "impact": "관리자급 대상 리더십 교육 시 업무 외 사적 지시가 직장 내 괴롭힘에 해당함을 명확히 전달해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "보수가 더 높은 IT 직업을 원하시나요? 고용주들은 AI 활용 능력과 전문성을 원합니다",
+          "source": "www.itworld.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPeDZYdm8zN0tpLWpnQzNXMGlrQjV0d2FGLVhSdV9YVHRTck5nY2czckJ0WElFMkt4SmFiMGJDWXBia1NIQTgxTld5ZlZCN3pWLWFUM3Y4SWNMVlFiX21KdElkNUhERXdXNjFiQm9oX1NSaksyemduSExZaFF2VDlQMDNpeVZiWnBLZnJtR2ktaUlFem9wY2IyT3JHLVdMb3BmVW9USzNzUDNsWFpkV2hQWWREM0VYVHRlcnNUcVFBUDFaTE80cE5mU0FjODhwTDNUMHM2TzFiTHMwQmN1QzhCU082Y3QwU25FaFdTUjJ0V19sbXllbU1OaWRnbmh6MHJycktXZWhjdi1Pc1BlTkNfTnM5UlpIX2hwaGtoblFPUUxubG5FMHJoYnc1QlUyZW9JYkdWSURRZWpoZTQ?oc=5",
+          "publishedAt": "2026-10-22T05:30:42.000Z",
+          "category": "market",
+          "summary": "IT 채용 시장에서 실무에 AI 도구를 활용해 생산성을 증대시킬 수 있는 전문 인재에 대한 보상 우대 경향이 강화되고 있습니다. 고용주들은 AI 활용 능력을 검증하여 주요 직무에 채용하고 이에 걸맞은 높은 보상을 제공하는 추세를 보입니다. 단순 기술 스킬을 넘어 AI 활용 역량이 IT 직군의 핵심 채용 기준으로 부상했습니다.",
+          "impact": "개발 및 핵심 직군 채용 시 AI 도구 활용 역량 평가 기준을 정립하고 관련 보상 우대 정책을 마련해야 합니다."
+        },
+        {
+          "title": "기업 10곳 중 7곳 보안 강화 나섰지만…전문 인력 확보는 '하늘의 별 따기'",
+          "source": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZMjdMcUxuYnFnLWdkZlZDc0NBT3oxam40Ykw5c1NWOTQwVklPMmRZcTBvOXN3cmpRZnRwVzNFNDRLa0lEUTV0cUNLVjZTR2VkWGR0eHBoenJYbzl1ZmtESNIBeEFVX3lxTE1QN0VDMEJFeVdGZkV0dTRMek1mMGFna2RrZExSQTJlNlAxaC1uOEtzdWxkWks3aGJpRUhLQXYwdzdCZHJ6ZEU4OTRVTENwTjNiSHc1ajdNb3hFV3NhSzVlczNJSmtfQTZxZjM1NHNkcWlvdVotck1kVg?oc=5",
+          "publishedAt": "2026-10-22T02:04:25.000Z",
+          "category": "market",
+          "summary": "글로벌 및 국내 기업 10곳 중 7곳이 향후 1년 내 보안 강화를 추진하고 있으나 보안 전문 인력 확보에 극심한 난항을 겪고 있습니다. 보안 위협 가중으로 전문 인력에 대한 수요는 폭증하는 반면 시장 내 인력 공급이 턱없이 부족한 상황입니다. 보안 전문가를 확보하기 위한 기업 간 채용 경쟁과 보상 수준 상승이 지속될 것으로 보입니다.",
+          "impact": "SaaS 서비스 안정성을 위한 보안 인력 채용 경쟁력을 확보하고 핵심 보안 인력의 이직 방지 방안을 점검해야 합니다. (추측)"
+        }
+      ]
+    },
+    {
+      "key": "trend",
+      "name": "HR 트렌드",
+      "items": [
+        {
+          "title": "'팀네이버' 경영은 하나, 교섭은 제각각…IT업계 노사관계 재편 분수령",
+          "source": "메트로신문",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5RRzBXaEpOUE1FbHAtQnBrbno2UXhEcUQ1OG5NY210eGtROGFyNU9aNkd2aldJZHJFbGtiUldIU3NNeWFUWFhqT3hxNUdlVThFYjJxaXhFYXlmQXNFZ2M0bA?oc=5",
+          "publishedAt": "2026-10-22T00:54:44.000Z",
+          "category": "trend",
+          "summary": "네이버 등 주요 IT 기업들이 단일 브랜드 중심의 경영을 펼치면서도 계열사별 개별 노사 교섭 구조를 유지하여 노사관계의 복잡성이 커지고 있습니다. 계열사 간 보상 및 근로조건 형평성 유지가 노무 관리의 핵심 과제로 부상하고 있습니다. IT 업계 전반에서 교섭 체계 재편에 대한 논의가 확대되는 추세입니다.",
+          "impact": "자사 조직 및 계열·협력 단위 간 근로조건 기준과 노무 관리 체계를 사전 재점검해야 합니다."
+        },
+        {
+          "title": "\"리더가 잘 모르면 'AI 전환'은 산으로 간다\"..현대차그룹 ICT 수장의 조언 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5US12TTlzcWtwVUY4eVFXanVNMlV1VGNjUEpZdUxYdkFfYTdkWnFrdFlJWjdKSXUzTXV3b1RzUDRQRFFTYjY5SUUzQ3E5R3pCejVDV1VuSldNZkZabVdHX3J1bHlCVkJGZjZCWjRfUHpxQdIBckFVX3lxTFA5US12TTlzcWtwVUY4eVFXanVNMlV1VGNjUEpZdUxYdkFfYTdkWnFrdFlJWjdKSXUzTXV3b1RzUDRQRFFTYjY5SUUzQ3E5R3pCejVDV1VuSldNZkZabVdHX3J1bHlCVkJGZjZCWjRfUHpxQQ?oc=5",
+          "publishedAt": "2026-10-21T23:30:00.000Z",
+          "category": "trend",
+          "summary": "현대차그룹 ICT 수장은 기업의 성공적인 AI 전환을 위해 경영진과 조직 리더들의 AI 기술 이해도가 결정적이라고 강조했습니다. 기술의 단순 도입을 넘어 리더가 AI의 맥락과 성과 창출 방안을 명확히 파악해야 전사적 혁신이 가능하다고 밝혔습니다. 리더십 차원의 AI 역량 강화를 위한 교육 및 조직 문화 조성이 주요 과제로 제시되었습니다.",
+          "impact": "팀장 및 리더급을 대상으로 맞춤형 AI 역량 증진 교육과 활용 리더십 프로그램을 기획해야 합니다. (추측)"
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "AI에 매번 설명하는 일 줄인다…젠스파크, 마케터 협업 전략 공개",
+          "source": "스마트투데이",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFRjFMQjYxSWNDdGR6MHlBdllVSHJDNGVHcWdlR3ozMVQwcElpUzFkY2RFajdzSzF1T05FVXBydV9raERZa1Q3VXVuem14ZE9NQV9fZmc2LWY4OGowRnFB?oc=5",
+          "publishedAt": "2026-10-22T01:58:53.000Z",
+          "category": "industry",
+          "summary": "젠스파크가 마케터의 반복적인 프롬프트 작성 작업을 줄여주는 AI 기반 마케팅 협업 솔루션을 발표했습니다. 마케팅 작업 컨텍스트를 자동으로 파악해 타겟팅 및 콘텐츠 생성을 지원함으로써 마케터의 생산성을 향상시킵니다. 마케팅 SaaS 시장 내 AI 자동화 기능 도입 경쟁이 폭넓게 확장되고 있음을 보여줍니다.",
+          "impact": "마케팅 SaaS 시장의 AI 기술 고도화 추세에 따라 관련 AI 개발 및 마케팅 인력 채용 수요가 확대될 것으로 예상됩니다. (추측)"
+        },
+        {
+          "title": "글로벌 영상 광고 절반, '숏폼·소셜'로 향한다",
+          "source": "아이보스",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBsNU1qRXgwUEVqbXl0amdFSUJrcFNZQlhSZ1RPMWZza2dkYTB5eDZLY1d2UEhVMVVtbFRkYUZuOENLV2dteXVyR05zZnRSdmc?oc=5",
+          "publishedAt": "2026-10-22T00:15:54.000Z",
+          "category": "industry",
+          "summary": "글로벌 영상 광고 집행 예산의 절반 이상이 숏폼 및 소셜 미디어 플랫폼에 집중되고 있다는 분석이 나왔습니다. 디지털 마케팅 주류가 소셜 매체와 숏폼 중심으로 옮겨감에 따라 광고주들의 예산 배분 전략도 급변하고 있습니다. 마케팅 솔루션 기업에게 숏폼 및 소셜 데이터 분석 기능 제공의 중요성이 더욱 커지고 있습니다.",
+          "impact": "소셜·숏폼 마케팅 데이터 분석 수요 증가에 대응해 관련 직무의 데이터 마케터 및 엔지니어 채용 기준을 수립해야 합니다. (추측)"
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "인사기획",
+      "note": "계열사 및 내부 조직 간 근로조건 형평성을 재점검하고, 인력 배치 등 경영권 사항의 규정 정합성을 확보해야 합니다."
+    },
+    {
+      "part": "급여·보상",
+      "note": "AI 활용 능력을 보유한 IT 인재에 대한 보상 우대 기준을 마련하고 보안 인력의 이직 방지를 위한 보상 경쟁력을 점검해야 합니다."
+    },
+    {
+      "part": "채용",
+      "note": "IT 개발 및 핵심 직군 채용 시 실무 AI 도구 활용 역량과 보안 전문 역량을 검증하는 평가 체계를 수립해야 합니다."
+    },
+    {
+      "part": "교육·육성",
+      "note": "조직장 대상 맞춤형 AI 역량 교육을 실시하고, 메신저 사생활 침해 및 사적 지시 예방을 위한 직장 내 괴롭힘 교육을 강화해야 합니다."
+    },
+    {
+      "part": "노무",
+      "note": "주52시간제 특례 논의에 따른 유연근무 규정을 사전에 검토하고, 육아휴직자 불이익 처우 방지 가이드라인을 정비해야 합니다."
+    }
+  ]
+}
