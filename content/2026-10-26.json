@@ -1,0 +1,189 @@
+{
+  "date": "2026-10-26",
+  "label": "2026년 10월 26일 (월)",
+  "issue": 38,
+  "generatedAt": "2026-10-26T02:43:38.583Z",
+  "headline": "포괄임금·3.3% 점검 요구 고조 속 IT 개발자 채용 및 AI 마케팅 경쟁 가속",
+  "lede": "노동 당국의 포괄임금제 오남용 및 가짜 3.3% 사업장 단속 강화로 사내 노무 점검 필요성이 급증하고 있습니다. 한편 IT 업계는 위장 취업 리스크 대응과 함께 직무 역량 중심의 전문 개발자 확보 경합을 이어가고 있습니다. 또한 마케팅 SaaS 및 대행업계의 AI 통합 솔루션 경쟁이 격화됨에 따라 관련 인재 확보와 외주 계약 체결 프로세스 준수가 중요해졌습니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "포괄임금제는 완전히 금지되는 것일까? > 패션 노동법 / 조수민",
+          "source": "패션포스트",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9panhWQXVBQzRHVnQ5bGk1Vk11TmpvMGh4UEVEVjZhbmFwWkxpdC00Ukh2eHV3b2s2TENUY2VKVk9MaHB3VXNmY3ZKZTVpQ0VoZTNLZi1zcnNKNm9JUlhvbTA4dHp5LTRfRzRJQXJzSWk?oc=5",
+          "publishedAt": "2026-10-25T07:12:34.000Z",
+          "category": "law",
+          "summary": "근로시간 산정이 가능한 업종에서 포괄임금제를 부적절하게 오남용할 경우 법적 제재를 받게 됩니다. 출퇴근 기록이 엄격히 관리되는 회사에서 시간 외 수당을 포괄임금으로 상계하는 계약은 무효가 될 가능성이 큽니다. 이에 따라 정확한 근로시간 측정 체계를 갖추지 않은 포괄임금 계약은 임금 체불 리스크로 이어질 수 있습니다.",
+          "impact": "기존 포괄임금 계약의 법적 유효성을 재점검하고 연장근로시간 관리 시스템을 정비해야 합니다."
+        },
+        {
+          "title": "‘가짜 3.3’ 의심 사업장 15만곳…7년 새 2배",
+          "source": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBGOUNFLUdyNmMwUl9OdEdySFd1SVRoS3lpU0Qxd3VUVzdCN01OdDdyZXltU2FsSUMtTGhOTXE1eFBpM250YmVUWnp0UlVZOTJsTzRaYWRLOTNSS1FJcEQ40gFfQVVfeXFMUEY5Q0UtR3I2YzBSX050R3JIV3VJVGhLeWlTRDF3dVRXN0I3TU50N3JleW1TYWxJQy1MaE5NcTV4UGkzbnRiZVRaenRSVVk5MmxPNFphZEs5M1JLUUlwRDg?oc=5",
+          "publishedAt": "2026-10-25T12:25:00.000Z",
+          "category": "law",
+          "summary": "실질적인 정규 근로자를 사업소득자인 프리랜서로 위장 등록한 일명 '가짜 3.3%' 사업장이 15만 곳에 달하는 것으로 나타났습니다. 이는 7년 만에 2배 이상 증가한 수치로 노동 당국의 집단 실태조사 및 지도감독 조치가 예상됩니다. 업무 지휘·감독을 받는 인력을 3.3% 세금 징수로 처리할 경우 4대 보험 소급 적용 및 법적 처벌 위험이 발생합니다.",
+          "impact": "외주 및 프리랜서 계약자 중 실질적인 지휘·감독을 받는 인원이 있는지 사내 노무 점검을 실시해야 합니다."
+        },
+        {
+          "title": "[2026 국감] 최저임금 미달·임금 차별 채용공고 속출…사후관리는 부실",
+          "source": "데일리한국",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GSmdUN19BTWh2eEZKTmNHMFI2ZjByUlA2U00yclJET2FOb25hOFFzUnlPdjJOQjJpZTUwZDBYX2lONmYwaFZrQjJ0aUpZYTEtWWFZTndZWnRmTi1BVlQ4N045SXJLTkRJUkZ3U3RFSdIBc0FVX3lxTFA4eWZCM3BoLWktR1QtcjB0VXdYbnhNNU1iYnJZeGh6X0FzTVRuUHIzcU9vZW5wWm1tWXppLVR4SkpBY2dySmxvT1E0QU1waU1sSXp1UkNxR05QVkQzNHc2NTVJQV83YnA2OWNDZ0hWbnNEYmc?oc=5",
+          "publishedAt": "2026-10-26T01:29:08.000Z",
+          "category": "law",
+          "summary": "국정감사에서 최저임금에 미달하거나 성별에 따른 임금 차별 문구가 포함된 채용공고가 다수 방치되고 있다는 지적이 제기되었습니다. 구직 사이트 및 관련 기관의 사후 관리 부실에 대해 정밀 검증 조치가 시정 요구되었습니다. 향후 채용 포털 게시물에 대한 당국의 기획 점검과 행정 제재가 대폭 강화될 전망입니다.",
+          "impact": "게시 중인 모든 채용 공고의 제시 임금이 최저임금 기준을 충족하는지 및 성차별적 문구 여부를 전수 점검해야 합니다."
+        },
+        {
+          "title": "[진단] 교섭 비용은 누가 떠안나?… 노란봉투법 7개월, 아웃소싱 업체에 던져진 숙제",
+          "source": "아웃소싱타임스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IX0Q1U3lKVXJ5eC05WmpCOUhxN2lOdmZMek1NRjg5OWhBZTFvaVJLX3UzTDVIX3hPT0Jfcm9lSmZ2djdRT2lSQW4wYjgxbWlMZ0VVX1BTeVNfQ0xlV2hmaFFncWpKZDdXOG9HVlFqTDlqdw?oc=5",
+          "publishedAt": "2026-10-25T21:00:00.000Z",
+          "category": "law",
+          "summary": "노란봉투법 논의 이후 원청 기업의 사용자성 인정 범위를 두고 아웃소싱 업계의 노무 교섭 리스크가 커지고 있습니다. 하청 및 외주 인력 노조의 교섭 요구 시 원청의 간접 고용 책임 범위에 관한 법적 불확실성이 지속되고 있습니다. 위수탁 계약 시 노무 책임 소재를 명확히 정립할 필요성이 제기됩니다.",
+          "impact": "IT 외주 및 아웃소싱 계약 시 원청 사용자성 인정 리스크 방지를 위해 계약서 조항을 점검해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "case",
+      "name": "판례·노동위",
+      "items": [
+        {
+          "title": "팀 이동 거부되자 팀장을 '괴롭힘'으로 신고한 팀원… 허위신고로 맞소송 가능할까",
+          "source": "로톡뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IWVhvYU1JUFBGdTlZa3pfdFAxRFRBRzFJR2JoOFJPRkJwMDBZd2NXa3RsTGdVTUkxU3hBS3I2SlpwbDRKUkpTTmZaby1rdFdIS1JpMGVENkdYQQ?oc=5",
+          "publishedAt": "2026-10-25T23:34:00.000Z",
+          "category": "case",
+          "summary": "부서 이동 요청이 거절되자 팀장을 직장 내 괴롭힘으로 허위 신고한 팀원에 대한 법적 대응 가능성이 다루어졌습니다. 허위 신고로 확인될 경우 내부 징계나 손해배상 청구가 가능하지만 객관적인 정황 입증이 필수적입니다. 사내 신고 제도의 오남용을 방지하기 위한 조사 절차의 공정성이 강조됩니다.",
+          "impact": "직장 내 괴롭힘 조사 절차의 중립성을 확보하고 허위 신고 시 징계 조항을 사규에 명확히 구비해야 합니다."
+        },
+        {
+          "title": "개별 연봉계약자, 임금피크제 거부 가능한가",
+          "source": "매일노동뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8yb2RFNkZYeHBHQnpWUlRYOGFtZVdWSUl5RmVPdU5Hd0VTWUtpX29RVEVueDB5TkJIcWF6cTl3RGZ4VlUxM0ZBSF8zbDlsMlBFSUZsQ1pJQmJxcWZYRUNHVzRDUWNRYU93azNaa0ZaTUg?oc=5",
+          "publishedAt": "2026-10-25T21:30:05.000Z",
+          "category": "case",
+          "summary": "개별 연봉 계약을 맺는 근로자에게 일률적으로 임금피크제를 적용할 수 있는지에 대한 legal 판례 조명이 이루어졌습니다. 근로자의 개별 동의나 합법적인 취업규칙 개정 절차 없이 단행된 일방적 임금 감액은 법적 효력을 인정받기 어렵습니다. 고연차 인력의 보상 체계 개편 시 절차적 정당성 확보가 핵심 과제로 부상했습니다.",
+          "impact": "고연차 근로자의 임금 체계 개편 추진 시 개별 동의 및 취업규칙 변경 법적 절차를 철저히 검토해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "북한 IT인력 신분세탁…국내 첫 위장취업 포착",
+          "source": "동행미디어 시대",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBEWS1rX0h3eVltUkJGODJDQ1kzRFUtblRISnpwbHlOQmExMGJId1E2Z0tLS19RUDE0T290TnNzSnlKTU54MjA4UDkxYVVBOVJwMy1DWlB5dU5zY1RfUFE?oc=5",
+          "publishedAt": "2026-10-25T08:00:08.000Z",
+          "category": "market",
+          "summary": "국내 기업에 타인의 신적 정보를 도용해 위장 취업을 시도한 북한 IT 인력이 처음으로 적발되었습니다. 이들은 비대면 원격 근무 채용 절차의 빈틈을 노려 국내 기업에 접근한 것으로 확인되었습니다. IT 기업의 비대면 채용 과정에서 신원 확인 프로세스를 한층 강화해야 한다는 목소리가 커지고 있습니다.",
+          "impact": "원격 근무 개발자 채용 시 신원 검증 및 본인 인증 절차를 대폭 강화해야 합니다."
+        },
+        {
+          "title": "FDE 채용 포지션 14.5배↑...원티드랩, 11월 8일 기업·개발자 모은 ‘FDE 채용 박람회’ 연다",
+          "source": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1LSi16SHRTRzdMMnhiNkg2dC16bTFESUV4ZHRlZ0tjWFcwdi1vY3BIcFlqWE5hZl83RFNlMVVSaUhxUTI3akhvN2NCZVFmUQ?oc=5",
+          "publishedAt": "2026-10-26T01:04:01.000Z",
+          "category": "market",
+          "summary": "채용 플랫폼 분석 결과 핵심 개발 인력인 FDE 채용 포지션 수가 이전 대비 14.5배나 급증한 것으로 집계되었습니다. 경기 둔화 우려 속에서도 고도화된 기술 역량을 보유한 전문 개발자 영입전은 여전히 치열합니다. 이에 따라 기업과 기술 인력을 맞춤 연결하는 전문 채용 행사도 활발히 열리고 있습니다.",
+          "impact": "핵심 개발 직군의 채용 경쟁 심화에 대응해 전문 채용 플랫폼 및 맞춤형 테크 채용 채널을 적극 활용해야 합니다."
+        },
+        {
+          "title": "실무경험 우대하는 시대… 기업 67% ‘직무역량이 채용평가 1순위’",
+          "source": "문화일보",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9KSmhrY2d0OHFnZFVuQkJGOFpfSTQyX2RsM2hfZjEyNlBuWkNySW5pOThFRnlMclBiMzBlOVNOQ2poXzIwR3NsMUlMa1Rtbmpk?oc=5",
+          "publishedAt": "2026-10-26T01:36:11.000Z",
+          "category": "market",
+          "summary": "기업 67%가 신규 채용 평가 시 정량 스펙보다 실무 역량과 프로젝트 경험을 최우선으로 고려한다고 밝혔습니다. 단순 자격증이나 스펙보다는 즉시 현업에 투입 가능한 실무 적응력이 합격의 결정적 요인으로 작용하고 있습니다. 이에 따라 면접 및 채용 전형 방식도 과제 수행과 경험 검증 중심으로 개편되고 있습니다.",
+          "impact": "채용 전형 시 서류 스펙 의존도를 낮추고 직무 실무 과제 평가와 경험 행동 면접 비중을 확대해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "trend",
+      "name": "HR 트렌드",
+      "items": [
+        {
+          "title": "구직자 ‘재택’ 관심 여전...공고는 65% 급감",
+          "source": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyb2xMVGJpXzNxcmZsaWdfTWd1UV9xamc5c0xiV054WGRoOFRNZ19scWd2QURaOWhVUXpHVXozalJqWk5zZTkxbTFFLVZjUkQyTTNGakRB?oc=5",
+          "publishedAt": "2026-10-26T00:46:37.000Z",
+          "category": "trend",
+          "summary": "구직자들의 재택근무 선호도는 여전히 높지만 재택근무를 제공하는 채용공고는 2022년 대비 65.5% 급감했습니다. 기업들의 사무실 출근 복귀 기조가 강화되면서 구직 기대와 기업 현실 사이의 격차가 확대되고 있습니다. 이에 따라 유연근무제를 제공하는 기업이 채용 시장에서 차별화된 인재 확보 무기를 갖추게 됩니다.",
+          "impact": "전면 재택 대신 하이브리드 근무나 시차출퇴근제 등 유연근무 옵션을 영입제안서에 전략적으로 활용할 필요가 있습니다."
+        },
+        {
+          "title": "서울시교육청도 '주 4.5일제' 도입 논의…유연근무제 활성화 검토",
+          "source": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBODliczN2S09fd3lMUHFzRHhfanEtMExwU2NTcFF6eGRHdk5obFhNMnppczFrZUZqMDI0OXBsTms3el9XX0VPTmdMaXY1SUNoZ0ZJeFRxdDFEdw?oc=5",
+          "publishedAt": "2026-10-25T21:00:00.000Z",
+          "category": "trend",
+          "summary": "공공 기관을 중심으로 주 4.5일제 도입 및 유연근무제 확대 논의가 활발히 전개되고 있습니다. 근로시간 유연화를 통해 조직 만족도를 높이고 우수 인재 이탈을 방지하려는 취지입니다. 근무 형태 다변화 추세가 민간 IT 및 전문직 업계로 확대될지 주목받고 있습니다.",
+          "impact": "동종 SaaS 업계의 유연근무제 도입 동향을 모니터링하고 시차출퇴근제 강화를 검토할 필요가 있습니다."
+        },
+        {
+          "title": "MS 구조조정 칼바람… '디스아너드' 佛 개발사 폐쇄 기로",
+          "source": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtdDhacXp6QWI1bTU4aFZmWUl3dmhaNHZGLXJvR1J1VXFmSldkYXZXQU9wSThmQzdwWE94b3lIeGw5RzB1T3JXLWg2ajF1V09aMUZWdGlYeng5N0M0STBqUjMxLU9CNDZRQVUyZERZcDPSAXRBVV95cUxPelhHbnluTTk1Nzl6ZGJRR0h4MXU1WDY2T2dtbHJaU3l1RE9EUVkyaDltcDQ0b0ZNZ2RvOGk2aWU3TVNCLVRzTTdfMHFiVHdLMmZqNFByT1dLakNEV2F2bWc5WHN0NVhtNUpSVVRFVkJxMGE2ZA?oc=5",
+          "publishedAt": "2026-10-26T02:04:57.000Z",
+          "category": "trend",
+          "summary": "마이크로소프트가 글로벌 구조조정의 일환으로 프랑스 소재 게임 개발 스튜디오 폐쇄를 검토하고 있습니다. 빅테크 기업들이 비용 절감과 핵심 사업 재편을 위해 인력 감축 조치를 이어가고 있습니다. 글로벌 IT 시장 전반에 걸친 효율화 바람이 계속되는 양상입니다.",
+          "impact": "글로벌 IT 구조조정 여파로 시장에 공급되는 전문 개발 인력의 채용 타깃팅 가능성을 점검할 필요가 있습니다(추측)."
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "드림인사이트, 광고 분석부터 집행까지 AI로 연결…‘DMAX AI’ 출시",
+          "source": "이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRFNpdEtBMzJCaThZaGU3T2xDZXBLYWs0YVRfYlgxNWpZTnpyQmFuUVpJczA0OXoxZm5OUlN2QzcySFpCNWlQVTlMejA3eExYOGNBSy0zZ29aekR2N29La2xJTWFmRTFOZjlfQUpObVRBdjMxemtONGdDSUlfejVXUw?oc=5",
+          "publishedAt": "2026-10-26T00:08:08.000Z",
+          "category": "industry",
+          "summary": "드림인사이트가 광고 분석과 집행을 자동 연동하는 통합 AI 플랫폼 'DMAX AI'를 선보였습니다. 마케팅 솔루션 및 광고대행 업계 내 AI 기술 도입 및 작업 자동화 흐름이 한층 빨라지고 있습니다. 마케팅 솔루션 솔루션 간 AI 기능 고도화 경쟁이 치열해지는 모양새입니다.",
+          "impact": "경쟁 마케팅 SaaS 솔루션의 AI 기능 강화에 발맞추어 관련 AI 엔지니어 및 PM 채용 수요가 증가할 것입니다(추측)."
+        },
+        {
+          "title": "도구 간 빈틈 메운다…비즈인게이지 '마케팅 OS' [디지털마케팅 대전]",
+          "source": "블로터",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hQWRnUDVidVV1eS14bGdVZ2JYQXBFV0txWFhrYTdpLWlLVDBPajFxWGxQT2J2TGNpbHk3VVdGeE1RSXpjS29Nb20yUkRmeEpoRVh4UXZKc2VabHM4eDhPWExPTF9BZXpo0gFsQVVfeXFMTWNkVUowclJUdDh2c3VoMmNSU0hfY043cGY5VldDYU9fXzQxYU82WV90Z29veU1QcTd2N25fY0gza1Y3bEp5bUREOG5MSGRUb19NUXVWQkZqeWRhUzBxbTduejFKX1JhbGFMRTVs?oc=5",
+          "publishedAt": "2026-10-26T01:59:14.000Z",
+          "category": "industry",
+          "summary": "비즈인게이지가 개별 마케팅 툴 간의 데이터 빈틈을 연결하는 '마케팅 OS' 플랫폼을 발표했습니다. 디지털 마케팅 솔루션 시장이 단순 기능 제공을 넘어 올인원 통합 플랫폼 형태로 빠르게 진화하고 있습니다. 도구 간의 데이터 연동 편의성이 제품의 핵심 차별화 요소로 부상했습니다.",
+          "impact": "당사 솔루션의 올인원 통합성 강화를 위해 데이터 연동 및 인터페이스 개발 인재 육성에 집중해야 합니다(추측)."
+        },
+        {
+          "title": "롯데 대홍기획, '선작업 후계약' 관행 덜미… 공정위 광고계 칼 빼들었다",
+          "source": "잡포스트",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE10UVo1WkdSWEhYTFpLOUU4aTNsRVk0eTltUTlTbkM2Q2drNnVXaGFxaTdnNW43U3F3WDRlLV9VTXlZN3VweUJmX1dvZU55NjlNcmxGLThWX0NDMnlFVFdkc0cxTEtOTmRKMWRvX2JR0gFyQVVfeXFMTjZvaUhwS3gyNlQ0VGdsMHE3eVczQkotZmlnVVY0Tl9iT1l5eGVOamFVcDFjNnJRanNpcElSQnYtQzRwbmFMUE9iSHhEMVhTVjFjX2hJOVVvSWVPaXVhRjYtVkZCNHltNXdORGhCMmR0YV93?oc=5",
+          "publishedAt": "2026-10-26T00:18:39.000Z",
+          "category": "industry",
+          "summary": "공정거래위원회가 정식 계약서 교부 없이 외주 작업을 먼저 지시하는 광고대행 업계의 '선작업 후계약' 관행에 제재를 착수했습니다. 대홍기획 조사를 시작으로 광고 및 마케팅 용역 하도급 거래 전반에 대한 감독 조치가 강화될 예정입니다. 서면 계약 전 작업 개시는 하도급법 위반에 해당해 기업들의 각별한 주의가 요구됩니다.",
+          "impact": "마케팅 외주 및 협력사 용역 발주 시 반드시 선 계약서 체결 후 작업에 착수하도록 내부 절차를 강화해야 합니다."
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "채용",
+      "note": "원격 개발자 채용 시 신원 검증 절차를 강화하고 정량 스펙보다 실무 과제 및 역량 검증 중심의 면접 전형을 확대해야 합니다."
+    },
+    {
+      "part": "노무",
+      "note": "포괄임금제 연장근로 기록 체계와 프리랜서(3.3%) 계약의 실질 근로자성 여부를 즉시 사전 점검해야 합니다."
+    },
+    {
+      "part": "급여·보상",
+      "note": "게시 중인 채용 공고의 최저임금 준수 여부를 전수 점검하고 고연차 대상 임금 체계 개편 시 법적 절차 요건을 준수해야 합니다."
+    }
+  ]
+}
