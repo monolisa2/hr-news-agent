@@ -108,6 +108,12 @@ CSS 는 직접 작성한 것뿐이라 실질 위험이 없습니다. 해결하�
 GitHub 크론 두 개는 cron-job.org 가 멈춘 날의 늦은 백업으로만 남겨 두었습니다.
 
 - cron-job.org 계정: 사용자 소유. 잡 하나(월~금 10:00 Asia/Seoul, GitHub API POST)
+- **2026-10-26 재설정**: 기존 계정의 잡은 8/30 이후 호출에 한 번도 성공하지 못했다(Actions 기록에
+  workflow_dispatch 가 수동 실행 3건뿐). 새 계정(monolisa4444@gmail.com, 로그인 정보는 사용자 Aside Vault)에
+  잡 #8723496 을 다시 만들었다. POST `/repos/monolisa2/hr-news-agent/actions/workflows/daily.yml/dispatches`,
+  본문 `{"ref":"main"}`(입력값은 기본값: 메일 발송 O, 재발송 X), 헤더 Accept / Content-Type / Authorization /
+  X-GitHub-Api-Version. 시험 호출 204 확인. 실패 시 cron-job.org 가 메일로 알린다.
+- 토큰 이름 `cron-job.org daily brief trigger` (fine-grained, 이 저장소 Actions 읽기·쓰기만), **만료 2027-10-25**.
 - 호출에 쓰는 GitHub 토큰(fine-grained PAT, 이 저장소 Actions 권한만)은 cron-job.org
   잡의 Authorization 헤더에 저장돼 있습니다. **만료 1년.** 만료되면 고장이 아니라
   **레터가 다시 오후 3~7시로 밀리는 증상**으로 나타납니다 — 그때 PAT 를 재발급해서
