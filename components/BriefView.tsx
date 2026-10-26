@@ -65,6 +65,22 @@ export default function BriefView({ brief }: { brief: Brief }) {
         </section>
       )}
 
+      <aside className="promo">
+        <div className="promo-label">함께 보면 좋은 글</div>
+        <p className="promo-text">
+          뉴스에 나온 제도를 실무 기준으로 풀어 쓴 해설은 블로그에 정리하고 있습니다. 연차·퇴직금·4대보험·연말정산
+          계산법과 체크리스트를 확인해 보세요.
+        </p>
+        <a
+          className="promo-link"
+          href="https://blog.naver.com/monolisa83"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          16년차 인사팀장의 HR 비밀 노트 바로가기
+        </a>
+      </aside>
+
       <p className="note">
         공개된 기사 제목과 요약문을 바탕으로 자동 정리한 내용입니다. 원문 전체를 옮기지 않으며,
         정확한 사실관계는 각 기사 링크에서 확인하세요. 요약은 기계가 작성하므로 오류가 있을 수
