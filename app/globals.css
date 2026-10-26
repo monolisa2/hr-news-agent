@@ -406,3 +406,37 @@ main { padding-bottom: 90px; }
   .archive-count { display: none; }
   .issue-head { padding-top: 42px; }
 }
+
+/* ---------- blog promo ---------- */
+
+.promo {
+  margin-top: 56px;
+  padding: 22px 24px;
+  background: var(--accent-tint);
+  border-left: 2px solid var(--accent);
+}
+
+.promo-label {
+  font-family: var(--mono);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  color: var(--accent);
+}
+
+.promo-text {
+  margin: 8px 0 12px;
+  font-size: 14px;
+  line-height: 1.8;
+  color: var(--ink-soft);
+}
+
+.promo-link {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--accent);
+  text-decoration: none;
+  box-shadow: 0 1px 0 var(--accent);
+}
+
+.promo-link:hover { color: var(--ink); box-shadow: 0 1px 0 var(--ink); }

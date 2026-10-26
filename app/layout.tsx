@@ -28,6 +28,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             <nav className="nav">
               <Link href="/">오늘</Link>
               <Link href="/archive">아카이브</Link>
+              <a href="https://blog.naver.com/monolisa83" target="_blank" rel="noopener noreferrer">
+                블로그
+              </a>
             </nav>
           </div>
         </header>
