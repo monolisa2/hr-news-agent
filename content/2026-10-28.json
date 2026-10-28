@@ -1,0 +1,171 @@
+{
+  "date": "2026-10-28",
+  "label": "2026년 10월 28일 (수)",
+  "issue": 40,
+  "generatedAt": "2026-10-28T01:20:29.602Z",
+  "headline": "주52시간 특례 논란과 AI 중심 채용 평가의 급격한 확산",
+  "lede": "주 52시간제 예외 적용 논란과 65세 정년 연장 입법 촉구 등 노동 법제도의 변혁이 지속되는 가운데, 카카오 등 주요 IT 기업을 중심으로 AI 기반 채용 평가 도구 도입과 'AI 네이티브' 인재 확보 경쟁이 가속화되고 있습니다. 한편 디지털 광고 및 마케팅 SaaS 시장 성장과 AI 마케팅 솔루션 출시에 따라 관련 전문 인력의 확보와 체계적인 노무 리스크 관리가 선제적 과제로 떠올랐습니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "노동장관, '주52시간 예외는 위헌' 지적에 \"그런 주장 가능\"(종합)",
+          "source": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kYUtsb3NHa1I4emViSGFELXp1YjJfbDVqcFU2blNVdzN6MXc1aFUyd3NDX1d1emN5V19WemdkX2l5N3Z4VEFfVVd4YjJ6VER3UldJSDlKWjNBd2_SAWBBVV95cUxQdHhHT0FsRVF6XzNxeEZfSjF6RWs4ZkU1NEdhVHF2Zy1WbVpfeGpCa2ozWGdEV3pONnd5eWxVbVBRZzFrT2FCT2hMYUlBWE93TUlpQmJiWll5SlZnQXhVbkM?oc=5",
+          "publishedAt": "2026-10-27T09:46:56.000Z",
+          "category": "law",
+          "summary": "초광역특구법에 포함된 주 52시간제 특례 적용 조항에 대해 노동계와 여당 내부에서 위헌성 제기 등 진통이 이어지고 있습니다. 고용노동부 장관은 국회 국정감사에서 위헌 주장 가능성을 인정하며 사회적 대화를 통해 해법을 찾겠다고 밝혔습니다.",
+          "impact": "근로시간 유연화 법제화 동향을 지속 모니터링하고 자사의 유연근무제 및 연장근로 관리 현황을 미리 점검할 필요가 있습니다. (추측)"
+        },
+        {
+          "title": "\"정년연장 연내 처리돼야\"...與이용우, 65세 단계적 연장 촉구",
+          "source": "이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ0ktZzY1M1FPOHRrakJDM080ZFJ3RkZvWW9DTlFad3Q2dDIwaFgwRzh4YVdXUG54cUZPT21MWVFMLUNnRzNZNEs4TzlaRnVrQVdrLXlEQjZEaWVSSElRakMxQmhhZHlxeWlmWFEwWFFkZ0lTX0FLc05pTi1FcHZOSA?oc=5",
+          "publishedAt": "2026-10-27T06:57:26.000Z",
+          "category": "law",
+          "summary": "여당을 중심으로 65세 단계적 정년 연장 입법을 연내에 처리해야 한다는 촉구가 이어지고 있습니다. 국민연금 수급 연령 개편과 맞물려 공공 및 민간 부문 전반에서 고용 지속성 확보를 위한 법안 논의가 본격화되는 흐름입니다.",
+          "impact": "장기적인 인력 운용 및 고용 지속성을 위해 재고용 및 정년 연장에 대비한 중장기 인적자원 계획을 검토해야 합니다. (추측)"
+        },
+        {
+          "title": "안전보건최고책임자(CSO) 선임과 대표이사의 ‘경영책임자등’ 해당 여부",
+          "source": "법률신문",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kbW5Db1hmN0JlWlhyRXUzMnliNTB3OFJKSXZBVEpTdFRWdUFuWHYwcHY1LWFUVGdpSDl5UDVwSmxmaDNidXNkVUdVVjlad2oxanh2UVlTSmRrd2NvU0Y2Uk9TM09TR2VkS3hlcVJB0gFyQVVfeXFMTzVyRTVRc0xTMkF1dlphNHVESmVMVnlyQnBKUnFJQTBXQVRVbTNDeUN3RUM0Ym4tVzJsY0tGMTgzYXN5N2w0RUw3TjZDTHNubllXTWk0Q3NUbFp2NWdaX015eTM3d01VbTBrQkVrRGliQTZB?oc=5",
+          "publishedAt": "2026-10-27T07:56:18.000Z",
+          "category": "law",
+          "summary": "안전보건최고책임자(CSO)를 별도 선임하더라도 중대재해처벌법상 대표이사 등 최고경영자의 경영책임자 의무가 자동으로 면제되지 않는다는 법률적 해석이 제시되었습니다. CSO에게 실질적인 최종 권한과 예산이 완전히 부여되지 않는 한 대표이사도 법적 책임에서 자유롭지 못합니다.",
+          "impact": "CSO 선임 여부와 관계없이 대표이사 및 경영진이 직접 안전보건 관리 체계 이행을 점검하고 관리해야 합니다."
+        },
+        {
+          "title": "[기간제법 시행 20년 긴급점검]① 기업이 말하는 정규직 전환 해법은",
+          "source": "한양경제",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PTHFZdkVBY2xQT0VCaGNpcEF3WWV5MkxzNndOcjVORzRCQWtTbzRpMk1kUTVMNlg4aHpia0k4RVloOUxCQnhhS1pIUm9QbWRIVU5vZ0dNSUNFU1l4NXNhNEtqUzZQXzEzXy1UUXVfNV92UQ?oc=5",
+          "publishedAt": "2026-10-27T08:50:00.000Z",
+          "category": "law",
+          "summary": "기간제법 시행 20주년을 맞아 현행 2년 고용제한 규정이 비정규직의 고용 불안을 가중시킨다는 지적과 함께 법제도 개선 요구가 지속되고 있습니다. 기업 현장에서는 정규직 전환 판단 기준의 유연화와 합리적 인력 운용 방안 모색이 논의 중입니다.",
+          "impact": "자사 기간제 인력 운용 현황을 점검하고 2년 도래 전 전환 평가 프로세스와 가이드라인을 사전 정비해야 합니다. (추측)"
+        }
+      ]
+    },
+    {
+      "key": "case",
+      "name": "판례·노동위",
+      "items": [
+        {
+          "title": "[박선영의 판례 속 괴롭힘] 사과를 명령할 수 있는가",
+          "source": "여성신문",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aakJ4UkdlM1ZUUFF5SjNyY0k3WkJfZVQ1SDFlMVFfQnI4eUVweVoyaWhJX3dDV2V3VHhWTEh2QlcyQ0prLWhYbzR1a3BQV19NcXJIZlVaNkQ2dzYwR0V4ZnFfQTRnRTBWZ3MyUHJtQ1pKcmPSAXNBVV95cUxPWmpCeFJHZTNWVFBReUozcmNJN1pCX2VUNUgxZTFRX0JyOHlFcHlaMmloSV93Q1dld1R4VkxIdkJXMkNKay1oWG80dWtwUFdfTXFySGZVWjZENnc2MEdFeGZxX0E0Z0UwVmdzMlBybUNaSnJj?oc=5",
+          "publishedAt": "2026-10-27T07:13:42.000Z",
+          "category": "case",
+          "summary": "직장 내 괴롭힘 피해에 대한 구제 조치로 가해자에게 사과를 강제 명령하는 행위가 양심의 자유 침해 논란을 부를 수 있다는 법적 판례 분석이 나왔습니다. 괴롭힘 사건 조치 시 사과 명령의 법적 한계와 실효성 있는 사후 조치 구분이 요구됩니다.",
+          "impact": "직장 내 괴롭힘 사건 처리 기준을 점검하고 헌법상 기본권을 침해하지 않는 유효한 재발방지 및 징계 조치 기준을 정립해야 합니다. (추측)"
+        },
+        {
+          "title": "“5인 미만” 주장했지만…부당해고 판정",
+          "source": "KBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsR3BUMDNxaThtMC1vVU5NdzR0Y3NjNDRna0cwYVc0eGJCU1d4LWhzRzBoVEtERnhHYnhPUzJRcUNYVmdJQzBHbUdqYXNsYzk5bEZrcnlMeTVPQ3FLNUpXaV9RQ21Cdw?oc=5",
+          "publishedAt": "2026-10-27T10:32:00.000Z",
+          "category": "case",
+          "summary": "서류상 5인 미만 사업장 형태를 유지했으나 실제 인력 운영과 지휘 감독 관계를 살펴본 결과 실질 근로자 수가 초과하여 부당해고로 판정된 사례가 발생했습니다. 노동위원회는 사업장 분치나 계약 형태와 상관없이 실질적인 근로관계를 엄격하게 적용하고 있습니다.",
+          "impact": "외주 인력 운용 및 자회사 분사 시 실질적 근로자 수와 지휘감독 관계를 점검하여 부당해고 리스크를 사전에 예방해야 합니다. (추측)"
+        },
+        {
+          "title": "김영훈 \"LS전선 부당노동행위 엄정 수사…특별근로감독 검토\"",
+          "source": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wS2FOMFJKd0dhNnEyWkFESFRuRDNhUVNsLUpRX19taDlhajNMSE84RDhyUW45UE1QNnY1LWQzQXh3RWh1SktRZFVvRlJQT25qNV9kdnZnZ1JyRi1ISk01SVI3Y3kzaktsa0YzWDRQUGdqVlN6a283cdIBeEFVX3lxTE5wS2FOMFJKd0dhNnEyWkFESFRuRDNhUVNsLUpRX19taDlhajNMSE84RDhyUW45UE1QNnY1LWQzQXh3RWh1SktRZFVvRlJQT25qNV9kdnZnZ1JyRi1ISk01SVI3Y3kzaktsa0YzWDRQUGdqVlN6a283cQ?oc=5",
+          "publishedAt": "2026-10-27T08:10:48.000Z",
+          "category": "case",
+          "summary": "고용노동부가 노조 탄압 및 부당노동행위 의혹이 제기된 기업에 대해 엄정 수사 및 특별근로감독 실시를 검토하고 있습니다. 고용부 장관은 노사관계 불법행위에 대해 철저한 조사와 법 집행을 강조했습니다.",
+          "impact": "노사관계 및 부서별 인사 관리 과정에서 부당노동행위로 오인될 수 있는 요소를 사전 모니터링해야 합니다. (추측)"
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "잡코리아, 채용 공고 상세요강 분석…‘AI 활용’ 기재 공고 1년 새 3배 늘어",
+          "source": "데일리포스트",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1uV19VMHdkVjA4TlI2bTdRX1MxUUJVVVJkTE9odlozcWo2akNUNVZIS1ZBa1BndXZmRlJKbWRwUjhqSGRIbGE2M1dBYzRSU1NwQ1haNzVEblZlNGNHMU80cnpwYUdiLUtWcENsWjgyRdIBc0FVX3lxTE9WR2tjbDliTnFFSVFEbW90S1daeGFNcm9mNVVkVXY4X29pRkliVDlNZ05DdjZxT09FLVpBOWJycFhFQXRVM2R3aGhoUFFjODFIQ2lIRjNoc1JqS2tRNThUVVhHOGt0UTR6WjRNVnV3ZFZqbk0?oc=5",
+          "publishedAt": "2026-10-27T09:58:51.000Z",
+          "category": "market",
+          "summary": "채용 플랫폼 잡코리아의 공고 분석 결과 상세요강에 'AI 활용 역량'을 우대하거나 필수 조건으로 명시한 채용 공고가 1년 사이 3배 증가했습니다. 개발 직군뿐 아니라 기획, 마케팅 등 제반 직무 전반으로 AI 역량 요구가 확대되는 추세입니다.",
+          "impact": "전 직군 채용 공고 수립 시 필수 및 우대 요건에 직무별 AI 도구 활용 역량을 반영할 필요가 있습니다. (추측)"
+        },
+        {
+          "title": "롯데그룹, AI 인재 확보 나선다… 7개 계열사 참여 AI 경연 'AX 챌린지 2026' 개최",
+          "source": "내외경제TV",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHQndoUEF0aFhrVHl5OGZKY2lCMU1nVnd5UDFBejEyLVRqQ1o3c2VwYnNQY0dRZHo0TVh1TjJfSnVVWW41VmxYYU5DcVJxYUpKYjZJZnQ5cDNQb0JZalRyNkRIcU1YS29EcUVF?oc=5",
+          "publishedAt": "2026-10-27T09:13:59.000Z",
+          "category": "market",
+          "summary": "롯데그룹 등 주요 대기업들이 AI 인재 선점을 위해 여러 계열사가 합심하여 AI 경연대회를 개최하고 우수 인재에게 채용 특전을 제공하고 있습니다. 차세대 실무형 AI 인재 확보를 위한 대기업 간 채용 마케팅 경쟁이 가열되고 있습니다.",
+          "impact": "대기업의 AI 인재 싹쓸이에 대응해 인턴십 및 직무 맞춤형 AI 인재 확보 채널을 다변화해야 합니다. (추측)"
+        }
+      ]
+    },
+    {
+      "key": "trend",
+      "name": "HR 트렌드",
+      "items": [
+        {
+          "title": "사람 대신 AI가 묻고 평가한다… 카카오, 채용 절차 개편",
+          "source": "IT조선",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85WXhTclFOdjNKVlpzY09NZGYyWHpwWVA5MHA2SGlsNm5idUlCQXpEcFhCYTRlMC1tRFBkWDdWM2tsbkhxalBUdmV2akVGREtJZDhhLURfTFpSNkczTDRFU0Fvbm9uRnRucHFkaGlZRTbSAXRBVV95cUxOTzdoSXgzS1Y5V3NOamFPak9yNE1PTnB4bFhmLXpZcFNuSUI1N3diME9HSVliVmR4dDI4NDR1NEVJemlQMTM1MFhxelQweFFHb1BOUzJ4ZDQySUFPcnRzX1Fscm0zZ09sWDZDbHM4bWszclZFRg?oc=5",
+          "publishedAt": "2026-10-27T07:28:51.000Z",
+          "category": "trend",
+          "summary": "카카오가 서류 검토부터 질문 생성 및 역량 평가까지 채용 전 과정에 AI 지원 시스템을 도입하여 평가 절차를 전면 개편했습니다. AI 분석을 통해 평가의 객관성을 확보하고 채용 소요 시간을 획기적으로 단축한다는 목적입니다.",
+          "impact": "IT 업계의 AI 채용 도입 추세를 반영하여 자사 채용 전형의 평가 공정성과 효율성을 높일 솔루션 검토가 필요합니다. (추측)"
+        },
+        {
+          "title": "코딩 사라지는 게임사 채용…'AI 네이티브' 찾는다",
+          "source": "민주신문",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zbVJYY1dPRDFENDNFSVpjNlptLWpLa0FMY3d3cG9XbnllVnAzc0lUUjV1MkZsUDc0XzRVRVFheldxX21Ka2NaTnVPbEZfLVU5dXdzemU5NXVyNHJjQ2ZQZWQweG81N2tmZXRn0gFrQVVfeXFMTXNtUlhjV09EMUQ0M0VJWmM2Wm0taktrQUxjd3dwb1dueWVWcDNzSVRSNXUyRmxQNzRfNFVFUWF6V3FfbUprY1pOdU9sRl8tVTl1d3N6ZTk1dXI0cmNDZlBlZDB4bzU3a2ZldGc?oc=5",
+          "publishedAt": "2026-10-27T09:51:22.000Z",
+          "category": "trend",
+          "summary": "게임 및 IT 업계 채용 시장에서 단순 코딩 기술 보유자보다 AI 툴을 적극 활용하여 업무 생산성을 극대화하는 'AI 네이티브' 인재 선호 현상이 뚜렷해지고 있습니다. 개발 직군 채용 평가 기준이 코딩 능력 중심에서 AI 활용 및 응용 능력 중심으로 전환되고 있습니다.",
+          "impact": "개발 직무 JD 작성 및 역량 평가 시 AI 툴 활용 능력 평가 항목을 도입해 실질적 생산성 중심 채용을 도모해야 합니다. (추측)"
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "한국 디지털 광고비 26% 증가, 8월 광고비·노출 수 역대 최고치… 삼성·한국타이어, 미국·유럽 광고 점유율 선두",
+          "source": "https://www.koreasprint.com/",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lOHBxdm5BeC1SdmdiNXVqYUF2Zllmb3VzcVpqSzExWWdBMjAzODNCbHV1bmRqS3NUSmpsV0MtdVo2VE9Qa0ZsNnNiWGhwaHh1bk1VNkdweC16MWg5dDNlZnJXZTRNT2licjBzUGtR?oc=5",
+          "publishedAt": "2026-10-27T16:16:00.000Z",
+          "category": "industry",
+          "summary": "국내 디지털 광고 집행액이 전년 대비 26% 급증하고 8월 광고 노출 수가 역대 최고치를 기록하는 등 디지털 마케팅 산업 성장세가 지속되고 있습니다. 한국 기업들의 해외 디지털 광고 점유율도 상위권을 기록하고 있습니다.",
+          "impact": "마케팅 산업의 성장에 발맞추어 마케팅 SaaS 제품의 핵심 인력 채용과 이탈 방지 보상책을 강화할 필요가 있습니다. (추측)"
+        },
+        {
+          "title": "글로벌 인플루언서 마케팅도 AI가 알아서…인덴트코퍼레이션 ‘인덴트M’ 공개",
+          "source": "뉴스탭",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kelhMbWwtaWlVUU12SlpZQ0xoUWYyV2tCU0k4WVd4V3JyZ2ltNlBOYi1zSmtCZHVTTXpHdERkQVdBUlRnZmlGdEZTMklMMVVMM2dQS1ZJUWpSRDhFT0RRSkhYSFpKMk9HNV83aQ?oc=5",
+          "publishedAt": "2026-10-27T22:24:44.000Z",
+          "category": "industry",
+          "summary": "커머스 및 마케팅 분야에서 AI 기반 마케팅 자동화 비서 서비스인 '인덴트M'이 공개되는 등 AI 기술을 접목한 마케팅 솔루션 출시가 잇따르고 있습니다. AI가 글로벌 인플루언서 마케팅과 데이터 분석 업무를 자동 처리하는 구조입니다.",
+          "impact": "경쟁 SaaS의 AI 기능 강화에 대응해 자사 AI 개발자 및 기획자 유치를 위한 인센티브 조정을 검토해야 합니다. (추측)"
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "노무",
+      "note": "주 52시간제 특례 논란과 정년 연장 입법 추진, 중대재해법상 CSO 책임 판례에 대비해 회사 내부 근로시간제 및 안전관리 체계를 재점검해야 합니다."
+    },
+    {
+      "part": "채용",
+      "note": "카카오의 AI 채용 절차 도입 및 'AI 네이티브' 우대 경향에 맞춰 자사 채용 JD와 직무 평가 기준에 AI 활용 능력을 적극 반영할 필요가 있습니다."
+    },
+    {
+      "part": "인사기획",
+      "note": "65세 단계적 정년 연장 입법 논의와 기간제법 개정 움직임에 발맞추어 중장기 인력 구조 및 정규직 전환 프로세스를 사전 설계해야 합니다."
+    }
+  ]
+}
