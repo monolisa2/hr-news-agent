@@ -1,0 +1,170 @@
+{
+  "date": "2026-11-02",
+  "label": "2026년 11월 2일 (월)",
+  "issue": 43,
+  "generatedAt": "2026-11-02T01:03:21.229Z",
+  "headline": "정년연장·포괄임금제 입법 추진과 AI 중심 일하는 방식 개편",
+  "lede": "정년연장과 포괄임금제 폐지 등 주요 노동 법제도 개편 논의가 구체화되고 직장 내 괴롭힘 인정 범위가 확대되고 있습니다. 동시에 IT 및 마케팅 산업 전반에서 AI 도입에 따른 인력 구조 개편과 일하는 방식 혁신이 빠르게 진행되고 있습니다. 인사팀은 법적 리스크 대비와 함께 AI 시대에 부합하는 인력 보상 및 조직 관리 체계를 구축해야 합니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "65세 정년연장 연내 입법 속도…내년 퇴직 1967년생은?",
+          "source": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3S2Vickx1V05RamItZW85eGZTY0ZDbGNsQmlLV3NYWXdoODlUbXp4Um81YXA2OWI2YkppNE4xOVUwckVZVlIyNDFZM1RYTkFWblNFNVF3?oc=5",
+          "publishedAt": "2026-11-01T23:31:14.000Z",
+          "category": "law",
+          "summary": "정부와 국회가 65세 정년연장 연내 입법에 속도를 내면서 내년 퇴직 예정자의 적용 여부에 관심이 쏠리고 있습니다. 정년 연장에 따라 고용 유지 방식과 임금체계 개편이 주요 논의 과제로 제기되었습니다. 신규 채용 감소 우려와 세대 간 갈등을 완화하기 위한 입법적 대안이 검토 중입니다.",
+          "impact": "정년연장 법안의 연내 타결 가능성에 대비해 중장기 인력 구조와 임금피크제 등 임금체계 개편안을 미리 검토해야 합니다."
+        },
+        {
+          "title": "퇴직급여 사외적립 의무화… 2030년 모든 사업장 적용",
+          "source": "한국보험신문",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0zN0xyZEtzWXlMTVNSNWRYSDNDQU84N3M0VWpLV2RyNVdOWkczMU1LVWVaZUFnQUxwVEwwZE5yZWUtaFh5UmVIX1IzOHlUVFlOOU5Fc2ZuVlBCWUtoOC01NU1ic2NuOEg1UF9KU1FORdIBb0FVX3lxTE0zN0xyZEtzWXlMTVNSNWRYSDNDQU84N3M0VWpLV2RyNVdOWkczMU1LVWVaZUFnQUxwVEwwZE5yZWUtaFh5UmVIX1IzOHlUVFlOOU5Fc2ZuVlBCWUtoOC01NU1ic2NuOEg1UF9KU1FORQ?oc=5",
+          "publishedAt": "2026-11-01T15:00:00.000Z",
+          "category": "law",
+          "summary": "정부가 퇴직급여 사외적립을 의무화해 2030년까지 모든 사업장에 적용하는 방안을 추진합니다. 기존 퇴직금 제도에서 퇴직연금 제도로의 전환이 가속화될 전망입니다. 사업장의 재정적 부담 경감 및 제도 연착륙을 위한 단계적 시행 대책이 포함되어 있습니다.",
+          "impact": "퇴직연금 미도입 상태라면 2030년 전면 의무화 계획에 맞춰 퇴직연금 전환 로드맵과 재정 부담 영향을 사전 점검해야 합니다."
+        },
+        {
+          "title": "직장인 10명 중 7명 “‘공짜 야근’ 유발 포괄임금제 금지해야”…연내 입법 될까",
+          "source": "경향신문",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wRE5OMGRpOUNPYk5NWVZ4Q2JXdC1yZEMxY0Z2MnZNZXNXT3VwdWFqWUFsOXJDVTZ0T2xqbE02TFV5X3ZPYUxkVnpEYmVSeGJ0bXE4eDZZSkVsXzg1WXlB0gFfQVVfeXFMTXBETk4wZGk5Q09iTk1ZVnhDYld0LXJkQzFjRnYydk1lc1dPdXB1YWpZQWw5ckNVNnRPbGpsTTZMVXlfdk9hTGRWekRiZVJ4YnRtcTh4NllKRWxfODVZeUE?oc=5",
+          "publishedAt": "2026-11-01T03:00:00.000Z",
+          "category": "law",
+          "summary": "직장인 10명 중 7명이 야간·휴일 수당 없는 공짜 야근을 유발하는 포괄임금제 금지를 요구하고 나섰습니다. 연내 포괄임금제 금지 관련 법안의 국회 입법 추진 여부에 관심이 집중되고 있습니다. 법 개정이 이루어질 경우 포괄임금 약정을 운영 중인 기업들의 임금체계 개편이 불가피해집니다.",
+          "impact": "포괄임금제 폐지 입법 가능성에 대비해 근무시간 측정 관리 시스템과 포괄임금 약정 개편 방안을 미리 준비할 필요가 있습니다."
+        }
+      ]
+    },
+    {
+      "key": "case",
+      "name": "판례·노동위",
+      "items": [
+        {
+          "title": "[판결] “늦게 왔네, 몇 시에 왔어?” 상사 닦달도 ‘직장 내 괴롭힘’",
+          "source": "법률신문",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5OEt1V1d5ZldmY0FnU29pQWQzR2pJZEprWkVMZ2Qtazg2aTJYQjJhVXZuWFZLV1Q3bk1kQ0hQZWoxMW5wcDZtNXNVWjJFZ0lUMEI3bWpFanUxM2g5WkhuRUNScHA3eC0tNUFwWFpR0gFyQVVfeXFMT2FkeVI0ZlB0UUFHYmNDN2dvTTg2QS00WDVXUmtyVmtjU2pfSHgwLVJSOXE5dEQ2NXk4SkJRcTJESkZhNE9IelAteW1GSzZReXE0cnVNX1BCelV4elFZSzQ2SWNHbTBhLVZYTmFKbDFfWXJn?oc=5",
+          "publishedAt": "2026-11-01T00:05:00.000Z",
+          "category": "case",
+          "summary": "법원이 부하 직원의 출근 시각을 지속적으로 닦달하고 압박한 상사의 언행을 직장 내 괴롭힘으로 인정했습니다. 욕설이나 폭언이 없었더라도 지나친 감시나 질책성 문초 역시 괴롭힘에 해당한다는 판결입니다. 이에 따라 해당 관리자에게 내려진 감봉 징계 처분이 정당하다고 보았습니다.",
+          "impact": "직장 내 괴롭힘 판단 범위가 넓어짐에 따라 리더십 대상 감시성·압박성 언행 예방 교육을 강화해야 합니다."
+        },
+        {
+          "title": "동의 없이 변경한 임금체계, 줄어든 임금 청구 가능할까",
+          "source": "매일노동뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRU1lHb09uMkVUVTBHakJKSXAwNmtVdng4anNRbHZSUV9qZDU4LVJFcUtxaFlkX19XV0xJU19pTWlLN0FwSGhtODlMRE5MQXZQTGY0WUZiRnFwU0tDYXNLQVJNZTNPMWE3bEViUVh6LTQ?oc=5",
+          "publishedAt": "2026-11-01T21:30:04.000Z",
+          "category": "case",
+          "summary": "근로자 동의 없이 임금체계를 변경해 임금이 감축된 경우 기존 임금과의 차액을 청구할 수 있는지가 법적 이슈로 다루어졌습니다. 취업규칙 불이익 변경 절차를 거치지 않은 임금 감축은 무효가 될 가능성이 높습니다. 절차적 하자가 있는 임금 제도 개편은 기업에 상당한 반환 청구 리스크를 유발합니다.",
+          "impact": "보상 제도 개편 시 근로자 과반 동의 등 취업규칙 변경의 법적 동의 절차 준수 여부를 철저히 검증해야 합니다."
+        },
+        {
+          "title": "\"50대 점장, 하루아침에 매대 업무\"…43명 집단소송 결말 [곽용희의 인사노무노트]",
+          "source": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lVXNXbW1KN3Y0dThMWGdiZk1MT3ZSbmxxbkJzM0VlZlp0TGU5UVNXNVpwRnZDYnJlc21lVkg4eEZpaDA1RVhZSVVWNnZkQlowanNGNHVtWTJvZw?oc=5",
+          "publishedAt": "2026-11-01T21:00:03.000Z",
+          "category": "case",
+          "summary": "50대 관리자를 정당한 사유 없이 하루아침에 매대 업무로 재배치한 인사에 대해 집단소송이 제기되어 부당 전보로 결말이 났습니다. 법원은 업무상 필요성이 인정되지 않고 생활상 불이익을 주는 전보 배치를 무효로 판단했습니다. 조직 개편 및 직무 전환 시 객관적 절차와 타당성 확보가 필수적입니다.",
+          "impact": "조직 개편 및 직무 재배치 추진 시 업무상 필요성과 대상자 협의 등 인사이동 타당성 근거를 철저히 갖춰야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "10월 스타트업 투자 1조 넘었다…AI·로보틱스가 전체의 절반 이상",
+          "source": "플래텀(Platum)",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBLbF9FcUdMSEN6MExKWjdyX2V4WXZ4RlFhSDN1Wm1IWldCUUNiY251aERJamdpRFNiejd4UkxXWlJWS0xtOWo3eg?oc=5",
+          "publishedAt": "2026-11-02T00:49:49.000Z",
+          "category": "market",
+          "summary": "10월 한 달간 국내 스타트업 투자 유치액이 1조 원을 넘어섰으며 AI와 로보틱스 분야에 절반 이상이 집중되었습니다. 딥테크 기술 분야로 자금이 집약되면서 관련 전문 인력 확보 경쟁이 가열되고 있습니다. AI 시장 확대로 전문 엔지니어 유치 및 이직 위험이 지속될 것으로 보입니다.",
+          "impact": "AI 분야 투자 확대로 핵심 기술 인력의 이직 위험이 높아지므로 개발진 보상 체계 및 리텐션 방안을 재점검해야 합니다. (추측)"
+        }
+      ]
+    },
+    {
+      "key": "trend",
+      "name": "HR 트렌드",
+      "items": [
+        {
+          "title": "SK텔레콤, ‘AX 혁신 2.0’ 발표… 조직 업무·협업 방식 AI 중심 재설계",
+          "source": "퍼블릭뉴스통신",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBGWHE1UVJxT01vMlFrRUZMb3lHaXd6bC1uU3czWXZLdjI4S0ZPbi1VYThYU3p3R2IyVHVkNUlfOTVobTlPb0FMUGNzdUhsYVBTdG5SczhVRm9ZU3B1a0xVSHhLdl9zNGxQT3Vz?oc=5",
+          "publishedAt": "2026-11-01T05:02:29.000Z",
+          "category": "trend",
+          "summary": "SK텔레콤이 'AX 혁신 2.0'을 선언하며 조직 업무와 협업 방식을 AI 중심으로 전면 재설계한다고 발표했습니다. 단순히 AI 도구를 보조적으로 사용하는 수준을 넘어 사내 협업 프로세스와 일하는 방식 자체를 바꾸는 시도입니다. 전사 차원의 AI 전환을 통해 업무 생산성 극대화를 목표로 하고 있습니다.",
+          "impact": "AI 기반 협업 및 업무 자동화 툴 도입을 적극 검토하여 사내 생산성 혁신 과제를 수립해야 할 것으로 보입니다. (추측)"
+        },
+        {
+          "title": "직원 만족도 떨어지면 CEO 보수 깎는다…‘반도체장비 1등’의 실험",
+          "source": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UUmtZeXBpMjI5dEpRc1dCVWpOdko0Zlg0emlhRnZ5U1czY3M4cDQzTTJEZDdISm9ZLVFxS3FWWGROREhpMmdGV1F4STMxSTFOVkJocU5n?oc=5",
+          "publishedAt": "2026-11-01T04:49:29.000Z",
+          "category": "trend",
+          "summary": "반도체 장비 주요 기업에서 직원 만족도 조사 결과를 CEO 및 경영진 보수와 연동하는 성과 평가 실험을 진행하고 있습니다. 구성원의 조직 몰입도와 조직 건강도가 리더의 실질적인 평가 지표로 반영되고 있습니다. 인재 확보와 유지를 위해 구성원 경험(EX) 관리의 중요성이 더욱 강조되는 흐름입니다.",
+          "impact": "임원 및 리더십 평가 요소에 조직 만족도와 구성원 경험(EX) 지표 반영을 검토해볼 수 있습니다. (추측)"
+        },
+        {
+          "title": "북한 IT워커, 이력서 훔쳐 취업하고 은행 계좌 턴다",
+          "source": "주간조선",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2ei1mSVFDZlJqRDQ4UmlsMjBrX281eUlTQWFLQ3lPbHlrazVEN3Vtb09KaWRnQ2NCY3pJTDZSallVYnRRc2twMmpxekVJeHZheVFaRUlYMEtucEM0RTg3X0FQMW45cFFVOW9R?oc=5",
+          "publishedAt": "2026-11-01T17:03:17.000Z",
+          "category": "trend",
+          "summary": "북한 IT 인력이 타인의 이력서와 신분을 도용해 IT 기업에 위장 취업한 후 사내 자산을 탈취하는 사례가 늘고 있습니다. 원격 근무 및 비대면 채용 프로세스의 신원 검증 허점이 주요 보안 위험 요인으로 지적됩니다. IT 기업들의 채용 및 외주 관리 시 신원 확인 절차 강화가 요구됩니다.",
+          "impact": "원격 근무자 채용 및 개발 외주 계약 시 신원 확인 절차와 레퍼런스 체크 프로세스를 강화해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "외부 투자 없이 HR SaaS 한 길 걸은 지후소프트…김용호 대표, AI 시대 다음 수를 말하다",
+          "source": "테크수다",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZEhfWFVDdVBER0pIeUtmNDNFMnlSYmNMLWRfaHBHdUNJNy1wWVlnUUpsUFk1RHBDcmpXMzg4Z1RPN2g4NXNPcGZLbTJwWFpzVjBUSkdMOFZTbGlzSTFWQU1GdFRLcEpiYzl3UVBqbTQ2SnFVamR5amw1dWJoY3UtUHFvS25aMnRZNXEzaWcyWVp5V3RuLVpVVEZaWU4zb0JjcVhv0gGjAUFVX3lxTE5kSF9YVUN1UERHSkh5S2Y0M0UyeVJiY0wtZF9ocEd1Q0k3LXBZWWdRSmxQWTVEcENyalczODhnVE83aDg1c09wZkttMnBYWnNWMFRKR0w4VlNsaXNJMVZBTUZ0VEtwSmJjOXdRUGptNDZKcVVqZHlqbDV1YmhjdS1QcW9LbloydFk1cTNpZzJZWnlXdG4tWlVURlpZTjNvQmNxWG8?oc=5",
+          "publishedAt": "2026-11-01T14:39:32.000Z",
+          "category": "industry",
+          "summary": "HR SaaS 전문 기업 지후소프트가 외부 투자 없이 성장하며 AI 시대를 대비한 차세대 솔루션 발전 방향을 공개했습니다. HR 업무 자동화와 데이터 기반 인사 분석 기능이 B2B SaaS 시장의 주요 경쟁력으로 자리 잡고 있습니다. 시장 수요에 맞춘 솔루션 기능 고도화 작업이 꾸준히 이뤄지고 있습니다.",
+          "impact": "B2B SaaS 솔루션 시장 내 AI 기능 탑재 경쟁이 치열해짐에 따라 관련 기술 인재 채용 수요를 주시할 필요가 있습니다. (추측)"
+        },
+        {
+          "title": "연봉 6만달러 마케팅직 대신 고임금 1명…포춘 기고문 저자 사례",
+          "source": "토큰포스트",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAxOFQ1YUlRclBpWUVfZDIydm9JTXVkNG15SzVFMkdveTBFOFlkMnM4Szlra3N5RDUwMzZ2bEdzNjc0VkhydG94c1Z3ZGhSYTJ6Mmw0ZHlB0gFWQVVfeXFMUDE4VDVhSVFyUGlZRV9kMjJ2b0lNdWQ0bXlLNUUyR295MEU4WWQyczhLOWtrc3lENTAzNnZsR3M2NzRWSHJ0b3hzVndkaFJhMnoybDRkeUE?oc=5",
+          "publishedAt": "2026-10-31T12:01:22.000Z",
+          "category": "industry",
+          "summary": "마케팅 분야에서 저숙련 다수 채용 대신 AI 툴을 능숙하게 활용하는 고임금 전문가 1명을 채용해 조직을 효율화하는 흐름이 소개되었습니다. AI 기술의 확산이 마케팅 조직 인력 구조를 고숙련·소수 정예 형태로 바꾸고 있습니다. 단순 반복 업무보다는 생성형 AI 활용 능력이 마케터의 필수 역량으로 떠올랐습니다.",
+          "impact": "고객사의 마케팅 인력 구조 변화에 대응하여 사내 마케팅 직무의 AI 툴 활용 역량 교육을 강화할 필요가 있습니다. (추측)"
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "노무",
+      "note": "정년연장 및 포괄임금제 금지 관련 법안 추진 동향을 모니터링하고, 직장 내 괴롭힘 판례 확대에 맞춰 관리자 대상 예방 교육을 강화해야 합니다."
+    },
+    {
+      "part": "급여·보상",
+      "note": "2030년 퇴직연금 사외적립 의무화에 대비한 재정 점검 및 AI 분야 투자 확대에 따른 핵심 기술 인재 보상 경쟁력을 검토해야 합니다."
+    },
+    {
+      "part": "인사기획",
+      "note": "AI 중심의 업무·협업 절차 재설계를 검토하고, 임원 평가 체계에 구성원 만족도 지표 도입 가능성을 타진해야 합니다."
+    },
+    {
+      "part": "채용",
+      "note": "원격/외주 IT 개발 인력 채용 시 신분 도용 위험에 대비해 레퍼런스 체크 및 신원 검증 절차를 강화해야 합니다."
+    },
+    {
+      "part": "교육·육성",
+      "note": "마케팅 등 직무 전반의 AI 툴 활용 인재 수요 변화에 부응해 사내 구성원의 AI 역량 강화 재교육 프로그램을 준비해야 합니다."
+    }
+  ]
+}
