@@ -1,0 +1,170 @@
+{
+  "date": "2026-11-05",
+  "label": "2026년 11월 5일 (목)",
+  "issue": 46,
+  "generatedAt": "2026-11-05T01:04:39.715Z",
+  "headline": "AI 인재 보상 격차 및 근로기준·괴롭힘 노무 리스크 점검",
+  "lede": "AI 기술 보급으로 핵심 개발 인재 확보전이 치열해지는 가운데 IT 업계 내 번아웃과 보상격차 문제가 부각되고 있습니다. 동시에 근태 문제가 없는 직원에 대한 과도한 독촉을 직장 내 괴롭힘으로 본 판결과 포괄임금제 초과 수당 리스크 등 엄격해진 노무 기준이 강조되고 있습니다. 인사팀은 AI 인력 유치 전략 마련과 더불어 사내 괴롭힘 예방 가이드라인 및 정년연장 입법 동향을 면밀히 점검해야 합니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "정년 후 같은 직장 돌아가도 월급 39.5만원↓…재고용 임금 기준이 쟁점",
+          "source": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5wMTQwVFBqNTZwaVpnN0RueXl5VXRfYUZWMWsxOG52YUd2RzJmS3c4M3NFaFVDeXN6emlXWGlCbk5odlBVN0x3ZjB0MVl3NmlTTzJXdk5n?oc=5",
+          "publishedAt": "2026-11-05T00:00:44.000Z",
+          "category": "law",
+          "summary": "정년 퇴직 후 동일 직장에서 계속 근무하더라도 월급이 평균 39.5만 원 하락하는 등 재고용 시 임금 산정 기준이 노동계의 쟁점으로 부상했습니다. 고령자 계속고용에 따른 임금 감액 폭을 둘러싸고 적정 보상 수준에 대한 논란이 계속되고 있습니다. 정년 연장 및 재고용제 도입 시 근로조건 변경 기준에 대한 체계적인 법제 마련이 요구됩니다.",
+          "impact": "향후 고령 인력 재고용 제도 도입에 대비해 직무 재설계 및 임금 감액 기준에 관한 내부 가이드라인 모니터링이 필요합니다."
+        },
+        {
+          "title": "포괄임금제라서 야근수당이 없다는데, 정말 받을 수 없나요?",
+          "source": "충북인뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9sS211bmNiMlY5ektoRFFfcmVfaUlXcTVUemRnVVZTX3EzRmxlaU9YdUZJSHlvSWVLSi1DdUVHMlQ5WXVvSmdacktVYUV2MGRiQjR6STFERHY1a2hUalZyTEgxWVdRcE5pWEZpSNIBcEFVX3lxTE1iSFpSQTNTdFNUQTU5UjZ2YnpQQzhVbFV0OFhRc2h2LUQ4SnRyT0c2aWljUkNETEFzSWw1V1VBY2s1dDB2cGN0T3NtVWJhSmJFTHFtR3Vpb29GcE9vR01iZ3NNMDFKRFpVRjJxblRnUnk?oc=5",
+          "publishedAt": "2026-11-04T23:31:10.000Z",
+          "category": "law",
+          "summary": "포괄임금제를 적용하는 사업장이라도 약정된 포괄 연장근로시간을 넘어선 실제 야간·휴일근로에 대해서는 초과수당을 지급해야 한다는 법률 기준이 재확인되었습니다. 포괄임금 계약이 실제 근로시간 관리 의무를 면제해 주지 않음을 보여줍니다. 고용노동부의 포괄임금제 오·남용에 대한 현장 지도감독도 지속될 전망입니다.",
+          "impact": "포괄임금제 대상자의 실제 출퇴근 및 연장근로시간 관리 시스템을 점검해 초과 수당 미지급 리스크를 예방해야 합니다."
+        },
+        {
+          "title": "민주당, 65세 정년연장 연내 입법 추진…한국노총과 정책연대 시험대",
+          "source": "뉴스후플러스",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jVHJiTWFKYVByUW9iMkxtcDB1VjB0UzQ5dGhfZnpGNTcyZXZvU3NIYjN6dmMzbFBnNWs5T3RMNzd4RzByZUZod3F4bTBuXzZaOE9BcnhQakNnRTY4eFg1aEdmQnJPaFR0bXp6QllR?oc=5",
+          "publishedAt": "2026-11-04T10:05:00.000Z",
+          "category": "law",
+          "summary": "더불어민주당이 65세 정년연장 관련 법률 개정을 연내 입법 과제로 추진하기로 결정했습니다. 인구 구조 변화와 국민연금 수급 연령 연계에 대응하여 법적 정년을 단계적으로 확장하겠다는 취지입니다. 정년 연장에 따른 기업의 인건비 부담 완화와 임금체계 개편 여부가 핵심 쟁점으로 논의될 예정입니다.",
+          "impact": "정년연장 법안의 국회 논의 경과를 주시하며 중장기 인력 수급 전략과 연봉제 개편안을 사전 검토해야 합니다."
+        },
+        {
+          "title": "[국회 현장] 이용우 “근로자 추정제 조속 도입해야”…특고·플랫폼 노동자 보호 촉구",
+          "source": "한양경제",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DeUNzX19yS3ZEb00xbGlCT0RxNVBLRmljUmxKTkEwTkVYUlhOVF9lT09OUFgxR2M1RHBoTkU5YWRKVE5NVnVPQjBlbGJDeVVBVGp5LUhDZnc1UFJoQnI3QWY3WFNMU2JvbTRZbzE1S3Judw?oc=5",
+          "publishedAt": "2026-11-04T23:44:57.000Z",
+          "category": "law",
+          "summary": "국회에서 특수고용 및 플랫폼 노동자 보호를 위해 '근로자 추정제'를 조속히 도입해야 한다는 법안 발의 및 촉구가 이어지고 있습니다. 노무 제공자의 근로자성을 원칙적으로 인정하고 예외를 사용자가 입증하게 하자는 취지입니다. 특고 및 프리랜서 노동자에 대한 근로기준법 확대 적용 압박이 강화되는 추세입니다.",
+          "impact": "프리랜서 및 외주 인력과의 계약 체결 시 지휘·감독 요소 등 실질적인 근로자성 오인 리스크를 사전 점검해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "case",
+      "name": "판례·노동위",
+      "items": [
+        {
+          "title": "[예규·판례] 행법 “근태 문제 없는데 닦달하는 상사...‘직장 내 괴롭힘' 감봉 적법\"",
+          "source": "조세금융신문",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiVTctczNOc09uZ01yYXBpYTlUTzFMZjlnMlZxaTg4WWllNjZvenRWeXRXajktWmRHd0dEMUNfcmlJZG5OWmY2clQ4MG8tVDdPQWJyZlZ3ZzVQeGFZRFd6TmlwTQ?oc=5",
+          "publishedAt": "2026-11-05T00:17:15.000Z",
+          "category": "case",
+          "summary": "근태에 특별한 문제가 없음에도 수시로 독촉하고 압박을 가한 상사에 대해 직장 내 괴롭힘을 인정하고 징계 감봉 처분을 내린 조치가 적법하다는 법원 판결이 나왔습니다. 명백한 근태 불량이 없는 상황에서 지속적인 과도한 업무 질책은 직장 내 괴롭힘에 해당할 수 있다는 판단입니다. 관리자의 감정적이고 과도한 업무 지휘권 남용 행위에 사법부가 엄격한 기준을 적용하고 있습니다.",
+          "impact": "관리자 대상의 성과 관리 및 업무 지휘 가이드라인을 재정비하고 과도한 업무 독촉 방지 리더십 교육을 실시해야 합니다."
+        },
+        {
+          "title": "사업주 폭행에도 괴롭힘 불인정…고용노동부, 직권조사 착수",
+          "source": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KRDdrX3JoM0EyMUxlWkhfRDdQMmZaTFlOMDQ1OE5zWkd2eFRKS1pmSmV5Z09IWjBfcXBXTWdhY1hjMHo4dVNmeGJUN0toT2JBR0ExbE1feHgwalnSAWBBVV95cUxPNUltek1GSGVROVpzb2hGd2VPNjhDMEdaMHVjZldVVWpxdEV2TkFOX1dLRWVibUx6bWtlZXJHX0NmMlBCZElCTVhlakRXYVRSNFNzNk5tQ2R1SDJaN1dKTnE?oc=5",
+          "publishedAt": "2026-11-04T07:53:15.000Z",
+          "category": "case",
+          "summary": "사업주에 의한 폭행 사건임에도 불구하고 관할 노동관서가 직장 내 괴롭힘으로 인정하지 않았던 건에 대해 고용노동부가 직권조사에 착수했습니다. 노동부는 초기 조사의 부실 여부를 재검토하고 법 이행 실태를 면밀히 확인할 예정입니다. 이는 직장 내 괴롭힘 조사 과정의 공정성과 엄정 대응 원칙을 다시 한번 확인시켜 줍니다.",
+          "impact": "사내 괴롭힘 사건 발생 시 객관성과 중립성을 확보할 수 있도록 3자 조사 절차를 사전 재점검해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "\"AI 현장 엔지니어 연봉 최대 19억원\"...기업들 FDE 확보 총력",
+          "source": "AI타임스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jZXVmVG5UTXRZalhBaVRTSmdhMDBkdFEyWTI3QmJMajBkbkh5UmZoTWljTWlzSUJhZ3NZVGt1SVFzemdiZW1jV3NBZ0U4aEZNNExlc0dQbUlSNWNhaHA5VHh2NmpfZmJXeEE?oc=5",
+          "publishedAt": "2026-11-04T08:40:04.000Z",
+          "category": "market",
+          "summary": "AI 기술의 서비스 적용을 전담할 현장 엔지니어(FDE) 확보를 위해 IT 기업 간 채용 경쟁이 가열되며 최고 19억 원 수준의 파격적인 연봉이 제시되고 있습니다. 주요 테크 기업들은 인공지능 전환을 주도할 핵심 엔지니어 이탈을 막기 위해 총력을 다하고 있습니다. AI 상용화 단계 진입으로 관련 직무의 몸값이 극단적으로 상승하는 양상입니다.",
+          "impact": "핵심 AI 엔지니어 유출을 막기 위해 직무별 차등 보상 체계 및 스톡옵션 등 경쟁력 있는 보상책 수립을 검토해야 합니다."
+        },
+        {
+          "title": "'고연차 선호' 뚜렷...경력직 '최소 요구 경력' 3년 연속 상승",
+          "source": "브랜드뉴스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1LZXJabDNnWUk4cFZKUzk2ZlRZdUw5dE05Rlg4dTlodnpnY0Ytc2VlMElvZDFFdk1hLVdTanJkSTk3U2hxMEpjdVFIX0Q2bkVuSGdzU3Jad0Q1OXVSZHZDVjVpRC15R2huVU1DRQ?oc=5",
+          "publishedAt": "2026-11-05T00:52:02.000Z",
+          "category": "market",
+          "summary": "경력직 채용 시장에서 즉시 투입 가능한 고연차 인재를 선호하는 현상이 3년 연속 강화되고 있습니다. 기업들이 채용 실패 리스크를 줄이기 위해 경력직 최저 요구 연차 기준을 지속해서 높이고 있습니다. 이에 따라 저연차 경력직의 이직 문턱은 더욱 높아진 상황입니다.",
+          "impact": "고연차 채용에 따른 인건비 부담을 완화하기 위해 사내 저연차 인재의 직무 역량 강화 및 조기 온보딩 프로그램을 확대해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "trend",
+      "name": "HR 트렌드",
+      "items": [
+        {
+          "title": "AI가 바꾸는 IT 채용 시장…연봉 오르지만 번아웃·성별 격차도 커진다",
+          "source": "www.cio.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdE1zQXpHdFpoRFRNd2xfX1dOc0t4SHdGRXpqbHJuUWppSEFyTG1CTXR2cmNPTlVtNFdVYlU1a2JEbzZraTd1TFdZUEV5aVRodnpJdHNldTdud3NON0QxZmJrMUczTkM1elRfd29FelJJeEphXzUydXdfN0xqeTFOMTJFYTB2NEpDb1g3SUN0d0R5TndsRUF3c0NDT2JjUTlsVHJ5MjdXVzd4TGlPallWa3dFS0FQSnhVOWtSbEp3?oc=5",
+          "publishedAt": "2026-11-04T23:04:42.000Z",
+          "category": "trend",
+          "summary": "AI 도입 확산이 IT 채용 시장을 빠르게 바꾸면서 핵심 직무의 보상은 상승하고 있으나 개발자들의 번아웃과 성별 격차 문제도 커지고 있습니다. 급격한 기술 변화와 생산성 압박으로 인해 현장 인력들의 업무 피로도가 가중되고 있습니다. 기업 차원에서 기술 도입 속도에 맞춘 직원의 mental 웰빙과 조직문화 관리가 주요 과제로 부상했습니다.",
+          "impact": "개발 인력의 번아웃 예방을 위한 웰빙 지원 프로그램 강화 및 과도한 AI 생산성 압박 완화를 위한 조직문화 점검이 필요합니다."
+        },
+        {
+          "title": "SOOP 플레이디, 사내 AI 플랫폼 '파이' 구축…업무 자동화 에이전트 21종 도입",
+          "source": "아이뉴스24",
+          "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1pdWtzeEdqc21KS0EyZHQ4b3hXUlptNldEU0x3NnhfUGZlZ0w3S3BjeE5uNjhtVHlGSzdfU0hGQlgyRUkyVEY0WTgyOA?oc=5",
+          "publishedAt": "2026-11-05T00:56:19.000Z",
+          "category": "trend",
+          "summary": "디지털 마케팅 기업 플레이디가 사내 AI 플랫폼 '파이'를 구축하고 업무 자동화를 위한 에이전트 21종을 전격 도입했습니다. 반복적인 광고 집행 및 데이터 분석 업무를 자동화하여 전사 업무 효율을 크게 높인다는 목표입니다. 마케팅·광고 업계 전반에서 AI 기반 일하는 방식 개혁이 가속화되고 있습니다.",
+          "impact": "사내 반복 업무의 효율화를 위해 직무별 AI 에이전트 도입 기획 및 업무 자동화 툴 활용 교육을 검토해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "\"AI가 고객 분석부터 캠페인 실행까지\"… 블럭스, CRM 마케팅의 변화 제시",
+          "source": "뉴스탭",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZZ3VLeXdZWUtkLW1ZdGxxYkcxSC1FdUxTMTNGdGNYeVZfbVpYTnp5ajZsRFA0SlVEcmU0NHVwamNjUVRIdHg0N3pWREo2ODdHY2t3MWl5eEUwZ1YydUNTcldUZWxoc185ZkwxRw?oc=5",
+          "publishedAt": "2026-11-04T09:42:09.000Z",
+          "category": "industry",
+          "summary": "마케팅 솔루션 기업 블럭스가 AI를 기반으로 고객 분석부터 맞춤형 캠페인 자동 실행까지 처리하는 CRM 솔루션을 공개했습니다. 마케팅 SaaS 시장 내 솔루션 경쟁이 단순 자동화를 넘어 고도화된 AI 마케터 탑재 경쟁으로 변화하고 있습니다. 기업 고객들의 AI CRM 도입 니즈도 가속화되는 흐름입니다.",
+          "impact": "자사 마케팅 SaaS 경쟁력 강화를 지원하기 위해 관련 AI 인재 적기 확보와 제품 개발 직무 역량 강화 지원을 맞춰야 합니다."
+        },
+        {
+          "title": "사람인, 714억 투입해 중앙일보 지분 12.9% 인수",
+          "source": "이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSTRjUWFIeVVpckNHVWVKcVM3MDJGNWsyVDV0MjFmaGhabXpPT0g3OS0zZTAwWGhjVUM1bnFSMjR3czRETnY2VTRhQ3RDaV85WmpuY3V5WjNzZFpVOFZoSHkyMU5KaEg4ZVBLOGl5NWpQRjRiSmt5QTN1TWFMYXdBSQ?oc=5",
+          "publishedAt": "2026-11-04T10:56:14.000Z",
+          "category": "industry",
+          "summary": "채용 플랫폼 기업 사람인이 714억 원을 투입해 중앙일보 지분 12.9%를 인수했습니다. 기존 채용 플랫폼 사업을 넘어 미디어 콘텐츠 영역으로 세력을 확장하고 사업 시너지를 극대화하려는 구상입니다. 국내 HR 테크 플랫폼들의 영역 확장 및 채용 시장 경쟁 구조 변화가 본격화되고 있습니다.",
+          "impact": "채용 플랫폼 시장의 구도 변화를 모니터링하며 타겟 인재군에 맞는 채용 채널 다변화 전략을 정비할 필요가 있습니다."
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "인사기획",
+      "note": "정년연장 입법 추진 추진 동향에 발맞추어 중장기 인력 구조와 연령별 적정 배치 계획을 사전에 점검해야 합니다."
+    },
+    {
+      "part": "급여·보상",
+      "note": "AI 현장 엔지니어 등 핵심 기술 인력 유출을 막기 위한 직무별 차등 보상책 및 스톡옵션 활용안을 검토해야 합니다."
+    },
+    {
+      "part": "채용",
+      "note": "고연차 선호 트렌드 속에서 저연차 인재 온보딩 프로그램 강화와 채용 플랫폼 시장 다변화에 따른 채널 전략을 점검해야 합니다."
+    },
+    {
+      "part": "교육·육성",
+      "note": "개발진의 번아웃 방지 웰빙 교육과 더불어 관리자의 과도한 근태·업무 독촉을 예방하는 리더십 교육을 추진해야 합니다."
+    },
+    {
+      "part": "노무",
+      "note": "근태 문제 없는 직원에 대한 독촉의 괴롭힘 판례와 포괄임금제 초과 연장근로 수당 미지급 리스크를 철저히 점검해야 합니다."
+    }
+  ]
+}
