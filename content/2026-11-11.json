@@ -1,0 +1,148 @@
+{
+  "date": "2026-11-11",
+  "label": "2026년 11월 11일 (수)",
+  "issue": 50,
+  "generatedAt": "2026-11-11T01:02:42.157Z",
+  "headline": "주52시간 미만 산재 판결과 IT 업계 AI 인재·HR 혁신 동향",
+  "lede": "대법원이 주 52시간 미만 근로 시에도 업무 부담 가중 요인을 고려해 산재를 인정함에 따라 정성적 노무관리의 중요성이 커졌습니다. 한편 IT 업계에서는 AI 기반 HR 자동화 도입과 AI 인재 확보 경쟁이 가속화되고 있어 채용 전략과 조직문화 정비가 시급합니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "한국노총, 노동부에 정년연장 입법 촉구…\"국회에만 의존 말라\"",
+          "source": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wSExseHVSOXdXRHl4aTRoc0xDeVpkdGsxZVFOQkl5S19EUmFfT2ZYcnQ1YnhRZDk5VXlRQ2VNLWV2VF9WenM2SEdTRWZVXzZkZE9TM0wwVUtrSnPSAWBBVV95cUxOUWpka3ZkR1lzRDhIemNjd29kZ2NvRnVvNm1CM1ZzSEZNMVJmNXlvYzlKVHNZTko5R0RkX2VWUTJoLW9zM1JjbXpYVHZfNDMxVW1lSnlIaW9ILWFiT3h3R08?oc=5",
+          "publishedAt": "2026-11-10T09:16:47.000Z",
+          "category": "law",
+          "summary": "한국노총은 고용노동부에 정년 65세 연장 입법을 연내 추진할 것을 촉구했습니다. 국회의 논의에만 의존하지 말고 정부가 주도적으로 법제화에 나서야 한다는 입장입니다. 반면 경영계는 청년 고용 위축과 기업 비용 부담을 이유로 유연한 고용 방식을 선호하며 맞서고 있습니다.",
+          "impact": "정년 연장 입법 논의 향방을 주시하면서 중장기 인력 구조 변화 및 임금체계 개편 시나리오를 미리 검토할 필요가 있습니다."
+        }
+      ]
+    },
+    {
+      "key": "case",
+      "name": "판례·노동위",
+      "items": [
+        {
+          "title": "\"주 52시간 안 넘어도 산재\"…대법 \"업무부담 가중요인 고려해야\"",
+          "source": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FWjdRb000WEprYkw4R2RycFAyZXktZU53dGFMSnVfNHNRZWl1NWhWTFgxWDA2TTZjbGhJQzlYS3ptUDQzWkVoNjd6Vm1JeENkVFVjZEo5U1V3Zw?oc=5",
+          "publishedAt": "2026-11-11T00:51:43.000Z",
+          "category": "case",
+          "summary": "대법원은 주 52시간을 넘지 않더라도 교대근무나 작업환경, 정신적 스트레스 등 업무부담 가중 요인을 종합 고려해 산재를 인정해야 한다고 판결했습니다. 이번 판결로 과로사 인정 기준이 단순히 정량적인 근로시간 합산에서 정성적인 업무 부담 수준으로 넓어졌습니다. 사업주의 안전보건 조치 및 근로환경 개선 의무 범위가 확장될 것으로 전망됩니다.",
+          "impact": "정량적 주 52시간 관리 준수 외에도 교대조 편성 및 업무 스트레스 요인 등 정성적 과로 리스크까지 사전에 점검하고 관리해야 합니다."
+        },
+        {
+          "title": "네이버 임원, 직장내 괴롭힘 감봉 징계…\"공개질책·비하발언\"",
+          "source": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4djUxYkQ2Y3E2a0ZWb21wbndBUFItRVpMcUZoRzdCb09zODBxX0NtRll3ZnBCRUcyeWdkeG5vRV9iWW9seGxaNlJOM1VwT3lrR3BVMGJ2OElwSknSAWBBVV95cUxQbFRvRGxrbnJwSnNWTTh2NHdfMWhweklRaDlpejc3dWVtVFNiOEtEclhSYWhjcm05ZFI4TFpkQmVjR0h0TGgyX3Rxd3ZtQzB1ZUxmYVloZjM0emtOU2FGeUI?oc=5",
+          "publishedAt": "2026-11-10T07:48:27.000Z",
+          "category": "case",
+          "summary": "네이버가 직원을 공개적으로 질책하고 비하 발언을 한 임원에 대해 직장 내 괴롭힘을 인정하고 감봉 징계를 내렸습니다. 해당 임원은 회의 등 공식 석상에서 하급자에게 부적절한 언행을 지속한 것으로 조사되었습니다. IT 업계 내 조직문화 정화와 괴롭힘 예방조치 강화 흐름 속에서 엄정 대응을 보여준 사례입니다.",
+          "impact": "IT 조직 특성상 성과 압박 속에서 발생하기 쉬운 임원 및 리더급의 공개 질책 방지를 위해 리더십 교육과 모니터링을 강화해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "韓 AI 경쟁력 세계 10위 ‘껑충’…8계단 뛰었지만 인재는 부족",
+          "source": "한스경제",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Jbzlkb3ZNUy1HRGtpMEdya0JtTlhONlUwQkExd3I3clM4RFQ2T2hFaE4tXzhNdlZqeWl5N3k0QXNMaEJMYmtCMzdtMEJEcGpraG4wbGx4VzFneFNOQS1tT0Y1WTgtdXJ6RHdSWWZZa9IBb0FVX3lxTE1Jbzlkb3ZNUy1HRGtpMEdya0JtTlhONlUwQkExd3I3clM4RFQ2T2hFaE4tXzhNdlZqeWl5N3k0QXNMaEJMYmtCMzdtMEJEcGpraG4wbGx4VzFneFNOQS1tT0Y1WTgtdXJ6RHdSWWZZaw?oc=5",
+          "publishedAt": "2026-11-10T23:06:17.000Z",
+          "category": "market",
+          "summary": "한국의 AI 경쟁력 순위가 세계 10위로 올랐으나 현장에서 필요한 AI 전문 인력 부족 현상은 여전히 심각한 것으로 나타났습니다. 인프라와 기술 수용성은 높은 편이지만 핵심 기술 인재 확보가 기업 성장의 병목이 되고 있습니다. 이에 주요 기업들은 내부 인재의 AI 재교육과 외부 영입에 사활을 걸고 있습니다.",
+          "impact": "SaaS 제품의 AI 기능 탑재가 필수화되는 흐름에 맞춰 내부 개발 인력 대상 AI 스킬업 교육과 차별화된 영입 조건을 마련해야 합니다."
+        },
+        {
+          "title": "잡코리아, AI로 채용 효율 높였다···지원 확보 비용 41% 감소",
+          "source": "이뉴스투데이",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE44ang0RmxUamg0RUJUT2l6VzlLZ0NJelEtcU1nLWxRS1ZIRy1ieVEwOHF4bWxkcDBCM2RPVjRvb0VCQ2lJTUhTNFE4b3B4ZDc0dXl3ZlR0S2Q1bkRybmNmWlFQbDlWX2twdkd1M1NUU25ySkIx0gF0QVVfeXFMTjhqeDRGbFRqaDRFQlRPaXpXOUtnQ0l6US1xTWctbFFLVkhHLWJ5UTA4cXhtbGRwMEIzZE9WNG9vRUJDaUlNSFM0UThvcHhkNzR1eXdmVHRLZDVuRHJuY2ZaUVBsOVZfa3B2R3UzU1RTbnJKQjE?oc=5",
+          "publishedAt": "2026-11-10T08:24:37.000Z",
+          "category": "market",
+          "summary": "잡코리아의 AI 채용 매칭 솔루션 '스마트픽'이 출시 1년 만에 이용 기업 1만 곳을 돌파했습니다. AI 알고리즘을 활용해 적합 인재 확보에 드는 비용을 평균 41% 절감한 것으로 파악되었습니다. 채용 시장 전반에서 AI 기반 인재 추천 및 검증 솔루션 도입이 급증하고 있습니다.",
+          "impact": "채용 소요 시간과 비용을 줄이기 위해 AI 채용 플랫폼 솔루션의 도입 효과 및 적합성을 검토해 볼 수 있습니다."
+        }
+      ]
+    },
+    {
+      "key": "trend",
+      "name": "HR 트렌드",
+      "items": [
+        {
+          "title": "이수시스템, 9년 만에 인사관리 시스템 전면 개편… AI로 평가·행정업무 자동화",
+          "source": "비즈트리뷴",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CdXNYSFgtdzVVNE1LUHRjaHltaE40TF9CVjNmbmtENDFxMnMyWGV2YjNTNWhlZHhIQ3FRblVTcE1HeXpPY3N4Ti1adVJ0TWJCVlRaM2d6bGZ3dlJmdXh5TXlDaWF0bEtSVExKZW5UbGs?oc=5",
+          "publishedAt": "2026-11-10T11:53:00.000Z",
+          "category": "trend",
+          "summary": "이수시스템이 9년 만에 인사관리 시스템을 전면 개편하고 AI 기반 업무 자동화를 도입했습니다. 인사 평가와 행정 처리 등 반복적인 HR 업무에 AI를 적용해 운영 효율성을 대폭 높였습니다. HR 테크 시장에서 AI를 활용한 인사 실무 생산성 혁신이 본격화되는 추세입니다.",
+          "impact": "반복적인 인사 행정 업무에 AI SaaS나 자동화 솔루션을 도입해 인사팀 내부 운영 생산성을 높일 방안을 검토해 볼 수 있습니다."
+        },
+        {
+          "title": "\"조직·사람 경영 기준 세운다\"…플렉스, '한국인사기준원' 출범 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBHTms1cmE0aVhrc1VfN1AyaXUzRUVxaUdNT0NIM3VmZnM0MWotMzFMbDU0UE5lb3FkazhHYzdna2dmZ2F0aXhWM0tJTV9mSWVKa2dGbmRaX2pOQzlyZmZKR091Y3o4QXlmempPakpYa9IBb0FVX3lxTFBHTms1cmE0aVhrc1VfN1AyaXUzRUVxaUdNT0NIM3VmZnM0MWotMzFMbDU0UE5lb3FkazhHYzdna2dmZ2F0aXhWM0tJTV9mSWVKa2dGbmRaX2pOQzlyZmZKR091Y3o4QXlmempPakpYaw?oc=5",
+          "publishedAt": "2026-11-10T10:45:00.000Z",
+          "category": "trend",
+          "summary": "HR 테크 기업 플렉스가 조직 및 사람 관리의 표준을 제시하기 위해 '한국인사기준원'을 출범했습니다. 급변하는 노동 환경에 대응해 기업이 적용할 수 있는 표준화된 인사 가이드라인과 제도를 연구 및 공유할 예정입니다. 스타트업 및 중소 IT 기업의 인사 체계 고도화를 지원하는 목적을 가집니다.",
+          "impact": "당사와 같은 중소 IT 기업 조직 규모에 맞는 인사 제도 모범 사례 및 가이드라인을 벤치마킹하는 기회로 활용할 수 있습니다."
+        },
+        {
+          "title": "[보안동향] \"무신사 채용 사칭 피싱 주의\"… 런던 파견 인턴 내세운 사기 시도 발각",
+          "source": "CBC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BRzhFUDFfUWNYMUM4N0dsNkxqd3VqWjlmbXZ1M3ZjX0JiM0pBRWI3TWRkdUNkT0pQV2hjdm5zT3lGT3hGQVJtNnFwLXNGNjEtNFFwTzFyX21GSHZ3SElNM0hzTWZCVVl1?oc=5",
+          "publishedAt": "2026-11-10T16:02:00.000Z",
+          "category": "trend",
+          "summary": "무신사를 사칭해 해외 파견 인턴 채용 등을 미끼로 한 피싱 사기 시도가 발각되어 보안 주의보가 발령되었습니다. 구직자를 노린 채용 사칭 피싱이 증가하며 해당 기업의 브랜드 신뢰도에 영향을 미치고 있습니다. 관련 기업들은 공식 채널을 통한 채용 절차 안내와 사칭 주의 공지를 강화하고 있습니다.",
+          "impact": "공식 입사 지원 경로 및 채용 공지 안내를 명확히 하여 채용 사칭 피싱으로 인한 구직자 피해와 당사 브랜드 이미지 손상을 예방해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "[카카오벤처스가 존재하는 법⑨] \"SaaS는 죽지 않아...승자의 기준이 바뀌었을 뿐\"",
+          "source": "ER 이코노믹리뷰",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5DVlVrUTE3UUJQdkd4aHVjTm92QmlVdTUwOTdYbk1nV3pEa1dxb0RLZm90SWctdHkyaXR4M3lwbWtWWXE0TXRacGMtUkUtTmJCNHQ2ZGE2X2FENlhpSkMwZ3hIdXpIYzFKbzctRg?oc=5",
+          "publishedAt": "2026-11-10T11:30:00.000Z",
+          "category": "industry",
+          "summary": "카카오벤처스는 최근 B2B SaaS 시장이 단순 기능 제공을 넘어 명확한 ROI와 업무 자동화를 입증하는 기업 위주로 재편되고 있다고 분석했습니다. 투자 위축 속에서도 B2B 효율성을 입증하는 SaaS 기업은 계속 성장할 것으로 전망했습니다. 소프트웨어 시장 전반에서 AI 결합과 가치 증명이 생존의 핵심 과제로 부각되었습니다.",
+          "impact": "B2B SaaS 시장의 ROI 중심 재편에 발맞춰 당사 마케팅 SaaS의 가치를 전달할 수 있는 개발 및 영업 인재 육성에 집중해야 합니다."
+        },
+        {
+          "title": "CJ ENM, 데이터·AI로 광고 시장 고도화",
+          "source": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtcFN1cjlTYkxVNGgxeHNHQ09RbnB3OG1Sb0JEeWJSdEo0N0NTSkRHaWJqRzlJTmlibW9GY3lmR1I0Snk2SEtUWURrQVhENzlzXy1RMHZUam7SAVhBVV95cUxQLXBTdXI5U2JMVTRoMXhzR0NPUW5wdzhtUm9CRHliUnRKNDdDU0pER2liakc5SU5pYm1vRmN5ZkdSNEp5NkhLVFlEa0FYRDc5c18tUTB2VGpu?oc=5",
+          "publishedAt": "2026-11-10T08:30:16.000Z",
+          "category": "industry",
+          "summary": "CJ ENM이 데이터와 AI 기술을 결합해 광고 마케팅 솔루션 고도화를 추진하고 있습니다. 정교한 타깃팅과 마케팅 효율성을 최적화하는 AI 광고 시스템을 전면에 내세우고 있습니다. 광고 및 디지털 마케팅 테크 분야 전반에서 AI 기반 솔루션 경쟁이 더욱 치열해지는 양상입니다.",
+          "impact": "마케팅 테크 업계의 AI 도입 가속화로 관련 도메인 지식을 갖춘 기획 및 개발 인력의 확보와 유지 관리(Retention)가 중요해집니다."
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "노무",
+      "note": "주 52시간 미만 근로 시에도 작업환경과 스트레스 등 가중 요인에 따라 산재가 인정될 수 있으므로 정성적 교대·과로 리스크 점검이 필요합니다."
+    },
+    {
+      "part": "인사기획",
+      "note": "IT 업계 내 AI 기반 HR 테크 도입이 확산됨에 따라 반복 행정 업무 자동화 및 인사 평가 고도화를 위한 인프라 재정비를 검토할 시점입니다."
+    },
+    {
+      "part": "채용",
+      "note": "AI 인재 부족에 대응한 채용 채널 다변화와 함께 사칭 피싱 방지를 위한 공식 채용 안내 절차 정비가 필요합니다."
+    },
+    {
+      "part": "교육·육성",
+      "note": "SaaS 및 마케팅 테크 전반의 AI 적용 확대에 발맞춰 내부 개발·기획 인재의 AI 직무 역량 강화를 위한 교육 지원이 요구됩니다."
+    }
+  ]
+}
