@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-12",
+  "label": "2026년 11월 12일 (목)",
+  "issue": 51,
+  "generatedAt": "2026-11-12T01:03:23.535Z",
+  "headline": "노란봉투법 첫 사용자성 인정과 AI 직무 변화 속 HR 대응 과제",
+  "lede": "중노위의 원청 사용자성 인정 판정을 비롯해 프리랜서 근로자성 승소, 교대근무 산재 인정 등 노무 현장의 리스크 관리가 대두되었습니다. 아울러 강진군의 AI 인사평가 도입과 AI 기반 마케팅·개발 직무 변화에 발맞추어 채용 및 인재 육성 체계를 재점검할 필요성이 커지고 있습니다. 법법적 관리 강화와 AI 기술 변화에 맞춘 인적자원 전략 수립이 함께 요구되는 시점입니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "이 대통령, 양대 노총 위원장과 회동…\"정년 연장·메가프로젝트 등 논의\"",
+          "source": "JTBC",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zLXpXTmdiUmdlQnZKR2ItZl9SY2FLU0p5NW1pYVItc3dyMF9jT040RXRyM1c5QURjZVRuV01Ec1Zqb0FlUC1NOVYyd2dEVzZ1czh3SVUxdk0wT2RpMmFib2lCZ0FncXh6?oc=5",
+          "publishedAt": "2026-11-11T11:51:50.000Z",
+          "category": "law",
+          "summary": "대통령이 양대 노총 위원장과 회동을 갖고 국정 및 노동 현안에 대한 의견을 나누었습니다. 이 자리에서는 정년 연장 법제화와 국책 메가프로젝트 등 핵심 노동 정책이 집중 논의된 것으로 알려졌습니다. 향후 정부와 노동계 간 입법 논의 추진 속도에 관심이 쏠리고 있습니다.",
+          "impact": "정년 연장 입법 논의 경과를 주시하며 중장기 인력 구조 및 전직 지원 체계 재설계를 검토해야 할 것으로 추측됩니다."
+        }
+      ]
+    },
+    {
+      "key": "case",
+      "name": "판례·노동위",
+      "items": [
+        {
+          "title": "중노위 \"원청이 하청 임금 정했으면 사용자\"… 노란봉투법 시행 후 첫 인정",
+          "source": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYkxjaFk0NWNrQXNOdGhSZkMxV2YtOWNockhCcndGUC1fdnpncG04RFdKY25ZS3lTRUR5Wlg0U2JDVEVMdXJCWWF1eTIydGpBZEpqVkg2SXZMT2g1SVgwN0ZTbFRCOUMyMmdsRWRacjREbDdwYUN4ZUpVbDgzM19zRHpR?oc=5",
+          "publishedAt": "2026-11-11T13:03:09.000Z",
+          "category": "case",
+          "summary": "중앙노동위원회가 원청 기업이 하청 근로자의 임금 등 근로조건을 결정했다면 교섭 의무가 있는 사용자라고 판정했습니다. 이는 개정 노동조합법 시행 이후 원청의 사용자성을 인정한 첫 노동위원회 사례입니다. 하청 노동자와 원청 간 직접 교섭 요구가 확대될 계기가 될 것으로 보입니다.",
+          "impact": "외주 도급 및 용역 계약 인력의 근로조건 결정 과정에서 원청 사용자성 인정에 따른 노사 갈등 리스크를 점검해야 합니다."
+        },
+        {
+          "title": "주52시간 안 넘었어도… 대법 “교대근무자 뇌출혈 사망, 산재로 봐야”",
+          "source": "서울신문",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SNUVTTk5iUDNfYWtGM3ozLWQxOG1sV3YwbEZTZWc0YXRWaG1pSnlDcmpYcFFNMEdTTHpkS09IOTY5aW8zOUM2NFowcWpjYUNBcWNsbWhQQ0dIQW1DVFY5b3hmNXZXRmU3cnZSalh1bklDTGlh?oc=5",
+          "publishedAt": "2026-11-11T09:07:18.000Z",
+          "category": "case",
+          "summary": "대법원이 주 52시간을 넘지 않게 근무했더라도 교대근무 중 뇌출혈로 사망한 근로자에 대해 산재를 인정해야 한다고 판결했습니다. 근로시간의 절대적 수치보다 야간·교대근무로 누적된 피로와 신체적 부하를 종합적으로 평가해야 한다는 취지입니다. 수치상 법정 근로시간 미만이어도 뇌심혈관계 질환 산재 책임이 인정될 수 있음을 명확히 했습니다.",
+          "impact": "교대 및 유연근무 직군에 대한 건강검진 모니터링을 강화하고 야간근무 부하를 줄이는 예방적 보건 관리가 필요할 것으로 추측됩니다."
+        },
+        {
+          "title": "KBS전주서 4년 일하다 잘린 편집·후반작업 노동자, 근로자지위 승소",
+          "source": "미디어오늘",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYb1VLeFJEZkhOTmYtcGg1UFJ1cE0xeU9yYThhenZ6T3ktZExobDEwd0tabGU4b05ibkRXOHloVGl4Uk1ZRkpVQ0ktdmVtUktMV1FtV0FqeG9EckVSRVB2MUdnSGxVZkJweEZ0em1TWWk?oc=5",
+          "publishedAt": "2026-11-11T09:31:33.000Z",
+          "category": "case",
+          "summary": "KBS 전주방송총국에서 4년간 편집 업무를 수행한 프리랜서 노동자가 근로자지위 확인 소송에서 최종 승소했습니다. 법원은 계약 형태와 상관없이 업무 과정에서 실질적인 지휘·감독이 이루어졌다면 근로기준법상 근로자로 보아야 한다고 판단했습니다. 이에 따라 부당해고 판정과 더불어 퇴직금 등 근로자 권리가 확정되었습니다.",
+          "impact": "프리랜서 및 외부 용역 인력과의 업무 방식에서 직접적인 지휘·감독 요소를 점검하여 위장 프리랜서 리스크를 차단해야 합니다."
+        },
+        {
+          "title": "[NNA] 대만 법원, MS 대만 법인의 AI 인력 감축 해고 부당 판결",
+          "source": "아주경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00VERjTGF1YUx1THJnVjI0UFMwckstUkxtSE5mTXk5RGpYMDk2ZE9HcTFjY3RpSzk0Z0YtNmVJNkYxSkVQOVY3OWFJYnBBcTF5WDk3emRGSHpwUdIBWEFVX3lxTE8wRGxOb3BUTzZuWFNvNzl3dHV3d2lUM3ROSnBCSjg1b1o2cXU5NU9fbkNVU1l6cm9QN3VaZEQ3cG9PZGZ5ZjZoeklTeFRtMThRWjRWY0paUXI?oc=5",
+          "publishedAt": "2026-11-11T07:54:03.000Z",
+          "category": "case",
+          "summary": "대만 법원이 대만 마이크로소프트가 AI 도입을 이유로 추진한 인원 감축 해고에 대해 부당하다고 판결했습니다. AI 기술 활용이 긴박한 경영상 필요나 정당한 해고 사유로 직접 연결되기 어렵다는 판단입니다. 글로벌 IT 기업의 AI 기반 구조조정 시도에 법적 제동을 건 사례로 꼽힙니다.",
+          "impact": "AI 기술 도입에 따른 조직 재편 시 단순 감원보다는 재배치 및 리스킬링 우선 원칙을 확립해야 할 것으로 추측됩니다."
+        },
+        {
+          "title": "이랜드노조 서울노동청 앞에서 집회, 육아기 단축근로자 괴롭힘 불인정에 반발",
+          "source": "비즈니스포스트",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5mVVNwako4MWRldEU3Y21BVnFLdHhGZ21zNUFRTEwyTndUTlFxRkNpa0J3X0toWlNQMFNjVWpiWnpQb01XcXRpUE0zWlA2bXhhendfQ2tndUNoa0FrU0I0M3lmdkxxcjMwcjdGX3gwQllPcjA?oc=5",
+          "publishedAt": "2026-11-11T07:30:25.000Z",
+          "category": "case",
+          "summary": "이랜드 노조가 육아기 근로시간 단축을 이용한 노동자에 대한 조직 내 불이익을 직장 내 괴롭힘으로 불인정한 노동청을 규탄하며 집회를 열었습니다. 노조 측은 육아 단축근로자에 대한 업무 배정 및 평가 불이익도 엄연한 괴롭힘이자 모성보호 침해라고 반발하고 있습니다. 단축근무 제도 이용자에 대한 불리한 처우 이슈가 노사 갈등으로 확산되는 양상입니다.",
+          "impact": "육아기 단축근무 이용자에게 승진 및 평가상 불이익이 발생하지 않도록 조직 내 리더십 가이드라인과 모니터링을 강화해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "AI 대체불가 유망 직업 7, 신입 연봉·공고수 총정리",
+          "source": "잡플래닛",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE41QVRlRWZ0X0Z3NGVRVHFXY25oVGlJbnRFRXFCdHlva1gxY0hnelE2OGZFV2F3VmtuSV9nZXB0VlRlMHF5ZVdPRjByX1pxNHBNOFhSa1lUTG5IcXlMQWJid19VdUN2ZWxuTEd0ZnpmOWdKQQ?oc=5",
+          "publishedAt": "2026-11-11T12:23:35.000Z",
+          "category": "market",
+          "summary": "잡플래닛 분석 결과 AI 확산 속에서도 대체하기 어려운 유망 직무 7개가 선정되었으며 관련 채용 공고와 연봉도 상승세인 것으로 파악됐습니다. 반복적 단순 업무 직무의 공고는 줄고 고도화된 전문 역량을 요하는 직무 중심으로 채용 시장이 개편되고 있습니다. 이들 직무에 대한 신입 연봉 수준 역시 높게 형성되는 추세입니다.",
+          "impact": "자사 직무 체계를 점검하여 AI 대체 가능성이 높은 단순 업무 직무를 재설계하고 고숙련 인재의 채용 전략을 고도화해야 합니다."
+        },
+        {
+          "title": "[지금 일본에선(952)] AI 확산에도 일본 IT개발자들이 잘 나가는 이유",
+          "source": "뉴스투데이",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE12RzdNNk55TEhHWWRtZWk0RDdzVkYxWGkybEFXdTNBQWliRm8zTFhEQVItdkdfTmhTVTZJbWJLXy1ZZGdrMDc2Y1dCdUZocDNrMXk0TnRzanRmMDNGS2c?oc=5",
+          "publishedAt": "2026-11-11T15:06:00.000Z",
+          "category": "market",
+          "summary": "AI 보급 확산에도 불구하고 일본 시장 내 IT 개발자에 대한 구인 수요와 몸값 상승세가 이어지고 있습니다. 단순 코딩 능력보다는 AI 툴을 조율하며 시스템 아키텍처를 설계하는 고도화된 개발자의 가치가 더욱 부각되고 있기 때문입니다. 개발 직군에 요구되는 역량의 표준이 AI 활용 및 문제 해결력 중심으로 이동하고 있습니다.",
+          "impact": "개발직 채용 및 평가 시 단순 구현 기술보다 AI 툴 활용 능력과 구조 설계 역량을 갖춘 인재 발굴에 중점을 두어야 합니다."
+        },
+        {
+          "title": "에이피알, 글로벌 마케팅 직군 대규모 특별채용",
+          "source": "ABC뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NM0J2NzJOQzNWSmdlM0xtQnRrTTh3SHNlZmJNRTdLRlE2Q2V0OXZjNlYyNWxkeEg4TWJET2ljUVdnQ0ZhZWVPZTRYMVBwbHN1dGtHSENxZm1wbWIyZVdWSUFDc9IBZ0FVX3lxTE1iY1B0VTctRU9TUTU0cndXQWxMRkJVbEhIZFczaDRjSEhIUWY5N2tKNXVWYlFESTJNODBrckNPN2lyQ3R2WkJXdURkZVJpUVRnbUttQUVhU3d6QnF3ckZXUzFTbWFSUVk?oc=5",
+          "publishedAt": "2026-11-11T08:10:30.000Z",
+          "category": "market",
+          "summary": "에이피알이 글로벌 시장 확장에 발맞추어 국내외 마케팅 직군을 대상으로 대규모 특별채용에 나섰습니다. 퍼포먼스 마케팅과 글로벌 브랜드 전략 전문 인력을 빠르게 확보하는 것이 핵심 목적입니다. 마케팅·커머스 업종 전반에서 검증된 마케팅 인재 선점 경쟁이 심화되고 있습니다.",
+          "impact": "동종·유관 업계의 마케터 영입 경쟁이 치열해짐에 따라 자사 마케팅 직군의 보상 수용성과 인재 영입 제안(EVP)을 점검해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "trend",
+      "name": "HR 트렌드",
+      "items": [
+        {
+          "title": "강진군, AI 잘 쓰는 공무원 인사평가에 반영",
+          "source": "파이낸셜포스트",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hZkVlMXJudEd2VWRadTRpclY3aTJWb1NUQkhKbnE4LVFtMm1tM0F1bjA2QTdlTkFDQ1FUUTVPU0loTE0ydmpMb3VnMkV5YzhMeW5OVzB1akZqNVBhSnpGOGMyWjRZSDJubUFoTnRmWTZDTmdk?oc=5",
+          "publishedAt": "2026-11-12T00:08:57.000Z",
+          "category": "trend",
+          "summary": "강진군이 공무원의 생성형 AI 및 업무 자동화 툴 활용 능력을 인사평가에 가점으로 반영하기로 결정했습니다. 공공 부문에서 AI 활용 성과를 실제 평가 시스템에 접목한 첫 실증 사례입니다. AI 툴 사용 빈도와 업무 생산성 향상 실적이 평정 점수에 포함됩니다.",
+          "impact": "AI 툴 활용 능력을 자사 역량 평가 요소나 인사평가 지표에 도입하기 위한 파일럿 검토를 시작해 볼 수 있습니다."
+        },
+        {
+          "title": "잡코리아, 노션과 '흐레카 데이' 성료…AI 채용 전략 공유",
+          "source": "더팩트",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YcjJKaUpYUmN6VE9MMTVzd2pLNnZocHBUd0sxLTFtcjd3UlRXM1NwekxkR1I4R0hzM3JhUzctZDBBdWJOekc0ZUhpZGdyWVpwWnI0Q1JGZUtSUdIBVEFVX3lxTE84Rmt4Z3ZZSDdDTUxwMWh1UVNrXzBNSklodTR4NDE4Wi1XVXNUcGllY054amNHM3dxR1J5Tm9hQWJmNEdobWhlVktGNUhmR1JJdkxTbQ?oc=5",
+          "publishedAt": "2026-11-12T00:43:04.000Z",
+          "category": "trend",
+          "summary": "잡코리아가 노션과 손잡고 AI 채용 전략과 업무 자동화 해법을 공유하는 행사를 성황리에 마쳤습니다. 행사에서는 생성형 AI를 활용한 인재 선점 및 서류 스크리닝 자동화 방안이 주요 사례로 소개되었습니다. IT 기업들의 채용 프로세스 내 AI 도구 도입 움직임이 점차 본격화되고 있습니다.",
+          "impact": "채용 업무의 효율성을 높이기 위해 AI 기반 서류 검토 및 맞춤형 인재 탐색 툴의 도입을 적극 검토할 시점입니다."
+        },
+        {
+          "title": "유연근무·직원복지 강화한 광주도시공사…여가친화 평가 90.2점",
+          "source": "베타뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41a1VDYWtyMjNGYUxXYndVZkJRZnpmcHNndTk5eXFUX09LVGR3U01DdVM0Z1A2RVMzUHIteGNCLXV3dElCTmtJS0NGc21oOG1oVlY1NVVBZllVaXRZdjNuaVpCTU8?oc=5",
+          "publishedAt": "2026-11-11T11:58:48.000Z",
+          "category": "trend",
+          "summary": "광주도시공사가 유연근무제 확대와 다채로운 복리후생 확충을 통해 여가친화경영 평가에서 높은 점수를 얻어 재인증을 받았습니다. 일과 삶의 균형을 지원하는 시차출퇴근제 및 휴가 장려 정책이 우수한 평가를 이끌어냈습니다. 기업들의 우수 인재 확보를 위한 조직문화 및 복지 제도 정비가 계속되고 있습니다.",
+          "impact": "자사의 유연근무제 운영 현황을 점검하고 여가친화 인증 등 대외적 채용 브랜딩 요소를 강화할 필요가 있습니다."
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "국내 기업들 ‘의사결정 모델’ 속속 선봬…AI 시장 틈새 공략 [스타트업 스트리트]",
+          "source": "서울경제",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yMHV3dDdtem5US3UzNTVsMjMwYzJxTVc3U3RhYkFuOEFzZTZvQVJ5SHZuakRldGRUZUM1NE1DSGlqY3lPdU5ha0V6eVBCbjZVZ0dN0gFTQVVfeXFMT3IwdXd0N216blRLdTM1NWwyMzBjMnFNVzdTdGFiQW44QXNlNm9BUnlIdm5qRGV0ZFRlQzU0TUNIaWpjeU91TmFrRXp5UEJuNlVnR00?oc=5",
+          "publishedAt": "2026-11-11T08:42:38.000Z",
+          "category": "industry",
+          "summary": "국내 AI 스타트업들이 데이터 분석을 기반으로 기업의 의사결정을 자동 지원하는 솔루션을 출시하며 시장 틈새를 공략하고 있습니다. 단순 콘텐츠 생성을 넘어 실질적인 비즈니스 판단을 돕는 AI 모델 개발이 활발해지고 있습니다. AI SaaS 솔루션의 적용 분야가 점차 고도화되는 모양새입니다.",
+          "impact": "의사결정형 AI 개발 스타트업 증가에 따라 관련 엔지니어 및 AI PM 채용 경쟁 심화에 대비할 필요가 있습니다."
+        },
+        {
+          "title": "마케터는 지휘만…블럭스가 그리는 자율 마케팅 [DMTS27]",
+          "source": "블로터",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1CaGRJZ0pTQlBVQzNUVE9hSGxVbklGbnhWSEFzVnA4MjhmMDNGNkdxTmdFZGgxU1lxOEhqSHAwTXM3aDZreFA0S0hWNUF2VXhnZEFVblRad3Y4N2xGZFFxdXE1OTNBU3g3Z1N4edIBbEFVX3lxTE1CaGRJZ0pTQlBVQzNUVE9hSGxVbklGbnhWSEFzVnA4MjhmMDNGNkdxTmdFZGgxU1lxOEhqSHAwTXM3aDZreFA0S0hWNUF2VXhnZEFVblRad3Y4N2xGZFFxdXE1OTNBU3g3Z1N4eQ?oc=5",
+          "publishedAt": "2026-11-11T07:28:44.000Z",
+          "category": "industry",
+          "summary": "스타트업 블럭스가 마케터의 개입을 최소화하고 AI가 자율적으로 마케팅 캠페인을 실행하는 자율 마케팅 솔루션을 선보였습니다. 목표 설정만으로 타깃 선정부터 리소스 배분까지 자동으로 처리되는 기술 구조입니다. 마케팅 SaaS 시장의 기술 축이 단순 자동화에서 에이전틱 AI 형태로 발전하고 있습니다.",
+          "impact": "경쟁사의 자율 마케팅 AI 기술 고도화에 맞추어 자사 개발 및 기획 인력의 AI 스킬업 교육 강화를 검토해야 합니다."
+        },
+        {
+          "title": "Octave Intelligence 실적 발표 앞둬…SaaS 성장세에 주목",
+          "source": "Investing.com 한국어",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zMFMxclc4U0kzTkpQZzlZcEkwZUxUY1V2dWFMVFZQX3hYbWNxMkxlVWVHc25WVDBYal9UY3A3aFFnNjRGMU9nMXRMbk9hREM0SVVvOVBmMnZoQjJ1UEEyYkhTaUhic2ExZkdZ?oc=5",
+          "publishedAt": "2026-11-11T15:31:00.000Z",
+          "category": "industry",
+          "summary": "글로벌 SaaS 기업인 Octave Intelligence가 실적 발표를 앞두고 시장의 기대감을 모으고 있습니다. 마케팅 및 데이터 분석 SaaS 수요 확대에 따른 꾸준한 매출 성장세가 실적을 견인한 것으로 분석됩니다. 글로벌 B2B SaaS 기업들의 기술 투자 확대 조짐이 이어지고 있습니다.",
+          "impact": "글로벌 SaaS 시장 성장세 속에서 업계 내 핵심 인재 이탈 리스크가 높아질 수 있으므로 핵심 인력 리텐션 방안을 검토할 필요가 있습니다."
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "인사기획",
+      "note": "AI 툴 활용도 및 생산성 향상 성과를 인사평가 지표와 직무 재설계에 단계적으로 반영하는 방안을 검토해야 합니다."
+    },
+    {
+      "part": "채용",
+      "note": "마케팅 및 AI 개발 인재 확보 경쟁 가열에 맞춰 AI 기반 채용 스크리닝을 도입하고 인재 영입 제안(EVP)을 강화해야 합니다."
+    },
+    {
+      "part": "교육·육성",
+      "note": "마케터와 개발자가 자율형 AI 및 최신 자동화 도구를 효과적으로 다룰 수 있도록 직무별 AI 스킬업 교육 프로그램을 확대해야 합니다."
+    },
+    {
+      "part": "노무",
+      "note": "외주·프리랜서 계약의 실질 지휘·감독 여부를 점검하고, 교대·유연근무자에 대한 건강관리 모니터링 체계를 선제적으로 재점검해야 합니다."
+    }
+  ]
+}
