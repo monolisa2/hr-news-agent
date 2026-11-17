@@ -1,0 +1,175 @@
+{
+  "date": "2026-11-17",
+  "label": "2026년 11월 17일 (화)",
+  "issue": 54,
+  "generatedAt": "2026-11-17T01:01:30.805Z",
+  "headline": "AI 시대 노동 정책 변화와 인재 확보·노무 리스크 관리",
+  "lede": "고용노동부가 AI 시대 일자리 변화에 대응하는 정책 의견 수렴에 나선 가운데, 기술업계는 핵심 AI 인재 확보를 위한 보상 경쟁을 강화하고 있습니다. 법원과 노동 당국에서는 해고 절차, 임원 근로자성, 중대재해 책임 및 주 52시간 관련 지침이 잇달아 제시되어 엄격한 노무 관리가 요구됩니다. 기업 인사팀은 원격 채용 보안 검증과 함께 유연근무 도입 등 인재 유치 체계를 다각도로 점검해야 합니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "노동부, AI시대 일자리 변화에 국민 목소리 반영…새로운 사회계약 질문 공모",
+          "source": "데일리안",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOQS1hWl9FOGpuTEUzU19QX3FTM0pVVXR2ZEZ4dHJDTE5haWd1NmhnMzFUOVh2UUVUcHVwcm02QW4yNDFndW9qMVZzNTNranVtYlVHVG92X2JOb25DRVREMjR4Q1dYYVl4WGJKbVZNV2pid0pacTQ4N2xMNi1jREhoTU1xQ0l0NUd3c0ktY0VPYXY2WmRuRVM4WUlWZVNBRnh6YURIaEVJa1hXSV9FcFd3UkdEbndCMXlkZmNCaS1UUnNVdmNFTWJrdkM0ZGtEVThqWGRlZ0d3Qlg5dzJKZDdOcVJFQkZvRTV1MnkwLTRoSUkwejJhZ2NOTm81OUNpSW1OS0JR?oc=5",
+          "publishedAt": "2026-11-17T00:00:00.000Z",
+          "category": "law",
+          "summary": "고용노동부가 AI 시대 일자리 변화와 새로운 사회계약을 논의하기 위해 국민 목소리를 반영하는 온라인 창구를 운영합니다. 이번 공모는 AI 시대에 풀어야 할 노동 의제를 수집해 녹서에 담는 것을 목적으로 합니다. 국민 의견을 바탕으로 AI 도입에 따른 일자리 및 노동 정책 방향을 모색할 예정입니다.",
+          "impact": "AI 도입에 따른 내부 직무 구조 변화와 관련 노동 법제도 변화 가능성을 상시 모니터링해야 합니다."
+        },
+        {
+          "title": "\"내일부터 나오지 마\" 카톡 한 통에 잘렸는데, 신고도 못 하는 사연",
+          "source": "OhmyNews",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLUpfVldfRjF4T3N1eFpZNk10dE1GQWxiRF82SlRwVldzSGlTY3F2U2luWFNiY2JCbk05cHhhQnJrV1hSVG9tNG51bVlUSF9WQVNWMzl4dnJ0UGRLeENNT0pCN2prYmQtTEo3cTVMdEdnTjVJVzNNdW5FdUxMTWQzckJvZ1hQQzlGTmc?oc=5",
+          "publishedAt": "2026-11-16T22:09:00.000Z",
+          "category": "law",
+          "summary": "모바일 메신저를 통해 해고 통보를 받는 사례가 발생하고 있으나 현행 근로기준법상 구제책 마련에 한계가 지적되고 있습니다. 서면 통지 의무를 준수하지 않은 해고 방식에 대해 법적 구제 범위 및 노동법 적용 확대를 요구하는 목소리가 높아지고 있습니다. 근로자 보호를 위한 온라인 노조 형성 등 대응도 확대되고 있습니다.",
+          "impact": "해고 및 계약 종료 시 근로기준법상 서면 통지 절차를 엄격히 이행하여 절차적 하자 문제를 차단해야 합니다."
+        },
+        {
+          "title": "주 52시간 초과 근무 기준과 적용 방법에 대한 완전 가이드",
+          "source": "스페셜타임스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HeDN6b3hJWHZYeDd4NUlNNTlqNG54MUdpbkcta3pPYTJhaDc0LW15V3laX0pabXdCSk1DSHBtWm1Va3kzVTUzejgxLTg4N3gzdHhGOVJzR0oxT01CeS11SmZUS2dub3ZWMC1SQXByOUhaZUk?oc=5",
+          "publishedAt": "2026-11-16T13:24:18.000Z",
+          "category": "law",
+          "summary": "주 52시간 초과 근무 기준과 법적 적용 방법에 대한 가이드라인이 발표되었습니다. 법정 근로시간 연장 한도 준수와 근로시간 산정 기준에 대한 세부 조항이 안내되었습니다. 고용노동 지침에 맞춘 근로시간 관리가 중요해지고 있습니다.",
+          "impact": "연장근로 사전 승인제와 유연근무 시스템을 점검하여 주 52시간 위반이 발생하지 않도록 상시 관리해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "case",
+      "name": "판례·노동위",
+      "items": [
+        {
+          "title": "노동위 판단 뒤집혀…해고 3년 만에 승소 확정",
+          "source": "Tbc.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSjRaZk52Vl9pWE1jVGtTLTJvNkJJb1NQYlBTcmJJYzA4c0tpRFNHMU5vbGFodFVLNUNobTJ4Z0tHMGtJUVRkYzg2OXMyNFNNSGxyRFZEY3JKcFI3MGJKUlo0TV82SXFqMUdoTEJ0QmNtSU93X3RCeXBzMzU3ZS16NTdoOWtJZw?oc=5",
+          "publishedAt": "2026-11-16T23:00:57.000Z",
+          "category": "case",
+          "summary": "법원이 해고 관련 소송에서 기존 노동위원회의 판단을 뒤집고 3년 만에 근로자 승소 판결을 확정했습니다. 행정소송 재판부는 징계 및 해고 처분의 부당성을 인정하고 해고 무효를 최종 확정했습니다. 이로써 노동위 판정이 재판 과정에서 뒤집힌 판례가 추가되었습니다.",
+          "impact": "징계 해고 진행 시 인사위원회 절차와 법적 입증 자료를 엄격히 재점검하여 부당해고 소송 리스크를 줄여야 합니다."
+        },
+        {
+          "title": "중대재해 한화오션 전 대표, 대법원서 ‘무죄’ 확정",
+          "source": "매일노동뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02d3VDX2dDdVM4ckw1MmdMUVVjN3FkNmR0eG1Ta0J2S1BqUElDazV4cW9OLV9Ed0o0djBKd1JkblNTTld1aHNMVGFqVGJXT2tTY3ZHazAteWhaRnMzckJTV0RtWFA1VUg2R3dUWGxNZE0?oc=5",
+          "publishedAt": "2026-11-16T21:30:04.000Z",
+          "category": "case",
+          "summary": "중대재해처벌법 위반 혐의로 재판에 넘겨진 한화오션 전 대표이사에게 대법원이 무죄를 확정했습니다. 법원은 경영책임자로서 의무 이행 성실성을 종합 판단하여 최종 결정을 내렸습니다. 이번 판결은 중대재해처벌법상 경영책임자의 책임을 판단하는 주요 기준이 될 전망입니다.",
+          "impact": "안전보건 관리체계 구축과 예방 활동 이행 기록을 체계적으로 보관해 경영진 책임 리스크에 미리 대비해야 합니다."
+        },
+        {
+          "title": "부사장 해고무효확인 소송, 임원 근로자성 부정돼 청구 기각",
+          "source": "로톡",
+          "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10T1BJM3FjSUhrQkdobkxWX0pNTjFqNXZjdFZnS09BTDF0cUZFNzU4cGRPUWVyd2swTG9POHZiQmxpMTBsMUV0UzFLSjI5YUE?oc=5",
+          "publishedAt": "2026-11-16T18:03:22.000Z",
+          "category": "case",
+          "summary": "부사장이 회사를 상대로 낸 해고무효확인 소송에서 법원이 임원의 근로자성을 인정하지 않고 청구를 기각했습니다. 재판부는 해당 임원이 사용자의 지휘 감독을 받기보다 위임 관계에 있었다고 보았습니다. 임원의 고용 형태와 실질적 권한에 따른 판결이 이어지고 있습니다.",
+          "impact": "임원 위임 계약 시 근로자성 관련 오인 요소를 줄이도록 위임 계약서 내용과 실제 권한 행사를 명확히 정비해야 합니다."
+        },
+        {
+          "title": "근무표 바뀌자 세 차례 출근 거부한 기관사…법원 \"직위해제 정당\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uVko1dkJjaWlnWkdXdF9PS252d05ockp4Ny1LMDR5WTFaWldkSWRtMHhudXdvV0YyM25SaDVMeUtmMDA2Ni1DYmdsOW82Sl9BemV2dTR0dnl4UjIyTmlMaGxyTnlDNmdzTzJN0gFwQVVfeXFMTngybVdVWWY5NURhajVzTEFPbDdvWnU2X0wzT1RIenllemNFSlBTc0ZUX3NFUmFlYmZJa2JmWl9vTlgxSlZTRDl2Skt6VHhCUVJVWkI2WHp0N3pVdHFfTUxYd2Q1S1hKSjZWaU9lbmNzVA?oc=5",
+          "publishedAt": "2026-11-16T16:54:27.000Z",
+          "category": "case",
+          "summary": "근무표 변경에 반발해 출근을 지속 거부한 근로자에 대해 법원이 사측의 직위해제 처분이 정당하다고 판결했습니다. 법원은 정당한 업무 지시 및 복무 규정 준수 의무 위반을 이유로 직위해제 필요성을 인정했습니다. 사용자의 정당한 인사권 행사 범위가 재확인되었습니다.",
+          "impact": "근무 스케줄 변경 등 복무 지시 시 취업규칙 절차를 철저히 지키고 이행 거부 시 복무 규정을 단호히 적용해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "北 IT 인력, 국내 위장취업 정황 확인…\"국정원·경찰 '공동 전담반' 필요\"",
+          "source": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1YSW1KN2hDZW43NTBCME1seF9WWnBlcl9xb1Zxckx0TVR6bFI1MHIxOVBLbmU5TDJxQ3ZWUjlqUF9xUUxHUVNNaW5yakZab0h3bWc3UmhzSHA4MmFfVGdv?oc=5",
+          "publishedAt": "2026-11-16T20:00:00.000Z",
+          "category": "market",
+          "summary": "북한 IT 인력이 신분을 위장해 국내 기업에 취업한 정황이 확인되어 관계 기관의 대응책 마련이 추진되고 있습니다. 비대면 채용과 원격 근무 허점을 노린 사기 및 사이버 보안 위협 우려가 커지고 있습니다. 국정원과 경찰 등 전담 체계 구축 필요성이 제기되는 상황입니다.",
+          "impact": "원격 근무 개발직 채용 시 신원 검증 절차 및 아웃소싱 인력에 대한 보안 가이드라인을 강화해야 합니다."
+        },
+        {
+          "title": "\"첫 출근 전 4000만원 보너스\"…AI 인재 잡기에 돈 쏟는 美 기업들",
+          "source": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBXX01GSUJRNmhXLTdqcXJUN0ZGNldvQWlielY1aGsxQUdidjFiZXJzcnBSUHRzNTVyWTdkTS1vbkJRdEdna3pMM3FEcG5BWGdWeHR0elFOYzlvS1pRSVdOR29OVVd2a3VkdmtzM0w2cF9pdzhiZXdLTtIBeEFVX3lxTFBXX01GSUJRNmhXLTdqcXJUN0ZGNldvQWlielY1aGsxQUdidjFiZXJzcnBSUHRzNTVyWTdkTS1vbkJRdEdna3pMM3FEcG5BWGdWeHR0elFOYzlvS1pRSVdOR29OVVd2a3VkdmtzM0w2cF9pdzhiZXdLTg?oc=5",
+          "publishedAt": "2026-11-16T06:30:00.000Z",
+          "category": "market",
+          "summary": "미국 기술 업계가 AI 인재 확보를 위해 첫 출근 전 수천만 원 상당의 보너스를 제공하는 등 파격적인 유인책을 펼치고 있습니다. AI 핵심 개발자 인력 부족으로 인해 몸값 상승과 보상 경쟁이 더욱 치열해지고 있습니다. 글로벌 기술 기업 간 영입 전쟁이 계속되는 양상입니다.",
+          "impact": "핵심 AI·IT 인력의 이탈을 막기 위해 성과 연동 보상 체계와 사이닝 보너스 등 유연한 보상안을 모색해야 합니다."
+        },
+        {
+          "title": "경력 15년 이상 채용 공고 30% 증가...잡코리아 조사",
+          "source": "디지털투데이",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xUVhmYXFYNHRRdF8wRFh4Yl9hSlh2SzY5UmtxeExVa3FGZ2xpVldLTjhpcEI5QmE0QmRvUkp6dHBmQ3U0U3VCVUcxNno5YlpIOFNob28xNVJzZ3c2Wmg0UlNkdmNXNFNVa1B4dUIyR2VZTlE?oc=5",
+          "publishedAt": "2026-11-16T06:22:32.000Z",
+          "category": "market",
+          "summary": "잡코리아 조사 결과 채용 시장 위축 속에서도 15년 이상 경력직을 찾는 채용 공고가 전년 대비 30% 이상 증가했습니다. 실무에 즉시 투입할 수 있는 시니어 베테랑 인재에 대한 기업들의 수요가 대폭 늘어났습니다. 채용 시장이 고경력 직무 전문성 위주로 재편되고 있습니다.",
+          "impact": "시니어 리더십급 핵심 직무 채용 채널을 다변화하고 이들의 연착륙을 돕는 온보딩 과정을 강화해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "trend",
+      "name": "HR 트렌드",
+      "items": [
+        {
+          "title": "다우기술, 다우오피스 'HR과 AI가 만드는 업무 플랫폼의 새로운 변화' 세미나 성료",
+          "source": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLSWJIZFZScms3amxESU5pMDFxZWVvUC1VcnFoc29nT2VyLWk3NklvOFJTS2dJV3oyMXhFN2xGa3p6endGbzVsZDgwV0dOdw?oc=5",
+          "publishedAt": "2026-11-17T00:00:00.000Z",
+          "category": "trend",
+          "summary": "다우기술이 'HR과 AI가 만드는 업무 플랫폼의 새로운 변화' 세미나를 성공적으로 마무리했습니다. 이번 세미나에서는 HR 분야와 AI 기술의 융합을 통한 업무 플랫폼 혁신 방안이 다루어졌습니다. 효율적인 조직 관리 및 HR 행정 처리를 위한 최신 테크 사례가 공유되었습니다.",
+          "impact": "AI 기반 HR 테크 솔루션을 검토하여 인사 행정 자동화 및 업무 효율 증대 방안을 마련할 수 있습니다."
+        },
+        {
+          "title": "\"여성 인재 유치 고민에…유연근무제 도입\"",
+          "source": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5CVHJBWWVHWF9hcXlTMTVwMXMxaHkybDZRUkFWYUE1cU9sdFVKSGdFMjNPSTlKTDJrYXNRbEtnakVuSGZyR0ZJdkhuM25ISEdka2ptYTJRZzRPUQ?oc=5",
+          "publishedAt": "2026-11-16T08:42:30.000Z",
+          "category": "trend",
+          "summary": "우수 인재 유치와 여성 인력 확보를 위해 유연근무제를 적극적으로 도입하는 기업 사례가 늘고 있습니다. 근무 시간과 장소의 자율성을 극대화하여 조직 몰입도를 높이고 이탈을 방지하는 효과를 얻고 있습니다. 인재 확보를 위한 HR 차원의 일터 혁신이 가속화되고 있습니다.",
+          "impact": "우수 인력을 영입·유지하기 위해 시차출퇴근제, 재택근무 등 자율적 유연근무제 확대를 적극 검토해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "5,300만 달러 확보한 AI-네이티브 CRM '드림팀', 세일즈포스·허브스팟 아성에 균열 낼까",
+          "source": "얼리어답터뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4xX2w3RG1JUVN3TEJ4Qnp4enpCVzRlTzRMWDRPQzJNTUpYdno3ZXoyMGdvbWJEdktFZVB5TmVBc3Z6QWZ0TGhrT25B?oc=5",
+          "publishedAt": "2026-11-16T22:19:46.000Z",
+          "category": "industry",
+          "summary": "AI-네이티브 CRM 스타트업 드림팀이 5,300만 달러 규모의 투자를 유치하며 세일즈포스 및 허브스팟과의 본격적인 경쟁에 나섰습니다. 이번 자금 확보를 통해 AI 중심 세일즈 솔루션 시장의 세대교체를 추진하고 있습니다. 글로벌 B2B SaaS 시장에서 AI 기술 적용 경쟁이 크게 심화되고 있습니다.",
+          "impact": "[추측] 경쟁 SaaS 기업의 AI 기능 확장으로 관련 인프라 및 AI 엔지니어 채용 경쟁이 더욱 격화될 것으로 예상됩니다."
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "급여·보상",
+      "note": "AI 및 핵심 개발 인력 영입 경쟁에 대비하여 성과 보상 및 특수 직무 보상 프로그램(사이닝 보너스 등)을 점검해야 합니다."
+    },
+    {
+      "part": "채용",
+      "note": "시니어 전문 인력 채용 채널을 다각화하고, 원격·비대면 개발직 채용 시 신원 검증 프로세스를 엄격히 시행해야 합니다."
+    },
+    {
+      "part": "교육·육성",
+      "note": "AI 기술의 업무 적용 및 HR 테크 도입 흐름에 발맞추어 전사 직원의 AI 툴 활용 능력 강화 교육을 검토해야 합니다."
+    },
+    {
+      "part": "노무",
+      "note": "해고 서면 통지 절차 및 임원 계약서 검토, 주 52시간 상시 모니터링 체계를 구축하여 법적 부당해고 및 노무 리스크를 예방해야 합니다."
+    }
+  ]
+}
