@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-18",
+  "label": "2026년 11월 18일 (수)",
+  "issue": 55,
+  "generatedAt": "2026-11-18T01:04:02.217Z",
+  "headline": "AI 시대 화이트칼라·IT 인재 채용 변혁과 외주·프리랜서 노동법제 감독 강화",
+  "lede": "개발 직군 통합과 AI 평가 도입 등 IT 업계의 채용 방식 변화와 화이트칼라 직무 재편이 가속화되고 있습니다. 동시에 정부의 '가짜 3.3%' 집중 감독과 프리랜서 근로기준법 적용 논의 등 노무 법제 리스크 관리가 시급해졌습니다. 이에 따라 AI 중심 직무 개편과 외주 인력 관리 체계에 대한 선제적 대비가 요구됩니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "[정책뉴스] AI 시대 일자리·노동정책 국민 질문 12월 7일까지 접수",
+          "source": "아웃소싱타임스",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JdjZfMlpQeTVjd29WUlNIalpZMDZkSzNna3JhMmZMM1cxM1pxVkFxMmlsamM4X09YajNXbG14eTF5Rm1fdlBoRF9pRk1DU3h3ZV9kQUxRRnpfUVZ2VC1uOGxJUkJnYjVSRUwzNk9ZdE5Udw?oc=5",
+          "publishedAt": "2026-11-18T00:45:43.000Z",
+          "category": "law",
+          "summary": "고용노동부가 AI 시대 일자리 및 노동정책과 관련해 12월 7일까지 국민 질문을 접수받습니다. 수렴된 의견은 AI 환경 변화에 맞춘 노동정책 수립과 소통에 활용될 예정입니다. AI 기술 적용이 노동시장에 미치는 영향과 관련 제반 정책이 지속적으로 논의되고 있습니다.",
+          "impact": "AI 도입 관련 정부 정책 방향과 가이드라인 제정 동향을 모니터링할 필요가 있습니다."
+        },
+        {
+          "title": "[노무톡톡] 근로계약 종료 시 통용되는 확약서의 유효성 여부",
+          "source": "세정일보",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1wR3F2MkFGZHFEZjBMMUJ5RWNFc3BxSGt1ZHliS2R2MldTa2hxc1o3TllrTktIUlJKZElLZWZENWlaYlVET2ZWbmhNVE5US1JMTHZzTHctMzhYaFczRERUellvNHpRQ1NBa3VBWA?oc=5",
+          "publishedAt": "2026-11-17T22:39:52.000Z",
+          "category": "law",
+          "summary": "근로계약 종료 시 작성되는 권리 포기 확약서의 법적 유효성에 대한 노무 분석이 제시되었습니다. 당사자 간 합의가 있더라도 강제규정에 위배되거나 불공정한 경우 효력이 인정되지 않을 수 있습니다. 이에 따라 퇴직 절차 시 확약서 작성의 성립 요건과 조항 검토가 중요하게 다뤄집니다.",
+          "impact": "권고사직 및 퇴직 프로세스에서 사용하는 서약서와 확약서 양식의 법적 유효성을 노무 점검해야 합니다."
+        },
+        {
+          "title": "이 대통령, 양대 노총 위원장과 회동…\"정년 연장·메가프로젝트 등 논의\"",
+          "source": "JTBC",
+          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zLXpXTmdiUmdlQnZKR2ItZl9SY2FLU0p5NW1pYVItc3dyMF9jT040RXRyM1c5QURjZVRuV01Ec1Zqb0FlUC1NOVYyd2dEVzZ1czh3SVUxdk0wT2RpMmFib2lCZ0FncXh6?oc=5",
+          "publishedAt": "2026-11-17T16:22:34.000Z",
+          "category": "law",
+          "summary": "대통령이 양대 노총 위원장과 만나 정년 연장과 국책 메가프로젝트 등 노동 현안을 논의했습니다. 노동계는 퇴직 후 소득 공백 방지를 위한 정년 연장 법제화를 강하게 요구했습니다. 정부와 노동계 간의 정년 연장 관련 논의가 본격화될 것으로 보입니다.",
+          "impact": "법정 정년 연장 입법 논의 경과에 맞춰 중장기 인력 구조 및 임금체계 개편 시나리오를 준비해야 합니다."
+        },
+        {
+          "title": "고용노동부, '가짜 3.3·사업장 쪼개기' 노동법 회피 꼼수 집중 감독!",
+          "source": "시민행정신문",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoREMwYUtUZml4UzFwTXBPVlVnRTlvZHRQMzkzYzRYd055eTV2VC1mbzBvbDE4YU1SMkNTU0MyT1diZHBZVmtqUzdvd1lSNzJWelhmX3VFVUxTdHk4d0sxMGthSlg2OFBndnFra3Z3?oc=5",
+          "publishedAt": "2026-11-17T10:30:15.000Z",
+          "category": "law",
+          "summary": "고용노동부가 프리랜서 계약 형태를 악용한 '가짜 3.3%' 및 '사업장 쪼개기' 행위에 대한 집중 감독을 시행합니다. 형식상 위탁 계약을 맺었더라도 실질적인 근로자성이 확인될 경우 엄중 처벌 대상이 됩니다. 노동법 적용 회피 목적의 꼼수 계약에 대해 강력히 단속하겠다는 방침입니다.",
+          "impact": "사내 프리랜서 및 외주 계약 인력의 실질 지휘 감독 여부 등 근로자성 리스크를 즉시 점검해야 합니다."
+        },
+        {
+          "title": "프리랜서도 근로기준법 적용? 소상공인 \"고용 재난 부를 것\"",
+          "source": "조선일보",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRVZ6NG1vaHBKcHNpQUViQkxmSzBCYUg0cjZIazBoMGc5WlR0bm5qbEVzMy1WQ1Q4UGktdU5CWXJnSExHd0RjYmU3WFVHRGFCallWOEhHdnJWaHUtQl9FUlJRcWFKc1gwXzVveDNWRTFLVkdkbGRTOUZGWWNZdzNwb1o2aTZVRTBqSWc?oc=5",
+          "publishedAt": "2026-11-17T08:28:50.000Z",
+          "category": "law",
+          "summary": "프리랜서와 특수고용 노동자에게 근로기준법을 적용하려는 움직임에 대해 소상공인 단체들이 반대 입장을 표명했습니다. 인건비 상승과 고용 유연성 저하로 인해 고용 사정이 더욱 악화될 수 있다는 지적입니다. 근로기준법 적용 대상 확대 논의를 둘러싼 노사 간 갈등이 계속되고 있습니다.",
+          "impact": "향후 프리랜서 대상 노동법 개정 시 인건비 상승 및 계약 구조 변화 영향을 사전 검토해야 합니다."
+        },
+        {
+          "title": "노사정, 초광역특구 '주 52시간 예외' 놓고 본격 줄다리기",
+          "source": "SBS 뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNM1dQTGtIYmtvSWpZS1d0Wk5jSHJCTWdUSmdpV3NNV25FM3NPS1lPei1PUE8xeUpwU3dBU2l5UThVbjlVOHdZaTNqeW9IYmdBZ081WXl2aTYxQUwyclI4bURabzNrb0ZOVVE?oc=5",
+          "publishedAt": "2026-11-17T07:31:16.000Z",
+          "category": "law",
+          "summary": "노사정이 초광역특구 내 '주 52시간제 예외' 적용 조항을 두고 실무 논의를 진행 중이나 입장 차를 보이고 있습니다. 경영계는 첨단 산업 경쟁력을 위해 규제 완화가 필요하다는 입장이나 노동계는 노동권 침해라며 반발합니다. 근로시간 유연화 범위를 둘러싼 노사정 간 의견 대립이 이어지고 있습니다.",
+          "impact": "근로시간 유연화 관련 정부 제도 개편 논의 흐름을 지속적으로 관찰해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "case",
+      "name": "판례·노동위",
+      "items": [
+        {
+          "title": "[취재후일담] 대신證 ‘직장 내 괴롭힘’ 중징계…외부 조사로 투명성 강화",
+          "source": "아시아투데이",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UZDFCV3N0NkRtQTk2YTJEcEc0eE80LWJ3S2RSendweF8zdVhsblVGX2M5c1hBd2xMcTVFRjMxYndGVzFBQXZpcnhMUlR6U2V2RTFWbXJEM1d5bjZiTWFiVjdGUFR2enEwd1NwaHhB?oc=5",
+          "publishedAt": "2026-11-17T09:28:31.000Z",
+          "category": "case",
+          "summary": "대신증권이 발생한 직장 내 괴롭힘 사건과 관련해 외부 전문기관 조사를 거쳐 가해자에게 중징계를 내렸습니다. 공정성 확보와 사내 불신 해소를 목적으로 외부 조사 절차를 도입한 사례입니다. 괴롭힘 사건 처리 시 조사 과정의 투명성과 객관성 유지가 중요한 요소로 떠오르고 있습니다.",
+          "impact": "직장 내 괴롭힘 신고 접수 시 객관성 확보를 위해 외부 전문 조사 기관 활용 매뉴얼을 수립해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "무신사, 개발 직군 통합해 AI 인재 뽑는다…채용 평가에도 AI 도입",
+          "source": "이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWGx1OTRwTS1laXNUdVk3NVFZMjZzbHdSM2NMT01FVzNVTnhmOWR6OGhkd05RMEt5em5fS3pKenlpangtUHdRQVN1VjI1MElWcllyX1NSbHk2ZFFQQUl0S1R0VE1LTTdqdVp1d1pzdFljOVdRQy1Kb2wzcENfV19wOA?oc=5",
+          "publishedAt": "2026-11-17T23:42:22.000Z",
+          "category": "market",
+          "summary": "무신사가 세부 개발 직군 구분을 통합해 AI 기술 역량을 갖춘 프로덕트 엔지니어 채용에 나섰습니다. 또한 서류 평가와 채용 전형 전반에 AI를 적극 활용하고 있습니다. 테크 인재의 실질적 역량과 AI 활용 능력을 중심으로 인재를 선발하는 방식입니다.",
+          "impact": "IT 테크 인재 채용 시 직무 통합 및 AI 채용 평가 도구 도입 여부를 검토해야 합니다."
+        },
+        {
+          "title": "인도는 AI 인재 키워서 뺏기고, 중동은 돈으로 샀다…\"韓, ‘인재 수출국’ 전락\"",
+          "source": "AI포스트",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqUDBmVDRhbHBhOVVFM0ZXeGNNMVlnZ05CZEVIYjBTbGxwZzdLNlFJYzVtVFIyZjBETUxLZTBMYmY2T0c2Y0dYVF95clVQYlAwR0tJcHJMNDB1N0o4NHhDeWpxVC13U3hza1FNREl1OEc4d9IBckFVX3lxTFBqUDBmVDRhbHBhOVVFM0ZXeGNNMVlnZ05CZEVIYjBTbGxwZzdLNlFJYzVtVFIyZjBETUxLZTBMYmY2T0c2Y0dYVF95clVQYlAwR0tJcHJMNDB1N0o4NHhDeWpxVC13U3hza1FNREl1OEc4dw?oc=5",
+          "publishedAt": "2026-11-17T14:28:36.000Z",
+          "category": "market",
+          "summary": "해외 국가들의 적극적인 영입전으로 인해 국내 핵심 AI 인재의 해외 유출 우려가 커지고 있습니다. 중동과 미국 등 주요국들은 파격적인 보상을 제시하며 글로벌 인재를 대거 확보하고 있습니다. 이에 따라 한국이 인재 육성 후 유출되는 국가로 전락할 수 있다는 경고가 나오고 있습니다.",
+          "impact": "핵심 AI 인력을 유지하기 위해 경쟁력 있는 보상 체계와 전문성 성장 환경을 정비해야 합니다."
+        },
+        {
+          "title": "[시사천국] 'AI 시대' 채용공고 천만 건 분석해보니…블루칼라보다 급락한 화이트칼라",
+          "source": "cpbc News",
+          "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9iempKUlRqTmlIVUZkdXFadDZsbUZaOFJYa2lTYzUzV2xoT2xxbEhuOTlIaTlEdmk5UzNPX3lwc3haS245eVhxRkFmaDcxdEtn?oc=5",
+          "publishedAt": "2026-11-17T13:55:00.000Z",
+          "category": "market",
+          "summary": "AI 시대 천만 건의 채용 공고를 분석한 결과 화이트칼라 직군의 채용 감소폭이 블루칼라보다 크게 나타났습니다. 단순 사무 및 관리직 업무가 AI 기반 시스템으로 대체되는 흐름이 반영된 결과입니다. 이로 인해 화이트칼라 중심 채용 시장의 구조 개편이 현실화되고 있습니다.",
+          "impact": "화이트칼라 직무의 AI 대체 위험성을 고려하여 내부 직무 재설계 및 역량 전환 계획을 수립해야 합니다."
+        },
+        {
+          "title": "국내 FDE 공고 117건 분석: 누가 뽑고, 무엇을 요구할까",
+          "source": "요즘IT",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52am5YaHdpS0Y4VlV6bHhTY1NFc2hCNG1zR3FOa20tc2VDWWptQ0piVlpSY3ZVdzBVWjh4cUhQVDV2QkhJU2MxNVFlV0tJLXhLaHlwSHNPSFFtUQ?oc=5",
+          "publishedAt": "2026-11-17T07:00:17.000Z",
+          "category": "market",
+          "summary": "국내 FDE(Forward Deployed Engineer) 채용 공고 117건을 분석한 결과 B2B 테크 기업 중심의 채용이 늘고 있습니다. FDE는 고객 현장에서 솔루션 구축과 커스텀 개발을 담당하는 엔지니어 직무입니다. 기술력과 함께 고객 사업에 대한 이해도와 소통 능력이 주요 요구 역량으로 분석됩니다.",
+          "impact": "SaaS 제품의 고객 맞춤형 구현 강화를 위해 FDE 직무 도입 및 전용 채용 평가 기준 마련을 검토해 볼 필요가 있습니다."
+        }
+      ]
+    },
+    {
+      "key": "trend",
+      "name": "HR 트렌드",
+      "items": [
+        {
+          "title": "\"이번 달 연장근무 한도 임박 직원은?.. 제이니스, 대화형 AI 근태관리 도입 추진 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1IcUR3NGctQkRleTV0V2l6TkVHMUhaSUZRZW1qbVZqZVRpVGFaZU9ZNTROZThUeW5DcnpWMmc3Ykt5cGs5M3UtQlg0aWZ4TG9jLXhodWZqWmxBc1dFTkR6R3RaejMwS1FqQzV3U29yNlc4Z9IBckFVX3lxTE1IcUR3NGctQkRleTV0V2l6TkVHMUhaSUZRZW1qbVZqZVRpVGFaZU9ZNTROZThUeW5DcnpWMmc3Ykt5cGs5M3UtQlg0aWZ4TG9jLXhodWZqWmxBc1dFTkR6R3RaejMwS1FqQzV3U29yNlc4Zw?oc=5",
+          "publishedAt": "2026-11-17T10:12:32.000Z",
+          "category": "trend",
+          "summary": "제이니스가 대화형 AI 기술을 활용한 근태관리 시스템 도입을 추진하고 있습니다. HR 담당자가 자연어 질문을 통해 연장근무 한도 임박 직원 등을 실시간으로 파악할 수 있는 방식입니다. 근태 모니터링의 효율화와 AI 기반 HR 행정 자동화 조치가 확대되는 모습입니다.",
+          "impact": "AI 기반 근태 모니터링 도구 활용을 통해 주 52시간 준수 및 연장근무 초과 리스크를 선제 관리할 수 있습니다."
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "AI 광고시장, 검색·배너·메신저에서 구매 상담까지 확대…오픈AI·구글·메타·아마존의 새로운 경쟁",
+          "source": "https://aimkt.biz/",
+          "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQWVVjT1p4ZjNYQm5pTUluRHZmVW9uN0lDa1N3RGpyZFBhaUxFMmpjc2hERjRkWkZrel9YY0dSNzlHdTRBd2lxZDd4UUVjemItNExOeTlwRXVzUU9sVjI2RlhiN2tLaWpDQmFuMkN3R05mRVo5a0NZOVY2MzZpcDgyU0l0NVUyak9yQUFZSFRfSG5vWGJ4bkZWWFphNGtuMlhaRzZrV3hiQVVnTE8yRjlUbTlYWmRDYXJIOENwNVdlYjlXSEk3YWJVVG9TcURuMDVmWGc3RmtaSm1JNXljM3REbHVabjVwSC1tbllhbFhhRER5M0stMGx0enBSdWV6c1VUamRSVGNvNDBiU245dE5tUlpiTFplVjUzbHdXMEV3NWV3QUNPd2tIbkhqZlBSMXJEYnJiN3hjS21uVHptQnJV?oc=5",
+          "publishedAt": "2026-11-17T23:21:01.000Z",
+          "category": "industry",
+          "summary": "AI 광고 시장이 기존의 검색이나 배너 형태에서 대화형 구매 상담 영역까지 대폭 확대되고 있습니다. 오픈AI, 구글, 메타, 아마존 등 주요 빅테크 기업들이 새로운 광고 시장을 놓고 경쟁을 펼치고 있습니다. AI 기술 접목으로 마케팅 플랫폼 환경 변화가 더욱 가속화되는 양상입니다.",
+          "impact": "마케팅 AI 시장 확대에 대비해 관련 기술을 개발할 AI 및 마케팅 개발 인력의 채용 경쟁 심화에 선제적으로 대응해야 합니다."
+        },
+        {
+          "title": "하이브랩, 일본 AI 애드테크 기업 J2B 경영권 인수…현지 시장 공략",
+          "source": "이데일리",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObTIxdjlmMXdZbmRoNHUxNGJCeW04SFc0dnJybVVwcWlHWUhka0NLSDZfTV9zSXdpQzNRaTJwcDBicFVseW4yS3VDc2RMNFJzajEtejR1UjFabjRnamVMMVFfdzBxSWpHM3oycjBVWnNIQzRyN09oVWF3cFUtdDNJQw?oc=5",
+          "publishedAt": "2026-11-17T08:12:55.000Z",
+          "category": "industry",
+          "summary": "하이브랩이 일본의 AI 애드테크 기업 J2B의 경영권을 인수하며 현지 광고 마케팅 시장 공략에 나섰습니다. 글로벌 시장 확장을 목적으로 AI 애드테크 분야 M&A를 추진한 사례입니다. 애드테크 기업들의 AI 기술 기반 해외 진출 움직임이 강화되고 있습니다.",
+          "impact": "마케팅 SaaS 기업으로서 경쟁사의 AI 기술 인수 및 해외 진출 움직임을 파악하고 관련 엔지니어 확보에 신경 써야 합니다."
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "인사기획",
+      "note": "AI 기술 확산에 따른 화이트칼라 직무 대체 가능성에 대비해 기존 직무의 재설계 및 인력 배치 전략을 선제적으로 수립해야 합니다."
+    },
+    {
+      "part": "급여·보상",
+      "note": "핵심 AI 인재의 해외 유출을 방지하기 위해 경쟁력 있는 글로벌 수준의 보상 체계와 성과 연동형 인센티브를 정비해야 합니다."
+    },
+    {
+      "part": "채용",
+      "note": "개발 직군 통합 채용 트렌드 및 FDE 직무 수요 증가에 맞춰 SaaS 사업 환경에 최적화된 채용 전형과 평가 도구를 도입해야 합니다."
+    },
+    {
+      "part": "교육·육성",
+      "note": "사내 화이트칼라 및 개발 인력의 AI 활용 능력을 극대화하기 위해 직무 맞춤형 AI 스킬업 교육 프로그램을 운영해야 합니다."
+    },
+    {
+      "part": "노무",
+      "note": "정부의 집중 감독에 대응해 사내 외주 및 프리랜서 계약의 근로자성 위반 위험을 점검하고 퇴직 시 확약서 양식의 법적 유효성을 개편해야 합니다."
+    }
+  ]
+}
