@@ -1,0 +1,166 @@
+{
+  "date": "2026-11-20",
+  "label": "2026년 11월 20일 (금)",
+  "issue": 57,
+  "generatedAt": "2026-11-20T01:01:21.250Z",
+  "headline": "정년연장·괴롭힘 입법 논의와 IT AI 인재 재편",
+  "lede": "정년 차등 연장 및 직장 내 괴롭힘 구제 지원관 신설 등 인사·노무 관련 법제도 개편 논의가 가속화되고 있습니다. 동시에 IT 업계에서는 AI 핵심 인재의 전진 배치와 근무 형태 변경 등 조직 재편 움직임이 활발합니다. 마케팅 SaaS 시장의 AI 도입 흐름 속에서 HR 관점의 선제적 리스크 관리와 인재 확보 전략이 요구됩니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "성일종 의원, 자녀 수 따라 정년 최대 67세 연장 법안 발의",
+          "source": "LG헬로비전",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5CVjB5NTh4WGhGdWVaZHV5SVlKOXNfRzNhWThIWFZ2ZE11MXBBSHJjTDVvcnlPM2thM1ZROENBUkM3UkstNVd1NjVoYjN3bFhvOVJiTFhuTHRoLUdidV9ER3YxeXpsQWlTZ054NzJQSElSM2PSAXZBVV95cUxNS1dqSjBlWWIzQmJUTjQ3RUs3QVQxbjNBNDY2MGRBOTVZajhWa2VqNUJrUjRCendGTUM2aXIwU2tQQWU1U0RDeW1KQ1BYS0FZRG5kcV9qSDhZTS1EN0Z1a3U0VTRoY2tOUkNvdHV1ZlJGOFd5eURB?oc=5",
+          "publishedAt": "2026-11-19T23:38:38.000Z",
+          "category": "law",
+          "summary": "자녀 수에 따라 정년을 최대 67세까지 차등 연장하는 법안이 발의되었습니다. 저출생 문제 극복과 고령자 고용 안정을 함께 도모하기 위한 취지로 제안되었습니다. 법안 통과 여부에 따라 향후 정년 연장 조건과 기준이 세분화될 것으로 보입니다.",
+          "impact": "정년 연장 관련 입법 동향과 사내 연령별 인력 구조에 미칠 영향을 지속적으로 모니터링해야 합니다."
+        },
+        {
+          "title": "[단독] '괴롭힘 금지구제 지원관' 신설 추진…직장 내 괴롭힘 피해자 지원 강화",
+          "source": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGZWlaY3Y3UXo3SDRSeUZGNVRxS1dVeDExa05zbGt5LXRBcTZ6bzBSLTVRRmczN0hmQjlFcHZfdk1nRUc5ckJSRHZtWVQ4aktoV2VIUngtelk5ZG03?oc=5",
+          "publishedAt": "2026-11-19T23:00:00.000Z",
+          "category": "law",
+          "summary": "직장 내 괴롭힘 피해자를 전담 지원하는 '괴롭힘 금지구제 지원관' 신설이 추진됩니다. 전문적인 상담과 구제 절차 지원을 강화하여 사내 괴롭힘 사건의 해결력을 높이려는 목적입니다. 제도 도입 시 기업 내 조사 및 구제 프로세스 개편이 불가피할 전망입니다.",
+          "impact": "사내 직장 내 괴롭힘 신고 처리 절차 및 피해자 보호 조치를 재점검하고 개선책을 마련해야 합니다."
+        },
+        {
+          "title": "[기고]화이트칼라 이그젬션, 획일적 규제의 함정 - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hRXhXMFJXTWxzelhBWC1mYVgwc0RNN1BTeXF2RFZPZ1I0YW95MXdSMUR4WEVQcnJUM2ZoMUFKV3hJUnNZazNMcE5QSGs3TjZQeTk4djlkWU9rVGlXLTNrcVlJWXZpYkFUYmstUWtKdlRfUdIBckFVX3lxTE9hRXhXMFJXTWxzelhBWC1mYVgwc0RNN1BTeXF2RFZPZ1I0YW95MXdSMUR4WEVQcnJUM2ZoMUFKV3hJUnNZazNMcE5QSGs3TjZQeTk4djlkWU9rVGlXLTNrcVlJWXZpYkFUYmstUWtKdlRfUQ?oc=5",
+          "publishedAt": "2026-11-19T19:00:01.000Z",
+          "category": "law",
+          "summary": "고소득 전문직에 대해 근로시간 규제를 적용하지 않는 화이트칼라 이그젬션 제도 도입 요구가 제기되었습니다. 획일적인 주 52시간제가 고성과 지식근로자의 업무 유연성을 제약한다는 기고 내용입니다. IT 및 R&D 전문 직종을 중심으로 근로 시간제 개편 논의가 지속되고 있습니다.",
+          "impact": "개발 및 전문 직군의 유연한 근로시간 관리 체계 구축 방안을 사전에 검토할 필요가 있습니다."
+        },
+        {
+          "title": "임금체불·퇴직금 체불 처벌 강화, 합의하면 끝나는가",
+          "source": "법률신문",
+          "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nOFhkT2V6dlVYaGFSWnBFRHp3MkRpMXN4djFHRG5uRjNveEpvdXpRVDdjckYybjkwZ2xoZElvbDdsaE1JX3hJbmVGWGhKczJ0MkVlRzJtY2syVXJpaU5XUXJGRWl6azVrWXRJWlJR0gFyQVVfeXFMTjZ0MjlJR0VnbXFkRVc0YUlBSmE0dEo0Y1BDQ0JTSVItRVpfZEEwcm5seVEzYXc2ZWxTcXRpSkFPTGtMLUlDM281R290NFZTeHZsWG8yamc3X1hUb0l4OTdkbXBJLW1fWmEzMExuajkwelZB?oc=5",
+          "publishedAt": "2026-11-19T06:47:37.000Z",
+          "category": "law",
+          "summary": "임금 및 퇴직금 체불에 대한 처벌 강화 정책과 노무 관리 엄격화 기조가 이어지고 있습니다. 당사자 간 합의 여부와 별개로 체불 사업주에 대한 법적 책임을 강화하는 방향입니다. 기업 입장에서는 급여 정산의 정확성과 사후 리스크 방지가 필수적 과제로 떠올랐습니다.",
+          "impact": "급여 및 퇴직금 정산 프로세스를 사전 점검하여 체불 리스크를 철저히 차단해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "case",
+      "name": "판례·노동위",
+      "items": [
+        {
+          "title": "근로복지공단 “자살 산재 인정 28명 중 14명이 직장 내 괴롭힘”",
+          "source": "더메디컬",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9SVmFrTGp2TzZXby14MnVlMElLRDNDMjM1V29jOVJxMERHQklKXzhiVEQwMzJRc0RjTC1mMHlNaWFNTm9JVXkwQ3ZhZ2JTek1MQlgyRGFGaHRwVm9RN2lqZ1NWN2ZQa2NIUmfSAW5BVV95cUxPT21rWXFEb2VIdFNIQXVUVnpPUTR1UG05cnpBS3NnWDlxRUh0U0xlOGFQSENhbEt6WlU4S2QyTmw4UDg3d2NDQlpBTnUyNm9wdkhLWFJwMjJqeWtWdlh4djVLYzVCU2lBQjVsbi1NQQ?oc=5",
+          "publishedAt": "2026-11-19T07:18:31.000Z",
+          "category": "case",
+          "summary": "근로복지공단 조사 결과 자살로 산재 인정을 받은 근로자 중 절반이 직장 내 괴롭힘을 경험한 것으로 나타났습니다. 직장 내 괴롭힘이 근로자의 정신건강과 산재 위험에 미치는 직접적인 영향이 확인되었습니다. 이에 따라 기업의 예방 책임과 조직문화 관리 의무가 더욱 강조되고 있습니다.",
+          "impact": "직장 내 괴롭힘 예방 교육과 함께 구성원 멘탈 헬스케어 지원 프로그램을 강화해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "LG CNS, 금융·공공 넘어 ’AI 네이티브’ 전환 가속…AX 핵심인재 전진 배치 By EBN",
+          "source": "Investing.com 한국어",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kM1hnMk1Ud29DUWFmQ3h6WDk4U21ISjhjQlBKRWprZlJyV1FVX1JFMGhxQU9YLUNuMDAtQmhCWkw5SDRnRU5qeWdCTzZJX2VNV252c1hjTlFiX2hwNmZRQm1LNGtzU3ZYbElXS3Y3eTk?oc=5",
+          "publishedAt": "2026-11-19T23:11:00.000Z",
+          "category": "market",
+          "summary": "LG CNS가 정기 임원인사에서 AI 네이티브 전환을 가속화하기 위해 AX 핵심 인재를 전진 배치했습니다. 금융과 공공 분야를 넘어 IT 시장 전반에서 AI 전문 역량을 갖춘 인재 중용이 뚜렷해지고 있습니다. IT 대기업을 중심으로 AI 인재 확보 및 조직 재편이 빠르게 진행되는 흐름입니다.",
+          "impact": "AI 전문 인력의 이탈을 막기 위해 당사 보상 경쟁력과 인재 유지 전략을 점검해야 합니다."
+        },
+        {
+          "title": "현대차, 채용 사이트서 '재택근무' 항목 삭제... \"새로 바뀐 방침 없어\"",
+          "source": "생생비즈플러스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qR2lGcFhkVGRPdE1PdzZPck9heElscDFyblA3aTZ6M3AtMkVKSnZaSXBMZzBRUWlaMG9ibG1rRXZVOEZ4TVlmZDZFd0hIRkJiMzdtX2dwWXh2MDdFZ3oyd196eG5WMlNoMlBkWQ?oc=5",
+          "publishedAt": "2026-11-19T07:47:21.000Z",
+          "category": "market",
+          "summary": "현대자동차가 채용 사이트에서 '재택근무' 항목을 삭제했으나 사측은 변경된 방침은 없다고 밝혔습니다. 채용 공고 상의 근무 형태 명시 여부에 대한 구직자들의 관심이 크게 높아진 상태입니다. 근무 형태의 투명한 공개가 IT 및 주요 기업 채용의 주요 요소로 작용하고 있습니다.",
+          "impact": "채용 공고 작성 시 재택 및 유연근무 조건을 명확하게 명시해 구직자 혼선을 예방해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "trend",
+      "name": "HR 트렌드",
+      "items": [
+        {
+          "title": "업무량 폭증한 벤처기업의 절반 이상 \"유연근무제 등 활용 안 해\" - 머니투데이",
+          "source": "머니투데이",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCOFZPeXlucFB3Tm9ESzQ4NXlxdy1pZ25UaTZ6QlVBTnNILWtOYk91aUtCc0ZPUWRRZHhtQVlZRGU4NUV3cUxmVEcwVEJMWEJNdGhiN3BtbWpjekMtMF9qMFFvaGpaeV95ZmtONjgzSdIBb0FVX3lxTFBCOFZPeXlucFB3Tm9ESzQ4NXlxdy1pZ25UaTZ6QlVBTnNILWtOYk91aUtCc0ZPUWRRZHhtQVlZRGU4NUV3cUxmVEcwVEJMWEJNdGhiN3BtbWpjekMtMF9qMFFvaGpaeV95ZmtONjgzSQ?oc=5",
+          "publishedAt": "2026-11-19T08:30:00.000Z",
+          "category": "trend",
+          "summary": "업무량이 폭증한 벤처기업의 절반 이상이 유연근무제를 제대로 활용하지 못하는 것으로 조사되었습니다. 제도적 틀은 마련되어 있으나 현장 적용에는 여전히 한계가 존재하는 상황입니다. 근로시간 유연화와 업무 생산성 향상을 위한 실질적인 제도 운용이 과제로 지적됩니다.",
+          "impact": "사내 유연근무제 이용 실태를 파악하고 제도 활용을 방해하는 장애 요인을 제거해야 합니다."
+        },
+        {
+          "title": "HCG, 연말정산에 AI 검증 도입 |",
+          "source": "한스경제",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oekU0VnVXWDlNcGY2RFBob1VRczRqSlJza2l3ZDV1S0lnNXNDbUJ0WkhtdkNtdkE0d1R6S2xhcXA1U0RmSHVqRGxjN3c5anE2Sy1QXzdDMjc4a2dTc2JyZlpwam8xLXJTR0VDb2Fsbw?oc=5",
+          "publishedAt": "2026-11-19T07:00:58.000Z",
+          "category": "trend",
+          "summary": "HCG가 연말정산 업무에 AI 기반 자동 검증 시스템을 전격 도입했습니다. 서류 검증 오류를 줄이고 수작업 행정 부담을 대폭 경감하기 위한 취지입니다. HR 실무 전반에서 AI 도구를 활용한 업무 효율화 작업이 확산되고 있습니다.",
+          "impact": "반복적인 HR 행정 업무의 부담을 줄이기 위해 AI 서류 검증 솔루션 도입을 검토할 수 있습니다."
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "아임웹, AI 루프 엔지니어링으로 개발 병목 푼다",
+          "source": "ER 이코노믹리뷰",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5EUU9BcXpVcXFGcDVsbWJ2YjQ3N0dtZFdjRHZZcGhPU2RkUmwxdDVxb0tfZVFXS1kyX2x0RUc5eFIxRVdqa2lrS0d3R1NFUXdSSm5SM0ZFZ3pzTjA5VWdnWEJONHJMZlUydVBzQw?oc=5",
+          "publishedAt": "2026-11-20T00:01:32.000Z",
+          "category": "industry",
+          "summary": "아임웹이 개발 과정의 병목 현상을 해소하기 위해 AI 루프 엔지니어링을 도입했습니다. AI 자동화를 통해 소프트웨어 개발 속도와 생산성을 높이는 시도입니다. IT 기술 기업들의 개발 공정 내 AI 적용 사례가 점차 증가하고 있습니다.",
+          "impact": "개발 조직의 AI 툴 도입에 따른 생산성 변화와 필요한 직무 역량을 모니터링할 필요가 있습니다."
+        },
+        {
+          "title": "“마케터 97%, AI 활용 계획” 광고 업무별 실제 도입률은 30~40% 수준",
+          "source": "매드타임스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IVVlWbkFOUWRvWmphY2ppWFh5ejk5RElLMUxYa01mOHA4c2E5bUlnWkR3VERyVFl2NnBiM01TN19OU0ZFSTh0UTZ2bDg1dWFyV2EtbVpmdmZOdktobWxUc0pZNU5OVUk5dzFiVg?oc=5",
+          "publishedAt": "2026-11-19T15:00:00.000Z",
+          "category": "industry",
+          "summary": "마케터의 97%가 AI 활용을 계획하고 있지만 실질적인 업무 도입률은 30~40% 수준에 머물고 있습니다. 높은 활용 의지에 비해 실제 현장 적용에는 기술 및 조직 차원의 장벽이 존재합니다. 마케팅 솔루션의 정착을 위한 교육과 지원이 주요 과제로 부각되고 있습니다.",
+          "impact": "사내 구성원 및 마케터 대상 AI 실무 활용 교육 프로그램을 확대 운영해야 합니다."
+        },
+        {
+          "title": "내년 AI 마케팅 투자 1위는 `검색 최적화`…콘텐츠 제작 제쳐",
+          "source": "디지털데일리",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9mT1FtQzRINm8tUjhiU3hqUXM3LUl2ekJHQ0NLQWh6NEZwWWdiam9NNmdlTWNSU25zSzVJS2dGMVZOelhmSzd1Rl9ieHg5MkVvc3hMNnRIdENFbUxUdndVVnhqbFc?oc=5",
+          "publishedAt": "2026-11-19T09:10:19.000Z",
+          "category": "industry",
+          "summary": "내년 AI 마케팅 분야의 투자 1순위로 '검색 최적화'가 선정되며 단순 콘텐츠 제작을 제쳤습니다. 마케팅 테크 시장에서 AI 기반 검색 노출 최적화 기술의 중요성이 급격히 커지고 있습니다. SaaS 기업들의 AI 기능 개발 및 관련 인력 수요도 함께 이동하는 양상입니다.",
+          "impact": "마케팅 SaaS 시장 변화에 발맞추어 AI 검색 최적화 관련 개발 인재 채용 요건을 신속히 업데이트해야 합니다."
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "급여·보상",
+      "note": "임금 및 퇴직금 체불 처벌 강화 기조에 맞추어 사내 급여 정산 프로세스의 정확성을 전면 점검할 필요가 있습니다."
+    },
+    {
+      "part": "채용",
+      "note": "IT 대기업의 AI 인재 전진 배치와 마케팅 SaaS 시장의 기술 변화에 대응해 AI 개발자 채용 요건을 신속히 정비해야 합니다."
+    },
+    {
+      "part": "교육·육성",
+      "note": "마케터의 실제 AI 업무 도입률이 낮은 점을 감안해 사내 구성원의 AI 툴 실무 적응 교육을 확대해야 합니다."
+    },
+    {
+      "part": "노무",
+      "note": "괴롭힘 금지구제 지원관 신설 추진과 산재 분석 데이터에 따라 직장 내 괴롭힘 예방 및 피해자 보호 체계를 개선해야 합니다."
+    }
+  ]
+}
