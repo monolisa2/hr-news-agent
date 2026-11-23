@@ -1,0 +1,197 @@
+{
+  "date": "2026-11-23",
+  "label": "2026년 11월 23일 (월)",
+  "issue": 58,
+  "generatedAt": "2026-11-23T01:01:29.920Z",
+  "headline": "정년연장·근로시간 법제 개편과 AI 시대 개발자 보상·인재 확보 전략",
+  "lede": "정부의 정년연장 및 근로시간 유연화 논의가 본격화되면서 기업의 임금체계 및 노무 규정 정비가 시급해졌습니다. 한편 IT 업계는 AI 전환(AX)과 빅테크 인재 확보 경쟁 속에서 개발자 보상 체계 및 신입 온보딩 전략을 적극 재검토해야 하는 시점입니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "정년연장 ‘임금 해법’ 찾는 정부…부총리, 임금체계 개편 현장 방문",
+          "source": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA1UDR5T3NIT3V5N0VlbUU4WEJxZnVYV3lRdkotR0d4c2g0ZFl3cHlBMm9VWnN3NGFXa2czcEU0cUdqMEJ3THVEcU03UkVKWHZwWnlRSHF3?oc=5",
+          "publishedAt": "2026-11-23T00:18:43.000Z",
+          "category": "law",
+          "summary": "정부가 정년연장 추진에 따른 임금 해법을 모색하기 위해 현장 점검에 나섰습니다. 경제부총리는 임금체계 개편 현장을 방문하여 정년연장과 연계된 임금 개편 방안을 논의 중입니다. 정부는 청년 고용 차질을 줄이고 중장년 근속을 유지하기 위한 임금구조 개편을 검토하고 있습니다.",
+          "impact": "정년연장 법제화 추진에 대비해 연봉제 및 직무·성과 중심 임금체계로의 개편 가능성을 사전 검토해야 합니다."
+        },
+        {
+          "title": "경력증명서 퇴사 사유 기재, 근로자 요청이 기준",
+          "source": "비건뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YclN0VEFQbVJfemItVVl4dkhRMU1uQ0RSU21jbW1qbHhCdTlxenBIWm8xRjFoeXU5d2VBb0JCNDVvMXNXWS0xdElQVjM4QUJETVR0WFRRcDZCUExqbWxaT2oxcnc4Zw?oc=5",
+          "publishedAt": "2026-11-23T00:06:42.000Z",
+          "category": "law",
+          "summary": "경력증명서 작성 시 퇴사 사유 기재는 근로자의 요청을 기준으로 처리해야 합니다. 근로기준법상 사용자는 근로자가 요구한 사항만을 증명서에 기재하도록 규정하고 있습니다. 근로자가 원하지 않는 불리한 퇴사 사유를 임의 기재할 경우 법 위반이 될 수 있습니다.",
+          "impact": "퇴직자 경력증명서 발급 서식과 발급 프로세스에서 근로자 요구 사항만 반영되도록 노무 절차를 점검해야 합니다."
+        },
+        {
+          "title": "김영훈 “정년연장, 27일 국회 특위 전후로 정부 입장 발표할 것”",
+          "source": "한겨레",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wWUFQb0hrYW43bXl6S2FnVnJleHU1R0kxN0hBaHVGdmdtRHYwbkdydmN1dE9VSjlSdHQ0Z2tYSERNUm45c0dTeGpiSTNVVkF6dEhVLXhLMkdMcDlDc2tPeVdOMFE?oc=5",
+          "publishedAt": "2026-11-22T23:58:00.000Z",
+          "category": "law",
+          "summary": "고용노동부 장관은 정년연장 이슈와 관련해 국회 특위 논의 경과를 본 뒤 정부 입장을 발표하겠다고 밝혔습니다. 여당 특위 논의 결과에 따라 정부 차원의 정년연장 및 고용연장안이 체계화될 전망입니다. 정년연장의 구체적 시기와 방식에 대한 사회적 논의가 가속화되고 있습니다.",
+          "impact": "정부의 정년연장 정책 발표 향방을 모니터링하고 중장년 인력 운용 시나리오를 미리 준비할 필요가 있습니다."
+        },
+        {
+          "title": "[韓경제 아킬레스건](61) '주 52시간제' 실효성 논란 : 현장의 유연성과 노동권간 충돌",
+          "source": "금융소비자뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50dDBnYjJwOUlrLXlPUENBZEdtQVd0bWI3VUUtZVdhNmc5RU9WaDEzY0NqZE9fNy00V1drenp3ZXNsQnM4eTU3aldjeGRBa3hiR3EtdWJPd1hGQXUwZnU5emhoMWh0aUU3RXc?oc=5",
+          "publishedAt": "2026-11-22T22:00:00.000Z",
+          "category": "law",
+          "summary": "주 52시간제의 실효성을 둘러싸고 현장의 유연성 요구와 노동권 보호 간의 충돌이 계속되고 있습니다. 특히 IT 및 R&D 업종을 중심으로 유연한 근로시간제 적용 필요성이 지속 제기됩니다. 법적 근로시간 규제와 프로젝트성 업무 특성 사이의 불일치가 과제로 꼽힙니다.",
+          "impact": "선택적 근로시간제 등 유연근무제의 합법적 운용 상태를 점검하여 법적 리스크와 개발 몰입도를 동시에 관리해야 합니다."
+        },
+        {
+          "title": "반도체 '주 52시간 예외' 놓고 與 내부서도 두 목소리… 노사정 재논의",
+          "source": "더퍼블릭",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0TTNjT1VRQmNEVWpZQmpEMGxpbm91MUJpMjFmb05KZmN1Z05DVDl2OVJzaGhFdGFPdVVfeUswbHdSVnlqT2JWNHFCT2loTXZfTHlLeFI4UUZ0X3FiMXp1T3BheXBEMW9zMi15UU0xSdIBb0FVX3lxTFA0TTNjT1VRQmNEVWpZQmpEMGxpbm91MUJpMjFmb05KZmN1Z05DVDl2OVJzaGhFdGFPdVVfeUswbHdSVnlqT2JWNHFCT2loTXZfTHlLeFI4UUZ0X3FiMXp1T3BheXBEMW9zMi15UU0xSQ?oc=5",
+          "publishedAt": "2026-11-21T00:13:01.000Z",
+          "category": "law",
+          "summary": "반도체 등 첨단 산업에 대한 주 52시간제 예외 적용 조항을 두고 여당 내에서도 의견이 엇갈리며 노사정 재논의가 진행 중입니다. 연구개발(R&D) 인력의 근로시간 유연화 범위를 둘러싼 정책적 논쟁이 계속되고 있습니다. 획일적 근로시간 제한 해제 여부가 IT/R&D 분야의 주요 관심사입니다.",
+          "impact": "R&D 직군 유연근무제 입법 동향을 추적하고 현행 선택적 근로시간제 등의 실무 적용 방식을 점검해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "case",
+      "name": "판례·노동위",
+      "items": [
+        {
+          "title": "음주운전한 기관사 면직한 철도공사…법원 \"정당한 처분\"",
+          "source": "연합뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fcC10NWltRzcxX0szZXJNS1dBMDNTckRmdDR6RnlnZnVac0RVU2poR2NjbWtUTzRzRW43TEE3UlNBNUNrV2syY3VUTVFoczU5MFFybHNWVVpPU1FpV2FqZ9IBYEFVX3lxTE9fcC10NWltRzcxX0szZXJNS1dBMDNTckRmdDR6RnlnZnVac0RVU2poR2NjbWtUTzRzRW43TEE3UlNBNUNrV2syY3VUTVFoczU5MFFybHNWVVpPU1FpV2FqZw?oc=5",
+          "publishedAt": "2026-11-22T22:00:01.000Z",
+          "category": "case",
+          "summary": "음주운전 처벌 사실을 숨기고 근무한 기관사에 대한 면직 처분이 정당하다는 법원 판결이 나왔습니다. 해당 직원은 직무 특성을 이유로 불복했으나 법원은 취업규칙상 당연면직 사유에 해당한다고 보았습니다. 법원은 승객 안전과 결격사유 은폐를 중대한 위반으로 평가했습니다.",
+          "impact": "사내 취업규칙 내 형사처벌 및 결격사유 은폐에 대한 징계·면직 기준이 명확히 정비되어 있는지 점검할 필요가 있습니다."
+        },
+        {
+          "title": "남직원도 생리수당?…월 7만원 따박따박 받아가더니 '날벼락' [사장님 고충백서]",
+          "source": "한국경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBkWXNyOXJHUmdmNE5nb1B4OW04cUxyQ25ic252UWl3eFZOazZHMFBJampINExuVFJiN2RmNWtWYTBibFBVM1hkTnhDekpRUFhsdDdKRlZBY3dZUQ?oc=5",
+          "publishedAt": "2026-11-21T21:00:01.000Z",
+          "category": "case",
+          "summary": "남성 직원에게 잘못 지급된 생리수당(보건휴가 수당)과 관련해 사업주와 근로자 간의 오지급 고충 사례가 소개되었습니다. 법령상 여성 근로자 대상인 수당이 오지급되어 환수 및 임금 관련 유의점이 다루어졌습니다. 수당 지급 항목과 대상 기준을 명확히 정의하지 않을 경우 법적 분쟁으로 이어질 수 있습니다.",
+          "impact": "급여 항목별 취업규칙 기준과 대상자 지급 로직이 법령에 맞게 시스템에 등록되어 있는지 사전 점검이 필요합니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "한국 여성 임금, 남성의 72%...임금 격차 OECD 최고",
+          "source": "여성신문",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jZDZlYWR4Xy1Fd0w3TEthTGhUcjZtYVF4VXdfR1llWFVXZWNHdC1ucjQ1RHF3Wkc0bDNmWWxWU1FkbnZZQVVzV0FDSUllWEROdE5TRUVTa25nZmNVVl9waktyNkFRLXQ4LXZCdHQ5UlNNMmfSAXNBVV95cUxPY2Q2ZWFkeF8tRXdMN0xLYUxoVHI2bWFReFV3X0dZZVhVV2VjR3QtbnI0NURxd1pHNGwzZllsVlNRZG52WUFVc1dBQ0lJZVhETnROU0VFU2tuZ2ZjVVZfcGpLcjZBUS10OC12QnR0OVJTTTJn?oc=5",
+          "publishedAt": "2026-11-22T22:42:42.000Z",
+          "category": "market",
+          "summary": "한국의 남녀 임금 격차가 OECD 국가 중 여전히 가장 높은 수준으로 집계되었습니다. 조사에 따르면 한국 여성의 임금은 남성 임금의 약 72% 수준에 머무르고 있습니다. 이에 따라 성별 임금 격차 해소를 위한 수당 개선 및 인사평가 공정성 확보 요구가 높아지고 있습니다.",
+          "impact": "성별 임금 격차 관련 공시 및 규제 강화 가능성에 대비해 동일가치노동 동일임금 기준과 성과평가 체계를 재점검해야 합니다."
+        },
+        {
+          "title": "대기업에 부는 감원 칼바람…불황형 구조조정 넘어 상시 인력 재편",
+          "source": "인베스트조선",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1iODFoV2REXzZneUhhVnYzVGpMZXFQZ2QzVHloSTZuRlBfUG1ZUld1Nm16Q3NJZElPNkF5ZVdlNE9icEsxcVdpbDUtaXFlZWlfOGIyY3pFOTdreW5aSEV3QmNQcjd3cnRDaTR0T1ViYkZPZw?oc=5",
+          "publishedAt": "2026-11-22T22:01:30.000Z",
+          "category": "market",
+          "summary": "대기업을 중심으로 불황형 구조조정을 넘어 상시적인 인력 재편 흐름이 확산되고 있습니다. 주요 기업들이 기존 인력을 감원하거나 AI 등 신사업 위주로 인력 구조를 전환하는 분위기입니다. 이로 인해 이직 시장 내 구직자 유입 형태와 인재 유동성이 변하고 있습니다.",
+          "impact": "대기업발 인력 재편 시점을 활용해 핵심 IT·AI 인재를 유입할 수 있도록 전략적 이직 제안을 강화해야 합니다."
+        },
+        {
+          "title": "중소기업 신입 1년 내 퇴사, 10곳 중 9.5곳이 경험…이유 1위는 낮은 보상 💼",
+          "source": "뉴닉",
+          "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5MTE12Z3NndHBGTlIzWEdBRkpBUFNiTFZXcDNLRHpKbk01UFRYT0N1a3ZTNGhGQzlCcmVsZXM2NVlZOWlZaHl5RDVCR2ZDQTQtUlNR?oc=5",
+          "publishedAt": "2026-11-22T11:26:11.000Z",
+          "category": "market",
+          "summary": "중소기업 10곳 중 9곳 이상이 청년 신입사원의 1년 이내 퇴사를 경험한 것으로 조사되었습니다. 조기 퇴사의 가장 큰 원인으로는 낮은 보상 수준이 1위로 지목되었습니다. 청년 인재의 초기 조기 이탈을 막기 위한 보상 및 정착 지원책이 요구됩니다.",
+          "impact": "입사 1년 차 저연차 인재의 조기 이탈을 방지하기 위해 온보딩 프로그램 및 적정 보상 경로를 검토해야 합니다."
+        },
+        {
+          "title": "애플, 코딩·웹 탐색까지 맡는 자율 AI에이전트 개발…채용 공고로 윤곽",
+          "source": "위런치",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqekFHQUUyR1JBeUV5Q2dYV1VES0ZVWnRQRmVFLTRUeVJMRXpSelBzVlZ4Y2xYS1k5Ty1jWjk2V0piMkcyR3VaV05qM3AzOXNoVTdwdU53S3M2ejNlUHJwM2xRYno?oc=5",
+          "publishedAt": "2026-11-22T08:21:54.000Z",
+          "category": "market",
+          "summary": "애플이 코딩과 웹 탐색까지 스스로 수행하는 자율 AI 에이전트 개발에 나선 정황이 채용 공고를 통해 공개되었습니다. 글로벌 빅테크들이 고급 AI 에이전트 개발 엔지니어 채용에 집중하고 있습니다. 이에 따라 글로벌 IT 업계의 AI 개발 인재 확보 경쟁이 가열되고 있습니다.",
+          "impact": "빅테크의 AI 인재 수요 증가에 대응해 사내 핵심 개발 인재 유출 방지 및 보상 경쟁력을 점검해야 합니다."
+        },
+        {
+          "title": "[단독] 원티드랩, 美 샌프란시스코 진출…한·미·일 인재 잇는다",
+          "source": "전자신문",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TRHRqUzhuQlV0TjlyeEx0YkxOZ1JnaE41d2s0YXdkWlptR0NXRXpzZWIyNU1SVHFCWmNpeUExNDh4eGRtdmJ1dmRnREV4UQ?oc=5",
+          "publishedAt": "2026-11-22T06:00:00.000Z",
+          "category": "market",
+          "summary": "HR 테크 기업 원티드랩이 미국 샌프란시스코에 진출하여 한·미·일 인재를 연결하는 사업을 확장합니다. 해외 취업 및 글로벌 인재 채용을 잇는 플랫폼 네트워크를 강화하겠다는 목표입니다. 크로스보더 채용 시장이 가속화되면서 글로벌 인재 확보 기회가 늘어나고 있습니다.",
+          "impact": "글로벌 리모트 채용이나 해외 인재 유치를 검토 중이라면 확장되는 HR 플랫폼의 글로벌 서비스를 활용할 만합니다."
+        }
+      ]
+    },
+    {
+      "key": "trend",
+      "name": "HR 트렌드",
+      "items": [
+        {
+          "title": "최태원 “한일 기업·대학 손잡고 AI 인재 키워야”… 교육 혁신 제안",
+          "source": "비즈트리뷴",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kdEpzUzhVdWd5MG0wMWJscXJJNjI5TWZ5YzBvc2I5VWZXeUl5Q3RmNjI2aExlSFJ3UDNsS0l3WE9oczVJNWxLd3Z6OXZwYmUtdUt3NVVZcnNLY25GdDlDaVdzMFRZWWdQR05CeW1XM2k?oc=5",
+          "publishedAt": "2026-11-22T09:08:00.000Z",
+          "category": "trend",
+          "summary": "SK 최태원 회장이 한일 양국 기업과 대학이 협력해 AI 인재를 공동 육성하자는 방안을 제안했습니다. 급변하는 AI 환경에 맞춰 대학 교육 과정을 혁신하고 산학 연계 인재 양성이 필요하다는 취지입니다. AI 전문 인력 난을 해소하기 위한 민간 및 학계 협력 모델이 제안되었습니다.",
+          "impact": "사내 AI 교육 체계를 강화하고 외부 AI 산학 협력 또는 외부 채용 연계 프로그램을 탐색해야 할 것으로 보입니다."
+        },
+        {
+          "title": "AX 시대, 개발자의 연봉은 어떻게 결정되어야 하는가?",
+          "source": "브런치",
+          "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5vaVliRk5GVkhZcExMdlZtNk5pSEdTQjE4eU5oM1NpWEdtUXozTHdaMmpNU21XZ09SRnU1Q0JRVXNEOEdQOUdj?oc=5",
+          "publishedAt": "2026-11-21T15:00:09.000Z",
+          "category": "trend",
+          "summary": "AX(AI 전환) 시대에 개발자의 역할이 변함에 따라 연봉 및 보상 체계 결정 방식에 대한 논의가 활발합니다. 단순 코딩 능력보다는 AI 툴 활용 능력과 비즈니스 결과물 창출 역량이 연봉의 주요 평가 기준이 되고 있습니다. 이에 맞춘 개발직군 성과 평가 및 연봉 산정 프레임워크 개편 필요성이 제기됩니다.",
+          "impact": "개발직군 평가 및 연봉 협상 시 AI 활용 생산성과 비즈니스 기여도를 반영하는 보상 체계 개편을 검토해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "AI에 내준 ‘고객 유입 첫 화면’…매출 늘고도 성장률 낮춘 SaaS 기업들",
+          "source": "디지털데일리",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LX1JpTzhjUmhBWEtzcHFBb25icUlBUFN1Y0ZYaEY3ZFd2cllUNkxiVFpjbWRtakE5V2NmREFKWWRnRFV0YTFFQ2FUbGNOVGtsZjdEMm9SQWhGMzdJNWoxUWxRaWw?oc=5",
+          "publishedAt": "2026-11-22T00:36:39.000Z",
+          "category": "industry",
+          "summary": "AI 검색 확산으로 고객 유입 첫 화면이 변하면서 기존 SaaS 기업들의 성장률에 영향을 미치고 있습니다. 매출이 상승하더라도 성장세가 둔화되는 등 SaaS 시장의 환경 변화가 관측되고 있습니다. 이에 따라 SaaS 기업들의 마케팅 및 비즈니스 모델 재정립이 강조되고 있습니다.",
+          "impact": "마케팅 SaaS 제품의 환경 변화에 대응해 AI 연계 개발 역량 확보 및 관련 인력 배치를 검토해야 할 것으로 보입니다."
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "인사기획",
+      "note": "정부의 정년연장 추진에 대비해 직무·성과 중심 임금체계 개편 및 조직 평가 구조의 사전 검토가 필요합니다."
+    },
+    {
+      "part": "급여·보상",
+      "note": "AX 시대 개발자 보상 산정 기준을 점검하고, 신입 인재 이탈 방지 및 생리수당 등 급여 지급 로직의 법적 적격성을 재확인해야 합니다."
+    },
+    {
+      "part": "채용",
+      "note": "대기업 인력 재편과 글로벌 AI 인재 경쟁 심화에 맞춰 직무별 recruitment 전략 및 1년 차 온보딩 프로세스를 강화해야 합니다."
+    },
+    {
+      "part": "교육·육성",
+      "note": "AI 전환(AX) 가속화에 대응하여 개발자 및 임직원의 AI 툴 활용 생산성을 높이는 사내 교육 체계를 마련해야 합니다."
+    },
+    {
+      "part": "노무",
+      "note": "경력증명서 퇴사 사유 기재 절차와 징계·퇴직 규정을 점검하고 유연근무제 운용의 법적 준수 여부를 재확인해야 합니다."
+    }
+  ]
+}
