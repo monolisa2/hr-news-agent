@@ -1,0 +1,157 @@
+{
+  "date": "2026-11-24",
+  "label": "2026년 11월 24일 (화)",
+  "issue": 59,
+  "generatedAt": "2026-11-24T01:06:20.016Z",
+  "headline": "정년연장·포괄임금제 노무 이슈와 AI 인재 확보 대응",
+  "lede": "정년연장 입법 논의와 포괄임금제 관련 법적 리스크 등 인사·노무 전반의 법제도 변화에 대한 선제적 점검이 필요한 시점입니다. 동시에 IT·R&D 인력난 속에서 주요 기업들의 AI 인재 확보전이 가열되고 있어 채용 경쟁력과 노무 관리 체계를 함께 정비해야 합니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "포괄임금제에 불복하다",
+          "source": "매일노동뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UUTIyODZnOC12M1RmUjNmb3llcVhhR09WQUxfd1pYVG5QRk1PNmFINDg2XzQ5U1R4dGRITFpHTzB3Z21neGw0NTh0Q2JyQ1piWDU5YXdhaGZQdV8zV2txcnFITzJDaFlHWjFnNlF3VUU?oc=5",
+          "publishedAt": "2026-11-23T21:30:05.000Z",
+          "category": "law",
+          "summary": "포괄임금제 오남용에 대한 현장의 문제의식과 법적 불복 움직임이 지속되고 있습니다. 근로시간 산정이 가능한 직종에서의 포괄임금 계약 효력에 대한 논의가 점차 확대되는 추세입니다.",
+          "impact": "IT 업계 특성상 포괄임금제 유지에 따른 법적 리스크를 사전 점검하고 정확한 근로시간 관리 체계 도입을 검토해야 합니다."
+        },
+        {
+          "title": "\"정년연장, 출생연도별 상향으론 한계…기업 규모별 차등 필요\"",
+          "source": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jMUliNmFWd1h0V1ZMd2RYOFZYRkN0ZnFIOXNvek02NFVJWThZaGFVVWQyT3NhUm9Rd0g3Q0stSVBIV0t6ZlZQQzdPcTNJckxBRnNnNjM0aTdlZlJzbzFZMtIBeEFVX3lxTE52Ull0Qllpc1VndWtlY3gzb2EwMERHQzRXaTlDTTJWR0dQOFp1RktyX0NpWjNBRC1faGVrR09sZXd3UWx6aFFqSlpZdWpqaWp5VUM5UWUwSkh1ZG5PQ3ZNY0diUVNSTEMwOWZ3YWJIUjRpN1Bwb1hYeQ?oc=5",
+          "publishedAt": "2026-11-23T22:02:00.000Z",
+          "category": "law",
+          "summary": "정년연장 추진 과정에서 단순 출생연도별 상향 방식은 한계가 있다는 지적이 제기되었습니다. 전문가들은 기업 규모 및 현장 여건을 고려한 차등 적용 방안이 병행되어야 한다고 조언했습니다.",
+          "impact": "정부의 정년연장 입법 추진 경과를 모니터링하며 기업 규모별 제도 적용 가능성에 대비한 중장기 인력 계획을 점검할 필요가 있습니다(추측)."
+        },
+        {
+          "title": "새벽근로 월 12회 제한 법, 국회 검토보고서에서 ‘제동’",
+          "source": "숙박매거진",
+          "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xY2ZUYk85TF9FN2lyaHNxVlhoMjhjcjRZX29xay1GZGdDdFRlcXZMVm9ha1puOE93VHFfTjhYQ3ZjWTVydVBnd3YydGlSRk83QlFSUDVCNUtrTjFaUE1zSENDUXVpaURKdTVjRENtV0Z4dw?oc=5",
+          "publishedAt": "2026-11-23T11:15:37.000Z",
+          "category": "law",
+          "summary": "심야 및 새벽근로를 월 12회로 제한하는 내용의 법안에 대해 국회 검토보고서에서 제동이 걸렸습니다. 산업별 특성과 작업 현장의 유연성을 과도하게 저해할 수 있다는 지적이 반영된 결과입니다.",
+          "impact": "교대제나 유연근무제를 운용 중인 IT 운영·보안 부서의 근로시간 제도 개편 동향을 주시할 필요가 있습니다."
+        }
+      ]
+    },
+    {
+      "key": "case",
+      "name": "판례·노동위",
+      "items": [
+        {
+          "title": "‘오요안나 근로감독’ 노동자 인정 뒤 잘린 SBS VJ…노동위 “부당해고”",
+          "source": "미디어오늘",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wcnlFUWpDeTdrcE9RTzd0SDFUbm1Ec0U4bkhMcHV2cU9FQmJ0OUZGaWEyWU9FZlFkY3NiZU1CZU1EaU85R0ZUTDBld0NWdkxpRzlVMUtYQnlUMXotVnk3SFNqNG1WbDk4dXdxcUdtU2Q?oc=5",
+          "publishedAt": "2026-11-23T10:40:00.000Z",
+          "category": "case",
+          "summary": "고용노동부 근로감독으로 근로자성을 인정받은 뒤 계약이 해지된 SBS VJ에 대해 노동위원회가 부당해고로 판단했습니다. 형식적 용역 계약을 체결했더라도 실질적 지휘·감독 관계가 존재하면 근로기준법상 해고 제한 규정이 적용된다는 점이 다시 확인되었습니다.",
+          "impact": "외주 개발자나 프리랜서 인력 운용 시 실질적 근로자성 오인 리스크가 없는지 인력 계약 체계를 재점검해야 합니다."
+        },
+        {
+          "title": "폭언·따돌림도 '상해'…故 강수빈 간호사 '태움' 가해자 3명 송치",
+          "source": "경기신문",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41ZWNzZXdKNHEyZEV5WWFGLXdwOUtfakpxTTc0VDlYWDkyTXcxQ3Z6QXNxXzFOYVB6VU5rTWRvTVdMbFZ5aWN0YnNwd29rVHFSaDhLcDZTVmI5ZDlmbTRBWC1B?oc=5",
+          "publishedAt": "2026-11-23T07:17:19.000Z",
+          "category": "case",
+          "summary": "직장 내 괴롭힘과 따돌림으로 직원을 우울증에 이르게 한 가해자들이 상해 혐의로 경찰에 송치되었습니다. 사법당국이 폭언과 따돌림 등 정신적 피해에 대해서도 형법상 상해죄를 적용하는 경향을 보이고 있습니다.",
+          "impact": "직장 내 괴롭힘 예방 교육을 강화하고 문제 발생 시 신속하게 분리 및 조사하는 리스크 관리 프로세스를 정비해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "중소기업 연구개발 인력 4년 새 13% 감소… AI 인재 확보도 비상",
+          "source": "브릿지경제",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40RjFBYnh1bmZ0N1gtdHdMcDJTMHpzcHdKZUZXZ09uYWJfenVicl9OSXlPcjJBNUNJc2dWTGFtM3dLQzN6WVR4VzJvNldPUGJUMVhBcjhZS0VFUQ?oc=5",
+          "publishedAt": "2026-11-23T23:01:00.000Z",
+          "category": "market",
+          "summary": "중소기업의 연구개발(R&D) 인력이 최근 4년 사이에 13% 감소한 것으로 집계되었습니다. 여기에 AI 분야 전문 인력 부족까지 중첩되면서 기술 기업들의 인재 확보 난항이 심화되고 있습니다.",
+          "impact": "개발 및 AI 핵심 인력의 이탈을 막기 위한 직무 보상 체계와 이탈 방지 프로그램을 강화해야 합니다."
+        },
+        {
+          "title": "정부 정년연장 속도전에…대학생 62% \"청년 채용 줄 것\"",
+          "source": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xbkZxYU80ZnFSUjRpTkhWYUN4N0Vwb2N1eU1rSlp5M3F6S2dwckNOTDdhSUpoYzdTSnU4SXp6ZGNkNzBOcWVMT2lmdklsVGJvUV85RXBnRzk3c3BOZlpUcjZSRQ?oc=5",
+          "publishedAt": "2026-11-23T21:00:00.000Z",
+          "category": "market",
+          "summary": "정부의 정년연장 추진에 대해 대학생 구직자의 62%가 청년 채용 축소를 우려하는 것으로 조사되었습니다. 정년 연장이 신규 채용 여력 감소로 이어질 수 있다는 불안감이 청년 구직자들 사이에서 확산되고 있습니다.",
+          "impact": "정년연장 이슈가 신규 채용 규모에 미칠 영향을 분석하고 신입·경력 채용 포트폴리오를 균형 있게 관리해야 합니다."
+        },
+        {
+          "title": "OK금융그룹, AI 인재 40명 선발… 채용형 인턴 모집",
+          "source": "비즈트리뷴",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIU1JPdm1BUHJvQzd3R0lJRDZmd2FsaXhOSEg4UlN4QWwyU2ZGTVU3UkJUN1A5VUZjVTgtQ0NkalI2WkltYXJrS080ZzhsZXgwaTZFSll3VmFSREI4N3B0SHBKcVIwdUZTcnQxWnRtb18?oc=5",
+          "publishedAt": "2026-11-23T08:04:00.000Z",
+          "category": "market",
+          "summary": "OK금융그룹이 AI 전문 인재 40명을 선발하기 위해 채용형 인턴십 모집을 진행합니다. 비IT 금융권까지 AI 인력 확보에 적극 나서면서 전 산업군에서 AI 채용 경쟁이 가열되고 있습니다.",
+          "impact": "이종 산업의 AI 인재 흡수에 대응해 자사 IT 직군에 특화된 채용 브랜딩과 처우 경쟁력을 점검해야 합니다(추측)."
+        }
+      ]
+    },
+    {
+      "key": "trend",
+      "name": "HR 트렌드",
+      "items": [
+        {
+          "title": "삼성전자, 임원 승진 19% 축소…반도체·AI 핵심 인재 중용",
+          "source": "산경투데이",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tbnd1SkJlYjNiLWQtLWFBNG1QbmVhNVBDcklReXdsMDNXVG55THVOQjhaY1hTWVJEaHJXbV9ObGFla0NGWVJkUkM2RndlenFDSEgyTURPMFFMSzVwWlMyYy14bjl2eTI5d3EwMzN5bUjSAXRBVV95cUxOT1JCX1RWaldTNElfUURrcERZVU11ZnlIVmVGYU9vbHVYSmJhMjRsYkwwekUxc2pheGxjV0o1ZkhsNFdMVjRCSjlnRDlHQ3Q3blI1NjhCM0wxdEQ4X0tHNTF3MERuYWRxOHl4NGd6cTJCdEE1Vg?oc=5",
+          "publishedAt": "2026-11-24T00:45:50.000Z",
+          "category": "trend",
+          "summary": "삼성전자가 전체 임원 승진 규모를 19% 축소하면서도 반도체와 AI 분야의 핵심 인재는 성과 중심으로 발탁했습니다. 불확실한 경영 환경 속에서 기구 축소와 핵심 분야 집중이라는 인가 기조를 드러냈습니다.",
+          "impact": "주요 대기업의 성과 중심·핵심 인재 집중 인사 트렌드에 맞춰 자사의 평가 및 승진 보상 정책을 정밀화할 필요가 있습니다."
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "배민, 통합 광고 관리 서비스 '배민애즈' 공개…AI로 광고 효율 높인다",
+          "source": "뉴스1",
+          "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12UFFOMndVVmxycEpEaHlJQU11VXkwZnRmQnlESEJXWHpDWFpjZEJfWEFBQU9MbXJkTkpqNEVEc1FfT1N0OXFYREYySmQxUmFhbzQxWUw1RHdlNnNLX2lr?oc=5",
+          "publishedAt": "2026-11-24T00:29:27.000Z",
+          "category": "industry",
+          "summary": "배달의민족이 AI 기술을 활용해 광고 효율을 높이는 통합 광고 관리 플랫폼 '배민애즈'를 출시했습니다. 마케팅 솔루션 시장 내 AI 도입과 서비스 통합이 가속화되는 흐름입니다.",
+          "impact": "마케팅 SaaS 업계의 AI 기능 고도화 추세에 맞춰 관련 엔지니어 및 상품 기획 인력 채용 수요를 점검해야 합니다(추측)."
+        },
+        {
+          "title": "오브젠, 47억 규모 신한카드 마케팅시스템 개편 사업 수주",
+          "source": "뉴시스",
+          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kWk1KelI3aVpSTVJ0UVExeVBVazBjT0xIX2ZXdmNROVJfSURCbG43ekNJTDhyMkxZLXE3MXp5VXlXcVFxZDJLZHpSOEpCVWdnb0pJQjB5MktJYXk0WElZZdIBeEFVX3lxTFBBQS1TQ1BwQ2FYeVVaTnhHS2h2bWhxa043UENTaFZ3SGh1QkEyZFFjUUMtc21yQlFjdFpHbDl1QVNfZnRieVVQODcxbDl3QjI2NFR0azZ3clQwWDBURU1iQVN5bnhGdG1TTEJCUG8xV3RZb0NiYng2Nw?oc=5",
+          "publishedAt": "2026-11-23T22:39:54.000Z",
+          "category": "industry",
+          "summary": "마케팅 솔루션 기업 오브젠이 47억 원 규모의 신한카드 마케팅시스템 개편 사업을 수주했습니다. 대형 금융권 사업 수주를 발판으로 마케팅 AI 및 데이터 사업 경쟁력을 높이고 있습니다.",
+          "impact": "동종 마케팅 솔루션 시장 확대에 따라 영업 및 개발 핵심 인력의 유출 방지 대책을 마련해야 합니다(추측)."
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "인사기획",
+      "note": "삼성전자의 임원 축소 및 AI 인재 중용 사례처럼 불확실성에 대비한 성과 중심의 인력 구조 재편과 핵심 인력 배치 전략이 요구됩니다."
+    },
+    {
+      "part": "급여·보상",
+      "note": "포괄임금제에 대한 법적 불복 논의에 맞춰 근로시간 측정과 연동된 임금 산정 및 보상 체계의 유효성을 점검해야 합니다."
+    },
+    {
+      "part": "채용",
+      "note": "중소 IT 업계의 R&D 인력 감소 및 전 산업적인 AI 인재 확보전 속에서 타사와 차별화된 개발 직군 채용 브랜딩을 정비해야 합니다."
+    },
+    {
+      "part": "노무",
+      "note": "프리랜서 실질 근로자성 판단 부당해고 판결과 직장 내 괴롭힘의 상해죄 적용 사례를 계기로 노무 계약 및 징계 프로세스를 종합 점검해야 합니다."
+    }
+  ]
+}
