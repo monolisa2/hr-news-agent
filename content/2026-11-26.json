@@ -1,0 +1,118 @@
+{
+  "date": "2026-11-26",
+  "label": "2026년 11월 26일 (목)",
+  "issue": 61,
+  "generatedAt": "2026-11-26T01:22:29.248Z",
+  "headline": "정년 연장 논의 본격화와 IT 인재 확보를 위한 HR 전략 점검",
+  "lede": "정년 연장 입법 요구가 거세지는 가운데, IT 업계 내 인재 확보 경쟁과 AI 기술 도입에 따른 직무 변화가 가속화되고 있습니다. 인사팀은 법적 리스크를 관리하는 동시에 변화하는 채용 시장과 보상 체계에 대응해야 합니다.",
+  "categories": [
+    {
+      "key": "law",
+      "name": "법·제도",
+      "items": [
+        {
+          "title": "양대 노총 “65세 정년연장, 연내 입법 안하면 대화 없다”",
+          "source": "매일노동뉴스",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBSTmtxNlUyR0hfWjJYSURfNHZsSk5hVVJ3bmROQzFhV3Zwb3hYY1FHaDF1Wk1mZlRxaURLbkZNQVBiRDZTa0N4dGk3ZHhhY1N1VWdYMjlVTVU2dHdfNlFBb2NqTG02TUVqdWpuNWVBZTA?oc=5",
+          "publishedAt": "2026-11-25T21:30:03.000Z",
+          "category": "law",
+          "summary": "양대 노총이 65세 정년 연장을 연내 입법할 것을 강력히 요구하며, 미이행 시 대화를 중단하겠다고 경고했습니다. 정년 연장은 청년 고용 대책과 맞물려 연말 노동계의 최대 쟁점으로 부상했습니다. 여당은 청년 고용 대책 없는 졸속 입법에는 반대한다는 입장을 고수하고 있습니다.",
+          "impact": "정년 연장 논의가 현실화될 경우 임금 피크제 도입 및 직무급 체계로의 전환 등 인사제도 전반의 재설계가 필요할 것으로 예상됩니다."
+        },
+        {
+          "title": "직무급 도입했더니 이직률 ‘반토막’…정부, 임금체계 개편 지원 확대",
+          "source": "헤럴드경제",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0tbTNlN3ZLdk5yMzZqYllTNjVOcXB5MzZJTlg4TXBHbE5TbzM3NmxaMTB5RHNEN2NtbzgwSURBby1uV3VvQmEycXMtTzJKS0YtcjJzeGZB?oc=5",
+          "publishedAt": "2026-11-25T12:29:00.000Z",
+          "category": "law",
+          "summary": "정부가 직무급 도입 기업을 대상으로 임금체계 개편 지원을 확대하고 있습니다. 직무급을 도입한 기업에서 이직률이 낮아지는 등 긍정적인 성과가 나타나고 있습니다. 정부는 노사 협력을 통해 기업 여건에 맞는 자율적인 임금체계 확산을 강조했습니다.",
+          "impact": "우리 회사도 직무 가치 중심의 보상 체계 도입을 검토하여 핵심 인재의 이직을 방지하고 보상 경쟁력을 확보해야 합니다."
+        }
+      ]
+    },
+    {
+      "key": "market",
+      "name": "노동시장·채용",
+      "items": [
+        {
+          "title": "직장인 78% “AI 프롬프트도 내 자산”…채용 시 제출 요구 부당",
+          "source": "한스경제",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtQ1hWN3FMOUNXaFpjbFQtYWEyY2RJc3l4R2JiSWlteVZTLXp2R0Q1RnhyOXdXWHZXVjZ5cTNVa0ZLMVJnT25IVG45MVk2anVMbnlLMTVtNlBCSFdtLUJYVm5pU0dOcmRqdEFR?oc=5",
+          "publishedAt": "2026-11-26T00:00:00.000Z",
+          "category": "market",
+          "summary": "직장인 78%가 AI 프롬프트를 자신의 자산으로 인식하며, 채용 과정에서 이를 제출하도록 요구하는 것은 부당하다고 응답했습니다. AI 활용 능력이 중요해짐에 따라 기업의 채용 방식과 지식 재산권 관리에 대한 갈등이 예상됩니다.",
+          "impact": "AI 활용 역량을 채용 시 평가할 때, 지원자의 프롬프트 자산권을 침해하지 않는 윤리적인 평가 가이드라인을 수립해야 합니다."
+        },
+        {
+          "title": "IT기업들 \"코딩 인력은 사양, 보안 인력은 대환영\"",
+          "source": "매일경제",
+          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54MlN6LVp6cklmYlBROFZORXRQX2Mya0w1eWtBM2VkVGF2c2hZRUdiZGVlRzltZDBUMGNScWhfQzJ4bW9yNWtYSDJfeS03QQ?oc=5",
+          "publishedAt": "2026-11-25T08:23:59.000Z",
+          "category": "market",
+          "summary": "IT 기업들이 단순 코딩 인력보다는 보안 및 AI 활용 능력을 갖춘 인재를 선호하는 경향이 뚜렷해지고 있습니다. 기술 변화에 따라 기업이 요구하는 인재상과 직무 역량의 기준이 빠르게 바뀌고 있습니다.",
+          "impact": "개발직 채용 시 단순 코딩 역량 외에 보안 및 AI 툴 활용 능력을 핵심 평가 지표로 반영해야 합니다."
+        },
+        {
+          "title": "7년 차 이상이 움직인다…고연차 직장인, 이력서 업데이트 12% 늘어",
+          "source": "동아일보",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EVTZRYTBuY2QxSnNuVnhHbDVYdVpRcHhrT0lNekRnN25WSmhFcU5zby1COFhhSE85VHdtRFVYLVRpSWo2dGVONFE5NXBkZm5ROG9WWFVGSEZhQkQtSjl3QmY0MDhWd9IBZkFVX3lxTE5EVTZRYTBuY2QxSnNuVnhHbDVYdVpRcHhrT0lNekRnN25WSmhFcU5zby1COFhhSE85VHdtRFVYLVRpSWo2dGVONFE5NXBkZm5ROG9WWFVGSEZhQkQtSjl3QmY0MDhWdw?oc=5",
+          "publishedAt": "2026-11-25T05:12:08.000Z",
+          "category": "market",
+          "summary": "7년 차 이상의 고연차 직장인들이 이력서를 업데이트하는 등 이직 준비가 활발해지고 있습니다. 고연차 인력의 이동이 늘어남에 따라 기업들은 시니어급 인재 유출 방지에 고심하고 있습니다.",
+          "impact": "시니어급 인재의 이탈을 막기 위해 리텐션 프로그램과 경력 개발 경로를 재점검할 필요가 있습니다."
+        }
+      ]
+    },
+    {
+      "key": "industry",
+      "name": "IT·마케팅 산업",
+      "items": [
+        {
+          "title": "휴먼컨설팅그룹, 초과근로시간 관리 제대로 해준다",
+          "source": "지디넷코리아",
+          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFZVB6UWpYRW13b3FZR0QydzUtUzVUWkJZa3V5RW1rSThqTElqYnZrb1F5RlQ1UmkzUzVnWm42a1lSZ18wX2Z1Tzk0NkIzcDZQY0pBNXJ3?oc=5",
+          "publishedAt": "2026-11-26T00:00:26.000Z",
+          "category": "industry",
+          "summary": "휴먼컨설팅그룹이 중견·중소기업을 대상으로 초과근로시간 관리 솔루션을 지원합니다. 포괄임금제 논란 속에서 근로시간 관리의 투명성을 높이려는 수요가 증가하고 있습니다.",
+          "impact": "근로시간 관리 솔루션 도입을 통해 유연근무제 운영의 효율성을 높이고 법적 리스크를 선제적으로 관리해야 합니다."
+        },
+        {
+          "title": "임시완 입은 옷, AI로 바꿨다고? CJ ENM, 가상 간접광고 등 AI 광고 고도화",
+          "source": "브랜드브리프",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBOemViUEZRaUF4TDBSRllzdlIya2I3ellTaWw1cjkzZFpkSmIyMjZDVUlSdmYwYWQ1WkxzUkpSbVZ0SEVkdE1QX2dlN1pKY0VObzg4NWFZdFRvb0lXV3ZoeFFOOE01U3I3ZzF2d1UteFFuSUZBSWdhOXlJTHpjZw?oc=5",
+          "publishedAt": "2026-11-25T06:33:12.000Z",
+          "category": "industry",
+          "summary": "CJ ENM이 AI를 활용한 가상 간접광고 등 광고 고도화 기술을 도입하고 있습니다. 마케팅 SaaS 산업에서도 AI를 활용한 광고 효율화 및 콘텐츠 생성 기술이 핵심 경쟁력으로 부상하고 있습니다.",
+          "impact": "마케팅 SaaS 시장의 AI 기술 고도화에 발맞춰 관련 엔지니어 및 AI 마케팅 전문가 채용 경쟁이 심화될 것으로 보입니다."
+        },
+        {
+          "title": "[GAM]AI 시대 '석유' 파는 시밀러웹 ① 첫 흑자 달성으로 데이터 수혜주 입증",
+          "source": "뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90NlNLN0N0dm1aUTM3R3oycEJFbVBxRFF2QVlHNlBSa01BelFjUjctMlpqWlR4cUJkMEFtNXZ6b0VMVzV5dlg0RWpwRmpPTmU0Mk1IdFRFb3RaSncx?oc=5",
+          "publishedAt": "2026-11-25T23:00:00.000Z",
+          "category": "industry",
+          "summary": "AI 시대의 데이터 수혜주로 평가받는 시밀러웹이 첫 흑자를 달성했습니다. AI 기술이 데이터 분석 및 마케팅 시장의 지형도를 바꾸며 관련 기업들의 수익성 개선을 이끌고 있습니다.",
+          "impact": "데이터 기반 마케팅 SaaS 기업으로서 AI 데이터 활용 역량을 강화하고 수익 모델을 다각화하는 전략이 필요합니다."
+        }
+      ]
+    }
+  ],
+  "checkpoints": [
+    {
+      "part": "인사기획",
+      "note": "정년 연장 논의에 대비해 직무급 중심의 보상 체계와 인사제도 개편을 검토해야 합니다."
+    },
+    {
+      "part": "급여·보상",
+      "note": "직무 가치를 반영한 보상 체계 확립을 통해 핵심 인재의 이직률을 관리해야 합니다."
+    },
+    {
+      "part": "채용",
+      "note": "단순 코딩 역량보다 AI 활용 및 보안 역량을 중시하는 채용 평가 기준을 수립해야 합니다."
+    },
+    {
+      "part": "노무",
+      "note": "초과근로시간 관리 솔루션 등을 활용해 근로시간의 투명성을 확보하고 법적 리스크를 관리해야 합니다."
+    }
+  ]
+}
